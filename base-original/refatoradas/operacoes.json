@@ -1,0 +1,1800 @@
+[
+ {
+  "r": 1,
+  "s": "PRO",
+  "m": "conceito-de-processo",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na padaria, farinha e ovos entram e sai pão quentinho. Num processo, as entradas…",
+  "a": [
+   [
+    "Ficam arquivadas para consulta",
+    "Confunde processo com registro.",
+    "Processo transforma, não só armazena."
+   ],
+   [
+    "Definem os cargos da equipe",
+    "Confunde com estrutura organizacional.",
+    "Cargos não são resultado de um processo."
+   ],
+   "*Viram saídas com valor agregado",
+   [
+    "Viram foto para o Instagram",
+    "Confunde processo com divulgação.",
+    "Divulgar é marketing; processo transforma entradas em saídas."
+   ]
+  ],
+  "f": "Processo é um conjunto de atividades que transforma entradas em saídas com valor para o cliente.",
+  "e": "Carpinetti & Gerolamo; Gonçalves (2000): não existe produto ou serviço sem um processo.",
+  "n": "Modo jogo: cenário da padaria e distrator leve."
+ },
+ {
+  "r": 2,
+  "s": "PRO",
+  "m": "pdca",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O food truck testou um cardápio novo. Chegou a etapa C do PDCA. O que se faz nela?",
+  "a": [
+   "*Comparar o resultado com a meta",
+   [
+    "Padronizar o novo cardápio",
+    "Confunde com o Act.",
+    "Padronizar é o Act, depois de verificar."
+   ],
+   [
+    "Cortar os custos da operação",
+    "Lê o 'C' como custos.",
+    "C é Check: verificar resultados."
+   ],
+   [
+    "Dar uma bronca no cozinheiro",
+    "Confunde verificação com punição.",
+    "Check mede resultados; não pune pessoas."
+   ]
+  ],
+  "f": "Check é verificar: comparar o resultado obtido com a meta planejada.",
+  "e": "Na disciplina, o Check usa carta de controle, oportunidades de melhoria e matriz impacto × viabilidade.",
+  "n": "Modo jogo: mini-caso do food truck; bloom entender."
+ },
+ {
+  "r": 3,
+  "s": "PRO",
+  "m": "sipoc",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Fornecedor de fruta, insumos, preparo, copo de açaí e cliente numa só folha. Que ferramenta é essa?",
+  "a": [
+   [
+    "Matriz RACI",
+    "Confunde com papéis e responsabilidades.",
+    "RACI diz quem executa, aprova, é consultado ou informado."
+   ],
+   "*SIPOC",
+   [
+    "Gráfico de Gantt",
+    "Confunde com cronograma.",
+    "Gantt mostra atividades no tempo."
+   ],
+   [
+    "Modelo de Kano",
+    "Confunde com classificação de atributos.",
+    "Kano classifica atributos de satisfação."
+   ]
+  ],
+  "f": "SIPOC: Suppliers, Inputs, Process, Outputs, Customers — visão sintética do processo.",
+  "e": "No caso Nubank, os 10 processos L2 foram descritos em SIPOC.",
+  "n": "Modo jogo: exemplo da loja de açaí no enunciado."
+ },
+ {
+  "r": 4,
+  "s": "PRJ",
+  "m": "projeto-x-operacao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Organizar a formatura é projeto; servir café todo dia é operação. O que os diferencia?",
+  "a": [
+   [
+    "Ter uma equipe envolvida",
+    "Característica comum aos dois.",
+    "Operações também têm equipes."
+   ],
+   [
+    "Gastar dinheiro e tempo",
+    "Característica comum aos dois.",
+    "Operações também consomem recursos."
+   ],
+   [
+    "Ter DJ e open bar",
+    "Confunde o exemplo com o conceito.",
+    "A formatura é projeto por ser temporária, não pela festa."
+   ],
+   "*Ter início e fim definidos"
+  ],
+  "f": "Projeto é temporário e gera resultado único; operação é contínua e repetitiva.",
+  "e": "Exemplo da aula: construir uma hidrelétrica é projeto; operar um terminal aeroportuário é rotina.",
+  "n": "Modo jogo: contraste formatura × café diário e distrator leve."
+ },
+ {
+  "r": 5,
+  "s": "PRO",
+  "m": "matriz-raci",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na reforma da cantina, Dona Rita está marcada com A na matriz RACI. O papel dela é…",
+  "a": [
+   [
+    "Executar a obra com as próprias mãos",
+    "Troca A por R.",
+    "Quem executa é o R."
+   ],
+   [
+    "Ser ouvida antes das decisões",
+    "Troca A por C.",
+    "Quem é consultado é o C."
+   ],
+   "*Aprovar e responder pelo resultado",
+   [
+    "Só receber notícias do andamento",
+    "Troca A por I.",
+    "Quem é informado é o I."
+   ]
+  ],
+  "f": "A (Accountable) aprova e responde pelo resultado; deve haver um só por atividade.",
+  "e": "Na RACI deve haver um único A por atividade; R pode ser mais de um.",
+  "n": "Modo jogo: personagem e cenário da cantina."
+ },
+ {
+  "r": 6,
+  "s": "PRJ",
+  "m": "cronograma-gantt",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A atlética vai usar um gráfico de Gantt na calourada. Para que ele serve?",
+  "a": [
+   [
+    "Medir a satisfação dos calouros",
+    "Confunde com pesquisa de satisfação.",
+    "Gantt não mede satisfação."
+   ],
+   [
+    "Definir quem aprova cada tarefa",
+    "Confunde com RACI.",
+    "Responsabilidades ficam na RACI."
+   ],
+   [
+    "Escolher a playlist da festa",
+    "Confunde ferramenta com decisão do evento.",
+    "Gantt organiza prazos, não o repertório."
+   ],
+   "*Ver as tarefas na linha do tempo"
+  ],
+  "f": "Gantt mostra cada atividade como barra no tempo, para acompanhar o cronograma.",
+  "e": "O caminho crítico (CPM) define o prazo mínimo; o Gantt visualiza esse cronograma.",
+  "n": "Modo jogo: cenário da calourada e distrator leve."
+ },
+ {
+  "r": 7,
+  "s": "PRO",
+  "m": "voz-do-cliente",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Nas reuniões de melhoria do app de delivery, sempre aparece a sigla VOC. Ela significa…",
+  "a": [
+   [
+    "Volume Operacional Controlado",
+    "Inventa uma expansão.",
+    "VOC vem do inglês Voice of the Customer."
+   ],
+   [
+    "Valor Obtido pelo Consumidor",
+    "Inventa uma expansão.",
+    "O conceito é captar o que o cliente diz e espera."
+   ],
+   [
+    "Vamos Oferecer Cupom",
+    "Confunde melhoria com promoção.",
+    "Cupom é promoção; VOC é ouvir o cliente."
+   ],
+   "*Voz do Cliente"
+  ],
+  "f": "VOC (Voice of the Customer) reúne necessidades, expectativas e reclamações dos clientes.",
+  "e": "A VOC é traduzida em CTQs (métricas) e priorizada com o Modelo de Kano.",
+  "n": "Modo jogo: contexto do app de delivery e distrator leve."
+ },
+ {
+  "r": 8,
+  "s": "PRJ",
+  "m": "eap",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na reforma do apê, a lista virou uma árvore: cozinha, banheiro, pintura… Essa EAP serve para…",
+  "a": [
+   [
+    "Calcular o retorno do investimento",
+    "Confunde com análise financeira.",
+    "EAP não calcula VPL ou TIR."
+   ],
+   [
+    "Definir quem manda em quem",
+    "Confunde com organograma.",
+    "Autoridade fica no TAP e no organograma."
+   ],
+   "*Dividir o escopo em entregas",
+   [
+    "Escolher a cor do sofá",
+    "Confunde escopo com decisão estética.",
+    "EAP organiza entregas, não gostos."
+   ]
+  ],
+  "f": "A EAP decompõe o escopo em entregas, até pacotes de trabalho fáceis de estimar.",
+  "e": "Linha de base do escopo = declaração do escopo + EAP + dicionário da EAP.",
+  "n": "Modo jogo: exemplo da reforma e distrator leve."
+ },
+ {
+  "r": 9,
+  "s": "PRO",
+  "m": "modelo-de-kano",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Qual modelo separa os atributos de um produto em obrigatórios, lineares e atrativos?",
+  "a": [
+   "*Modelo de Kano",
+   [
+    "Ciclo PDCA",
+    "Confunde com ciclo de melhoria.",
+    "PDCA organiza a melhoria, não classifica atributos."
+   ],
+   [
+    "Matriz RACI",
+    "Confunde com responsabilidades.",
+    "RACI atribui papéis."
+   ],
+   [
+    "Gráfico de Gantt",
+    "Confunde com cronograma.",
+    "Gantt mostra atividades no tempo."
+   ]
+  ],
+  "f": "Kano: obrigatório (a falta irrita), linear (mais é melhor) e atrativo (surpreende e encanta).",
+  "e": "No caso Nubank: app 24/7 é obrigatório; rapidez no chat, linear; 'Caixinhas', atrativo.",
+  "n": "Modo jogo: enunciado enxuto."
+ },
+ {
+  "r": 10,
+  "s": "PRO",
+  "m": "hierarquia-de-processos",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na arquitetura de processos de um hospital, o que é um macroprocesso?",
+  "a": [
+   [
+    "Uma tarefa feita por uma só pessoa",
+    "Confunde com o nível mais detalhado.",
+    "Tarefa é o nível mais baixo."
+   ],
+   [
+    "Uma atividade dentro de um setor",
+    "Confunde com atividade.",
+    "Atividade é nível inferior."
+   ],
+   [
+    "Um indicador de produtividade",
+    "Confunde com métrica.",
+    "Macroprocesso não é indicador."
+   ],
+   "*O nível mais amplo da hierarquia"
+  ],
+  "f": "Macroprocesso é o nível mais amplo; desce até processo, subprocesso, atividade e tarefa.",
+  "e": "Exemplo da aula: Gestão de Pessoas (macro) → Recrutamento e Seleção (processo) → … → convocar candidatos (tarefa).",
+  "n": "Modo jogo: contexto de hospital, alternativas curtas."
+ },
+ {
+  "r": 11,
+  "s": "PRO",
+  "m": "notacoes-bpmn",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A loja de açaí desenhou o atendimento com bolinhas, losangos e setas no padrão BPMN. Isso serve para…",
+  "a": [
+   [
+    "Comparar custos entre projetos",
+    "Confunde com análise financeira.",
+    "BPMN não calcula custos."
+   ],
+   [
+    "Avaliar a equipe por competência",
+    "Confunde com gestão de pessoas.",
+    "Competências ficam na matriz de competências."
+   ],
+   "*Modelar o processo de negócio",
+   [
+    "Decorar a parede da loja",
+    "Confunde diagrama com enfeite.",
+    "BPMN é notação técnica de processos."
+   ]
+  ],
+  "f": "BPMN é a notação gráfica padrão (OMG) para modelar processos de negócio.",
+  "e": "Outras notações vistas: fluxograma, EPC, UML, IDEF e VSM.",
+  "n": "Modo jogo: cenário da loja de açaí e distrator leve."
+ },
+ {
+  "r": 12,
+  "s": "PRJ",
+  "m": "partes-interessadas",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na obra de um prédio, quem conta como parte interessada (stakeholder)?",
+  "a": [
+   [
+    "Só quem assinou o contrato da obra",
+    "Restringe a quem tem poder formal.",
+    "Vizinhos e prefeitura também são partes interessadas."
+   ],
+   "*Quem afeta ou é afetado pela obra",
+   [
+    "Só os engenheiros e pedreiros",
+    "Restringe ao time interno.",
+    "Partes externas também contam."
+   ],
+   [
+    "Só quem comprou apartamento",
+    "Restringe ao cliente.",
+    "O cliente é só uma das partes interessadas."
+   ]
+  ],
+  "f": "Stakeholder é quem afeta ou é afetado pelo projeto: vizinhos, prefeitura, equipe, clientes.",
+  "e": "No caso Eduardo e Mônica: prefeitura, concessionárias, vizinhos e associação de moradores.",
+  "n": "Modo jogo: contexto de obra, alternativas curtas."
+ },
+ {
+  "r": 13,
+  "s": "PRO",
+  "m": "as-is-x-to-be",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No mapeamento de processos, o que representa o AS-IS?",
+  "a": [
+   "*O processo como funciona hoje",
+   [
+    "O desenho ideal a implantar",
+    "Confunde com TO-BE.",
+    "O desenho futuro é o TO-BE."
+   ],
+   [
+    "O plano de ação da melhoria",
+    "Confunde com 5W2H.",
+    "Plano de ação é o 5W2H."
+   ],
+   [
+    "O fluxo dos sonhos do dono",
+    "Confunde com o desenho desejado.",
+    "Sonho é TO-BE; AS-IS é a realidade atual."
+   ]
+  ],
+  "f": "AS-IS é o retrato do processo atual; TO-BE é o desenho futuro desejado.",
+  "e": "A gestão da mudança planeja a transição AS-IS → TO-BE.",
+  "n": "Modo jogo: enunciado curto e distrator leve."
+ },
+ {
+  "r": 14,
+  "s": "PRJ",
+  "m": "objetivo-smart",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A hamburgueria definiu metas para o atendimento. Qual delas segue o critério SMART?",
+  "a": [
+   [
+    "Melhorar bastante o atendimento",
+    "Falta medida e prazo.",
+    "Não diz quanto nem até quando."
+   ],
+   "*Cortar a fila para 10 min até junho",
+   [
+    "Ser a melhor hamburgueria do bairro",
+    "Vago e sem prazo.",
+    "Não é específico nem mensurável."
+   ],
+   [
+    "Atender bem, se der tempo",
+    "Falta tudo.",
+    "Não é mensurável nem tem prazo."
+   ]
+  ],
+  "f": "SMART: específico, mensurável, atingível, relevante e com prazo, como '10 min até junho'.",
+  "e": "No caso Eduardo e Mônica: construir um sobrado de 2 quartos em 15 meses com R$ 300 mil.",
+  "n": "Modo jogo: cenário da hamburgueria; bloom ajustado para entender (Duelo)."
+ },
+ {
+  "r": 15,
+  "s": "PRJ",
+  "m": "pmo",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A construtora criou um PMO para cuidar das suas obras. O que é um PMO?",
+  "a": [
+   [
+    "Um método de controle de estoque",
+    "Inventa um significado.",
+    "PMO não trata de estoque."
+   ],
+   [
+    "Um painel de metas operacionais",
+    "Confunde com dashboard.",
+    "PMO é uma estrutura organizacional."
+   ],
+   [
+    "Um Plano de Marmita Organizada",
+    "Inventa uma sigla.",
+    "PMO vem de Project Management Office."
+   ],
+   "*Um escritório de gestão de projetos"
+  ],
+  "f": "PMO (Project Management Office) centraliza e coordena a gestão dos projetos da empresa.",
+  "e": "Tipos de PMO (Kerzner): funcional, de grupo de clientes e corporativo. A aula lista 27 serviços possíveis.",
+  "n": "Modo jogo: contexto da construtora e distrator leve."
+ },
+ {
+  "r": 16,
+  "s": "PRO",
+  "m": "ctq",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para que serve um CTQ (Critical to Quality) num projeto de melhoria?",
+  "a": [
+   [
+    "Ordenar as atividades do cronograma",
+    "Confunde com planejamento de prazo.",
+    "Sequência de atividades é cronograma."
+   ],
+   [
+    "Definir quem aprova cada tarefa",
+    "Confunde com RACI.",
+    "Autoridade fica na RACI."
+   ],
+   "*Transformar a voz do cliente em métrica",
+   [
+    "Classificar projetos por retorno",
+    "Confunde com análise financeira.",
+    "CTQ não trata de retorno financeiro."
+   ]
+  ],
+  "f": "CTQ traduz a VOC numa característica mensurável: 'rápido' vira 'entrega em até X minutos'.",
+  "e": "Exemplo da aula (refeições semiprontas): 'nutritivo' → % de requisitos nutricionais.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 17,
+  "s": "PRJ",
+  "m": "scrum",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O time de um app de delivery lança funções novas em sprints curtas com Scrum. O Scrum é uma abordagem…",
+  "a": [
+   [
+    "linear, com entrega só no fim",
+    "Descreve o modelo preditivo.",
+    "Scrum entrega a cada sprint."
+   ],
+   [
+    "focada em documentação extensa",
+    "Inverte o Manifesto Ágil.",
+    "O ágil valoriza software funcionando sobre documentação."
+   ],
+   [
+    "de corrida, com sprint de 100 m",
+    "Lê 'sprint' ao pé da letra.",
+    "Sprint é um ciclo curto de trabalho, não corrida."
+   ],
+   "*ágil, iterativa e incremental"
+  ],
+  "f": "Scrum entrega em ciclos curtos (sprints), com incrementos e revisão contínua.",
+  "e": "Scrum Guide 2020: PO, Scrum Master e Developers; 5 eventos; 3 artefatos com compromissos.",
+  "n": "Modo jogo: contexto do app e distrator leve."
+ },
+ {
+  "r": 18,
+  "s": "PRO",
+  "m": "bpm",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na gestão, BPM não é batida por minuto. A sigla significa…",
+  "a": [
+   "*Business Process Management",
+   [
+    "Basic Planning Methodology",
+    "Inventa uma expansão.",
+    "Não é metodologia de planejamento."
+   ],
+   [
+    "Business Project Model",
+    "Confunde com projetos.",
+    "BPM trata de processos, não de projetos."
+   ],
+   [
+    "Budget Performance Measurement",
+    "Confunde com orçamento.",
+    "BPM não é medição orçamentária."
+   ]
+  ],
+  "f": "BPM é a disciplina que gere os processos de negócio ponta a ponta, como ativos da empresa.",
+  "e": "BPM é capacidade e disciplina, não um software; exige patrocínio executivo.",
+  "n": "Modo jogo: enunciado com humor (batida por minuto)."
+ },
+ {
+  "r": 19,
+  "s": "PRO",
+  "m": "hierarquia-de-processos",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na hierarquia de processos, qual é o nível mais detalhado, o passo a passo?",
+  "a": [
+   [
+    "Macroprocesso",
+    "Inverte a hierarquia.",
+    "Macroprocesso é o nível mais amplo."
+   ],
+   [
+    "Processo",
+    "Nível intermediário.",
+    "Processo ainda se desdobra."
+   ],
+   [
+    "Subprocesso",
+    "Nível intermediário.",
+    "Subprocesso ainda se divide em atividades."
+   ],
+   "*Tarefa"
+  ],
+  "f": "Tarefa é o nível mais fino da hierarquia: o passo a passo de uma atividade.",
+  "e": "Macroprocesso → processo → subprocesso → atividade → tarefa.",
+  "n": "Modo jogo: enunciado enxuto."
+ },
+ {
+  "r": 20,
+  "s": "PRJ",
+  "m": "programa-x-portfolio",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A prefeitura juntou as obras de creche, escola e quadra num programa. O que o difere de um projeto isolado?",
+  "a": [
+   [
+    "É menor e tem menos entregas",
+    "Inverte a escala.",
+    "Programas costumam ser mais complexos."
+   ],
+   "*Reúne projetos ligados por benefícios",
+   [
+    "Dispensa controle de prazo e custo",
+    "Inventa uma característica.",
+    "Programas também controlam prazo e custo."
+   ],
+   [
+    "É uma rotina repetitiva",
+    "Confunde com operação.",
+    "Rotina é operação, não programa."
+   ]
+  ],
+  "f": "Programa gere juntos projetos interligados, gerando benefícios que isolados não gerariam.",
+  "e": "Portfólio, por sua vez, reúne projetos e programas alinhados à estratégia, mesmo sem relação entre si.",
+  "n": "Modo jogo: exemplo da prefeitura no enunciado."
+ },
+ {
+  "r": 21,
+  "s": "PRO",
+  "m": "pdca",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Fila na padaria",
+   "A Padaria Pão Nosso tem fila longa no café da manhã e a dona decidiu usar o PDCA.",
+   "Ciclo PDCA",
+   "Ainda não há diagnóstico"
+  ],
+  "q": "Qual deve ser o primeiro passo?",
+  "a": [
+   [
+    "Trocar os atendentes de imediato",
+    "Age sem diagnóstico.",
+    "Mudar pessoas sem medir é chute, não Plan."
+   ],
+   "*Analisar as causas e definir a meta",
+   [
+    "Medir o resultado antes de mudar algo",
+    "Começa pelo Check.",
+    "Ainda não há mudança para verificar."
+   ],
+   [
+    "Padronizar uma solução não testada",
+    "Começa pelo Act.",
+    "Só se padroniza o que foi testado e verificado."
+   ]
+  ],
+  "f": "O PDCA começa no Plan: entender o problema, achar as causas e definir metas.",
+  "e": "No BPM, o Plan inclui VOC, Kano, CTQ, priorização e mapeamento AS-IS.",
+  "n": "Modo jogo: cenário curto da padaria, sem números."
+ },
+ {
+  "r": 22,
+  "s": "PRO",
+  "m": "as-is-x-to-be",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Gargalo no caixa",
+   "O mercadinho do Seu Zé desenhou o fluxo do caixa exatamente como funciona hoje e achou dois gargalos.",
+   "Mapeamento de processos",
+   "Retrato da situação atual"
+  ],
+  "q": "Que mapeamento foi feito?",
+  "a": [
+   "*AS-IS",
+   [
+    "TO-BE",
+    "Confunde com o desenho futuro.",
+    "O TO-BE é o processo redesenhado."
+   ],
+   [
+    "RACI",
+    "Confunde com responsabilidades.",
+    "RACI não mapeia o fluxo."
+   ],
+   [
+    "SMART",
+    "Confunde com objetivo.",
+    "SMART é critério de objetivos."
+   ]
+  ],
+  "f": "Retratar o processo atual, com seus gargalos, é o mapeamento AS-IS.",
+  "e": "Depois do AS-IS vem o TO-BE e o plano de transição.",
+  "n": "Modo jogo: cenário do mercadinho."
+ },
+ {
+  "r": 23,
+  "s": "PRO",
+  "m": "modelo-de-kano",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Bilhete surpresa",
+   "Numa pousada em Paraty, cada hóspede encontra um bilhete escrito à mão. Ninguém espera, todo mundo adora e posta.",
+   "Modelo de Kano",
+   "Atributo inesperado"
+  ],
+  "q": "No Modelo de Kano, esse atributo é…",
+  "a": [
+   "*Atrativo",
+   [
+    "Obrigatório",
+    "Confunde com o que é esperado.",
+    "Obrigatório é o esperado, cuja falta irrita."
+   ],
+   [
+    "Linear",
+    "Confunde com 'mais é melhor'.",
+    "Linear é proporcional: quanto mais, melhor."
+   ],
+   [
+    "Supérfluo",
+    "Acha que agrado não conta.",
+    "Kano mostra que o inesperado encanta."
+   ]
+  ],
+  "f": "Atrativo é o inesperado que encanta quando existe e não faz falta quando não existe.",
+  "e": "Com o tempo, atrativos viram básicos (ex.: Wi-Fi gratuito em hotel).",
+  "n": "Modo jogo: cenário da pousada e distrator leve."
+ },
+ {
+  "r": 24,
+  "s": "PRO",
+  "m": "gestao-de-x-por-processos",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Do pedido à entrega",
+   "A rede Farma Já organizou metas e donos pelo fluxo completo, do pedido do cliente até a entrega, cruzando todos os setores.",
+   "Gestão de processos",
+   "Visão ponta a ponta"
+  ],
+  "q": "Esse modelo é…",
+  "a": [
+   [
+    "Gestão DE processos isolados",
+    "Confunde melhorar processos com orientar a empresa.",
+    "DE processos melhora partes; aqui a empresa toda segue o fluxo."
+   ],
+   [
+    "Gestão funcional, por setores",
+    "Ignora o fluxo que cruza os setores.",
+    "Funcional é vertical, em silos."
+   ],
+   "*Gestão POR processos",
+   [
+    "Gestão pela intuição do dono",
+    "Ignora metas e donos de processo.",
+    "Há metas e responsáveis definidos pelo fluxo."
+   ]
+  ],
+  "f": "Gestão POR processos organiza a empresa inteira pelo fluxo ponta a ponta até o cliente.",
+  "e": "Gestão funcional (silos, vertical) × gestão por processos (horizontal, foco no cliente).",
+  "n": "Modo jogo: virou mini-caso (aplicar) da rede de farmácias."
+ },
+ {
+  "r": 25,
+  "s": "PRJ",
+  "m": "caminho-critico",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Festa da atlética",
+   "Na festa da atlética, a reserva do salão está no caminho crítico, sem nenhuma folga.",
+   "Caminho crítico",
+   "Atividade sem folga"
+  ],
+  "q": "Se a reserva do salão atrasar 2 dias, o que acontece com a festa?",
+  "a": [
+   [
+    "Nada, outras tarefas compensam",
+    "Ignora que não há folga.",
+    "Sem folga, o atraso passa direto para o prazo final."
+   ],
+   "*A festa inteira atrasa 2 dias",
+   [
+    "Só a compra das bebidas atrasa",
+    "Isola o atraso numa tarefa.",
+    "No caminho crítico, o atraso vai para o projeto todo."
+   ],
+   [
+    "O DJ toca 2 horas a mais",
+    "Confunde prazo com duração da festa.",
+    "Atraso no caminho crítico empurra a data da festa."
+   ]
+  ],
+  "f": "Atividade sem folga está no caminho crítico: qualquer atraso nela atrasa o projeto inteiro.",
+  "e": "Atrasar qualquer atividade do caminho crítico atrasa o projeto inteiro. Exemplo da aula: 44 semanas.",
+  "n": "Modo jogo: virou 'o que acontece se' com uma conta trivial."
+ },
+ {
+  "r": 26,
+  "s": "PRO",
+  "m": "matriz-raci",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Reforma da loja",
+   "Na reforma da loja de Niterói, o diretor regional só recebe atualizações: não executa, não aprova nem é consultado.",
+   "Matriz RACI",
+   "Papel só de acompanhamento"
+  ],
+  "q": "Na RACI, ele é marcado com…",
+  "a": [
+   "*I",
+   [
+    "R",
+    "Confunde com quem executa.",
+    "R é quem executa."
+   ],
+   [
+    "A",
+    "Confunde com quem aprova.",
+    "A é quem tem a autoridade final."
+   ],
+   [
+    "C",
+    "Confunde com quem é ouvido antes.",
+    "C é consultado antes da decisão."
+   ]
+  ],
+  "f": "I (Informed) recebe notícias do andamento, sem executar, aprovar ou opinar.",
+  "e": "RACI: Responsável, Aprovador, Consultado, Informado.",
+  "n": "Modo jogo: enunciado encurtado com cenário."
+ },
+ {
+  "r": 27,
+  "s": "PRO",
+  "m": "causas-comuns-x-especiais",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Coxinhas desiguais",
+   "Na fábrica de salgados, as coxinhas saem com pesos um pouco diferentes, sempre dentro dos limites de controle.",
+   "Carta de controle",
+   "Variação dentro dos limites"
+  ],
+  "q": "Que tipo de causa explica essa variação?",
+  "a": [
+   "*Causa comum",
+   [
+    "Causa especial",
+    "Confunde variação natural com evento pontual.",
+    "Causa especial gera pontos fora dos limites."
+   ],
+   [
+    "Falha de escopo",
+    "Mistura conceito de projetos.",
+    "Escopo é conceito de projetos."
+   ],
+   [
+    "Mau humor da coxinha",
+    "Atribui a variação ao acaso puro.",
+    "A variação vem do próprio processo, não da coxinha."
+   ]
+  ],
+  "f": "Causa comum é a variação natural e estável do processo, presente mesmo sob controle.",
+  "e": "Reduzir causas comuns exige mudar o processo; causas especiais pedem investigação do evento.",
+  "n": "Modo jogo: cenário da fábrica de salgados e distrator leve."
+ },
+ {
+  "r": 28,
+  "s": "PRJ",
+  "m": "project-model-canvas",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Post-its no quadro",
+   "Antes de qualquer cronograma, o grupo do TCC encheu de post-its um quadro com blocos de por quê, o quê, quem, como e quando.",
+   "Ferramentas de concepção de projeto",
+   "Fase de concepção"
+  ],
+  "q": "Que ferramenta o grupo usou?",
+  "a": [
+   [
+    "Business Model Canvas",
+    "Confunde canvas de negócio com de projeto.",
+    "O BMC modela o negócio; o PM Canvas concebe o projeto."
+   ],
+   [
+    "Gráfico de Gantt",
+    "Confunde com cronograma.",
+    "O caso acontece antes do cronograma."
+   ],
+   [
+    "Matriz RACI",
+    "Confunde com papéis.",
+    "RACI só atribui responsabilidades."
+   ],
+   "*Project Model Canvas"
+  ],
+  "f": "O Project Model Canvas concebe o projeto num quadro visual em blocos, de forma colaborativa.",
+  "e": "É usado na fase de concepção, de forma colaborativa. Casos da aula: Procurando Nemo e Lanchas Escolares.",
+  "n": "Modo jogo: virou mini-caso (aplicar) do grupo de TCC."
+ },
+ {
+  "r": 29,
+  "s": "PRO",
+  "m": "tipos-de-processos",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Bastidores do mercado",
+   "No Supermercado Bom Preço, o RH recruta e treina os caixas, mas nenhum cliente vai ao mercado comprar esse serviço.",
+   "Cadeia de valor",
+   "Processo interno"
+  ],
+  "q": "Como se classifica o processo de Gestão de Pessoas?",
+  "a": [
+   "*De apoio (suporte)",
+   [
+    "Primário, pois atende o cliente",
+    "Confunde suporte com finalístico.",
+    "O cliente não compra gestão de pessoas."
+   ],
+   [
+    "Projeto temporário de melhoria",
+    "Confunde processo com projeto.",
+    "Gestão de pessoas é contínua."
+   ],
+   [
+    "Tarefa individual de controle",
+    "Confunde nível hierárquico.",
+    "É um processo amplo, não uma tarefa."
+   ]
+  ],
+  "f": "Processos de apoio, como RH, viabilizam os primários sem entregar direto ao cliente.",
+  "e": "Primários: vendas, produção, distribuição. Suporte: RH, compras, TI. Gerenciais: planejamento, orçamento.",
+  "n": "Modo jogo: cenário do supermercado."
+ },
+ {
+  "r": 30,
+  "s": "PRJ",
+  "m": "curva-s",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Gasto da reforma",
+   "Na reforma do apê, o gerente plota o gasto acumulado mês a mês: sobe devagar, acelera no meio e desacelera no fim.",
+   "Controle de custos do projeto",
+   "Valores acumulados no tempo"
+  ],
+  "q": "Que gráfico é esse?",
+  "a": [
+   [
+    "Gráfico de Gantt",
+    "Confunde com cronograma de barras.",
+    "Gantt mostra atividades, não valores acumulados."
+   ],
+   [
+    "Diagrama de Pareto",
+    "Confunde com priorização de causas.",
+    "Pareto ordena causas por frequência."
+   ],
+   "*Curva S",
+   [
+    "Montanha-russa financeira",
+    "Inventa um gráfico.",
+    "O formato acumulado típico é a curva S."
+   ]
+  ],
+  "f": "A curva S mostra valores acumulados no tempo e compara o planejado com o realizado.",
+  "e": "Exemplo da Aula 7: orçamento acumulado de R$ 3.390 em janeiro até R$ 18.100 em maio.",
+  "n": "Modo jogo: virou mini-caso (aplicar) da reforma e distrator leve."
+ },
+ {
+  "r": 31,
+  "s": "PRO",
+  "m": "voz-do-cliente",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Batata fria",
+   "A lanchonete Big Lanche juntou as reclamações do app: demora, batata fria e atendente grosseiro.",
+   "Melhoria de processos",
+   "Opiniões dos clientes"
+  ],
+  "q": "Esse levantamento é um exemplo de…",
+  "a": [
+   "*VOC",
+   [
+    "CTQ",
+    "Confunde a voz com a métrica.",
+    "CTQ seria transformar 'demora' em tempo máximo de entrega."
+   ],
+   [
+    "KPI",
+    "Confunde com indicador.",
+    "As reclamações ainda não são indicador."
+   ],
+   [
+    "RACI",
+    "Confunde com responsabilidades.",
+    "RACI define papéis."
+   ]
+  ],
+  "f": "Reunir reclamações e expectativas dos clientes é levantar a Voz do Cliente (VOC).",
+  "e": "VOC → CTQ (métrica) → indicador y no plano de coleta de dados.",
+  "n": "Modo jogo: cenário da lanchonete."
+ },
+ {
+  "r": 32,
+  "s": "PRO",
+  "m": "ctq",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Da queixa à métrica",
+   "Depois de muitas queixas de demora, a pizzaria definiu: entregar em até 30 minutos.",
+   "Melhoria de processos",
+   "Necessidade do cliente vira número"
+  ],
+  "q": "Essa métrica é um exemplo de…",
+  "a": [
+   [
+    "VOC",
+    "Confunde a métrica com a reclamação.",
+    "A VOC é a queixa; a métrica é a tradução dela."
+   ],
+   "*CTQ",
+   [
+    "SIPOC",
+    "Confunde com visão do processo.",
+    "SIPOC descreve fornecedores a clientes."
+   ],
+   [
+    "BPMN",
+    "Confunde com notação.",
+    "BPMN modela fluxos."
+   ]
+  ],
+  "f": "CTQ transforma a necessidade do cliente ('rapidez') numa característica mensurável.",
+  "e": "'Quero rapidez' (VOC) → 'entregar em até 30 min' (CTQ).",
+  "n": "Modo jogo: cenário da pizzaria."
+ },
+ {
+  "r": 33,
+  "s": "PRJ",
+  "m": "manifesto-agil",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Menos formulário",
+   "O time da startup trocou um sistema cheio de formulários por conversas diárias, cara a cara.",
+   "Manifesto Ágil",
+   "Troca de ferramenta por conversa"
+  ],
+  "q": "Qual valor do Manifesto Ágil isso reflete?",
+  "a": [
+   [
+    "Documentação extensa acima de colaboração",
+    "Inverte o valor.",
+    "O ágil prefere software funcionando a documentação extensa."
+   ],
+   [
+    "Contrato rígido acima de adaptação",
+    "Inverte o valor.",
+    "O ágil prefere colaborar com o cliente e responder a mudanças."
+   ],
+   "*Indivíduos e interações acima de ferramentas",
+   [
+    "Hierarquia acima da autonomia",
+    "Inventa um valor.",
+    "O manifesto não defende controle hierárquico."
+   ]
+  ],
+  "f": "Manifesto Ágil: indivíduos e interações valem mais que processos e ferramentas.",
+  "e": "Os 4 valores: indivíduos e interações; software funcionando; colaboração com o cliente; responder a mudanças.",
+  "n": "Modo jogo: virou mini-caso (aplicar) da startup."
+ },
+ {
+  "r": 34,
+  "s": "PRJ",
+  "m": "programa-x-portfolio",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Escolher o que fazer",
+   "A diretoria da rede de academias escolhe, entre projetos e programas, quais seguem conforme a estratégia do ano.",
+   "Gestão de portfólio",
+   "Prioridades estratégicas"
+  ],
+  "q": "Esse conjunto gerido pela diretoria é um…",
+  "a": [
+   [
+    "Programa",
+    "Confunde programa com portfólio.",
+    "Programa une projetos ligados por benefícios; portfólio segue a estratégia."
+   ],
+   "*Portfólio",
+   [
+    "Cronograma",
+    "Confunde com cronograma.",
+    "Cronograma é de um projeto."
+   ],
+   [
+    "Pacote de trabalho",
+    "Confunde com a EAP.",
+    "Pacote de trabalho é o menor nível da EAP."
+   ]
+  ],
+  "f": "Portfólio reúne projetos e programas escolhidos e priorizados pela estratégia.",
+  "e": "Portfólio resolve 'escolher' (o que fazer); gestão operacional resolve 'fazer e entregar'.",
+  "n": "Modo jogo: virou mini-caso (aplicar) da rede de academias."
+ },
+ {
+  "r": 35,
+  "s": "PRO",
+  "m": "causas-comuns-x-especiais",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Casquinha torta",
+   "A máquina da sorveteria funcionava bem até uma peça se desgastar; aí as casquinhas começaram a sair tortas.",
+   "Variação de processos",
+   "Evento identificável"
+  ],
+  "q": "Isso é exemplo de…",
+  "a": [
+   [
+    "Causa comum",
+    "Confunde evento pontual com variação natural.",
+    "Peça gasta é evento identificável, fora do normal."
+   ],
+   "*Causa especial",
+   [
+    "Variação esperada",
+    "Normaliza o defeito.",
+    "Defeito novo não é variação esperada."
+   ],
+   [
+    "Atributo atrativo",
+    "Mistura com Kano.",
+    "Kano trata da satisfação do cliente."
+   ]
+  ],
+  "f": "Causa especial é um evento identificável que tira o processo do normal, como a peça gasta.",
+  "e": "Roteiro de 5 passos: dados → ação imediata → causa-raiz → prevenção → compartilhar a lição.",
+  "n": "Modo jogo: cenário da sorveteria."
+ },
+ {
+  "r": 36,
+  "s": "PRO",
+  "m": "tipos-de-processos",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Na hamburgueria, qual destes é um processo primário (finalístico)?",
+  "a": [
+   [
+    "Recrutar novos atendentes",
+    "Confunde apoio com primário.",
+    "Recrutar é RH: processo de apoio."
+   ],
+   [
+    "Fechar a contabilidade do mês",
+    "Confunde apoio com primário.",
+    "Contabilidade apoia, não entrega ao cliente."
+   ],
+   [
+    "Planejar o orçamento anual",
+    "Confunde gerencial com primário.",
+    "Planejar e orçar é processo gerencial."
+   ],
+   "*Montar e entregar o lanche"
+  ],
+  "f": "Processo primário entrega valor direto ao cliente final; RH e orçamento são apoio e gestão.",
+  "e": "No Nubank: aquisição e ativação, conta e pagamentos, crédito, atendimento, segurança, desenvolvimento de produtos.",
+  "n": "Modo jogo: virou 'qual é o exemplo' na hamburgueria."
+ },
+ {
+  "r": 37,
+  "s": "PRJ",
+  "m": "gerenciamento-de-riscos",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Chuva na concretagem",
+   "O mestre de obras vê previsão de chuva forte no mês da concretagem e já reserva lonas para cobrir a laje.",
+   "Gestão de projetos",
+   "Evento incerto"
+  ],
+  "q": "Que prática de gestão de projetos é essa?",
+  "a": [
+   [
+    "Controle de mudanças",
+    "Confunde com aprovação de alterações.",
+    "Não há mudança de escopo em análise."
+   ],
+   [
+    "Decomposição da EAP",
+    "Confunde com EAP.",
+    "EAP decompõe entregas."
+   ],
+   "*Gerenciamento de riscos",
+   [
+    "Modelagem em BPMN",
+    "Mistura com processos.",
+    "BPMN modela fluxos."
+   ]
+  ],
+  "f": "Risco é evento incerto com impacto; reservar lonas é uma resposta de mitigar a ameaça.",
+  "e": "Respostas a ameaças: escalar, evitar, transferir, mitigar, aceitar.",
+  "n": "Modo jogo: enunciado encurtado com cenário."
+ },
+ {
+  "r": 38,
+  "s": "PRJ",
+  "m": "ciclos-de-vida",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Troca de lâmpadas",
+   "A escola vai trocar todas as lâmpadas por LED; escopo, prazo e custo estão claros desde o início.",
+   "Ciclos de vida de projeto",
+   "Escopo estável"
+  ],
+  "q": "Qual ciclo de vida combina com esse projeto?",
+  "a": [
+   [
+    "Adaptativo, com sprints curtas",
+    "Escolhe ágil sem necessidade.",
+    "Ágil serve a escopo incerto, não a troca de lâmpadas."
+   ],
+   [
+    "Incremental, com escopo aberto",
+    "Ignora que o escopo está fechado.",
+    "Aqui o escopo já está definido."
+   ],
+   "*Preditivo, com fases em sequência",
+   [
+    "Improvisado, resolve no dia",
+    "Dispensa planejamento.",
+    "O preditivo planeja muito no início."
+   ]
+  ],
+  "f": "Escopo estável e claro pede ciclo preditivo: tudo planejado no início, fases em sequência.",
+  "e": "Exemplos da aula: troca de iluminação por LED (preditivo) × software customizado (adaptativo).",
+  "n": "Modo jogo: virou mini-caso (aplicar) da troca por LED."
+ },
+ {
+  "r": 39,
+  "s": "PRO",
+  "m": "indicadores",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Painel do delivery",
+   "O app de delivery acompanha toda semana o tempo médio de entrega contra a meta definida.",
+   "Indicadores de desempenho",
+   "Número comparado a uma meta"
+  ],
+  "q": "Esse número acompanhado é um…",
+  "a": [
+   [
+    "Mapa BPMN",
+    "Confunde com modelagem.",
+    "BPMN desenha fluxos."
+   ],
+   [
+    "Papel na RACI",
+    "Confunde com responsabilidades.",
+    "RACI divide papéis."
+   ],
+   "*KPI",
+   [
+    "Diagrama SIPOC",
+    "Confunde com visão do processo.",
+    "SIPOC lista fornecedores a clientes."
+   ]
+  ],
+  "f": "KPI mede o desempenho frente a uma meta, como o tempo médio de entrega.",
+  "e": "Na disciplina: Y (KSI, estratégico) → y (KPI, saída do processo) → x (operacional). Filtro RUMBA para escolher indicadores.",
+  "n": "Modo jogo: virou mini-caso (aplicar) do app de delivery."
+ },
+ {
+  "r": 40,
+  "s": "PRJ",
+  "m": "controle-de-mudancas",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Piscina de última hora",
+   "No meio da obra da casa, o cliente pede para incluir uma piscina que não estava no escopo.",
+   "Controle integrado de mudanças",
+   "Pedido fora do escopo"
+  ],
+  "q": "Como a construtora deve tratar o pedido?",
+  "a": [
+   [
+    "Aceitar na hora para agradar o cliente",
+    "Muda sem avaliar impacto.",
+    "Toda mudança precisa ter prazo e custo avaliados."
+   ],
+   [
+    "Recusar, porque escopo não muda",
+    "Confunde controle com proibição.",
+    "Mudanças podem ser aprovadas, se avaliadas."
+   ],
+   [
+    "Deixar o mestre de obras decidir",
+    "Passa a decisão sem controle.",
+    "Mudança passa por responsável formal ou comitê."
+   ],
+   "*Avaliar o impacto e decidir formalmente"
+  ],
+  "f": "Controle integrado de mudanças avalia impacto em escopo, prazo e custo antes de aprovar.",
+  "e": "Geralmente feito por um comitê de controle de mudanças (CCM/CCB).",
+  "n": "Modo jogo: virou mini-caso (aplicar) da obra com piscina."
+ },
+ {
+  "r": 41,
+  "s": "PRO",
+  "m": "matriz-impacto-viabilidade",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Uma verba, quatro ideias",
+   "A Clínica Bem-Estar tem verba para um só projeto de melhoria neste trimestre. A equipe avaliou quatro ideias numa matriz de impacto × viabilidade.",
+   "Matriz impacto × viabilidade (fase Check)",
+   "Orçamento para um único projeto"
+  ],
+  "q": "Qual ideia deve virar o projeto de melhoria?",
+  "a": [
+   [
+    "Trocar o prontuário: alto impacto, muito difícil",
+    "Olha só o impacto.",
+    "Alto impacto e baixa viabilidade é arriscado para o único projeto."
+   ],
+   [
+    "Mudar a cor das fichas: baixo impacto, fácil",
+    "Olha só a facilidade.",
+    "Viável, mas muda pouco."
+   ],
+   "*Confirmar consulta por WhatsApp: alto impacto, fácil",
+   [
+    "Nova recepção: baixo impacto, muito difícil",
+    "Ignora os dois critérios.",
+    "Baixo impacto e baixa viabilidade."
+   ]
+  ],
+  "f": "Alto impacto com alta viabilidade é a prioridade: vira projeto de melhoria, detalhado em 5W2H.",
+  "e": "No caso Nubank, a OM1 'reduzir tempo de análise de crédito' foi priorizada pela mesma matriz.",
+  "n": "Modo jogo: dados da matriz saíram do cenário e foram para as alternativas."
+ },
+ {
+  "r": 42,
+  "s": "PRO",
+  "m": "pdca-act",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A demora voltou",
+   "A central da Telefácil cortou o tempo de resposta de 48 para 12 horas no piloto, conferido em carta de controle. Sem procedimento escrito nem treino dos novatos, voltou a 40 horas.",
+   "Ciclo PDCA",
+   "Mudança não incorporada à rotina"
+  ],
+  "q": "Qual etapa do PDCA falhou?",
+  "a": [
+   [
+    "Plan",
+    "Ignora o bom resultado do piloto.",
+    "O redesenho funcionou no piloto: o plano era bom."
+   ],
+   "*Act",
+   [
+    "Do",
+    "Ignora a execução bem-sucedida.",
+    "O piloto foi executado e deu resultado."
+   ],
+   [
+    "Check",
+    "Ignora a verificação feita.",
+    "Os resultados foram conferidos em carta de controle."
+   ]
+  ],
+  "f": "Act padroniza e sustenta a melhoria; sem procedimento e treino, o processo volta ao antigo.",
+  "e": "Plan, Do e Check funcionaram. Faltou padronizar (procedimento escrito) e replicar (treinar os novos).",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 43,
+  "s": "PRO",
+  "m": "ctq",
+  "b": "avaliar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Rápido, mas sujo?",
+   "O Hotel Mirante promete quartos impecáveis e usa como métrica arrumar cada quarto em até 20 minutos. A meta é batida, mas as notas de limpeza caíram.",
+   "Tradução da VOC em CTQ",
+   "Métrica atingida com piora na percepção"
+  ],
+  "q": "Qual é a falha dessa métrica?",
+  "a": [
+   [
+    "Usa tempo, e CTQ não pode usar tempo",
+    "Inventa uma regra.",
+    "CTQ pode usar tempo quando o cliente valoriza tempo."
+   ],
+   [
+    "Depende demais da equipe de arrumação",
+    "Confunde responsável com erro de métrica.",
+    "Toda métrica depende de alguém; o erro é o que se mede."
+   ],
+   [
+    "É operacional demais para ser CTQ",
+    "Confunde operacional com inadequado.",
+    "Métricas operacionais são normais."
+   ],
+   "*Mede a rapidez, não a limpeza percebida"
+  ],
+  "f": "CTQ deve medir o que o cliente valoriza: aqui, limpeza percebida, não velocidade.",
+  "e": "Melhor CTQ: % de quartos aprovados em checklist de limpeza ou nota de limpeza nas avaliações.",
+  "n": "Modo jogo: cenário com um só número."
+ },
+ {
+  "r": 44,
+  "s": "PRJ",
+  "m": "caminho-critico-folga",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Hora extra à toa",
+   "No projeto de um congresso, o caminho crítico tem 30 dias. O gerente pagou hora extra para encurtar 'produzir crachás', atividade com 8 dias de folga.",
+   "Caminho crítico e folga",
+   "Gasto numa atividade fora do caminho crítico"
+  ],
+  "q": "O prazo total do projeto muda?",
+  "a": [
+   "*Não, continua em 30 dias",
+   [
+    "Sim, cai pelos dias economizados",
+    "Supõe que toda redução encurta o projeto.",
+    "Só reduzir o caminho crítico encurta o projeto."
+   ],
+   [
+    "Sim, cai 8 dias, o tamanho da folga",
+    "Confunde folga com ganho de prazo.",
+    "Folga é margem da atividade, não do projeto."
+   ],
+   [
+    "Depende do valor da hora extra",
+    "Confunde custo com prazo.",
+    "O custo não altera a lógica do caminho crítico."
+   ]
+  ],
+  "f": "Encurtar atividade com folga não muda o prazo: quem define os 30 dias é o caminho crítico.",
+  "e": "A hora extra foi gasto sem efeito no prazo. Para encurtar o projeto, comprime-se o caminho crítico (crashing ou fast tracking).",
+  "n": "Modo jogo: cenário com dois números e pergunta de lógica, sem conta."
+ },
+ {
+  "r": 45,
+  "s": "PRO",
+  "m": "matriz-raci",
+  "b": "avaliar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Três R, nenhum A",
+   "Na migração de clientes para o novo sistema da loja, a RACI tem três analistas como R e nenhum A. Cada um migrou uma parte, ninguém validou o todo e surgiram cadastros duplicados.",
+   "Matriz RACI",
+   "Responsabilidade final não atribuída"
+  ],
+  "q": "Qual é a falha principal dessa RACI?",
+  "a": [
+   [
+    "Executores demais na mesma atividade",
+    "Acha que vários R são o erro.",
+    "Vários R são aceitáveis; o que falta é o A."
+   ],
+   "*Ninguém responde pelo resultado final",
+   [
+    "Gente demais sendo consultada",
+    "Confunde com excesso de C.",
+    "Ninguém está marcado como C no caso."
+   ],
+   [
+    "Falta de ligação com o cronograma",
+    "Mistura com cronograma.",
+    "A RACI não define dependências."
+   ]
+  ],
+  "f": "Toda atividade precisa de um único A; sem ele, ninguém valida nem responde pelo resultado.",
+  "e": "Vários R são aceitáveis; a falta de A dilui a responsabilização — e os cadastros duplicados mostram o efeito.",
+  "n": "Modo jogo: cenário sem percentual; dificuldade 3."
+ },
+ {
+  "r": 46,
+  "s": "PRO",
+  "m": "indicadores-e-variacao",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A média enganosa",
+   "O pronto-atendimento comemora espera média de 10 minutos, abaixo da meta. Mas a auditoria achou pacientes da noite esperando mais de 40 minutos.",
+   "Indicadores de desempenho e variação",
+   "Média dentro da meta com casos extremos"
+  ],
+  "q": "Qual é a falha na leitura desse indicador?",
+  "a": [
+   "*A média esconde esperas muito longas",
+   [
+    "O certo seria medir custo, não espera",
+    "Troca o foco do indicador.",
+    "Tempo de espera é o que o paciente valoriza."
+   ],
+   [
+    "A meta foi definida tarde demais",
+    "Inventa um problema.",
+    "O momento da meta não explica a distorção."
+   ],
+   [
+    "O processo não tem variação",
+    "Contraria os dados.",
+    "Há variação enorme entre turnos."
+   ]
+  ],
+  "f": "Média esconde variação: é preciso olhar a dispersão e os estratos, como o turno da noite.",
+  "e": "Na fase Check, analisam-se variação, estratificação (turno) e a experiência real do cliente, não só a média.",
+  "n": "Modo jogo: cenário com dois números, sem percentuais."
+ },
+ {
+  "r": 47,
+  "s": "PRJ",
+  "m": "scrum-sprint",
+  "b": "avaliar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Sprint interrompida",
+   "No terceiro dia da sprint cuja meta é lançar o PIX no app, o Product Owner manda o time largar tudo e fazer um relatório para a diretoria. É a terceira vez seguida.",
+   "Eventos e compromissos do Scrum (Scrum Guide 2020)",
+   "Mudança de prioridade durante a sprint"
+  ],
+  "q": "Que princípio do Scrum está sendo violado?",
+  "a": [
+   [
+    "A autoridade do PO sobre o backlog",
+    "Acha que o PO não pode priorizar.",
+    "O PO ordena o Product Backlog; o erro é mexer na sprint em curso."
+   ],
+   "*O foco na Meta da Sprint em andamento",
+   [
+    "A entrega única no fim do projeto",
+    "Confunde com o preditivo.",
+    "Scrum entrega a cada sprint."
+   ],
+   [
+    "O limite de tempo da Daily Scrum",
+    "Foca num evento fora do caso.",
+    "Nada no caso envolve a Daily."
+   ]
+  ],
+  "f": "Durante a sprint, nada deve ameaçar a Meta da Sprint; novas demandas vão para o Product Backlog.",
+  "e": "Scrum Guide 2020: Sprint Backlog → compromisso com a Meta da Sprint. O PO ordena o Product Backlog, mas mudar o trabalho no meio da sprint quebra o foco.",
+  "o": "NLM+WEB",
+  "u": [
+   "https://www.scrum.org/resources/blog/addition-commitments-each-artifact"
+  ],
+  "n": "Modo jogo: cenário encurtado e distratores vizinhos do Scrum."
+ },
+ {
+  "r": 48,
+  "s": "PRO",
+  "m": "gestao-de-x-por-processos",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Cada um no seu quadrado",
+   "Na Varejo Sul, compras cortou custos, a logística acelerou a separação e o atendimento subiu a nota. Mesmo assim, o prazo do pedido à entrega piorou.",
+   "Gestão DE processos × gestão POR processos",
+   "Melhorias locais sem visão do fluxo completo"
+  ],
+  "q": "O que o caso indica?",
+  "a": [
+   [
+    "Gestão POR processos consolidada",
+    "Confunde ferramentas com orientação da empresa.",
+    "Sem visão ponta a ponta, não há gestão POR processos."
+   ],
+   "*Gestão DE processos, por silos",
+   [
+    "Falha na gestão de portfólio",
+    "Mistura conceitos.",
+    "Portfólio trata de escolher projetos."
+   ],
+   [
+    "Excesso de métodos ágeis",
+    "Mistura conceitos.",
+    "O caso não trata de métodos ágeis."
+   ]
+  ],
+  "f": "Cada área otimiza a sua parte (DE processos); falta gerir o fluxo ponta a ponta (POR processos).",
+  "e": "Gestão por processos é horizontal e 'de fora para dentro': otimiza o processo ponta a ponta, não os silos.",
+  "n": "Modo jogo: cenário encurtado, sem percentuais."
+ },
+ {
+  "r": 49,
+  "s": "PRO",
+  "m": "modelo-de-kano",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "O Wi-Fi que virou obrigação",
+   "Em 2008, o Hotel Rota encantava os hóspedes com Wi-Fi grátis. Em 2026, quase todo hotel oferece; numa semana com a rede fora do ar, as avaliações despencaram.",
+   "Modelo de Kano",
+   "Expectativas mudam com o tempo"
+  ],
+  "q": "Como o Wi-Fi mudou no Modelo de Kano?",
+  "a": [
+   [
+    "De obrigatório para atrativo",
+    "Inverte a direção da mudança.",
+    "Em 2008 encantava; hoje é esperado."
+   ],
+   [
+    "De linear para atrativo",
+    "Erra as duas categorias.",
+    "Em 2008 era surpresa (atrativo)."
+   ],
+   [
+    "Continuou linear o tempo todo",
+    "Ignora a mudança.",
+    "A reação à falha mostra que virou obrigatório."
+   ],
+   "*De atrativo para obrigatório"
+  ],
+  "f": "Atributos atrativos tendem a virar obrigatórios: o que encantava passa a ser esperado.",
+  "e": "Obrigatório: ausência gera insatisfação extrema; presença, só neutralidade — como mostrou a semana sem Wi-Fi.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 50,
+  "s": "PRJ",
+  "m": "eap",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Pacote vago",
+   "Na EAP do novo site da loja de açaí, um pacote se chama só 'Desenvolvimento'. Ninguém consegue estimar prazo e custo, e os devs discordam do que entra nele.",
+   "Estrutura analítica do projeto (EAP)",
+   "Pacote grande demais para estimar"
+  ],
+  "q": "O que o gerente deve fazer?",
+  "a": [
+   "*Decompor em pacotes menores e claros",
+   [
+    "Juntar pacotes para simplificar a EAP",
+    "Inverte a necessidade.",
+    "O problema é falta de detalhe, não excesso."
+   ],
+   [
+    "Estimar só no encerramento do projeto",
+    "Adia o problema.",
+    "Sem estimativa, não há linha de base de custo e prazo."
+   ],
+   [
+    "Pular para o cronograma sem mexer na EAP",
+    "Confunde ferramentas.",
+    "Cronograma depende de um escopo bem decomposto."
+   ]
+  ],
+  "f": "A EAP deve descer até pacotes de trabalho que possam ser estimados e atribuídos.",
+  "e": "Pacote de trabalho é o menor nível da EAP; a decomposição é orientada a entregas (ex.: 'página de pagamento'), não a atividades genéricas.",
+  "n": "Modo jogo: cenário da loja de açaí."
+ }
+]

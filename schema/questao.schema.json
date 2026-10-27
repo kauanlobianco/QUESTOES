@@ -1,0 +1,449 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "questao.schema.json",
+  "title": "Questão do banco gamificado — padrão Perguntados (4 alternativas)",
+  "type": "object",
+  "required": [
+    "id",
+    "versao",
+    "area",
+    "subtema",
+    "microtema",
+    "tipo",
+    "formato",
+    "enunciado",
+    "feedback",
+    "bloom",
+    "dificuldade",
+    "mecanicas",
+    "tempo_seg",
+    "xp",
+    "fonte",
+    "validade",
+    "revisao"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(EMP|EST|FIN|LID|MKT|OPE)-[A-Z]{3}-[0-9]{3}$",
+      "description": "AREA-SUBTEMA-NNN"
+    },
+    "versao": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "area": {
+      "enum": [
+        "EMP",
+        "EST",
+        "FIN",
+        "LID",
+        "MKT",
+        "OPE"
+      ]
+    },
+    "areas_secundarias": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "EMP",
+          "EST",
+          "FIN",
+          "LID",
+          "MKT",
+          "OPE"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "subtema": {
+      "enum": [
+        "FEM",
+        "MOD",
+        "INO",
+        "EST",
+        "DEC",
+        "ASG",
+        "CTB",
+        "INV",
+        "ECO",
+        "LCO",
+        "GPE",
+        "NEG",
+        "MKT",
+        "PRO",
+        "PRJ",
+        "QLD"
+      ]
+    },
+    "microtema": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Conceito da ficha da matéria (slug)"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tipo": {
+      "enum": [
+        "multipla_escolha",
+        "numerico"
+      ],
+      "description": "multipla_escolha = padrão Perguntados (4 alternativas) para Giro, Coroa e Duelo; numerico = SOMENTE desempate de Duelo"
+    },
+    "formato": {
+      "enum": [
+        "direta",
+        "cenario"
+      ]
+    },
+    "cenario": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "texto",
+        "artefato",
+        "restricao"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "titulo": {
+          "type": "string"
+        },
+        "texto": {
+          "type": "string",
+          "minLength": 40,
+          "maxLength": 240,
+          "description": "Neutro: só fatos, sem explicar, diagnosticar ou sugerir solução"
+        },
+        "artefato": {
+          "type": "string",
+          "description": "Conceito/ferramenta/dado concreto presente no cenário"
+        },
+        "restricao": {
+          "type": "string",
+          "description": "Limitação, trade-off ou risco presente no cenário"
+        }
+      }
+    },
+    "enunciado": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 130
+    },
+    "alternativas": {
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "texto",
+          "correta"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-d]$"
+          },
+          "texto": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 60
+          },
+          "correta": {
+            "type": "boolean"
+          },
+          "erro_comum": {
+            "type": "string",
+            "description": "Diagnóstico da confusão que leva a esta alternativa (obrigatório nos distratores)"
+          },
+          "feedback": {
+            "type": "string",
+            "maxLength": 300,
+            "description": "Mensagem específica se o jogador escolher esta alternativa"
+          }
+        }
+      }
+    },
+    "resposta_numerica": {
+      "type": "object",
+      "required": [
+        "valor",
+        "tolerancia",
+        "unidade"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "valor": {
+          "type": "number"
+        },
+        "tolerancia": {
+          "type": "number",
+          "minimum": 0
+        },
+        "unidade": {
+          "type": "string"
+        },
+        "valores_errados_comuns": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "valor",
+              "erro_comum"
+            ],
+            "properties": {
+              "valor": {
+                "type": "number"
+              },
+              "erro_comum": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "feedback": {
+      "type": "object",
+      "required": [
+        "curto",
+        "explicacao"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "curto": {
+          "type": "string",
+          "maxLength": 120,
+          "description": "1 frase que ensina o porquê (toast estilo Duolingo)"
+        },
+        "explicacao": {
+          "type": "string",
+          "maxLength": 600
+        },
+        "saiba_mais": {
+          "type": "string",
+          "description": "Caminho da ficha na base de conhecimento"
+        }
+      }
+    },
+    "bloom": {
+      "enum": [
+        "lembrar",
+        "entender",
+        "aplicar",
+        "analisar",
+        "avaliar",
+        "criar"
+      ]
+    },
+    "dificuldade": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "mecanicas": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "giro",
+          "coroa",
+          "duelo",
+          "desempate"
+        ]
+      }
+    },
+    "tempo_seg": {
+      "type": "integer",
+      "minimum": 10,
+      "maximum": 60
+    },
+    "xp": {
+      "type": "integer",
+      "minimum": 5,
+      "maximum": 50
+    },
+    "fonte": {
+      "type": "object",
+      "required": [
+        "origem",
+        "ficha"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "origem": {
+          "enum": [
+            "NLM",
+            "WEB",
+            "NLM+WEB"
+          ]
+        },
+        "ficha": {
+          "type": "string"
+        },
+        "arquivos": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "urls": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "validade": {
+      "type": "object",
+      "required": [
+        "tipo"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "tipo": {
+          "enum": [
+            "perene",
+            "datado"
+          ]
+        },
+        "referencia": {
+          "type": "string"
+        }
+      }
+    },
+    "revisao": {
+      "type": "object",
+      "required": [
+        "status",
+        "criterios"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "status": {
+          "enum": [
+            "rascunho",
+            "revisado_ia",
+            "aprovado_professor",
+            "reprovado"
+          ]
+        },
+        "criterios": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "compreensivel",
+            "relacionada_ao_tema",
+            "gramatical",
+            "clara",
+            "respondivel",
+            "central",
+            "usaria",
+            "nivel_bloom_ok"
+          ],
+          "properties": {
+            "compreensivel": {
+              "type": "boolean"
+            },
+            "relacionada_ao_tema": {
+              "type": "boolean"
+            },
+            "gramatical": {
+              "type": "boolean"
+            },
+            "clara": {
+              "type": "boolean"
+            },
+            "respondivel": {
+              "type": "boolean"
+            },
+            "central": {
+              "type": "boolean"
+            },
+            "usaria": {
+              "type": "boolean"
+            },
+            "nivel_bloom_ok": {
+              "type": "boolean"
+            }
+          }
+        },
+        "notas": {
+          "type": "string"
+        }
+      }
+    },
+    "origem_questao": {
+      "type": "object",
+      "required": [
+        "tipo"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "tipo": {
+          "enum": [
+            "inedita",
+            "base_original"
+          ]
+        },
+        "ref": {
+          "type": "string",
+          "description": "Ex.: questions.json#empreendedorismo/12"
+        },
+        "original": {
+          "type": "object",
+          "description": "Texto original (enunciado, alternativas, gabarito) para auditoria"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "tipo": {
+            "const": "multipla_escolha"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "alternativas"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "tipo": {
+            "const": "numerico"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "resposta_numerica"
+        ],
+        "properties": {
+          "mecanicas": {
+            "const": [
+              "desempate"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

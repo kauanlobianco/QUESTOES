@@ -1,0 +1,818 @@
+[
+ {
+  "id": "EMP-FEM-131",
+  "area": "Empreendedorismo",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "Fernanda abriu um estúdio de pilates com uma meta que nenhuma concorrente atingiu. Diz que o resultado depende dela, não da sorte, e manteve a meta mesmo perdendo instrutoras.",
+  "enunciado": "Que trio de conceitos aparece no comportamento de Fernanda?",
+  "alternativas": {
+   "a": "Lócus externo, afiliação e perda aceitável",
+   "b": "Lócus interno, realização e persistência",
+   "c": "Causation, normas subjetivas e bricolagem",
+   "d": "Lócus interno, poder e independência"
+  }
+ },
+ {
+  "id": "EMP-FEM-120",
+  "area": "Empreendedorismo",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Para McClelland, quem tem alta necessidade de realização busca:",
+  "alternativas": {
+   "a": "Estabilidade e pouca mudança",
+   "b": "Metas desafiadoras e alto desempenho",
+   "c": "Aceitação e bons relacionamentos no grupo",
+   "d": "Influenciar e controlar pessoas"
+  }
+ },
+ {
+  "id": "MKT-MKT-133",
+  "area": "Marketing",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "O Salão Glamour treina a equipe para atender com mais cuidado e agilidade. Que P recebe o investimento?",
+  "alternativas": {
+   "a": "Pessoas",
+   "b": "Produto",
+   "c": "Preço",
+   "d": "Praça"
+  }
+ },
+ {
+  "id": "LID-LCO-118",
+  "area": "Liderança",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Para a disciplina, motivação é:",
+  "alternativas": {
+   "a": "Uma regra imposta pela chefia",
+   "b": "Café liberado na copa",
+   "c": "Uma obrigação prevista em contrato",
+   "d": "Tensão que direciona a ação a metas"
+  }
+ },
+ {
+  "id": "FIN-ECO-001",
+  "area": "Finanças",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Um imposto encarece o cigarro e o consumo cai. No gráfico de demanda, isso é:",
+  "alternativas": {
+   "a": "Movimento ao longo da curva",
+   "b": "Curva de demanda para a esquerda",
+   "c": "Curva de oferta para a direita",
+   "d": "Curva de demanda para a direita"
+  }
+ },
+ {
+  "id": "LID-LCO-102",
+  "area": "Liderança",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "No food truck, salário em dia e cozinha ventilada são, para Herzberg, fatores:",
+  "alternativas": {
+   "a": "de autorrealização",
+   "b": "motivacionais",
+   "c": "de estima",
+   "d": "higiênicos"
+  }
+ },
+ {
+  "id": "OPE-PRJ-115",
+  "area": "Operações",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "cenario": "A escola vai trocar todas as lâmpadas por LED; escopo, prazo e custo estão claros desde o início.",
+  "enunciado": "Qual ciclo de vida combina com esse projeto?",
+  "alternativas": {
+   "a": "Adaptativo, com sprints curtas",
+   "b": "Incremental, com escopo aberto",
+   "c": "Preditivo, com fases em sequência",
+   "d": "Improvisado, resolve no dia"
+  }
+ },
+ {
+  "id": "MKT-MKT-127",
+  "area": "Marketing",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Qual a diferença entre promoção de vendas e propaganda?",
+  "alternativas": {
+   "a": "Promoção trabalha imagem; propaganda corta preço",
+   "b": "São a mesma ferramenta com outro nome",
+   "c": "Promoção busca venda imediata; propaganda, imagem",
+   "d": "Propaganda só existe na TV; promoção, na loja"
+  }
+ },
+ {
+  "id": "EMP-FEM-105",
+  "area": "Empreendedorismo",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "No processo empreendedor visto em aula, qual é a primeira fase?",
+  "alternativas": {
+   "a": "Identificar oportunidades",
+   "b": "Planejar e organizar recursos",
+   "c": "Criar o empreendimento",
+   "d": "Escolher o nome e o logo"
+  }
+ },
+ {
+  "id": "EST-EST-114",
+  "area": "Estratégia",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Patentes, marcas e direitos autorais são exemplos de:",
+  "alternativas": {
+   "a": "Ativos financeiros",
+   "b": "Propriedade intelectual",
+   "c": "Ativos imobilizados",
+   "d": "Indicadores de desempenho"
+  }
+ },
+ {
+  "id": "OPE-PRJ-119",
+  "area": "Operações",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "Na EAP do novo site da loja de açaí, um pacote se chama só 'Desenvolvimento'. Ninguém consegue estimar prazo e custo, e os devs discordam do que entra nele.",
+  "enunciado": "O que o gerente deve fazer?",
+  "alternativas": {
+   "a": "Decompor em pacotes menores e claros",
+   "b": "Juntar pacotes para simplificar a EAP",
+   "c": "Estimar só no encerramento do projeto",
+   "d": "Pular para o cronograma sem mexer na EAP"
+  }
+ },
+ {
+  "id": "EST-EST-148",
+  "area": "Estratégia",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "A Gráfica Central tem máquinas velhas que quebram e nenhum vendedor. Os clientes estão migrando para o digital, e um rival com impressão digital abriu na mesma rua.",
+  "enunciado": "Que posição da SWOT cruzada descreve a Gráfica Central?",
+  "alternativas": {
+   "a": "Sobrevivência (fraqueza + ameaça)",
+   "b": "Ofensiva (força + oportunidade)",
+   "c": "Defensiva (força + ameaça)",
+   "d": "Reforço (fraqueza + oportunidade)"
+  }
+ },
+ {
+  "id": "FIN-INV-116",
+  "area": "Finanças",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "A Metalúrgica Sul financia boa parte dos ativos com empréstimos a 14% ao ano. Com a queda nas vendas, os ativos passaram a render só 9% neste ano.",
+  "enunciado": "Qual é o efeito da dívida sobre o retorno dos sócios neste ano?",
+  "alternativas": {
+   "a": "O ROE melhora, porque a dívida protege os sócios",
+   "b": "Os juros deixam de afetar o resultado",
+   "c": "O ROA passa a ser igual ao ROE",
+   "d": "A dívida amplia a queda do retorno dos sócios"
+  }
+ },
+ {
+  "id": "LID-LCO-110",
+  "area": "Liderança",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "A gerente recebe 200 e-mails por dia e não acha mais o que importa. Que barreira é essa?",
+  "alternativas": {
+   "a": "Filtragem",
+   "b": "Ambiguidade",
+   "c": "Sobrecarga de informação",
+   "d": "Ruído físico"
+  }
+ },
+ {
+  "id": "EST-EST-125",
+  "area": "Estratégia",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "cenario": "Um circo eliminou animais e astros e elevou arte, música e cenografia, com espetáculos temáticos.",
+  "enunciado": "Qual ferramenta explica essa lógica?",
+  "alternativas": {
+   "a": "Matriz BCG",
+   "b": "Matriz ERRC (4 ações)",
+   "c": "5 Forças de Porter",
+   "d": "Análise PEST"
+  }
+ },
+ {
+  "id": "LID-LCO-123",
+  "area": "Liderança",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Bia tem bom salário no banco, mas sente falta de desafios e reconhecimento. Para Herzberg, faltam fatores:",
+  "alternativas": {
+   "a": "higiênicos",
+   "b": "de segurança",
+   "c": "motivacionais",
+   "d": "fisiológicos"
+  }
+ },
+ {
+  "id": "OPE-PRO-117",
+  "area": "Operações",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "cenario": "Na reforma da loja de Niterói, o diretor regional só recebe atualizações: não executa, não aprova nem é consultado.",
+  "enunciado": "Na RACI, ele é marcado com…",
+  "alternativas": {
+   "a": "I",
+   "b": "R",
+   "c": "A",
+   "d": "C"
+  }
+ },
+ {
+  "id": "MKT-MKT-005",
+  "area": "Marketing",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "cenario": "A dona da Doceria Açúcar Mascavo, em Icaraí, quer entender por que quem provou doces sem açúcar de outras marcas não voltou a comprar.",
+  "enunciado": "Que pesquisa responde melhor a essa dúvida?",
+  "alternativas": {
+   "a": "Questionário fechado com moradores",
+   "b": "Dados secundários do IBGE",
+   "c": "Contagem das vendas no caixa",
+   "d": "Grupo focal com esses clientes"
+  }
+ },
+ {
+  "id": "OPE-PRO-110",
+  "area": "Operações",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Para que serve um CTQ (Critical to Quality) num projeto de melhoria?",
+  "alternativas": {
+   "a": "Ordenar as atividades do cronograma",
+   "b": "Definir quem aprova cada tarefa",
+   "c": "Transformar a voz do cliente em métrica",
+   "d": "Classificar projetos por retorno"
+  }
+ },
+ {
+  "id": "OPE-QLD-003",
+  "area": "Operações",
+  "mecanica": "desempate",
+  "tempo_seg": 20,
+  "enunciado": "DESEMPATE — FMEA com severidade 2, ocorrência 5 e detecção 10. Qual é o NPR?",
+  "resposta_numerica_unidade": "pontos"
+ },
+ {
+  "id": "EMP-FEM-133",
+  "area": "Empreendedorismo",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "A EduBot validou o MVP com escolas, passou do ponto de equilíbrio e agora vai contratar, abrir operação em dois estados e profissionalizar as finanças.",
+  "enunciado": "Em qual fase do processo empreendedor a EduBot está?",
+  "alternativas": {
+   "a": "Identificação de oportunidades",
+   "b": "Planejamento e organização de recursos",
+   "c": "Criação do empreendimento",
+   "d": "Desenvolvimento do empreendimento"
+  }
+ },
+ {
+  "id": "EST-EST-109",
+  "area": "Estratégia",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Num objetivo SMART, o que significa a letra T?",
+  "alternativas": {
+   "a": "Temporal (com prazo)",
+   "b": "Tático",
+   "c": "Transformador",
+   "d": "Técnico"
+  }
+ },
+ {
+  "id": "LID-LCO-127",
+  "area": "Liderança",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "O que diferencia o líder transformacional do transacional?",
+  "alternativas": {
+   "a": "Inspira mudança e desenvolve as pessoas",
+   "b": "Concentra-se em recompensas imediatas",
+   "c": "Evita contato direto com a equipe",
+   "d": "Reduz metas para diminuir conflitos"
+  }
+ },
+ {
+  "id": "FIN-INV-105",
+  "area": "Finanças",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "O food truck pega empréstimo a 8% ao ano para investir num projeto que rende 15%. Isso é exemplo de…",
+  "alternativas": {
+   "a": "Capital de giro",
+   "b": "Alavancagem financeira",
+   "c": "Payback descontado",
+   "d": "Custo de oportunidade"
+  }
+ },
+ {
+  "id": "EMP-FEM-124",
+  "area": "Empreendedorismo",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Antes de lançar seu brigadeiro gourmet, Duda conversa com clientes, fornecedores e concorrentes. Qual CCE ela mostra?",
+  "alternativas": {
+   "a": "Persistência",
+   "b": "Busca de informações",
+   "c": "Exigência de qualidade e eficiência",
+   "d": "Persuasão e rede de contatos"
+  }
+ },
+ {
+  "id": "EMP-FEM-101",
+  "area": "Empreendedorismo",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Para Shane & Venkataraman, empreender é, no fundo:",
+  "alternativas": {
+   "a": "Abrir uma empresa com CNPJ",
+   "b": "Identificar e explorar oportunidades",
+   "c": "Investir dinheiro em negócios arriscados",
+   "d": "Virar o próprio chefe e acordar tarde"
+  }
+ },
+ {
+  "id": "FIN-CTB-113",
+  "area": "Finanças",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "A fábrica de móveis tem ROA de 10% e ROE de 25%. O que essa diferença sugere?",
+  "alternativas": {
+   "a": "Usa dívida para ampliar o ROE",
+   "b": "Opera sem capital de terceiros",
+   "c": "Não tem ativos relevantes",
+   "d": "Teve prejuízo operacional"
+  }
+ },
+ {
+  "id": "LID-LCO-107",
+  "area": "Liderança",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Um gerente humilha o mesmo funcionário em público, semana após semana. Isso caracteriza:",
+  "alternativas": {
+   "a": "Assédio moral",
+   "b": "Feedback corretivo",
+   "c": "Gestão por desempenho",
+   "d": "Comunicação direta"
+  }
+ },
+ {
+  "id": "FIN-INV-109",
+  "area": "Finanças",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "O ciclo financeiro da loja de roupas é de 45 dias. O que isso indica?",
+  "alternativas": {
+   "a": "O caixa fica 45 dias preso",
+   "b": "A produção leva 45 dias",
+   "c": "O estoque gira a cada 45 dias",
+   "d": "A loja lucra a cada 45 dias"
+  }
+ },
+ {
+  "id": "LID-LCO-122",
+  "area": "Liderança",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Para Vroom, se o vendedor acha que nem com esforço bate a meta, a motivação tende a ser:",
+  "alternativas": {
+   "a": "alta, se a recompensa for boa",
+   "b": "estável, sem relação com o esforço",
+   "c": "maior com competição",
+   "d": "baixa, pois a expectância caiu"
+  }
+ },
+ {
+  "id": "FIN-CTB-107",
+  "area": "Finanças",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Na fábrica de brigadeiros, o gasto com chocolate cresce a cada lote feito. Que custo é esse?",
+  "alternativas": {
+   "a": "Fixo",
+   "b": "Indireto",
+   "c": "Variável",
+   "d": "Irrecuperável"
+  }
+ },
+ {
+  "id": "OPE-PRO-120",
+  "area": "Operações",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "cenario": "A lanchonete Big Lanche juntou as reclamações do app: demora, batata fria e atendente grosseiro.",
+  "enunciado": "Esse levantamento é um exemplo de…",
+  "alternativas": {
+   "a": "VOC",
+   "b": "CTQ",
+   "c": "KPI",
+   "d": "RACI"
+  }
+ },
+ {
+  "id": "MKT-MKT-117",
+  "area": "Marketing",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Quando uma empresa tem vantagem competitiva?",
+  "alternativas": {
+   "a": "Com diferenciais que o cliente valoriza",
+   "b": "Ao copiar tudo o que o concorrente faz",
+   "c": "Ao ter o maior número de seguidores",
+   "d": "Ao abrir mais lojas que todos os rivais"
+  }
+ },
+ {
+  "id": "OPE-PRO-104",
+  "area": "Operações",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Na reforma da cantina, Dona Rita está marcada com A na matriz RACI. O papel dela é…",
+  "alternativas": {
+   "a": "Executar a obra com as próprias mãos",
+   "b": "Ser ouvida antes das decisões",
+   "c": "Aprovar e responder pelo resultado",
+   "d": "Só receber notícias do andamento"
+  }
+ },
+ {
+  "id": "OPE-PRO-004",
+  "area": "Operações",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Na disciplina de Processos, carta de controle e matriz impacto × viabilidade entram em qual fase do PDCA?",
+  "alternativas": {
+   "a": "Plan (planejar)",
+   "b": "Do (executar)",
+   "c": "Check (verificar)",
+   "d": "Act (agir)"
+  }
+ },
+ {
+  "id": "LID-LCO-148",
+  "area": "Liderança",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "A startup Nexa se vende nas redes como \"o melhor lugar para trabalhar\". Lá dentro, há jornadas de 12 horas e chefes que gritam; metade dos contratados sai antes de três meses.",
+  "enunciado": "O que explica a saída rápida dos contratados?",
+  "alternativas": {
+   "a": "O clima melhorou e gerou acomodação",
+   "b": "A produtividade subiu e reduziu vagas",
+   "c": "A distância entre a promessa e a realidade",
+   "d": "Menos conflitos reduziram os desafios"
+  }
+ },
+ {
+  "id": "EST-EST-121",
+  "area": "Estratégia",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "cenario": "A rede Açaí da Praia planejou abrir lojas no Nordeste, mas achou procura inesperada no Sul e passou a crescer por lá.",
+  "enunciado": "Que tipo de estratégia surgiu no Sul?",
+  "alternativas": {
+   "a": "Deliberada",
+   "b": "Emergente",
+   "c": "Não realizada",
+   "d": "Pretendida"
+  }
+ },
+ {
+  "id": "LID-LCO-125",
+  "area": "Liderança",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Na farmácia, subiram a rotatividade e as reclamações, e a produtividade caiu. Isso indica:",
+  "alternativas": {
+   "a": "clima organizacional negativo",
+   "b": "cultura madura e integrada",
+   "c": "liderança transformacional",
+   "d": "excesso de autonomia"
+  }
+ },
+ {
+  "id": "MKT-MKT-136",
+  "area": "Marketing",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "A loja de celulares do Rui perde vendas para um rival que lançou um serviço melhor e mais barato. Esse rival é:",
+  "alternativas": {
+   "a": "Uma fraqueza",
+   "b": "Uma oportunidade",
+   "c": "Uma força",
+   "d": "Uma ameaça"
+  }
+ },
+ {
+  "id": "LID-NEG-001",
+  "area": "Liderança",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "O fornecedor de embalagens da fábrica de Renata pediu reajuste de 18%. Ela tem uma proposta formal de outro fornecedor, 8% acima do preço atual, com amostras aprovadas.",
+  "enunciado": "Qual postura segue o método de Harvard (Fisher & Ury)?",
+  "alternativas": {
+   "a": "Tratar os +8% como limite e buscar critérios objetivos",
+   "b": "Aceitar os 18% para preservar a parceria antiga",
+   "c": "Exigir reajuste zero ou romper o contrato hoje",
+   "d": "Esconder a outra proposta e pedir um desconto alto"
+  }
+ },
+ {
+  "id": "EMP-FEM-112",
+  "area": "Empreendedorismo",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Para Ajzen (Comportamento Planejado), a intenção de empreender depende de:",
+  "alternativas": {
+   "a": "Atitude, normas subjetivas e controle percebido",
+   "b": "Renda familiar, idade e escolaridade",
+   "c": "Necessidade de realização, afiliação e poder",
+   "d": "Componentes cognitivo, afetivo e comportamental"
+  }
+ },
+ {
+  "id": "MKT-MKT-101",
+  "area": "Marketing",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Para a AMA, a essência do marketing é:",
+  "alternativas": {
+   "a": "Criar, comunicar e entregar valor",
+   "b": "Organizar o estoque da loja",
+   "c": "Calcular os impostos sobre vendas",
+   "d": "Postar memes no Instagram da marca"
+  }
+ },
+ {
+  "id": "OPE-PRO-109",
+  "area": "Operações",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "No mapeamento de processos, o que representa o AS-IS?",
+  "alternativas": {
+   "a": "O processo como funciona hoje",
+   "b": "O desenho ideal a implantar",
+   "c": "O plano de ação da melhoria",
+   "d": "O fluxo dos sonhos do dono"
+  }
+ },
+ {
+  "id": "OPE-PRJ-004",
+  "area": "Operações",
+  "mecanica": "desempate",
+  "tempo_seg": 20,
+  "enunciado": "DESEMPATE — PERT: pessimista − otimista = 30 dias. Qual o desvio-padrão, em dias?",
+  "resposta_numerica_unidade": "dias"
+ },
+ {
+  "id": "EST-EST-002",
+  "area": "Estratégia",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Na SWOT da escola de idiomas Fluent, \"nosso site demora 9 segundos para carregar\" é:",
+  "alternativas": {
+   "a": "Força",
+   "b": "Fraqueza",
+   "c": "Oportunidade",
+   "d": "Ameaça"
+  }
+ },
+ {
+  "id": "FIN-ECO-102",
+  "area": "Finanças",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "A gasolina sobe de preço e o resto fica igual. A quantidade demandada tende a…",
+  "alternativas": {
+   "a": "Aumentar",
+   "b": "Ficar igual",
+   "c": "Diminuir",
+   "d": "Zerar: todo mundo vai de bike"
+  }
+ },
+ {
+  "id": "MKT-MKT-141",
+  "area": "Marketing",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "A Farmácia Bem Viver fica num bairro onde 35% dos moradores têm mais de 60 anos. Ela criou um balcão 60+ com cadeiras, etiquetas grandes e atendentes treinados para explicar a posologia.",
+  "enunciado": "O que a farmácia fez, em termos de marketing?",
+  "alternativas": {
+   "a": "Adaptou o mix de marketing a um segmento",
+   "b": "Fez segmentação comportamental do bairro",
+   "c": "Reposicionou a marca como farmácia popular",
+   "d": "Criou uma promoção de vendas para idosos"
+  }
+ },
+ {
+  "id": "EST-EST-003",
+  "area": "Estratégia",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "No Brasil, uma patente de invenção vale por quantos anos, contados do depósito?",
+  "alternativas": {
+   "a": "15 anos",
+   "b": "10 anos, renováveis sem limite",
+   "c": "20 anos",
+   "d": "Até 25 anos, com prorrogações"
+  }
+ },
+ {
+  "id": "FIN-ECO-110",
+  "area": "Finanças",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "O Banco Central reduz a Selic. Que efeito se espera?",
+  "alternativas": {
+   "a": "Queda do consumo e do investimento",
+   "b": "Queda imediata da inflação",
+   "c": "Mais consumo e mais investimento",
+   "d": "Valorização imediata do real"
+  }
+ },
+ {
+  "id": "MKT-MKT-110",
+  "area": "Marketing",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Para a AMA, o que é uma marca?",
+  "alternativas": {
+   "a": "Apenas o desenho do logotipo",
+   "b": "Sinais que diferenciam a oferta",
+   "c": "O preço final pago pelo cliente",
+   "d": "O CNPJ e o endereço da empresa"
+  }
+ },
+ {
+  "id": "FIN-CTB-002",
+  "area": "Finanças",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "A Manhã Feliz lucra R$ 6.000 por mês com kits de café. Com preço menor e mais anúncios, a margem de contribuição total iria a R$ 28.600 e os custos fixos a R$ 27.000.",
+  "enunciado": "Pela análise CVL, qual é a decisão?",
+  "alternativas": {
+   "a": "Aceitar: a margem total fica maior que os fixos",
+   "b": "Aceitar: vender mais kits dilui o custo fixo",
+   "c": "Rejeitar: o lucro cai de R$ 6.000 para R$ 1.600",
+   "d": "Rejeitar: a operação passa a dar prejuízo"
+  }
+ },
+ {
+  "id": "EST-EST-126",
+  "area": "Estratégia",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Qual escola de Mintzberg vê a estratégia como aprendizado coletivo, por tentativa e adaptação?",
+  "alternativas": {
+   "a": "Escola do Design",
+   "b": "Escola do Poder",
+   "c": "Escola do Aprendizado",
+   "d": "Escola do Posicionamento"
+  }
+ },
+ {
+  "id": "FIN-INV-108",
+  "area": "Finanças",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "A TIR da nova filial da lanchonete é 18% e a TMA é 12%. Pela regra da TIR, você…",
+  "alternativas": {
+   "a": "Rejeita: TIR acima da TMA",
+   "b": "Aceita só se o risco for zero",
+   "c": "Adia: TIR e TMA não se comparam",
+   "d": "Aceita: TIR acima da TMA"
+  }
+ },
+ {
+  "id": "EMP-FEM-103",
+  "area": "Empreendedorismo",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "cenario": "Maria vende bolos pelo Instagram e diz: “se as vendas caem, eu errei; se sobem, o mérito é meu”.",
+  "enunciado": "Que conceito descreve essa crença de Maria?",
+  "alternativas": {
+   "a": "Lócus de controle externo",
+   "b": "Lócus de controle interno",
+   "c": "Necessidade de afiliação",
+   "d": "Síndrome de coach motivacional"
+  }
+ },
+ {
+  "id": "OPE-PRJ-002",
+  "area": "Operações",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "Lançar o app agora tem VME de R$ 110 mil, maior que o do piloto em três escolas, mas pode dar perda de R$ 100 mil. O caixa da empresa é de R$ 80 mil.",
+  "enunciado": "Qual análise é a mais completa?",
+  "alternativas": {
+   "a": "Lançar já: o maior VME basta, o risco não entra na conta",
+   "b": "Lançar já: os R$ 110 mil são um ganho garantido",
+   "c": "Pilotar antes, se perder mais que o caixa for inaceitável",
+   "d": "Pilotar antes: VME menor é sempre a escolha mais segura"
+  }
+ },
+ {
+  "id": "OPE-PRO-124",
+  "area": "Operações",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "cenario": "O app de delivery acompanha toda semana o tempo médio de entrega contra a meta definida.",
+  "enunciado": "Esse número acompanhado é um…",
+  "alternativas": {
+   "a": "Mapa BPMN",
+   "b": "Papel na RACI",
+   "c": "KPI",
+   "d": "Diagrama SIPOC"
+  }
+ },
+ {
+  "id": "EMP-FEM-104",
+  "area": "Empreendedorismo",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Caio propôs e lidera, com verba da diretoria, um cartão para universitários na fintech onde trabalha. Ele é:",
+  "alternativas": {
+   "a": "Empreendedor por necessidade",
+   "b": "Investidor-anjo",
+   "c": "Intraempreendedor",
+   "d": "Funcionário puxa-saco do mês"
+  }
+ },
+ {
+  "id": "EST-EST-147",
+  "area": "Estratégia",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "A Agenda+ vende agendamento por assinatura para clínicas, com hospedagem na AWS e pagamentos pela Stripe. Neste ano, as duas subiram preços, e a mensalidade das clínicas ficou igual.",
+  "enunciado": "Quais blocos do Canvas da Agenda+ são afetados mais diretamente?",
+  "alternativas": {
+   "a": "Segmentos de clientes e canais",
+   "b": "Proposta de valor e fontes de receita",
+   "c": "Relacionamento e segmentos de clientes",
+   "d": "Parcerias principais e estrutura de custos"
+  }
+ },
+ {
+  "id": "MKT-MKT-146",
+  "area": "Marketing",
+  "mecanica": "coroa",
+  "tempo_seg": 45,
+  "cenario": "Pulse e Strada vendem tênis de corrida quase iguais, pelo mesmo preço e nas mesmas lojas. A Pulse patrocina corridas de rua e fala em 'desempenho para quem treina sério'; a Strada quase não comunica.",
+  "enunciado": "O que tende a decidir a escolha do corredor?",
+  "alternativas": {
+   "a": "A diferença técnica entre os modelos",
+   "b": "O posicionamento e a imagem da marca",
+   "c": "O ponto de venda de cada marca",
+   "d": "O preço mais baixo de uma das marcas"
+  }
+ },
+ {
+  "id": "EST-DEC-001",
+  "area": "Estratégia",
+  "mecanica": "giro",
+  "tempo_seg": 30,
+  "enunciado": "Com pressa, um comprador fecha com o primeiro fornecedor que atende prazo e preço, sem olhar os outros 30. Para Simon, isso é:",
+  "alternativas": {
+   "a": "Maximização da utilidade",
+   "b": "Escolha ótima",
+   "c": "Decisão não programada",
+   "d": "Satisficing"
+  }
+ },
+ {
+  "id": "MKT-MKT-109",
+  "area": "Marketing",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Canais e locais onde o cliente encontra e compra a oferta são qual P?",
+  "alternativas": {
+   "a": "Praça",
+   "b": "Promoção",
+   "c": "Preço",
+   "d": "Pessoas"
+  }
+ },
+ {
+  "id": "EMP-FEM-001",
+  "area": "Empreendedorismo",
+  "mecanica": "duelo",
+  "tempo_seg": 20,
+  "enunciado": "Quem descreveu o empreendedor como agente da \"destruição criativa\"?",
+  "alternativas": {
+   "a": "Richard Cantillon",
+   "b": "Israel Kirzner",
+   "c": "Joseph Schumpeter",
+   "d": "David McClelland"
+  }
+ }
+]

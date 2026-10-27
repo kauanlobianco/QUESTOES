@@ -1,0 +1,1697 @@
+[
+ {
+  "r": 1,
+  "s": "LCO",
+  "m": "transformacional-x-transacional",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A dona da padaria anima a equipe com propósito e visão de futuro. Que estilo de liderança é esse?",
+  "a": [
+   [
+    "Transacional",
+    "Confunde inspirar com trocar recompensas.",
+    "Transacional troca desempenho por recompensa."
+   ],
+   "*Transformacional",
+   [
+    "Autocrático",
+    "Confunde inspiração com centralização.",
+    "Autocrático centraliza as decisões."
+   ],
+   [
+    "Liderança no grito",
+    "Confunde energia com imposição.",
+    "Grito é coerção; o transformacional mobiliza por propósito."
+   ]
+  ],
+  "f": "Transformacional inspira e desenvolve as pessoas rumo a uma visão (os 4 Is de Bass).",
+  "e": "Os 4 Is: influência idealizada, inspiração motivacional, estímulo intelectual e consideração individualizada.",
+  "n": "Modo jogo: cenário da padaria; enunciado encurtado; distrator leve."
+ },
+ {
+  "r": 2,
+  "s": "LCO",
+  "m": "herzberg-dois-fatores",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No food truck, salário em dia e cozinha ventilada são, para Herzberg, fatores:",
+  "a": [
+   [
+    "de autorrealização",
+    "Responde com o topo de Maslow.",
+    "Autorrealização é nível de Maslow, não categoria de Herzberg."
+   ],
+   [
+    "motivacionais",
+    "Confunde ambiente com conteúdo do cargo.",
+    "Motivacionais são reconhecimento, responsabilidade e crescimento."
+   ],
+   [
+    "de estima",
+    "Responde com Maslow.",
+    "Estima é nível de Maslow."
+   ],
+   "*higiênicos"
+  ],
+  "f": "Higiênicos (ambiente) evitam insatisfação, mas não motivam por si sós.",
+  "e": "Para Herzberg, o oposto da insatisfação é a 'não insatisfação'; motivação vem do conteúdo do trabalho.",
+  "n": "Modo jogo: cenário do food truck."
+ },
+ {
+  "r": 3,
+  "s": "LCO",
+  "m": "maslow",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Comer, beber e dormir ficam em qual nível da pirâmide de Maslow?",
+  "a": [
+   [
+    "Autorrealização",
+    "Inverte a pirâmide.",
+    "Autorrealização é o topo, não a base."
+   ],
+   [
+    "Sociais",
+    "Confunde com pertencimento.",
+    "Sociais tratam de amizade e pertencimento."
+   ],
+   "*Fisiológicas",
+   [
+    "Estima",
+    "Confunde com reconhecimento.",
+    "Estima trata de reconhecimento e status."
+   ]
+  ],
+  "f": "Fisiológicas são a base da pirâmide; acima vêm segurança, sociais, estima e autorrealização.",
+  "e": "Necessidades primárias (fisiológicas e segurança) são satisfeitas externamente; as secundárias, internamente.",
+  "n": "Modo jogo: exemplo concreto no enunciado."
+ },
+ {
+  "r": 4,
+  "s": "LCO",
+  "m": "transformacional-x-transacional",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Gerente da loja de açaí: \"Bateu a meta, ganhou bônus.\" Que estilo de liderança é esse?",
+  "a": [
+   [
+    "Servidora",
+    "Confunde com servir à equipe.",
+    "Servidora prioriza as necessidades dos liderados."
+   ],
+   [
+    "Liberal",
+    "Confunde com deixar a equipe livre.",
+    "Liberal delega quase tudo e orienta pouco."
+   ],
+   "*Transacional",
+   [
+    "Transformacional",
+    "Confunde bônus com inspiração.",
+    "Transformacional mobiliza por visão, não por troca."
+   ]
+  ],
+  "f": "Transacional é uma relação de troca: desempenho em troca de recompensa.",
+  "e": "Burns e Bass: o transacional barganha; o transformacional inspira mudança e desenvolvimento.",
+  "n": "Modo jogo: cenário da loja de açaí; bloom ajustado a entender."
+ },
+ {
+  "r": 5,
+  "s": "LCO",
+  "m": "clima-x-cultura",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na loja, a equipe diz que \"o astral anda pesado\" desde a troca de gerente. Isso descreve o:",
+  "a": [
+   "*Clima organizacional",
+   [
+    "Organograma",
+    "Confunde percepção com estrutura formal.",
+    "Organograma mostra cargos e hierarquia."
+   ],
+   [
+    "Regimento interno",
+    "Confunde com normas escritas.",
+    "Regimento é regra formal, não percepção."
+   ],
+   [
+    "Cultura organizacional",
+    "Confunde clima com cultura.",
+    "Cultura é profunda e duradoura; clima é a percepção do momento."
+   ]
+  ],
+  "f": "Clima é a percepção coletiva e atual sobre o ambiente; cultura são pressupostos profundos.",
+  "e": "Clima muda com eventos recentes; cultura muda devagar.",
+  "n": "Modo jogo: definição virou mini-caso da loja."
+ },
+ {
+  "r": 6,
+  "s": "LCO",
+  "m": "burnout",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Burnout, comum em call centers, está ligado principalmente a:",
+  "a": [
+   [
+    "falta de interesse por novidades",
+    "Confunde com desmotivação pontual.",
+    "Burnout não é desinteresse; é exaustão por estresse crônico."
+   ],
+   [
+    "preferência por home office",
+    "Confunde com modalidade de trabalho.",
+    "O modelo de trabalho não define burnout."
+   ],
+   "*estresse crônico no trabalho",
+   [
+    "ausência de metas individuais",
+    "Confunde com falta de direção.",
+    "Burnout costuma vir do excesso de pressão, não da falta de metas."
+   ]
+  ],
+  "f": "Burnout é exaustão decorrente de estresse crônico no trabalho.",
+  "e": "Dimensões: exaustão emocional, despersonalização e baixa realização pessoal (Benevides-Pereira, 2001).",
+  "n": "Modo jogo: enunciado e alternativas encurtados."
+ },
+ {
+  "r": 7,
+  "s": "LCO",
+  "m": "assedio-moral",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Um gerente humilha o mesmo funcionário em público, semana após semana. Isso caracteriza:",
+  "a": [
+   "*Assédio moral",
+   [
+    "Feedback corretivo",
+    "Confunde humilhação com orientação.",
+    "Feedback corretivo é respeitoso e focado no trabalho."
+   ],
+   [
+    "Gestão por desempenho",
+    "Confunde abuso com cobrança.",
+    "Cobrar resultados não envolve humilhar."
+   ],
+   [
+    "Comunicação direta",
+    "Confunde agressão com franqueza.",
+    "Franqueza não justifica humilhação repetida."
+   ]
+  ],
+  "f": "Assédio moral é conduta abusiva, repetida e prolongada contra a dignidade do trabalhador.",
+  "e": "Leymann, Hirigoyen e Freitas. A repetição e a duração distinguem o assédio de um conflito pontual.",
+  "n": "Modo jogo: cenário concreto e curto."
+ },
+ {
+  "r": 8,
+  "s": "LCO",
+  "m": "equipes",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na atlética, um cuida das finanças, outro da arte e outro dos patrocínios. Por que isso ajuda?",
+  "a": [
+   [
+    "Elimina a necessidade de liderança",
+    "Acha que complementaridade dispensa líder.",
+    "Equipes complementares ainda precisam de coordenação."
+   ],
+   "*Amplia o que o grupo consegue entregar",
+   [
+    "Deixa todos os cargos iguais",
+    "Confunde complementar com igualar.",
+    "Complementar é ter papéis diferentes, não iguais."
+   ],
+   [
+    "Garante festa todo fim de semana",
+    "Confunde equipe com evento.",
+    "O ganho é complementaridade: cada habilidade cobre o que falta à outra."
+   ]
+  ],
+  "f": "Papéis complementares e interdependentes fazem o resultado superar a soma das partes.",
+  "e": "Grupo é só reunião de pessoas; equipe pressupõe objetivo comum e complementaridade (Belbin, Parker).",
+  "n": "Modo jogo: cenário da atlética; distrator leve."
+ },
+ {
+  "r": 9,
+  "s": "LCO",
+  "m": "processo-de-comunicacao",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No grupo de WhatsApp da loja, quem escreve e envia o aviso é o:",
+  "a": [
+   "*Emissor",
+   [
+    "Receptor",
+    "Inverte os papéis.",
+    "Receptor recebe e decodifica a mensagem."
+   ],
+   [
+    "Canal",
+    "Confunde o meio com quem envia.",
+    "Canal é o meio: aqui, o WhatsApp."
+   ],
+   [
+    "Administrador",
+    "Confunde o papel no app com o papel na comunicação.",
+    "Quem codifica e envia é o emissor, seja ou não admin."
+   ]
+  ],
+  "f": "Emissor codifica e envia; receptor decodifica; canal é o meio usado.",
+  "e": "Fórmula da aula: E – c – M – d – R.",
+  "n": "Modo jogo: cenário do WhatsApp; distrator leve."
+ },
+ {
+  "r": 10,
+  "s": "LCO",
+  "m": "barreiras-de-comunicacao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A gerente recebe 200 e-mails por dia e não acha mais o que importa. Que barreira é essa?",
+  "a": [
+   [
+    "Filtragem",
+    "Confunde com manipular a informação.",
+    "Filtragem é o emissor distorcer ou omitir parte da mensagem."
+   ],
+   [
+    "Ambiguidade",
+    "Confunde volume com falta de clareza.",
+    "Ambiguidade é mensagem com mais de um sentido."
+   ],
+   "*Sobrecarga de informação",
+   [
+    "Ruído físico",
+    "Confunde com barulho no ambiente.",
+    "Ruído físico é interferência do ambiente, como barulho."
+   ]
+  ],
+  "f": "Sobrecarga de informação: o excesso de mensagens supera a capacidade de processar.",
+  "e": "Barreiras comuns: filtragem, percepção seletiva, sobrecarga, emoções, linguagem e ruído.",
+  "n": "Modo jogo: um número só; bloom ajustado a entender."
+ },
+ {
+  "r": 11,
+  "s": "LCO",
+  "m": "cultura-organizacional",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Valores e crenças que todos na padaria seguem, mesmo sem regra escrita, formam a:",
+  "a": [
+   [
+    "Meta de vendas",
+    "Confunde valores com objetivos comerciais.",
+    "Metas são objetivos de curto prazo, não valores."
+   ],
+   [
+    "Estrutura hierárquica",
+    "Confunde com cargos e níveis.",
+    "Estrutura mostra cargos e níveis, não crenças."
+   ],
+   [
+    "Folha de ponto",
+    "Confunde com controle administrativo.",
+    "Folha de ponto é ferramenta de rotina."
+   ],
+   "*Cultura organizacional"
+  ],
+  "f": "Cultura são valores, crenças e pressupostos compartilhados que orientam o comportamento.",
+  "e": "Schein: artefatos → valores declarados → pressupostos básicos.",
+  "n": "Modo jogo: definição virou mini-caso da padaria."
+ },
+ {
+  "r": 12,
+  "s": "LCO",
+  "m": "locus-de-controle",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Após reprovar, Ana diz: \"Vou estudar mais, depende de mim.\" Ela tem lócus de controle:",
+  "a": [
+   "*Interno",
+   [
+    "Externo",
+    "Inverte o conceito.",
+    "Externo atribui resultados à sorte ou aos outros."
+   ],
+   [
+    "Situacional",
+    "Inventa categoria.",
+    "Rotter fala em lócus interno ou externo."
+   ],
+   [
+    "Astrológico",
+    "Atribui o resultado aos astros.",
+    "Culpar os astros seria lócus externo; Ana atribui a si mesma."
+   ]
+  ],
+  "f": "Lócus interno: a pessoa acredita que seus resultados dependem do próprio esforço.",
+  "e": "Rotter (1975). Empreendedores tendem ao lócus interno.",
+  "n": "Modo jogo: cenário com fala; distrator leve."
+ },
+ {
+  "r": 13,
+  "s": "LCO",
+  "m": "genero-e-lideranca",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A metáfora do \"teto de vidro\" descreve uma barreira enfrentada principalmente por:",
+  "a": [
+   [
+    "profissionais recém-contratados",
+    "Confunde com início de carreira.",
+    "A barreira aparece no acesso ao topo, não na entrada."
+   ],
+   "*mulheres e minorias rumo ao topo",
+   [
+    "equipes operacionais",
+    "Confunde com qualificação técnica.",
+    "Teto de vidro afeta pessoas qualificadas."
+   ],
+   [
+    "pessoas em experiência",
+    "Confunde com período probatório.",
+    "Não se trata de período de experiência."
+   ]
+  ],
+  "f": "Teto de vidro: barreira invisível que bloqueia mulheres e minorias qualificadas no acesso ao topo.",
+  "e": "Evolução das metáforas: muro de concreto → teto de vidro → labirinto (Eagly & Carli) → labirinto de vidro.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 14,
+  "s": "GPE",
+  "m": "contrato-psicologico",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "As promessas não escritas entre funcionário e empresa formam o:",
+  "a": [
+   [
+    "Acordo coletivo",
+    "Confunde com negociação sindical.",
+    "Acordo coletivo é formal e escrito."
+   ],
+   [
+    "Registro em carteira",
+    "Confunde com o vínculo formal.",
+    "Registro formaliza o emprego, não as expectativas."
+   ],
+   "*Contrato psicológico",
+   [
+    "Regulamento interno",
+    "Confunde com regras escritas.",
+    "Regulamento é escrito; o contrato psicológico, não."
+   ]
+  ],
+  "f": "Contrato psicológico: crenças sobre promessas recíprocas não escritas (Rousseau).",
+  "e": "Inclui itens como reconhecimento, crescimento e respeito. Sua violação gera sentimento de traição e afeta engajamento.",
+  "o": "WEB",
+  "u": [
+   "https://periodicos.usp.br/rausp/article/download/51905/55957/64693",
+   "https://www.redalyc.org/pdf/840/84009312.pdf"
+  ],
+  "n": "Modo jogo: definição → termo; enunciado curto."
+ },
+ {
+  "r": 15,
+  "s": "LCO",
+  "m": "maslow",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O barista ganha \"funcionário do mês\" e é aplaudido. Que nível de Maslow isso atende?",
+  "a": [
+   [
+    "Fisiológicas",
+    "Confunde com necessidades do corpo.",
+    "Fisiológicas são comida, água e sono."
+   ],
+   [
+    "Segurança",
+    "Confunde com estabilidade.",
+    "Segurança é proteção e estabilidade."
+   ],
+   [
+    "Sociais",
+    "Confunde reconhecimento com pertencimento.",
+    "Sociais tratam de amizade; reconhecimento é estima."
+   ],
+   "*Estima"
+  ],
+  "f": "Estima reúne reconhecimento, respeito, status e valorização.",
+  "e": "Fisiológicas → segurança → sociais → estima → autorrealização.",
+  "n": "Modo jogo: cenário da cafeteria."
+ },
+ {
+  "r": 16,
+  "s": "LCO",
+  "m": "employer-branding",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A startup é famosa como \"ótimo lugar para trabalhar\". Isso é o seu:",
+  "a": [
+   "*Employer branding",
+   [
+    "Branding de produto",
+    "Confunde marca empregadora com marca do produto.",
+    "Branding de produto mira clientes, não talentos."
+   ],
+   [
+    "Plano de vendas",
+    "Confunde com área comercial.",
+    "Plano de vendas trata de metas comerciais."
+   ],
+   [
+    "Nome fantasia",
+    "Confunde com registro da empresa.",
+    "Nome fantasia é só o nome comercial."
+   ]
+  ],
+  "f": "Employer branding é a imagem da empresa como empregadora, que atrai e retém talentos.",
+  "e": "Na aula de diversidade e inclusão, aparece ligado ao pilar S do ESG.",
+  "n": "Modo jogo: definição virou mini-caso."
+ },
+ {
+  "r": 17,
+  "s": "LCO",
+  "m": "herzberg-dois-fatores",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A loja aumentou o salário e trocou o ar-condicionado. Para Herzberg, o efeito esperado é:",
+  "a": [
+   [
+    "entusiasmo automático",
+    "Acha que higiênicos motivam.",
+    "Higiênicos não geram entusiasmo; só evitam insatisfação."
+   ],
+   "*menos insatisfação",
+   [
+    "equipe cantando no expediente",
+    "Exagera o efeito do conforto.",
+    "Conforto e salário evitam queixas, mas não motivam sozinhos."
+   ],
+   [
+    "fim dos conflitos",
+    "Exagera o efeito.",
+    "Higiênicos não eliminam conflitos."
+   ]
+  ],
+  "f": "Higiênicos adequados geram 'não insatisfação', e não satisfação.",
+  "e": "Satisfação vem dos fatores motivacionais: reconhecimento, responsabilidade, crescimento, o trabalho em si.",
+  "n": "Modo jogo: cenário da loja; distrator leve."
+ },
+ {
+  "r": 18,
+  "s": "LCO",
+  "m": "processo-de-comunicacao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O chef explica o prato novo e pede: \"Repete pra mim como fica?\" Para que serve isso?",
+  "a": [
+   [
+    "Mudar de assunto",
+    "Ignora a função do retorno.",
+    "O retorno mantém o foco na mensagem."
+   ],
+   [
+    "Reforçar a hierarquia na cozinha",
+    "Confunde feedback com poder.",
+    "Feedback serve à compreensão, não à hierarquia."
+   ],
+   "*Checar se a mensagem foi entendida",
+   [
+    "Trocar o canal",
+    "Confunde feedback com canal.",
+    "Canal é o meio; o feedback é o retorno."
+   ]
+  ],
+  "f": "Feedback mostra ao emissor como a mensagem foi recebida e interpretada.",
+  "e": "Sem feedback, a comunicação vira mão única e os ruídos não são corrigidos.",
+  "n": "Modo jogo: cenário da cozinha."
+ },
+ {
+  "r": 19,
+  "s": "LCO",
+  "m": "conceito-de-motivacao",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para a disciplina, motivação é:",
+  "a": [
+   [
+    "Uma regra imposta pela chefia",
+    "Confunde motivação com obrigação.",
+    "Regra imposta gera obediência, não motivação."
+   ],
+   [
+    "Café liberado na copa",
+    "Confunde motivação com benefício.",
+    "Benefício pode ajudar, mas motivação é a tensão que move à meta."
+   ],
+   [
+    "Uma obrigação prevista em contrato",
+    "Confunde com dever formal.",
+    "Contrato define deveres, não o impulso para agir."
+   ],
+   "*Tensão que direciona a ação a metas"
+  ],
+  "f": "Motivação = motivo + ação: tensão que mobiliza e direciona o comportamento a um objetivo.",
+  "e": "Teorias de conteúdo (Maslow, Herzberg, McClelland) explicam O QUE motiva; de processo (Vroom, Adams), COMO.",
+  "n": "Modo jogo: enunciado curto; distrator leve."
+ },
+ {
+  "r": 20,
+  "s": "LCO",
+  "m": "big-five",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Qual destes traços faz parte do Big Five de personalidade?",
+  "a": [
+   [
+    "Inteligência técnica",
+    "Confunde traço com competência.",
+    "Inteligência técnica não é traço do Big Five."
+   ],
+   "*Conscienciosidade",
+   [
+    "Ambição profissional",
+    "Confunde com objetivo de carreira.",
+    "Ambição não é um dos cinco fatores."
+   ],
+   [
+    "Signo do zodíaco",
+    "Confunde ciência com astrologia.",
+    "Big Five é modelo científico; signo não é traço."
+   ]
+  ],
+  "f": "Big Five: abertura, conscienciosidade, extroversão, amabilidade e estabilidade emocional.",
+  "e": "O material da disciplina usa o Big Five junto com o MBTI e o lócus de controle.",
+  "n": "Modo jogo: distrator leve."
+ },
+ {
+  "r": 21,
+  "s": "LCO",
+  "m": "teoria-da-equidade",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Maria faz o mesmo trabalho que um colega da loja, mas ganha menos. Pela teoria de Adams, ela tende a:",
+  "a": [
+   [
+    "Aumentar o esforço por gratidão",
+    "Ignora a comparação.",
+    "Pela equidade, a injustiça leva a reequilibrar, não a agradecer."
+   ],
+   [
+    "Ignorar a comparação",
+    "Acha que comparar não importa.",
+    "Para Adams, a comparação com colegas é central."
+   ],
+   "*Sentir injustiça e mudar a conduta",
+   [
+    "Achar a diferença irrelevante",
+    "Ignora o efeito da injustiça.",
+    "Diferença sem motivo gera sensação de injustiça."
+   ]
+  ],
+  "f": "Na equidade, comparo minha contribuição/recompensa com a dos colegas e reajo à injustiça.",
+  "e": "Formas de reequilibrar: reduzir esforço, pedir aumento, mudar de referente ou sair da empresa.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 22,
+  "s": "LCO",
+  "m": "lideranca-situacional",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "No food truck, Léo dá autonomia aos veteranos e acompanha de perto os novatos. Que abordagem é essa?",
+  "a": [
+   "*Liderança situacional",
+   [
+    "Liderança liberal",
+    "Ignora o acompanhamento dos novatos.",
+    "Liberal delega para todos, sem ajustar."
+   ],
+   [
+    "Liderança autocrática",
+    "Ignora a autonomia dos veteranos.",
+    "Autocrática centraliza para todos."
+   ],
+   [
+    "Liderança transacional",
+    "Confunde com troca de recompensas.",
+    "Transacional troca resultado por recompensa."
+   ]
+  ],
+  "f": "Situacional (Hersey & Blanchard): o estilo se adapta à maturidade de cada liderado.",
+  "e": "M1 → determinar; M2 → persuadir; M3 → compartilhar; M4 → delegar.",
+  "n": "Modo jogo: cenário do food truck; dificuldade 1."
+ },
+ {
+  "r": 23,
+  "s": "LCO",
+  "m": "teoria-da-expectativa",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Para Vroom, se o vendedor acha que nem com esforço bate a meta, a motivação tende a ser:",
+  "a": [
+   [
+    "alta, se a recompensa for boa",
+    "Ignora a multiplicação.",
+    "Se um fator cai, o produto E × I × V cai."
+   ],
+   [
+    "estável, sem relação com o esforço",
+    "Nega o modelo.",
+    "Vroom liga esforço, desempenho e recompensa."
+   ],
+   [
+    "maior com competição",
+    "Inventa um fator.",
+    "Competição não compensa a expectância baixa."
+   ],
+   "*baixa, pois a expectância caiu"
+  ],
+  "f": "Motivação = expectância × instrumentalidade × valência: se a expectância cai, ela cai.",
+  "e": "Expectância: esforço → desempenho. Instrumentalidade: desempenho → recompensa. Valência: valor da recompensa.",
+  "n": "Modo jogo: cenário do vendedor."
+ },
+ {
+  "r": 24,
+  "s": "GPE",
+  "m": "contrato-psicologico",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "A gerente da academia prometeu promoção a quem batesse a meta e não cumpriu. O que foi quebrado?",
+  "a": [
+   [
+    "O organograma",
+    "Confunde com estrutura formal.",
+    "O organograma não muda com uma promessa."
+   ],
+   "*O contrato psicológico",
+   [
+    "A tabela salarial",
+    "Confunde com remuneração formal.",
+    "A tabela formal segue igual; a quebra é de expectativa."
+   ],
+   [
+    "O espelho da academia",
+    "Leva 'quebrar' ao pé da letra.",
+    "A quebra é de promessa: viola o contrato psicológico."
+   ]
+  ],
+  "f": "Promessa não cumprida viola o contrato psicológico e gera sensação de traição.",
+  "e": "Rousseau: o contrato psicológico se baseia em promessas percebidas. Sua violação reduz confiança e engajamento.",
+  "o": "WEB",
+  "u": [
+   "https://periodicos.usp.br/rausp/article/download/51905/55957/64693",
+   "https://www.redalyc.org/pdf/840/84009312.pdf"
+  ],
+  "n": "Modo jogo: cenário da academia; distrator leve; dificuldade 1."
+ },
+ {
+  "r": 25,
+  "s": "LCO",
+  "m": "herzberg-dois-fatores",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Bia tem bom salário no banco, mas sente falta de desafios e reconhecimento. Para Herzberg, faltam fatores:",
+  "a": [
+   [
+    "higiênicos",
+    "Confunde os dois grupos.",
+    "Salário é higiênico e já está atendido."
+   ],
+   [
+    "de segurança",
+    "Responde com Maslow.",
+    "Segurança é nível de Maslow."
+   ],
+   "*motivacionais",
+   [
+    "fisiológicos",
+    "Responde com Maslow.",
+    "Fisiológicas são da pirâmide de Maslow."
+   ]
+  ],
+  "f": "Desafio, reconhecimento e crescimento são fatores motivacionais.",
+  "e": "Com higiênicos atendidos, ele não está insatisfeito — mas também não está motivado.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 26,
+  "s": "LCO",
+  "m": "belbin",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "No grupo do TCC, Caio é o Semeador de Belbin. O que se espera dele?",
+  "a": [
+   [
+    "Controlar o cronograma e as rotinas",
+    "Confunde com Implementador.",
+    "Rotina e cronograma são do Implementador."
+   ],
+   [
+    "Revisar cada detalhe do texto final",
+    "Confunde com Finalizador.",
+    "Revisar detalhes é papel do Finalizador."
+   ],
+   [
+    "Mediar os conflitos entre os colegas",
+    "Confunde com Trabalhador de equipe.",
+    "Mediar conflitos é do Trabalhador de equipe."
+   ],
+   "*Trazer ideias criativas e originais"
+  ],
+  "f": "Semeador é criativo e resolve problemas difíceis; sua fraqueza é ignorar detalhes.",
+  "e": "Belbin tem 9 papéis em 3 grupos: ação, razão e pessoas.",
+  "n": "Modo jogo: cenário do TCC."
+ },
+ {
+  "r": 27,
+  "s": "LCO",
+  "m": "clima-x-cultura",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Na farmácia, subiram a rotatividade e as reclamações, e a produtividade caiu. Isso indica:",
+  "a": [
+   "*clima organizacional negativo",
+   [
+    "cultura madura e integrada",
+    "Lê sintomas ruins como positivos.",
+    "Esses sinais indicam problema, não maturidade."
+   ],
+   [
+    "liderança transformacional",
+    "Confunde sintoma com estilo.",
+    "Os sinais não apontam um estilo de liderança."
+   ],
+   [
+    "excesso de autonomia",
+    "Inventa a causa.",
+    "Nada no caso fala de autonomia."
+   ]
+  ],
+  "f": "Rotatividade, reclamações e queda de produtividade são sintomas de clima negativo.",
+  "e": "O clima é a percepção atual das pessoas; pesquisas de clima ajudam a diagnosticar causas.",
+  "n": "Modo jogo: cenário da farmácia."
+ },
+ {
+  "r": 28,
+  "s": "LCO",
+  "m": "clima-x-cultura",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Qual é a diferença entre cultura e clima organizacional?",
+  "a": [
+   [
+    "Clima trata de documentos; cultura, de metas",
+    "Inverte e reduz os conceitos.",
+    "Nenhum dos dois é documento ou meta."
+   ],
+   "*Cultura é profunda; clima, a percepção atual",
+   [
+    "Cultura é individual; clima é operacional",
+    "Confunde coletivo com individual.",
+    "Ambos são coletivos."
+   ],
+   [
+    "Clima define a missão; cultura, o cronograma",
+    "Confunde com planejamento.",
+    "Missão e cronograma são planejamento, não cultura."
+   ]
+  ],
+  "f": "Cultura é profunda e duradoura; clima é conjuntural e muda com eventos.",
+  "e": "Ex.: uma cultura de inovação pode conviver com clima de medo após demissões.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 29,
+  "s": "LCO",
+  "m": "transformacional-x-transacional",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "O que diferencia o líder transformacional do transacional?",
+  "a": [
+   "*Inspira mudança e desenvolve as pessoas",
+   [
+    "Concentra-se em recompensas imediatas",
+    "Descreve o transacional.",
+    "Recompensa imediata é marca do transacional."
+   ],
+   [
+    "Evita contato direto com a equipe",
+    "Confunde com liberal.",
+    "Transformacional é próximo da equipe."
+   ],
+   [
+    "Reduz metas para diminuir conflitos",
+    "Inventa traço.",
+    "Transformacional desafia, não reduz metas."
+   ]
+  ],
+  "f": "Transformacional inspira e desenvolve; transacional troca resultado por recompensa.",
+  "e": "Bass (1985): os 4 Is. Na prática, os estilos podem ser combinados.",
+  "n": "Modo jogo: dificuldade 1."
+ },
+ {
+  "r": 30,
+  "s": "LCO",
+  "m": "locus-de-controle",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Pedro não foi promovido e diz: \"Foi puro azar, nem adianta tentar.\" Isso indica lócus de controle:",
+  "a": [
+   [
+    "Interno",
+    "Inverte o conceito.",
+    "Interno atribui resultados ao próprio esforço."
+   ],
+   [
+    "Misto",
+    "Inventa categoria.",
+    "A fala atribui tudo ao azar: lócus externo."
+   ],
+   [
+    "Motivacional",
+    "Confunde com Herzberg.",
+    "Motivacional é fator de Herzberg."
+   ],
+   "*Externo"
+  ],
+  "f": "Atribuir resultados à sorte ou a terceiros indica lócus externo.",
+  "e": "Rotter (1975).",
+  "n": "Modo jogo: cenário com fala; dificuldade 1."
+ },
+ {
+  "r": 31,
+  "s": "LCO",
+  "m": "genero-e-lideranca",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Uma diretora competente é preterida para a presidência sem critério claro, enquanto homens sobem. Isso pode indicar:",
+  "a": [
+   [
+    "Rotatividade planejada",
+    "Confunde com saída de pessoas.",
+    "Rotatividade é saída, não bloqueio no topo."
+   ],
+   [
+    "Meritocracia estruturada",
+    "Ignora a falta de critério.",
+    "Sem critério claro, não há mérito comprovado."
+   ],
+   [
+    "Liderança servidora",
+    "Confunde com estilo de liderança.",
+    "Liderança servidora é um estilo, não uma barreira."
+   ],
+   "*Teto de vidro"
+  ],
+  "f": "Teto de vidro: barreira invisível no acesso de mulheres qualificadas ao topo.",
+  "e": "Dados da disciplina: mulheres são 26% da diretoria, mas 13% da presidência no Brasil.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 32,
+  "s": "LCO",
+  "m": "teoria-da-expectativa",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Na teoria da expectativa de Vroom, valência é:",
+  "a": [
+   [
+    "A chance de bater a meta",
+    "Confunde com expectância.",
+    "Chance de bater a meta é expectância."
+   ],
+   "*O valor dado à recompensa",
+   [
+    "A autoridade do líder",
+    "Inventa fator.",
+    "Autoridade não é componente de Vroom."
+   ],
+   [
+    "A crença de que a meta dá prêmio",
+    "Confunde com instrumentalidade.",
+    "Meta levar ao prêmio é instrumentalidade."
+   ]
+  ],
+  "f": "Valência é quanto a pessoa deseja a recompensa oferecida.",
+  "e": "Expectância (esforço → desempenho), instrumentalidade (desempenho → recompensa), valência (valor da recompensa).",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 33,
+  "s": "LCO",
+  "m": "herzberg-dois-fatores",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "O dono da hamburgueria cobra resultados, mas nunca elogia as conquistas da equipe. Para Herzberg, falta:",
+  "a": [
+   "*um fator motivacional",
+   [
+    "condição física de trabalho",
+    "Confunde reconhecimento com ambiente.",
+    "Condições físicas são higiênicas."
+   ],
+   [
+    "segurança no emprego",
+    "Confunde com estabilidade.",
+    "Segurança é higiênica."
+   ],
+   [
+    "uma política salarial",
+    "Confunde com remuneração.",
+    "Salário é fator higiênico."
+   ]
+  ],
+  "f": "Reconhecimento é fator motivacional: sem ele, não há satisfação.",
+  "e": "Fatores motivacionais: reconhecimento, responsabilidade, o próprio trabalho, crescimento.",
+  "n": "Modo jogo: cenário da hamburgueria; dificuldade 1."
+ },
+ {
+  "r": 34,
+  "s": "LCO",
+  "m": "mbti",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Quantos tipos de personalidade o MBTI forma com suas quatro dimensões?",
+  "a": [
+   [
+    "4",
+    "Conta só as dimensões.",
+    "Quatro é o número de dimensões, não de tipos."
+   ],
+   "*16",
+   [
+    "8",
+    "Soma os polos em vez de combinar.",
+    "Cada dimensão tem 2 polos: 2×2×2×2."
+   ],
+   [
+    "32",
+    "Dobra a conta.",
+    "Seriam 32 com cinco dimensões."
+   ]
+  ],
+  "f": "São 4 dimensões com 2 polos cada: 2×2×2×2 = 16 tipos.",
+  "e": "E/I, S/N, T/F, J/P. Na pesquisa da disciplina com 430 executivos brasileiros, ESTJ foi o tipo mais comum (21,6%).",
+  "n": "Modo jogo: feedback sem seta."
+ },
+ {
+  "r": 35,
+  "s": "LCO",
+  "m": "pensamento-de-grupo",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Na diretoria da atlética, todos aprovam tudo sem debate e quem discorda fica calado. Que risco é esse?",
+  "a": [
+   [
+    "Excesso de diversidade de ideias",
+    "Inverte o caso.",
+    "O caso mostra falta, não excesso, de ideias diferentes."
+   ],
+   [
+    "Criatividade desorganizada",
+    "Inventa o risco.",
+    "Não há criatividade: há consenso forçado."
+   ],
+   "*Pensamento de grupo",
+   [
+    "Rotatividade involuntária",
+    "Confunde com saída de pessoas.",
+    "Ninguém saiu; o risco é decidir mal."
+   ]
+  ],
+  "f": "Pensamento de grupo (Janis): a busca de consenso num grupo coeso sufoca a crítica.",
+  "e": "Conecta-se ao 'silêncio organizacional' (Detert & Burris) estudado na disciplina: medo de discordar reduz a voz.",
+  "o": "WEB",
+  "u": [
+   "https://en.wikipedia.org/wiki/Groupthink",
+   "https://www.ebsco.com/research-starters/social-sciences-and-humanities/groupthink"
+  ],
+  "n": "Modo jogo: cenário da atlética."
+ },
+ {
+  "r": 36,
+  "s": "LCO",
+  "m": "burnout",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Exaustão emocional, despersonalização e baixa realização pessoal são dimensões de:",
+  "a": [
+   [
+    "Introversão",
+    "Confunde com traço de personalidade.",
+    "Introversão é traço, não síndrome."
+   ],
+   [
+    "Lócus externo",
+    "Confunde com Rotter.",
+    "Lócus trata de atribuição de resultados."
+   ],
+   [
+    "Baixa valência",
+    "Confunde com Vroom.",
+    "Valência é o valor dado à recompensa."
+   ],
+   "*Burnout"
+  ],
+  "f": "Burnout tem três dimensões: exaustão emocional, despersonalização e baixa realização.",
+  "e": "Sintomas podem ser psicossomáticos, comportamentais, emocionais e defensivos (Benevides-Pereira, 2001).",
+  "n": "Modo jogo: dificuldade 1."
+ },
+ {
+  "r": 37,
+  "s": "LCO",
+  "m": "lideranca-situacional",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Na loja de celulares, Rita dá passo a passo aos estagiários e autonomia aos veteranos. O que ela aplica?",
+  "a": [
+   "*Liderança situacional",
+   [
+    "Liderança transformacional",
+    "Confunde ajuste com inspiração.",
+    "O caso mostra ajuste ao preparo, não inspiração."
+   ],
+   [
+    "Liderança liberal",
+    "Ignora o passo a passo.",
+    "Liberal delega para todos."
+   ],
+   [
+    "Teoria dos dois fatores",
+    "Confunde com Herzberg.",
+    "Herzberg trata de motivação, não de estilo."
+   ]
+  ],
+  "f": "Ajustar direção e apoio ao preparo de cada liderado é liderança situacional.",
+  "e": "Júnior (M1/M2) pede mais direção; sênior (M4), delegação.",
+  "n": "Modo jogo: cenário da loja."
+ },
+ {
+  "r": 38,
+  "s": "LCO",
+  "m": "belbin",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Na empresa júnior, o Coordenador de Belbin se destaca por:",
+  "a": [
+   [
+    "Criar soluções fora do padrão",
+    "Confunde com Semeador.",
+    "Ideias fora do padrão são do Semeador."
+   ],
+   [
+    "Achar falhas nos detalhes",
+    "Confunde com Finalizador.",
+    "Caçar falhas é do Finalizador."
+   ],
+   "*Esclarecer objetivos e delegar",
+   [
+    "Buscar contatos externos",
+    "Confunde com Investigador.",
+    "Contatos externos são do Investigador de recursos."
+   ]
+  ],
+  "f": "Coordenador é maduro, esclarece objetivos e delega; risco: parecer manipulador.",
+  "e": "Os 9 papéis se agrupam em ação, razão e pessoas; o Coordenador é do grupo de pessoas.",
+  "n": "Modo jogo: cenário da empresa júnior."
+ },
+ {
+  "r": 39,
+  "s": "LCO",
+  "m": "employer-branding",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Uma rede de academias investe em employer branding. O efeito esperado é:",
+  "a": [
+   [
+    "Trocar a gestão de pessoas por marketing",
+    "Acha que marca substitui RH.",
+    "Marca empregadora complementa a gestão de pessoas."
+   ],
+   [
+    "Reduzir a importância da cultura interna",
+    "Ignora a coerência interna.",
+    "A promessa externa depende da cultura real."
+   ],
+   [
+    "Ganhar curtidas nas fotos do treino",
+    "Confunde com marketing de produto.",
+    "O foco é atrair e reter pessoas, não curtidas."
+   ],
+   "*Atrair e reter talentos com mais facilidade"
+  ],
+  "f": "Boa imagem como empregadora atrai candidatos e ajuda a reter talentos.",
+  "e": "Mas a promessa externa precisa corresponder à experiência interna, ou vem a rotatividade precoce.",
+  "n": "Modo jogo: cenário da academia; distrator leve; dificuldade 1."
+ },
+ {
+  "r": 40,
+  "s": "LCO",
+  "m": "diversidade-e-inclusao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "O time do app reúne pessoas de origens, idades e formações diferentes. O ganho principal é:",
+  "a": [
+   [
+    "Reduzir a necessidade de comunicação",
+    "Acha que diferença dispensa diálogo.",
+    "Diversidade pede mais diálogo, não menos."
+   ],
+   "*Mais variedade de perspectivas e soluções",
+   [
+    "Uniformizar o pensamento da gerência",
+    "Inverte o conceito.",
+    "Diversidade amplia, não uniformiza."
+   ],
+   [
+    "Padronizar as experiências",
+    "Inverte o conceito.",
+    "Diversidade traz experiências variadas."
+   ]
+  ],
+  "f": "Diversidade amplia perspectivas; inclusão garante que elas participem de fato.",
+  "e": "Diversidade é composição; inclusão é pertencimento e participação efetiva.",
+  "n": "Modo jogo: cenário do app; dificuldade 1."
+ },
+ {
+  "r": 41,
+  "s": "LCO",
+  "m": "teoria-da-equidade",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A promoção do Rafael",
+   "Rafael virou coordenador na loja de móveis. Depois, soube que os outros coordenadores, com a mesma função, ganham bem mais que ele, e passou a recusar tarefas extras.",
+   "Teoria da equidade (Adams)",
+   "Comparação com colegas do mesmo nível"
+  ],
+  "q": "Por que Rafael ficou insatisfeito mesmo promovido?",
+  "a": [
+   "*A comparação com os pares indicou injustiça",
+   [
+    "A promoção reduziu sua necessidade de estima",
+    "Mistura Maslow.",
+    "A estima não explica a reação a colegas."
+   ],
+   [
+    "O salário deixou de ser fator higiênico",
+    "Distorce Herzberg.",
+    "Salário segue higiênico; o caso é de comparação."
+   ],
+   [
+    "O cargo novo eliminou sua motivação",
+    "Ignora a comparação.",
+    "A queda veio da comparação, não do cargo."
+   ]
+  ],
+  "f": "Na equidade, pesa a recompensa relativa aos colegas, não só o aumento recebido.",
+  "e": "Reduzir o esforço (sair no horário, recusar extras) é uma forma típica de reequilibrar a relação contribuição/recompensa.",
+  "n": "Modo jogo: cenário encurtado, sem percentuais."
+ },
+ {
+  "r": 42,
+  "s": "LCO",
+  "m": "teoria-da-expectativa",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "O prêmio que ninguém quer",
+   "Na rede de calçados, quem bater a meta ganha uma viagem de fim de semana; a equipe acha a meta possível e confia no prêmio. Mas a maioria tem filhos pequenos e preferia uma folga.",
+   "Teoria da expectativa (Vroom)",
+   "Recompensa desalinhada com o que a equipe valoriza"
+  ],
+  "q": "Qual componente de Vroom explica a baixa motivação?",
+  "a": [
+   [
+    "Expectância: a meta parece difícil",
+    "Ignora que a meta é possível.",
+    "Eles acham a meta alcançável: expectância alta."
+   ],
+   [
+    "Instrumentalidade: não creem no prêmio",
+    "Ignora a confiança no prêmio.",
+    "Eles confiam no prêmio: instrumentalidade alta."
+   ],
+   "*Valência: o prêmio vale pouco para eles",
+   [
+    "Equidade: o prêmio é igual para todos",
+    "Mistura Adams.",
+    "Equidade é de Adams; o caso é sobre o valor do prêmio."
+   ]
+  ],
+  "f": "Valência baixa: o prêmio não é valorizado, então E × I × V cai.",
+  "e": "Expectância e instrumentalidade estão altas; o problema está na escolha do prêmio.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 43,
+  "s": "LCO",
+  "m": "clima-x-cultura",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Inovação sob medo",
+   "A Pixel Lab celebra experimentos há 15 anos, até protótipos que falharam. No mês passado, demitiu 20% da equipe, e agora a maioria tem medo de propor ideias.",
+   "Cultura × clima organizacional",
+   "Evento recente contrário aos valores da empresa"
+  ],
+  "q": "O que o caso mostra sobre cultura e clima?",
+  "a": [
+   [
+    "A cultura de inovação deixou de existir",
+    "Confunde clima com cultura.",
+    "Cultura é profunda; não some em um mês."
+   ],
+   "*O clima diverge da cultura por um tempo",
+   [
+    "O clima passou a definir os valores",
+    "Inverte os conceitos.",
+    "Valores são da cultura; o clima é percepção."
+   ],
+   [
+    "A inovação depende de medo e pressão",
+    "Lê o medo como causa.",
+    "O medo é efeito das demissões, não motor da inovação."
+   ]
+  ],
+  "f": "Cultura é estável; o clima reage a eventos recentes e pode contrariá-la por um tempo.",
+  "e": "Se o clima de medo persistir, pode corroer a cultura a longo prazo — mas no caso a divergência é recente.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 44,
+  "s": "LCO",
+  "m": "lideranca-e-cultura",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A nova diretora da autarquia",
+   "Lúcia, líder inspiradora, assumiu uma autarquia de 40 anos com regras para tudo e decisões no topo. Ela quer digitalizar o atendimento em seis meses.",
+   "Liderança transformacional e cultura organizacional",
+   "Cultura hierárquica consolidada"
+  ],
+  "q": "Qual é o desafio mais provável para Lúcia?",
+  "a": [
+   [
+    "Perder sua capacidade de inspirar",
+    "Acha que o contexto muda o líder.",
+    "O estilo dela segue; o obstáculo é a cultura."
+   ],
+   [
+    "Mudar todas as rotinas em poucos meses",
+    "Foca o prazo, não a causa.",
+    "O prazo pesa, mas a barreira é a cultura."
+   ],
+   [
+    "Trocar a inspiração por regras formais",
+    "Propõe abandonar o estilo.",
+    "O desafio é a resistência, não o estilo dela."
+   ],
+   "*Vencer a resistência da cultura hierárquica"
+  ],
+  "f": "Culturas fortes e hierárquicas resistem a mudanças, mesmo com líder inspirador.",
+  "e": "Na tipologia de Cameron & Quinn, a autarquia é cultura hierárquica (controle + foco interno). O artigo da disciplina sobre liderança e cultura discute essa relação.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 45,
+  "s": "LCO",
+  "m": "big-five",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A analista organizada",
+   "Bruna é muito organizada e cumpre prazos com rigor. Foi transferida para uma equipe sem metas nem prazos claros e, dois meses depois, pediu para voltar.",
+   "Traços do Big Five",
+   "Ambiente desestruturado"
+  ],
+  "q": "Qual leitura é mais coerente com o Big Five?",
+  "a": [
+   "*Sua alta conscienciosidade pede estrutura",
+   [
+    "A personalidade dela mudou com o ambiente",
+    "Acha que traços mudam rápido.",
+    "Traços são estáveis; o ajuste ao ambiente é que falhou."
+   ],
+   [
+    "A falta de estrutura a deixou extrovertida",
+    "Mistura traços.",
+    "Extroversão não explica a frustração."
+   ],
+   [
+    "Ela rejeita qualquer planejamento",
+    "Inverte o perfil.",
+    "Ela adora planejar; falta estrutura no setor."
+   ]
+  ],
+  "f": "Alta conscienciosidade valoriza metas e prazos claros; ambientes caóticos a frustram.",
+  "e": "O ajuste pessoa–ambiente importa: o mesmo traço é vantagem num contexto e fonte de frustração em outro.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 46,
+  "s": "LCO",
+  "m": "burnout",
+  "b": "avaliar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Meditação contra burnout",
+   "Após três afastamentos por burnout, a Call Pro passou a oferecer meditação semanal. As metas seguem acima da capacidade da equipe e as pausas são controladas pelo sistema.",
+   "Burnout e sofrimento no trabalho",
+   "Ação individual mantendo a sobrecarga"
+  ],
+  "q": "Qual avaliação da iniciativa é mais adequada?",
+  "a": [
+   [
+    "Ineficaz: meditação reduz a produtividade",
+    "Ataca a ferramenta, não a causa.",
+    "Meditação não prejudica; ela só não basta."
+   ],
+   "*Trata sintomas e mantém as causas no trabalho",
+   [
+    "Suficiente: burnout depende só da pessoa",
+    "Individualiza o problema.",
+    "Burnout nasce da organização do trabalho."
+   ],
+   [
+    "Correta, mas seria melhor trocar a equipe",
+    "Culpa as pessoas.",
+    "Trocar a equipe mantém a mesma sobrecarga."
+   ]
+  ],
+  "f": "Ações individuais ajudam pouco se a sobrecarga, que causa o burnout, continua.",
+  "e": "A aula de prazer e sofrimento no trabalho (Dejours) aponta a organização do trabalho como fonte central de sofrimento.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 47,
+  "s": "LCO",
+  "m": "lideranca-situacional",
+  "b": "avaliar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Um estilo para todos",
+   "Carlos coordena três analistas com 10 anos de casa e dois estagiários novos. Ele revisa cada entrega e define o passo a passo de cada tarefa, igual para todos.",
+   "Liderança situacional (Hersey & Blanchard)",
+   "Equipe com níveis de maturidade muito diferentes"
+  ],
+  "q": "Qual é a consequência mais provável desse estilo único?",
+  "a": [
+   [
+    "Equilíbrio entre autonomia e controle",
+    "Ignora o controle total.",
+    "Não há autonomia para ninguém no caso."
+   ],
+   [
+    "Mais clareza para todos os perfis",
+    "Acha que detalhar sempre ajuda.",
+    "Detalhar ajuda os estagiários, não os veteranos."
+   ],
+   "*Os experientes se sentem controlados",
+   [
+    "Desempenho igual entre todos",
+    "Ignora a maturidade.",
+    "Perfis diferentes reagem de modo diferente."
+   ]
+  ],
+  "f": "Determinar serve aos estagiários (M1), mas sufoca os experientes (M4), que pedem delegação.",
+  "e": "A liderança situacional adapta direção e apoio à maturidade de cada liderado, por tarefa.",
+  "n": "Modo jogo: cenário encurtado; dificuldade 3."
+ },
+ {
+  "r": 48,
+  "s": "LCO",
+  "m": "belbin",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A equipe das ideias",
+   "A equipe de inovação da Rede Verde tem quatro Semeadores e uma Investigadora de recursos. Em seis meses, propôs 40 ideias, mas nenhuma saiu do papel.",
+   "Papéis de equipe de Belbin",
+   "Composição desequilibrada de papéis"
+  ],
+  "q": "Qual diagnóstico é mais coerente com o modelo de Belbin?",
+  "a": [
+   [
+    "Faltam papéis criativos, como Semeador",
+    "Ignora os quatro Semeadores.",
+    "Criatividade sobra: são quatro Semeadores."
+   ],
+   [
+    "Há controle excessivo de prazos",
+    "Inverte o caso.",
+    "Os prazos foram perdidos: falta controle."
+   ],
+   [
+    "Ideias demais são sempre um problema",
+    "Generaliza.",
+    "Ideias são boas; falta quem execute."
+   ],
+   "*Faltam papéis de ação, como Implementador"
+  ],
+  "f": "Muitos Semeadores e nenhum Implementador ou Finalizador: muitas ideias, pouca execução.",
+  "e": "Belbin: equipes eficazes equilibram papéis de ação, razão e pessoas.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 49,
+  "s": "LCO",
+  "m": "combinacao-de-estilos",
+  "b": "avaliar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Dois estilos, um gestor",
+   "Na fábrica, Marta paga bônus por metas na linha de produção. No projeto da nova linha, discute a visão de futuro, desafia o processo atual e desenvolve cada pessoa.",
+   "Estilos transacional e transformacional",
+   "Contextos diferentes na mesma organização"
+  ],
+  "q": "Qual avaliação descreve melhor a atuação de Marta?",
+  "a": [
+   [
+    "Incoerente: o transacional impede a visão",
+    "Vê os estilos como opostos.",
+    "Bass vê os estilos como complementares."
+   ],
+   "*Coerente: combina estilos conforme o contexto",
+   [
+    "Errada: o transformacional dispensa metas",
+    "Distorce o transformacional.",
+    "Inspirar não elimina metas."
+   ],
+   [
+    "Arriscada: bônus destrói o engajamento",
+    "Exagera o efeito do bônus.",
+    "Bônus funciona bem em metas operacionais."
+   ]
+  ],
+  "f": "Estilos se combinam: troca para metas operacionais, inspiração para projetos de mudança.",
+  "e": "Bass vê transacional e transformacional como complementares, não opostos.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 50,
+  "s": "LCO",
+  "m": "employer-branding",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A promessa do anúncio",
+   "A startup Nexa se vende nas redes como \"o melhor lugar para trabalhar\". Lá dentro, há jornadas de 12 horas e chefes que gritam; metade dos contratados sai antes de três meses.",
+   "Employer branding e cultura organizacional",
+   "Promessa externa incoerente com a experiência interna"
+  ],
+  "q": "O que explica a saída rápida dos contratados?",
+  "a": [
+   [
+    "O clima melhorou e gerou acomodação",
+    "Inverte o clima.",
+    "Jornadas longas e gritos indicam clima ruim."
+   ],
+   [
+    "A produtividade subiu e reduziu vagas",
+    "Inventa causa.",
+    "Ninguém foi cortado; as pessoas pediram para sair."
+   ],
+   "*A distância entre a promessa e a realidade",
+   [
+    "Menos conflitos reduziram os desafios",
+    "Inverte o caso.",
+    "Há conflitos de sobra: chefes gritam."
+   ]
+  ],
+  "f": "Quando a marca empregadora promete o que a cultura não entrega, vem a rotatividade precoce.",
+  "e": "A expectativa criada pelo employer branding vira parte do contrato psicológico; sua quebra gera frustração e saída.",
+  "n": "Modo jogo: cenário encurtado."
+ }
+]

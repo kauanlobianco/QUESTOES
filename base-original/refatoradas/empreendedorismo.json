@@ -1,0 +1,1722 @@
+[
+ {
+  "r": 1,
+  "s": "FEM",
+  "m": "conceito-de-empreendedorismo",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para Shane & Venkataraman, empreender é, no fundo:",
+  "a": [
+   [
+    "Abrir uma empresa com CNPJ",
+    "Reduz empreender a formalizar.",
+    "Intraempreendedores e empreendedores sociais também empreendem sem abrir CNPJ."
+   ],
+   "*Identificar e explorar oportunidades",
+   [
+    "Investir dinheiro em negócios arriscados",
+    "Confunde empreendedor com investidor.",
+    "Say já separava quem organiza recursos (empreendedor) de quem fornece capital."
+   ],
+   [
+    "Virar o próprio chefe e acordar tarde",
+    "Reduz empreender a autonomia.",
+    "Autonomia não basta: o centro é explorar oportunidades que criam valor."
+   ]
+  ],
+  "f": "Empreender é o nexo pessoa–oportunidade: identificar, avaliar e explorar oportunidades que geram valor.",
+  "e": "Shane & Venkataraman (2000) definem o campo como o estudo de como oportunidades são descobertas, avaliadas e exploradas. Por isso há empreendedorismo também dentro de empresas e em iniciativas sociais.",
+  "n": "Modo jogo: alternativas encurtadas; distrator leve sobre autonomia."
+ },
+ {
+  "r": 2,
+  "s": "INO",
+  "m": "invencao-x-inovacao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Santos Dumont inventou o avião; a Embraer vendeu milhares de aviões. O que a Embraer fez?",
+  "a": [
+   "*Inovou: aplicou a ideia gerando valor",
+   [
+    "Inventou, pois criou algo novo",
+    "Confunde inovar com inventar.",
+    "Inventar é criar; a Embraer levou a criação ao mercado com valor."
+   ],
+   [
+    "Nada novo: só copiou o avião",
+    "Acha que só o primeiro criador inova.",
+    "Inovar é aplicar gerando valor, mesmo sem ter inventado."
+   ],
+   [
+    "Inovou só por usar alta tecnologia",
+    "Associa inovação apenas a alta tecnologia.",
+    "Inovação pode ser de processo ou posição, sem tecnologia sofisticada."
+   ]
+  ],
+  "f": "Invenção é criar; inovação é levar a criação ao mercado ou à sociedade gerando valor.",
+  "e": "Santos Dumont inventou; a Embraer inovou ao comercializar mais de 8.000 aviões. Kane Kramer inventou o player digital; a Apple inovou com iPod + iTunes.",
+  "n": "Modo jogo: virou mini-caso Santos Dumont × Embraer, com alternativas curtas."
+ },
+ {
+  "r": 3,
+  "s": "FEM",
+  "m": "mei-ambiente-para-empreender",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Dona Rita vende quentinhas sozinha em casa e quer se formalizar. O MEI foi criado para quem é:",
+  "a": [
+   [
+    "Empresa com dezenas de funcionários",
+    "Confunde MEI com empresa de maior porte.",
+    "O MEI admite no máximo um empregado e tem teto baixo de faturamento."
+   ],
+   [
+    "Sociedade com vários sócios",
+    "Confunde MEI com sociedade empresária.",
+    "MEI é individual: não admite sócios."
+   ],
+   [
+    "Startup em busca de capital de risco",
+    "Confunde MEI com enquadramento de startup.",
+    "Startups têm marco legal próprio; o MEI é para o pequeno negócio individual."
+   ],
+   "*Pequeno empreendedor individual"
+  ],
+  "f": "O MEI formaliza o pequeno empreendedor individual com regras simplificadas e teto de faturamento.",
+  "e": "Criado pela LC 128/2008, o MEI passou de 10 milhões de registros em 2020. Em 2026 o teto ainda é de R$ 81 mil por ano (sem reajuste desde 2018).",
+  "o": "NLM+WEB",
+  "u": [
+   "https://www.meucontadoronline.com.br/blog/limite-do-mei-2026/"
+  ],
+  "dt": "LC 123/2006 e LC 128/2008 — regras vigentes em 2026",
+  "n": "Modo jogo: cenário da Dona Rita no enunciado; alternativas curtas."
+ },
+ {
+  "r": 4,
+  "s": "FEM",
+  "m": "locus-de-controle",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Os bolos da Maria",
+   "Maria vende bolos pelo Instagram e diz: “se as vendas caem, eu errei; se sobem, o mérito é meu”.",
+   "Lócus de controle (Rotter)",
+   "Crença sobre a causa dos resultados"
+  ],
+  "q": "Que conceito descreve essa crença de Maria?",
+  "a": [
+   [
+    "Lócus de controle externo",
+    "Inverte o conceito.",
+    "No lócus externo, a pessoa atribui os resultados à sorte ou a terceiros."
+   ],
+   "*Lócus de controle interno",
+   [
+    "Necessidade de afiliação",
+    "Troca Rotter por McClelland.",
+    "Afiliação (McClelland) é a busca de aceitação e relacionamentos."
+   ],
+   [
+    "Síndrome de coach motivacional",
+    "Confunde crença sobre causas com autoajuda.",
+    "Não é autoajuda: Rotter descreve a quem a pessoa atribui os resultados."
+   ]
+  ],
+  "f": "Lócus de controle interno (Rotter): crença de que os próprios atos determinam os resultados.",
+  "e": "Rotter separa lócus interno (meu esforço decide) de externo (sorte, destino, outros decidem). É uma crença geral, diferente do controle comportamental percebido de Ajzen.",
+  "n": "Modo jogo: passou de duelo para giro (aplicar); cenário de 1 frase; distrator leve."
+ },
+ {
+  "r": 5,
+  "s": "MOD",
+  "m": "mvp",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Segundo Eric Ries, um MVP (produto mínimo viável) é:",
+  "a": [
+   [
+    "A versão final, pronta para escalar",
+    "Confunde MVP com produto final.",
+    "O MVP é um experimento, não a versão final do produto."
+   ],
+   [
+    "Um protótipo malfeito para economizar",
+    "Confunde 'mínimo' com baixa qualidade.",
+    "MVP não é produto malfeito: é o menor experimento que testa uma hipótese."
+   ],
+   "*O menor teste de uma hipótese",
+   [
+    "O plano financeiro para investidores",
+    "Confunde MVP com documento de planejamento.",
+    "MVP é algo que o cliente usa ou vê, não um plano."
+   ]
+  ],
+  "f": "MVP é o experimento que roda o ciclo construir–medir–aprender com o mínimo de esforço.",
+  "e": "Exemplos da disciplina: vídeo do Dropbox, fachada da Zappos, Mágico de Oz da Aardvark, concierge do Food on the Table.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 6,
+  "s": "FEM",
+  "m": "intraempreendedorismo",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Caio propôs e lidera, com verba da diretoria, um cartão para universitários na fintech onde trabalha. Ele é:",
+  "a": [
+   [
+    "Empreendedor por necessidade",
+    "Confunde motivação com contexto.",
+    "Necessidade é abrir negócio por falta de alternativa de renda."
+   ],
+   [
+    "Investidor-anjo",
+    "Confunde quem empreende com quem financia.",
+    "Investidor-anjo aporta capital em startups de terceiros."
+   ],
+   "*Intraempreendedor",
+   [
+    "Funcionário puxa-saco do mês",
+    "Vê iniciativa interna como bajulação.",
+    "Propor e liderar inovação com recursos da empresa é intraempreender."
+   ]
+  ],
+  "f": "Intraempreendedor (Pinchot) empreende dentro de uma organização existente, com recursos dela.",
+  "e": "Exemplos da disciplina: Gmail (Paul Buchheit no Google) e o botão Curtir do Facebook nasceram de intraempreendedorismo.",
+  "n": "Modo jogo: passou de duelo para giro (aplicar); caso do Caio; distrator leve."
+ },
+ {
+  "r": 7,
+  "s": "MOD",
+  "m": "bmc-nove-blocos",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A atlética montou o Business Model Canvas da festa. Quantos blocos tem o quadro?",
+  "a": [
+   [
+    "7",
+    "Esquece blocos do lado da eficiência.",
+    "Faltam blocos: recursos, atividades, parcerias e custos também entram."
+   ],
+   "*9",
+   [
+    "10",
+    "Soma um bloco que não existe (ex.: concorrentes).",
+    "Concorrência não é bloco do BMC — uma das críticas ao modelo."
+   ],
+   [
+    "12",
+    "Confunde com o Project Model Canvas.",
+    "O Project Model Canvas tem 13 blocos; o BMC tem 9."
+   ]
+  ],
+  "f": "São 9 blocos: segmentos, proposta, canais, relacionamento, receitas, recursos, atividades, parcerias e custos.",
+  "e": "O lado direito trata de valor (clientes, canais, relacionamento, receitas); o esquerdo, de eficiência (recursos, atividades, parcerias, custos).",
+  "n": "Modo jogo: cenário da atlética no enunciado."
+ },
+ {
+  "r": 8,
+  "s": "FEM",
+  "m": "processo-empreendedor",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No processo empreendedor visto em aula, qual é a primeira fase?",
+  "a": [
+   "*Identificar oportunidades",
+   [
+    "Planejar e organizar recursos",
+    "Pula a fase de oportunidade.",
+    "Planejar vem depois de identificar a oportunidade."
+   ],
+   [
+    "Criar o empreendimento",
+    "Confunde início do processo com formalização.",
+    "Criar (formalizar, abrir) é a terceira fase."
+   ],
+   [
+    "Escolher o nome e o logo",
+    "Começa pela parte divertida.",
+    "Nome e logo vêm bem depois: tudo começa com uma oportunidade real."
+   ]
+  ],
+  "f": "O processo começa ao identificar a oportunidade; depois vêm planejar, criar e desenvolver.",
+  "e": "As 4 fases aparecem em Cunha, Mariano e Moraes (2021), capítulo usado em Fundamentos e em Modelagem.",
+  "n": "Modo jogo: enunciado mais curto; distrator leve no lugar de 'desenvolvimento'."
+ },
+ {
+  "r": 9,
+  "s": "MOD",
+  "m": "proposta-de-valor",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No Canvas do food truck de açaí, o bloco Proposta de Valor descreve:",
+  "a": [
+   [
+    "O preço cobrado por copo",
+    "Confunde proposta de valor com receita.",
+    "Preço e forma de pagamento ficam em Fontes de Receita."
+   ],
+   [
+    "Os canais de venda e entrega",
+    "Confunde com o bloco Canais.",
+    "Canais tratam de comunicação, venda e entrega."
+   ],
+   [
+    "Os recursos usados para produzir o açaí",
+    "Confunde com Recursos Principais.",
+    "Recursos ficam no lado esquerdo (eficiência) do Canvas."
+   ],
+   "*O problema do cliente que ele resolve"
+  ],
+  "f": "Proposta de valor é o motivo de o cliente escolher você: o problema que resolve ou a necessidade que atende.",
+  "e": "No Canvas da Proposta de Valor, ela se detalha em analgésicos (aliviam dores) e criadores de ganho.",
+  "n": "Modo jogo: contexto de food truck; alternativas curtas."
+ },
+ {
+  "r": 10,
+  "s": "FEM",
+  "m": "cces-mcclelland",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Pedro fechou dois negócios, revisou os erros, ajustou o plano e abriu o terceiro. Qual CCE ele mostra?",
+  "a": [
+   "*Persistência",
+   [
+    "Independência e autoconfiança",
+    "Confunde seguir em frente com autonomia.",
+    "Independência é manter convicções e agir por conta própria diante de oposição."
+   ],
+   [
+    "Correr riscos calculados",
+    "Vê o novo negócio só como risco.",
+    "O destaque é não desistir após obstáculos, reavaliando o plano."
+   ],
+   [
+    "Busca de informações",
+    "Associa 'revisar erros' a pesquisar dados.",
+    "Busca de informações é investigar clientes, fornecedores e concorrentes."
+   ]
+  ],
+  "f": "Persistência: enfrentar obstáculos e reavaliar o plano sem abandonar a meta.",
+  "e": "As 10 CCEs (Empretec) formam 3 conjuntos: realização (persistência está aqui), planejamento e poder.",
+  "n": "Modo jogo: passou de duelo para giro (aplicar); enunciado mais curto."
+ },
+ {
+  "r": 11,
+  "s": "FEM",
+  "m": "empreendedorismo-social",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para Dees, o que marca o empreendedorismo social?",
+  "a": [
+   "*Resolver problemas sociais pelo impacto",
+   [
+    "Maximizar o lucro dos sócios",
+    "Confunde com o empreendedorismo empresarial.",
+    "O social mede sucesso pelo impacto, não pelo lucro distribuído."
+   ],
+   [
+    "Vender para a base da pirâmide com lucro",
+    "Confunde social com negócio inclusivo (BOP).",
+    "Negócios na base da pirâmide visam lucro; o social reinveste na causa."
+   ],
+   [
+    "Captar doações sem gestão",
+    "Confunde com filantropia pura.",
+    "Dees destaca aplicar gestão à missão social."
+   ]
+  ],
+  "f": "Empreendedorismo social aplica gestão para resolver problemas sociais; o impacto mede o sucesso.",
+  "e": "Exemplo da disciplina: One World Health (farmacêutica sem fins lucrativos). Já Dr. Consulta e Nath Finanças são negócios inclusivos (BOP).",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 12,
+  "s": "MOD",
+  "m": "plano-de-negocios-sumario-executivo",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Qual parte do plano de negócios abre o documento, mas é escrita por último?",
+  "a": [
+   [
+    "Caracterização da empresa",
+    "Confunde com a primeira seção redigida.",
+    "A caracterização é escrita primeiro, não por último."
+   ],
+   [
+    "Plano financeiro",
+    "Associa investidores a números.",
+    "O plano financeiro detalha DRE, fluxo e VPL; o resumo é outra seção."
+   ],
+   "*Sumário executivo",
+   [
+    "Análise de mercado",
+    "Confunde resumo com diagnóstico de mercado.",
+    "A análise de mercado detalha público, concorrentes e fornecedores."
+   ]
+  ],
+  "f": "O sumário executivo abre o plano, mas sai por último, porque resume todas as seções.",
+  "e": "Ordem de redação na Aula 2 de Modelagem: caracterização → mercado → estratégico → marketing e vendas → financeiro → sumário executivo.",
+  "n": "Modo jogo: enunciado mais curto."
+ },
+ {
+  "r": 13,
+  "s": "MOD",
+  "m": "segmentos-de-clientes",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No Canvas, o bloco Segmentos de Clientes define:",
+  "a": [
+   [
+    "Fornecedores e aliados do negócio",
+    "Confunde com Parcerias Principais.",
+    "Fornecedores e aliados ficam em Parcerias Principais."
+   ],
+   "*Para quem o negócio cria valor",
+   [
+    "Pontos de contato de venda e entrega",
+    "Confunde com Canais.",
+    "Pontos de contato e entrega ficam em Canais."
+   ],
+   [
+    "Como fidelizar quem já compra",
+    "Confunde com Relacionamento.",
+    "Fidelizar e reter fica em Relacionamento com Clientes."
+   ]
+  ],
+  "f": "Segmentos de clientes: para quem a empresa cria valor — grupos com necessidades em comum.",
+  "e": "É o ponto de partida do lado direito do Canvas, junto com a proposta de valor.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 14,
+  "s": "FEM",
+  "m": "ideia-x-oportunidade",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Ana viu que pais que trabalham à noite não têm onde deixar os filhos e abriu uma creche noturna. Ela identificou:",
+  "a": [
+   [
+    "Uma ameaça externa",
+    "Usa a lente da SWOT ao contrário.",
+    "Necessidade não atendida é chance de criar valor, não ameaça."
+   ],
+   [
+    "Só uma ideia, ainda sem mercado",
+    "Confunde ideia com oportunidade.",
+    "Há demanda observada e necessidade concreta: isso é oportunidade."
+   ],
+   "*Uma oportunidade de mercado",
+   [
+    "Uma inovação de paradigma",
+    "Exagera o grau de novidade.",
+    "Creche noturna não muda a lógica de um setor inteiro."
+   ]
+  ],
+  "f": "Oportunidade é uma necessidade real não atendida, com janela favorável — mais que uma ideia.",
+  "e": "War Room de Modelagem: ideia (palpite) → oportunidade (leitura validada do mercado) → modelo de negócio → plano.",
+  "n": "Modo jogo: passou de duelo para giro (aplicar); enunciado mais curto."
+ },
+ {
+  "r": 15,
+  "s": "INO",
+  "m": "incremental-x-radical",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A padaria lança todo ano uma versão um pouco melhor do seu pão de queijo. Que inovação é essa?",
+  "a": [
+   "*Incremental",
+   [
+    "Radical",
+    "Confunde melhoria gradual com ruptura.",
+    "Radical é ruptura profunda, que pode criar mercados novos."
+   ],
+   [
+    "Disruptiva",
+    "Confunde com a inovação que desloca líderes.",
+    "Disruptiva começa simples e barata e desloca empresas estabelecidas."
+   ],
+   [
+    "De paradigma",
+    "Confunde grau com tipo (4Ps).",
+    "Paradigma muda o modelo mental de um setor, não é melhoria gradual."
+   ]
+  ],
+  "f": "Incremental = melhorias graduais no que já existe; radical = ruptura.",
+  "e": "O grau de novidade vai de incremental a radical; já os 4Ps de Tidd & Bessant dizem ONDE se inova (produto, processo, posição, paradigma).",
+  "n": "Modo jogo: virou mini-caso da padaria."
+ },
+ {
+  "r": 16,
+  "s": "MOD",
+  "m": "plano-de-negocios-finalidade",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na visão tradicional, para que serve um plano de negócios?",
+  "a": [
+   [
+    "Garantir lucro já no primeiro ano",
+    "Confunde planejar com garantir resultado.",
+    "Nenhum plano garante lucro: 'o papel aceita tudo'."
+   ],
+   "*Organizar a ideia e avaliar a viabilidade",
+   [
+    "Substituir a validação com clientes",
+    "Confunde plano com validação.",
+    "A abordagem Lean critica o plano que substitui o teste com clientes."
+   ],
+   [
+    "Registrar a empresa na Junta Comercial",
+    "Confunde plano com formalização.",
+    "Registro é etapa jurídica, não função do plano."
+   ]
+  ],
+  "f": "O plano organiza a ideia e avalia viabilidade — útil na execução, rígido demais na fase de busca.",
+  "e": "Modelo de negócio é flexível (fase de busca); plano de negócios é detalhado e prescritivo (fase de execução).",
+  "n": "Modo jogo: enunciado e alternativas encurtados."
+ },
+ {
+  "r": 17,
+  "s": "FEM",
+  "m": "cces-mcclelland",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "“Busca de oportunidades e iniciativa” faz parte de qual lista?",
+  "a": [
+   [
+    "Fases do processo empreendedor",
+    "Confunde característica pessoal com fase do processo.",
+    "As fases são oportunidade, planejamento, criação e desenvolvimento."
+   ],
+   [
+    "Blocos do Business Model Canvas",
+    "Confunde com ferramenta de modelagem.",
+    "O Canvas descreve o negócio, não o comportamento da pessoa."
+   ],
+   "*As 10 CCEs de McClelland",
+   [
+    "Antecedentes da intenção (Ajzen)",
+    "Confunde com a Teoria do Comportamento Planejado.",
+    "Os antecedentes de Ajzen são atitude, norma subjetiva e controle percebido."
+   ]
+  ],
+  "f": "É uma das 10 CCEs (McClelland/Empretec), no conjunto de realização.",
+  "e": "Realização: oportunidade e iniciativa, riscos calculados, qualidade e eficiência, persistência, comprometimento. Planejamento: informação, metas, monitoramento. Poder: persuasão e rede, independência.",
+  "n": "Modo jogo: enunciado mais direto."
+ },
+ {
+  "r": 18,
+  "s": "INO",
+  "m": "incremental-x-radical",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Que grau de inovação muda as regras de um setor e pode criar mercados novos?",
+  "a": [
+   [
+    "Incremental",
+    "Confunde com melhoria gradual.",
+    "Incremental melhora o que já existe."
+   ],
+   [
+    "Sustentadora",
+    "Confunde com a inovação que serve clientes atuais.",
+    "A sustentadora melhora o desempenho para os clientes que já existem."
+   ],
+   "*Radical",
+   [
+    "De processo",
+    "Confunde grau de novidade com tipo de inovação.",
+    "Processo diz ONDE se inova, não o grau de ruptura."
+   ]
+  ],
+  "f": "Radical é ruptura: muda regras do setor e pode criar mercados novos.",
+  "e": "Incremental e radical são os extremos da escala de novidade usada nas aulas (0 a 10).",
+  "n": "Modo jogo: enunciado mais curto."
+ },
+ {
+  "r": 19,
+  "s": "FEM",
+  "m": "atitude-empreendedora",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para a educação empreendedora (Arruda, 2016), a atitude empreendedora:",
+  "a": [
+   [
+    "nasce pronta em algumas pessoas",
+    "Repete o mito do empreendedor nato.",
+    "O consenso atual rompe o mito do 'nato'."
+   ],
+   [
+    "depende de capital inicial alto",
+    "Confunde atitude com recursos financeiros.",
+    "Atitude é predisposição aprendida, não dinheiro."
+   ],
+   [
+    "depende do signo da pessoa",
+    "Atribui a atitude a algo inato e místico.",
+    "Nada de signo: atitude empreendedora é predisposição aprendida."
+   ],
+   "*pode ser aprendida e desenvolvida"
+  ],
+  "f": "O empreendedorismo pode ser ensinado e a atitude empreendedora, desenvolvida (Drucker; Kuratko; Arruda).",
+  "e": "Lopes Jr. & Souza definem atitude empreendedora como predisposição aprendida. Isso justifica a educação empreendedora.",
+  "n": "Modo jogo: distrator leve (signo) no lugar de 'só em grandes empresas'."
+ },
+ {
+  "r": 20,
+  "s": "FEM",
+  "m": "necessidade-x-oportunidade",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Demitido e sem outra renda, Seu Jorge abriu um carrinho de cachorro-quente. Ele empreendeu por:",
+  "a": [
+   "*Necessidade",
+   [
+    "Oportunidade",
+    "Confunde as duas motivações.",
+    "Oportunidade é empreender para explorar uma chance de mercado."
+   ],
+   [
+    "Inovação radical",
+    "Confunde motivação com grau de novidade.",
+    "Cachorro-quente não é ruptura; o motivo foi a falta de renda."
+   ],
+   [
+    "Hobby de fim de semana",
+    "Ignora a pressão por renda.",
+    "O carrinho é a fonte de sustento, não lazer."
+   ]
+  ],
+  "f": "Por necessidade: empreende-se por falta de emprego ou renda; por oportunidade: para explorar uma chance.",
+  "e": "O GEM usa essa distinção. Em 2024, a taxa total de empreendedorismo no Brasil foi de 33,4% dos adultos, crescendo tanto por necessidade quanto por oportunidade.",
+  "o": "NLM+WEB",
+  "u": [
+   "https://sebraepr.com.br/impulsiona/retrato-do-empreendedorismo-no-brasil-gem-2024-2025/"
+  ],
+  "n": "Modo jogo: virou mini-caso do Seu Jorge; distrator leve (hobby)."
+ },
+ {
+  "r": 21,
+  "s": "FEM",
+  "m": "teoria-do-comportamento-planejado",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Para Ajzen (Comportamento Planejado), a intenção de empreender depende de:",
+  "a": [
+   "*Atitude, normas subjetivas e controle percebido",
+   [
+    "Renda familiar, idade e escolaridade",
+    "Troca antecedentes psicológicos por dados demográficos.",
+    "Ajzen trata de crenças e percepções, não de dados demográficos."
+   ],
+   [
+    "Necessidade de realização, afiliação e poder",
+    "Responde com McClelland.",
+    "Essas são as necessidades de McClelland."
+   ],
+   [
+    "Componentes cognitivo, afetivo e comportamental",
+    "Confunde com os componentes da atitude.",
+    "Esses compõem a atitude, só um dos três antecedentes."
+   ]
+  ],
+  "f": "TCP: atitude, norma subjetiva e controle percebido formam a intenção, que leva ao comportamento.",
+  "e": "Crenças comportamentais formam a atitude; crenças normativas, a norma subjetiva; crenças de controle, o controle percebido. O comportamento real ainda depende do controle real.",
+  "n": "Modo jogo: enunciado mais curto."
+ },
+ {
+  "r": 22,
+  "s": "FEM",
+  "m": "effectuation",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Os sites do Lucas",
+   "Lucas sabe criar sites e conhece donos de restaurante do bairro. Sem plano, ofereceu sites a eles, e os clientes foram surgindo das conversas.",
+   "Lógica de decisão empreendedora (effectuation × causation)",
+   "Recursos limitados e meta não definida de antemão"
+  ],
+  "q": "Que lógica de decisão Lucas usa?",
+  "a": [
+   [
+    "Causation: fixa a meta e busca os meios",
+    "Inverte as lógicas.",
+    "Causation começa por um objetivo; Lucas começou pelo que tinha."
+   ],
+   [
+    "Destruição criativa: derruba um setor",
+    "Exagera o impacto do caso.",
+    "Nada no caso substitui um modelo antigo de mercado."
+   ],
+   "*Effectuation: parte dos meios que tem",
+   [
+    "Intraempreendedorismo: inova na empresa",
+    "Confunde o contexto.",
+    "Lucas empreende por conta própria, não dentro de uma empresa."
+   ]
+  ],
+  "f": "Effectuation (Sarasvathy): começa pelos meios disponíveis e deixa os objetivos emergirem.",
+  "e": "Princípios: pássaro na mão (quem sou, o que sei, quem conheço), perda aceitável, colcha de retalhos (parcerias), limonada e piloto no avião.",
+  "n": "Modo jogo: cenário reduzido a 1 frase, sem valores."
+ },
+ {
+  "r": 23,
+  "s": "FEM",
+  "m": "destruicao-criativa",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "O streaming de música fez as lojas de CD sumirem. Para Schumpeter, isso é:",
+  "a": [
+   [
+    "Falência por má gestão",
+    "Confunde com falência por gestão ruim.",
+    "Má gestão não envolve o novo substituindo o velho."
+   ],
+   [
+    "Concorrência desleal",
+    "Confunde com prática ilegal.",
+    "O conceito não trata de ilegalidade, e sim de inovação."
+   ],
+   [
+    "Inovação incremental",
+    "Subestima a mudança.",
+    "Incremental melhora o existente; aqui o novo tornou o velho obsoleto."
+   ],
+   "*Destruição criativa"
+  ],
+  "f": "Destruição criativa: o novo (inovação) torna obsoleto o velho, rompendo o equilíbrio do mercado.",
+  "e": "Para Schumpeter (1912/1934), o empreendedor é o agente dessa mudança, por meio de novas combinações de recursos.",
+  "n": "Modo jogo: virou exemplo do cotidiano (streaming × CD) com alternativas de 2–3 palavras."
+ },
+ {
+  "r": 24,
+  "s": "INO",
+  "m": "inovacao-disruptiva",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "A conta da fintech",
+   "Uma fintech lançou uma conta simples e gratuita para quem nem tinha banco. Com o tempo, melhorou e tirou clientes dos grandes bancos.",
+   "Tipos de inovação (Christensen)",
+   "Entrada por público ignorado pelos líderes"
+  ],
+  "q": "Que tipo de inovação é essa?",
+  "a": [
+   [
+    "Incremental",
+    "Vê só as melhorias graduais posteriores.",
+    "O centro é começar simples para não clientes e deslocar líderes."
+   ],
+   [
+    "Sustentadora",
+    "Confunde com melhoria para clientes atuais.",
+    "A sustentadora serve os clientes exigentes do mercado principal."
+   ],
+   [
+    "Frugal",
+    "Associa 'simples e grátis' a frugal.",
+    "Frugal nasce da escassez extrema; o caso descreve deslocar líderes."
+   ],
+   "*Disruptiva"
+  ],
+  "f": "Disruptiva (Christensen): começa simples e barata, em nichos ignorados, e acaba deslocando os líderes.",
+  "e": "Exemplo da disciplina: Eli Lilly purificava insulina (sustentadora); a Novo Nordisk criou a caneta NovoPen, prática e acessível (disruptiva).",
+  "n": "Modo jogo: caso da startup virou cenário curto de fintech."
+ },
+ {
+  "r": 25,
+  "s": "MOD",
+  "m": "4ps-da-inovacao",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "A Lucozade, antes vendida a doentes, foi relançada como bebida de atletas. Nos 4Ps da inovação, é inovação de:",
+  "a": [
+   [
+    "Produto",
+    "Supõe que a fórmula mudou.",
+    "A mudança principal foi o público e o contexto, não o produto."
+   ],
+   "*Posição",
+   [
+    "Processo",
+    "Confunde com mudança na produção.",
+    "Processo é como se produz ou entrega."
+   ],
+   [
+    "Paradigma",
+    "Exagera a profundidade da mudança.",
+    "Paradigma muda o modelo mental de um setor inteiro."
+   ]
+  ],
+  "f": "Inovação de posição muda o contexto ou o público para quem a oferta é apresentada.",
+  "e": "4Ps de Tidd & Bessant: produto (o que se oferece), processo (como se faz), posição (para quem/em que contexto), paradigma (modelo mental).",
+  "n": "Modo jogo: enunciado mais curto."
+ },
+ {
+  "r": 26,
+  "s": "FEM",
+  "m": "vale-da-morte",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No processo empreendedor, o que é o “vale da morte”?",
+  "a": [
+   [
+    "O fechamento da empresa por falência",
+    "Lê 'morte' de forma literal.",
+    "O vale é a fase de risco antes da sustentabilidade, não a falência em si."
+   ],
+   [
+    "Quando uma inovação destrói o setor",
+    "Confunde com destruição criativa.",
+    "Isso é destruição criativa, não o vale da morte."
+   ],
+   [
+    "Trilha perigosa da Chapada Diamantina",
+    "Lê o nome ao pé da letra.",
+    "É metáfora para a fase em que o negócio queima caixa."
+   ],
+   "*Fase em que se gasta mais que se fatura"
+  ],
+  "f": "Vale da morte: a empresa queima caixa antes de atingir o ponto de equilíbrio.",
+  "e": "É por isso que a taxa de queima de caixa (burn rate) e o volume de capital captado são decisivos na fase inicial (Baron & Shane).",
+  "n": "Modo jogo: passou de giro para duelo; distrator leve (trilha)."
+ },
+ {
+  "r": 27,
+  "s": "FEM",
+  "m": "bricolagem",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Rafaela recolhe pneus descartados no bairro e os transforma em vasos vendidos online. Qual conceito descreve isso?",
+  "a": [
+   [
+    "Inovação de paradigma",
+    "Exagera o alcance da mudança.",
+    "Não há mudança do modelo mental de um setor."
+   ],
+   [
+    "Spin-off acadêmico",
+    "Confunde com empresa originada de pesquisa.",
+    "Spin-off nasce de pesquisa universitária."
+   ],
+   "*Bricolagem empreendedora",
+   [
+    "Empreendedorismo corporativo",
+    "Confunde com inovação dentro de empresa.",
+    "Rafaela empreende por conta própria."
+   ]
+  ],
+  "f": "Bricolagem (Baker & Nelson): criar soluções combinando recursos à mão, muitas vezes descartados.",
+  "e": "Bricolagem faz parte da corrente da 'praticagem', ao lado de effectuation e da inovação frugal.",
+  "n": "Modo jogo: enunciado mais curto."
+ },
+ {
+  "r": 28,
+  "s": "FEM",
+  "m": "educacao-empreendedora",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Na disciplina, a turma abre um food truck de verdade e aprende tocando o negócio. Isso é ensinar empreendedorismo:",
+  "a": [
+   [
+    "SOBRE o tema",
+    "Descreve o ensino teórico.",
+    "SOBRE é transmitir conceitos e teorias."
+   ],
+   [
+    "PARA o tema",
+    "Confunde com capacitação funcional.",
+    "PARA é treinar o aluno para abrir e gerir um negócio."
+   ],
+   [
+    "COM foco em finanças",
+    "Reduz a educação empreendedora a finanças.",
+    "As abordagens não se definem pelo conteúdo financeiro."
+   ],
+   "*ATRAVÉS do tema"
+  ],
+  "f": "ATRAVÉS = aprender vivendo o processo empreendedor; SOBRE = teoria; PARA = capacitar para criar e gerir.",
+  "e": "Lackéus propõe progressão: ensino fundamental ATRAVÉS; médio SOBRE + ATRAVÉS; superior SOBRE + PARA + ATRAVÉS.",
+  "n": "Modo jogo: virou exemplo (food truck da turma) com alternativas curtas."
+ },
+ {
+  "r": 29,
+  "s": "FEM",
+  "m": "spin-off-academico",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Com acordo formal com a UFF, uma pesquisadora abriu empresa para vender uma tecnologia do seu laboratório. Isso é:",
+  "a": [
+   [
+    "Intraempreendedorismo",
+    "Confunde com inovação dentro da organização.",
+    "A pesquisadora cria uma empresa nova, fora da universidade."
+   ],
+   "*Spin-off acadêmico",
+   [
+    "Empreendedorismo por necessidade",
+    "Confunde motivação com origem do negócio.",
+    "Nada indica falta de alternativas de renda."
+   ],
+   [
+    "Franquia",
+    "Confunde com replicação de marca.",
+    "Franquia replica um negócio existente por contrato de marca."
+   ]
+  ],
+  "f": "Spin-off acadêmico: empresa criada para explorar comercialmente resultados de pesquisa da universidade.",
+  "e": "No Brasil, Cunha & Maculan (2015) usam conceito amplo (inclui conhecimento tácito com acordo formal); internacionalmente, exige-se muitas vezes patente licenciada.",
+  "n": "Modo jogo: enunciado mais curto."
+ },
+ {
+  "r": 30,
+  "s": "MOD",
+  "m": "canais-x-relacionamento",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "No Canvas, o que separa Canais de Relacionamento com Clientes?",
+  "a": [
+   "*Canais entregam; relacionamento retém",
+   [
+    "Canais definem preço; relacionamento, custos",
+    "Mistura com blocos financeiros.",
+    "Preço fica em Receitas; custos, em Estrutura de Custos."
+   ],
+   [
+    "Canais são online; relacionamento, presencial",
+    "Confunde com meio físico/digital.",
+    "Os dois blocos podem ser online ou presenciais."
+   ],
+   [
+    "Nada: são o mesmo bloco com outro nome",
+    "Ignora a distinção do modelo.",
+    "São blocos distintos do Canvas."
+   ]
+  ],
+  "f": "Canais = contato, venda e entrega; relacionamento = conquistar, manter e ampliar clientes.",
+  "e": "Canais têm 5 fases (conhecimento, avaliação, compra, entrega, pós-venda). Relacionamento: conquista → manutenção → ampliação (upsell/cross-sell).",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 31,
+  "s": "FEM",
+  "m": "effectuation-x-causation",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Carlos fixou uma meta de faturamento, fez um plano detalhado e só então buscou recursos. Que lógica ele seguiu?",
+  "a": [
+   [
+    "Effectuation",
+    "Inverte as lógicas.",
+    "Effectuation parte dos meios disponíveis, não de uma meta fixada."
+   ],
+   [
+    "Bricolagem",
+    "Confunde com uso criativo de recursos à mão.",
+    "Carlos buscou recursos para um plano, não combinou o que já tinha."
+   ],
+   "*Causation",
+   [
+    "Intraempreendedorismo",
+    "Confunde com contexto organizacional.",
+    "Nada indica que Carlos esteja dentro de outra empresa."
+   ]
+  ],
+  "f": "Causation parte de um objetivo definido e busca os meios; effectuation faz o contrário.",
+  "e": "As duas lógicas convivem: o plano de negócios tradicional é causal; o Lean e o effectuation trabalham sob incerteza.",
+  "n": "Modo jogo: enunciado mais curto."
+ },
+ {
+  "r": 32,
+  "s": "FEM",
+  "m": "necessidades-mcclelland",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para McClelland, quem tem alta necessidade de realização busca:",
+  "a": [
+   [
+    "Estabilidade e pouca mudança",
+    "Inverte o conceito.",
+    "Quem busca realização procura desafios, não estabilidade."
+   ],
+   "*Metas desafiadoras e alto desempenho",
+   [
+    "Aceitação e bons relacionamentos no grupo",
+    "Descreve a necessidade de afiliação.",
+    "Aceitação e relações descrevem afiliação."
+   ],
+   [
+    "Influenciar e controlar pessoas",
+    "Descreve a necessidade de poder.",
+    "Influência e controle descrevem poder."
+   ]
+  ],
+  "f": "Necessidade de realização (nAch): superar padrões e alcançar metas desafiadoras.",
+  "e": "McClelland identifica três necessidades: realização, afiliação e poder.",
+  "n": "Modo jogo: passou de giro para duelo; alternativas curtas."
+ },
+ {
+  "r": 33,
+  "s": "FEM",
+  "m": "universidade-empreendedora",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "O que caracteriza uma universidade empreendedora (Clark; Etzkowitz)?",
+  "a": [
+   "*Ter o desenvolvimento econômico como missão",
+   [
+    "Ficar só no ensino e na pesquisa básica",
+    "Descreve o modelo tradicional.",
+    "A universidade empreendedora vai além de ensino e pesquisa."
+   ],
+   [
+    "Proibir parcerias com empresas",
+    "Inverte o conceito.",
+    "Ela estimula parcerias, incubadoras e spin-offs."
+   ],
+   [
+    "Formar sobretudo servidores públicos",
+    "Confunde missão com público-alvo.",
+    "O conceito não trata de carreira pública."
+   ]
+  ],
+  "f": "Universidade empreendedora soma ao ensino e à pesquisa uma terceira missão: gerar valor econômico e social.",
+  "e": "Exemplos da disciplina: Instituto Gênesis (PUC-Rio), Incubadora da COPPE (UFRJ) e AGIR (UFF).",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 34,
+  "s": "MOD",
+  "m": "fontes-de-receita",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A academia do bairro cobra mensalidade dos alunos. Em qual bloco do Canvas isso entra?",
+  "a": [
+   [
+    "Recursos Principais",
+    "Confunde com ativos necessários.",
+    "Recursos são os ativos que fazem o modelo funcionar."
+   ],
+   [
+    "Atividades-Chave",
+    "Confunde com o que a empresa faz.",
+    "Atividades são produção, resolução de problemas ou plataforma."
+   ],
+   [
+    "Parcerias Principais",
+    "Confunde com a rede de fornecedores.",
+    "Parcerias são aliados e fornecedores."
+   ],
+   "*Fontes de Receita"
+  ],
+  "f": "Fontes de Receita: como e quanto cada segmento paga (venda, assinatura, taxa de uso, licença…).",
+  "e": "Lucro = Fontes de Receita − Estrutura de Custos. Ex.: Airbnb cobra cerca de 3% do anfitrião e 6–12% do hóspede.",
+  "n": "Modo jogo: passou de giro para duelo; exemplo da academia."
+ },
+ {
+  "r": 35,
+  "s": "MOD",
+  "m": "4ps-da-inovacao",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Nos 4Ps de Tidd & Bessant, inovação de paradigma é:",
+  "a": [
+   [
+    "Lançar uma versão melhor do produto",
+    "Descreve inovação de produto.",
+    "Melhorar o produto é inovação de produto."
+   ],
+   [
+    "Mudar a forma de produzir ou entregar",
+    "Descreve inovação de processo.",
+    "Como se produz é processo."
+   ],
+   [
+    "Mudar o público-alvo da oferta",
+    "Descreve inovação de posição.",
+    "Novo público ou contexto é posição."
+   ],
+   "*Mudar o modelo mental do negócio"
+  ],
+  "f": "Paradigma = mudança nos modelos mentais que orientam o que a empresa faz (ex.: Cirque du Soleil).",
+  "e": "O Cirque du Soleil uniu circo e teatro e eliminou animais e astros: mudou a lógica do setor.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 36,
+  "s": "FEM",
+  "m": "locus-de-controle",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Quem tem lócus de controle externo atribui seus resultados a:",
+  "a": [
+   [
+    "Metas pessoais e esforço contínuo",
+    "Descreve lócus interno.",
+    "Atribuir ao próprio esforço é lócus interno."
+   ],
+   [
+    "Planejamento e busca de informações",
+    "Descreve CCEs de planejamento.",
+    "Planejamento é comportamento, não atribuição de causa."
+   ],
+   "*Sorte, destino ou decisões de outros",
+   [
+    "Competências que desenvolveu",
+    "Descreve lócus interno.",
+    "Competência própria é fator interno."
+   ]
+  ],
+  "f": "Lócus externo: os resultados dependem de fatores fora do meu controle (sorte, destino, outros).",
+  "e": "Rotter (1975). Empreendedores tendem a apresentar lócus interno, mas o conceito descreve uma crença, não uma regra.",
+  "n": "Modo jogo: passou de giro para duelo; alternativas curtas."
+ },
+ {
+  "r": 37,
+  "s": "MOD",
+  "m": "metricas-vaidade-x-acionaveis",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "O app da Júlia",
+   "Júlia lançou um app simples para testar o interesse. Um mês depois: 12 mil downloads, mas só 3% voltam a usar na semana seguinte.",
+   "Ciclo construir–medir–aprender e tipos de métrica",
+   "Decidir com poucos dados"
+  ],
+  "q": "Para Eric Ries, qual número deve guiar a decisão de pivotar ou perseverar?",
+  "a": [
+   [
+    "Os 12 mil downloads, que mostram tração",
+    "Usa métrica de vaidade.",
+    "Downloads acumulados só crescem e não mostram se o produto gera valor."
+   ],
+   "*Os 3% de retorno, que medem o uso real",
+   [
+    "Nenhum: MVP não se mede",
+    "Ignora o ciclo construir–medir–aprender.",
+    "Medir é a razão de existir do MVP."
+   ],
+   [
+    "A soma dos dois números",
+    "Mistura métricas de natureza diferente.",
+    "Somar downloads e taxa de retorno não gera informação útil."
+   ]
+  ],
+  "f": "Métricas acionáveis (retorno, coortes) guiam decisões; métricas de vaidade (downloads totais) só impressionam.",
+  "e": "O MVP existe para gerar aprendizado validado. Ries distingue métricas de vaidade (acumuladas, sem causa e efeito) de métricas acionáveis.",
+  "n": "Modo jogo: cenário reduzido a 1 frase com 2 números."
+ },
+ {
+  "r": 38,
+  "s": "FEM",
+  "m": "processo-empreendedor",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "No processo empreendedor, qual fase vem logo após identificar a oportunidade?",
+  "a": [
+   [
+    "Desenvolver o empreendimento",
+    "Pula duas fases.",
+    "Desenvolver (escalar) é a última fase."
+   ],
+   [
+    "Criar o empreendimento",
+    "Pula o planejamento.",
+    "Criar vem depois de planejar e organizar recursos."
+   ],
+   [
+    "Postar o logo no Instagram",
+    "Pula direto para a divulgação.",
+    "Divulgar vem depois; antes é preciso planejar e organizar recursos."
+   ],
+   "*Planejar e organizar recursos"
+  ],
+  "f": "Depois da oportunidade vem planejar e organizar recursos; só então criar e desenvolver.",
+  "e": "Timmons destaca o alinhamento entre oportunidade, equipe e recursos nessa fase.",
+  "n": "Modo jogo: alternativas curtas; distrator leve (logo no Instagram)."
+ },
+ {
+  "r": 39,
+  "s": "FEM",
+  "m": "cces-mcclelland",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Antes de lançar seu brigadeiro gourmet, Duda conversa com clientes, fornecedores e concorrentes. Qual CCE ela mostra?",
+  "a": [
+   [
+    "Persistência",
+    "Confunde com não desistir diante de obstáculos.",
+    "Persistência é enfrentar obstáculos sem abandonar a meta."
+   ],
+   "*Busca de informações",
+   [
+    "Exigência de qualidade e eficiência",
+    "Confunde com padrão de desempenho.",
+    "Qualidade é fazer melhor, mais rápido ou mais barato."
+   ],
+   [
+    "Persuasão e rede de contatos",
+    "Vê as conversas como networking.",
+    "O objetivo é coletar dados, não convencer pessoas."
+   ]
+  ],
+  "f": "Busca de informações (conjunto de planejamento): investigar pessoalmente clientes, fornecedores e concorrentes.",
+  "e": "As CCEs de planejamento são busca de informações, estabelecimento de metas e planejamento/monitoramento sistemáticos.",
+  "n": "Modo jogo: caso do brigadeiro; enunciado mais curto."
+ },
+ {
+  "r": 40,
+  "s": "FEM",
+  "m": "educacao-empreendedora",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Na educação empreendedora, ensinar SOBRE o empreendedorismo é:",
+  "a": [
+   "*Transmitir conceitos e teorias do tema",
+   [
+    "Criar empresas reais durante as aulas",
+    "Descreve o ensino ATRAVÉS.",
+    "Aprender vivendo o processo é ensino ATRAVÉS."
+   ],
+   [
+    "Treinar o aluno para gerir um negócio",
+    "Descreve o ensino PARA.",
+    "Capacitação funcional é o ensino PARA."
+   ],
+   [
+    "Trocar as aulas por estágio",
+    "Confunde abordagem pedagógica com estágio.",
+    "As abordagens não se definem por estágio."
+   ]
+  ],
+  "f": "SOBRE = abordagem teórica e explicativa do tema.",
+  "e": "No ensino superior, Lackéus recomenda combinar SOBRE, PARA e ATRAVÉS.",
+  "n": "Modo jogo: enunciado e alternativas encurtados."
+ },
+ {
+  "r": 41,
+  "s": "FEM",
+  "m": "effectuation-perda-aceitavel",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A food bike da Bia",
+   "Bia quer testar uma food bike de cafés. Um consultor sugeriu captar R$ 150 mil com um sócio; ela decidiu gastar no máximo R$ 8 mil, valor que pode perder sem apertar as contas.",
+   "Princípios do effectuation",
+   "Capital limitado e retorno incerto"
+  ],
+  "q": "Qual princípio do effectuation explica esse limite?",
+  "a": [
+   [
+    "Retorno esperado: investe o que maximiza o lucro",
+    "Descreve a lógica causal.",
+    "Effectuation troca o retorno esperado pela perda que se pode suportar."
+   ],
+   [
+    "Limonada: aproveita um imprevisto do caminho",
+    "Confunde com o princípio das contingências.",
+    "Limonada é transformar imprevistos em oportunidades."
+   ],
+   "*Perda aceitável: arrisca só o que pode perder",
+   [
+    "Colcha de retalhos: divide o risco com sócios",
+    "Confunde com o princípio das parcerias.",
+    "Bia recusou o sócio; o limite de gasto é o ponto do caso."
+   ]
+  ],
+  "f": "Perda aceitável: decidir quanto se pode perder, em vez de quanto se espera ganhar.",
+  "e": "Começar na feira onde já conhece os organizadores é 'pássaro na mão' (quem conheço). Os princípios de Sarasvathy: pássaro na mão, perda aceitável, colcha de retalhos, limonada, piloto no avião.",
+  "o": "NLM+WEB",
+  "u": [
+   "https://news.darden.virginia.edu/2024/05/01/breaking-down-the-five-habits-of-expert-entrepreneurs-with-saras-sarasvathy/"
+  ],
+  "n": "Modo jogo: cenário encurtado para 2 números; alternativas menores."
+ },
+ {
+  "r": 42,
+  "s": "FEM",
+  "m": "destruicao-criativa",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Táxis e aplicativos",
+   "Em uma capital, a frota de táxis caiu 40% em cinco anos, enquanto apps de transporte, com preço dinâmico e pagamento pelo celular, assumiram a maioria das corridas.",
+   "Teoria de Schumpeter sobre inovação e mudança econômica",
+   "Conflito entre modelo antigo e modelo novo"
+  ],
+  "q": "Qual leitura do caso combina com a teoria de Schumpeter?",
+  "a": [
+   [
+    "Inovação de processo interno de uma empresa",
+    "Reduz o fenômeno a uma empresa.",
+    "O que muda é a estrutura do mercado inteiro, não um processo interno."
+   ],
+   [
+    "Concorrência desleal, sem relação com inovação",
+    "Ignora o novo modelo de negócio.",
+    "O caso traz novas combinações (plataforma, preço dinâmico), o centro da teoria."
+   ],
+   "*Destruição criativa: o novo torna o velho obsoleto",
+   [
+    "Empreendedorismo por necessidade dos motoristas",
+    "Foca na motivação individual.",
+    "A motivação dos motoristas não explica a mudança do setor."
+   ]
+  ],
+  "f": "Destruição criativa: novas combinações substituem modelos antigos e redesenham o mercado.",
+  "e": "Schumpeter vê o empreendedor como agente que rompe o equilíbrio com inovação. A reação das cooperativas é típica de quem perde com a destruição criativa.",
+  "n": "Modo jogo: cenário encurtado (1 número)."
+ },
+ {
+  "r": 43,
+  "s": "FEM",
+  "m": "effectuation-x-causation",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Dois cafés no mesmo bairro",
+   "Téo fixou uma meta de faturamento, encomendou pesquisa e pegou empréstimo para a loja planejada. Lia começou vendendo café na garagem com a máquina que já tinha.",
+   "Lógicas causation e effectuation",
+   "Incerteza sobre a demanda do bairro"
+  ],
+  "q": "Qual análise compara bem as duas lógicas?",
+  "a": [
+   [
+    "Téo usa effectuation; Lia, causation",
+    "Inverte as lógicas.",
+    "Quem parte da meta é Téo (causation); quem parte dos meios é Lia."
+   ],
+   "*Téo parte da meta; Lia parte dos meios",
+   [
+    "Ambos usam causation, pois abriram cafés",
+    "Classifica pelo resultado, não pelo processo.",
+    "A lógica se define pelo ponto de partida da decisão."
+   ],
+   [
+    "Ambos usam effectuation, pois o mercado é incerto",
+    "Confunde contexto com lógica escolhida.",
+    "Incerteza não obriga ninguém a usar effectuation; Téo escolheu planejar."
+   ]
+  ],
+  "f": "Causation vai da meta aos meios; effectuation parte dos meios e deixa as metas emergirem.",
+  "e": "A parceria com a confeiteira é 'colcha de retalhos'; usar a máquina que já tinha é 'pássaro na mão'.",
+  "n": "Modo jogo: cenário encurtado, sem valores."
+ },
+ {
+  "r": 44,
+  "s": "FEM",
+  "m": "spin-off-academico",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "O sensor do Roberto",
+   "Roberto, doutorando, criou um sensor de umidade de solo no laboratório da universidade. A agência de inovação patenteou, licenciou a tecnologia à empresa dele e o levou à incubadora do campus.",
+   "Spin-off acadêmico e universidade empreendedora",
+   "Uso de tecnologia desenvolvida com recursos da universidade"
+  ],
+  "q": "Quais conceitos o caso combina?",
+  "a": [
+   [
+    "Empreendedorismo por necessidade e informalidade",
+    "Ignora a origem acadêmica e a formalização.",
+    "Há patente, contrato e incubação: nada informal ou por falta de renda."
+   ],
+   [
+    "MVP e inovação de posição no agronegócio",
+    "Foca em ferramentas que o caso não traz.",
+    "O caso trata da origem institucional da empresa."
+   ],
+   [
+    "Intraempreendedorismo e franquia de tecnologia",
+    "Confunde contexto e modelo.",
+    "Roberto cria empresa nova; não há franquia."
+   ],
+   "*Spin-off acadêmico e universidade empreendedora"
+  ],
+  "f": "Empresa nascida de pesquisa, com acordo formal e apoio institucional = spin-off de universidade empreendedora.",
+  "e": "A remuneração de 1% do faturamento durante a incubação lembra o modelo da Incubadora da COPPE/UFRJ estudado por Cunha & Maculan (2015).",
+  "n": "Modo jogo: cenário encurtado; taxa da incubadora ficou só na explicação."
+ },
+ {
+  "r": 45,
+  "s": "FEM",
+  "m": "teoria-do-comportamento-planejado",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A família de Diego",
+   "Diego quer abrir uma loja de bicicletas, acha a ideia ótima e conserta bikes há anos. Mas pais e tios repetem que ele deveria prestar concurso, e ele adiou a decisão.",
+   "Teoria do Comportamento Planejado (Ajzen)",
+   "Pressão do círculo social contra a decisão"
+  ],
+  "q": "Qual antecedente da intenção de empreender (Ajzen) foi afetado?",
+  "a": [
+   "*Normas subjetivas",
+   [
+    "Atitude em relação ao comportamento",
+    "Confunde a opinião da família com a avaliação de Diego.",
+    "Diego acha a ideia ótima: a atitude dele é positiva."
+   ],
+   [
+    "Controle comportamental percebido",
+    "Confunde pressão social com capacidade percebida.",
+    "Diego conserta bikes há anos; a percepção de capacidade é alta."
+   ],
+   [
+    "Lócus de controle externo",
+    "Troca Ajzen por Rotter.",
+    "Lócus é traço geral de Rotter; a TCP fala de norma subjetiva."
+   ]
+  ],
+  "f": "Normas subjetivas = pressão social percebida de pessoas importantes sobre o comportamento.",
+  "e": "Na TCP, atitude (Diego acha ótimo), norma subjetiva (família contra) e controle percebido (sabe consertar) combinam-se na intenção.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 46,
+  "s": "MOD",
+  "m": "4ps-da-inovacao",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "O circo sem animais",
+   "Uma companhia de circo eliminou animais e astros, criou shows com tema, música original e dança e passou a cobrar ingresso de teatro, atraindo adultos.",
+   "Os 4Ps da inovação (Tidd & Bessant)",
+   "Mudança em vários elementos ao mesmo tempo"
+  ],
+  "q": "Em qual dos 4Ps da inovação o caso se encaixa melhor?",
+  "a": [
+   [
+    "Produto: o conteúdo do show mudou",
+    "Vê só a mudança na oferta.",
+    "Mudou mais que o produto: a lógica do que é um circo."
+   ],
+   [
+    "Processo: a produção do show mudou",
+    "Foca na operação.",
+    "A produção mudou, mas o centro é a redefinição do setor."
+   ],
+   [
+    "Posição: o público passou a ser adulto",
+    "Vê só a mudança de público.",
+    "O público novo é consequência; a mudança é de modelo mental."
+   ],
+   "*Paradigma: mudou a lógica do que é circo"
+  ],
+  "f": "Inovação de paradigma muda o modelo mental do setor — o caso Cirque du Soleil.",
+  "e": "O Cirque du Soleil também é o exemplo clássico da Estratégia do Oceano Azul (eliminar, reduzir, elevar, criar).",
+  "sec": [
+   "EST"
+  ],
+  "n": "Modo jogo: cenário encurtado; alternativas menores."
+ },
+ {
+  "r": 47,
+  "s": "FEM",
+  "m": "comportamento-empreendedor-integrado",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A meta da Fernanda",
+   "Fernanda abriu um estúdio de pilates com uma meta que nenhuma concorrente atingiu. Diz que o resultado depende dela, não da sorte, e manteve a meta mesmo perdendo instrutoras.",
+   "Comportamento empreendedor (Rotter e McClelland)",
+   "Obstáculos operacionais nos primeiros meses"
+  ],
+  "q": "Que trio de conceitos aparece no comportamento de Fernanda?",
+  "a": [
+   [
+    "Lócus externo, afiliação e perda aceitável",
+    "Interpreta o caso ao contrário.",
+    "Fernanda atribui o resultado ao próprio trabalho: lócus interno."
+   ],
+   "*Lócus interno, realização e persistência",
+   [
+    "Causation, normas subjetivas e bricolagem",
+    "Mistura conceitos sem evidência no caso.",
+    "Não há pressão social nem uso de recursos descartados no caso."
+   ],
+   [
+    "Lócus interno, poder e independência",
+    "Troca realização por poder.",
+    "A meta desafiadora indica realização, não busca de controle sobre pessoas."
+   ]
+  ],
+  "f": "Crença no próprio esforço (lócus interno) + meta desafiadora (realização) + não desistir (persistência).",
+  "e": "Rotter (lócus) e McClelland (necessidades e CCEs) são complementares na análise do comportamento empreendedor.",
+  "n": "Modo jogo: cenário encurtado, sem números."
+ },
+ {
+  "r": 48,
+  "s": "FEM",
+  "m": "effectuation-e-bricolagem",
+  "b": "avaliar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A marcenaria do Ivo",
+   "Ivo, sem verba para madeira nova, recebeu de uma escola um pedido de 40 carteiras. Um galpão vizinho descarta bons paletes, e um amigo serralheiro troca pés de metal por móveis.",
+   "Effectuation e bricolagem",
+   "Prazo curto e nenhum capital para insumos"
+  ],
+  "q": "Qual decisão é mais coerente com effectuation e bricolagem?",
+  "a": [
+   [
+    "Recusar até juntar capital para madeira nova",
+    "Espera o cenário ideal, típico da lógica causal.",
+    "Effectuation e bricolagem partem do que existe, sem esperar recursos ideais."
+   ],
+   [
+    "Copiar a carteira de um fornecedor grande",
+    "Confunde aproveitar recursos com imitar produto.",
+    "Copiar o produto não resolve a falta de insumos."
+   ],
+   "*Aceitar, usar os paletes e trocar com o amigo",
+   [
+    "Pegar empréstimo e repassar o custo à escola",
+    "Busca meios externos antes dos disponíveis.",
+    "Primeiro se explora o que está à mão e as parcerias possíveis."
+   ]
+  ],
+  "f": "Effectuation parte do que se tem e de parcerias; bricolagem cria soluções com recursos à mão.",
+  "e": "Paletes descartados = bricolagem; troca com o serralheiro = colcha de retalhos (parcerias com pré-compromissos).",
+  "n": "Modo jogo: cenário encurtado; dificuldade 4→3."
+ },
+ {
+  "r": 49,
+  "s": "MOD",
+  "m": "logica-do-canvas",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Assinatura de marmitas",
+   "A Marmita Fit entrega refeições saudáveis a profissionais por assinatura semanal. Quem cancela diz que o cardápio ficou repetitivo.",
+   "Lógica de criação e captura de valor do Business Model Canvas",
+   "Cancelamentos ligados à proposta de valor"
+  ],
+  "q": "Como proposta de valor, segmento e receita se ligam nesse caso?",
+  "a": [
+   "*A proposta atende o segmento, que paga por ela",
+   [
+    "A receita define sozinha quem será atendido",
+    "Inverte a lógica do Canvas.",
+    "No Canvas, a receita é capturada a partir do valor entregue ao segmento."
+   ],
+   [
+    "Os clientes servem para calcular os custos",
+    "Confunde blocos de valor com blocos de eficiência.",
+    "Custos ficam no lado esquerdo; clientes, no direito."
+   ],
+   [
+    "A proposta de valor não afeta a assinatura",
+    "Ignora a relação causal.",
+    "O cancelamento por cardápio repetitivo mostra a proposta afetando a receita."
+   ]
+  ],
+  "f": "No Canvas, a proposta de valor atende um segmento, e é esse segmento que gera a receita.",
+  "e": "Se a proposta enfraquece (cardápio repetitivo), a fonte de receita recorrente cai. Gerar valor (proposta) ≠ capturar valor (receitas), mas um depende do outro.",
+  "n": "Modo jogo: cenário encurtado, sem valores."
+ },
+ {
+  "r": 50,
+  "s": "FEM",
+  "m": "processo-empreendedor",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A EduBot depois do vale",
+   "A EduBot validou o MVP com escolas, passou do ponto de equilíbrio e agora vai contratar, abrir operação em dois estados e profissionalizar as finanças.",
+   "Fases do processo empreendedor",
+   "Crescimento acelerado com estrutura ainda informal"
+  ],
+  "q": "Em qual fase do processo empreendedor a EduBot está?",
+  "a": [
+   [
+    "Identificação de oportunidades",
+    "Confunde com o início do processo.",
+    "A oportunidade já foi identificada e validada."
+   ],
+   [
+    "Planejamento e organização de recursos",
+    "Vê a contratação como planejamento inicial.",
+    "O planejamento inicial ficou para trás; agora é crescer."
+   ],
+   [
+    "Criação do empreendimento",
+    "Confunde com formalização e primeiros clientes.",
+    "A empresa já existe e já superou o ponto de equilíbrio."
+   ],
+   "*Desenvolvimento do empreendimento"
+  ],
+  "f": "Desenvolvimento: escala, gestão profissionalizada e expansão depois de superar o vale da morte.",
+  "e": "Fases: identificar oportunidade → planejar → criar → desenvolver. Passar o ponto de equilíbrio marca a saída do vale da morte.",
+  "n": "Modo jogo: cenário encurtado, sem números."
+ }
+]

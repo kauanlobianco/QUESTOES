@@ -1,0 +1,3850 @@
+{
+  "lote": {
+    "id": "lote-00-piloto",
+    "descricao": "Lote piloto v2: 47 questões — 45 de múltipla escolha com 4 alternativas (Giro, Coroa, Duelo) + 2 numéricas só para desempate.",
+    "gerado_em": "2026-10-27",
+    "protocolo": "docs/03-PROTOCOLO.md",
+    "schema": "schema/questao.schema.json"
+  },
+  "questoes": [
+    {
+      "id": "EMP-FEM-001",
+      "versao": 3,
+      "area": "EMP",
+      "subtema": "FEM",
+      "microtema": "destruicao-criativa",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Quem ficou famoso por ligar o empreendedor à \"destruição criativa\"?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Adam Smith",
+          "correta": false,
+          "erro_comum": "Confunde com o pai da economia clássica.",
+          "feedback": "Smith falou da mão invisível, não da destruição criativa."
+        },
+        {
+          "id": "b",
+          "texto": "Henry Ford",
+          "correta": false,
+          "erro_comum": "Confunde um empreendedor famoso com o teórico.",
+          "feedback": "Ford é exemplo de inovador, mas o conceito é de outro autor."
+        },
+        {
+          "id": "c",
+          "texto": "Joseph Schumpeter",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Steve Jobs",
+          "correta": false,
+          "erro_comum": "Confunde um ícone da inovação com o teórico.",
+          "feedback": "Jobs é ótimo exemplo, mas quem criou o conceito foi Schumpeter."
+        }
+      ],
+      "feedback": {
+        "curto": "Para Schumpeter, o empreendedor inova e, com isso, derruba produtos e modelos antigos.",
+        "explicacao": "Destruição criativa: o novo (streaming, apps de transporte) substitui o velho (locadoras, rádio-táxi). É o motor do crescimento econômico.",
+        "saiba_mais": "base-conhecimento/materias/11-fundamentos-do-empreendedorismo.md#u1--evolução-do-conceito"
+      },
+      "bloom": "lembrar",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/11-fundamentos-do-empreendedorismo.md",
+        "arquivos": [
+          "Fundamentos do Empreendedorismo - Aula 01.pdf",
+          "Arruda (2016) - Educação Empreendedora.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EMP-FEM-002",
+      "versao": 3,
+      "area": "EMP",
+      "subtema": "FEM",
+      "microtema": "necessidade-x-oportunidade",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Caio perdeu o emprego e abriu um food truck para pagar as contas. É empreendedorismo por…",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Herança",
+          "correta": false,
+          "erro_comum": "Inventa uma categoria.",
+          "feedback": "Não há herança no caso: Caio abriu o negócio por falta de emprego."
+        },
+        {
+          "id": "b",
+          "texto": "Oportunidade",
+          "correta": false,
+          "erro_comum": "Confunde a motivação.",
+          "feedback": "Oportunidade é empreender porque viu uma chance, não por falta de alternativa."
+        },
+        {
+          "id": "c",
+          "texto": "Inovação",
+          "correta": false,
+          "erro_comum": "Confunde motivação com tipo de negócio.",
+          "feedback": "Food truck não é necessariamente inovador; a questão é o motivo."
+        },
+        {
+          "id": "d",
+          "texto": "Necessidade",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Empreender por necessidade é abrir um negócio por falta de outra fonte de renda.",
+        "explicacao": "O GEM separa empreendedores por necessidade e por oportunidade. Em crises, a parcela por necessidade costuma crescer.",
+        "saiba_mais": "base-conhecimento/materias/11-fundamentos-do-empreendedorismo.md#u2--comportamento-e-atitude"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/11-fundamentos-do-empreendedorismo.md",
+        "arquivos": [
+          "Cunha (2022) - Atitude empreendedora.pdf",
+          "Questões.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EMP-FEM-003",
+      "versao": 3,
+      "area": "EMP",
+      "subtema": "FEM",
+      "microtema": "negocio-inclusivo",
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Clínica popular",
+        "texto": "Em São Gonçalo, a Clínica Vida Perto cobra R$ 60 por consulta de moradores de baixa renda e divide o lucro entre os sócios.",
+        "artefato": "Modelo de negócio",
+        "restricao": "Clientes de baixa renda"
+      },
+      "enunciado": "Que tipo de negócio é a clínica?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "ONG, porque atende a baixa renda",
+          "correta": false,
+          "erro_comum": "Confunde público atendido com natureza jurídica.",
+          "feedback": "ONG não distribui lucro; a clínica distribui."
+        },
+        {
+          "id": "b",
+          "texto": "Negócio inclusivo: lucra servindo a baixa renda",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Filantropia: doação feita pela empresa",
+          "correta": false,
+          "erro_comum": "Confunde venda com doação.",
+          "feedback": "A clínica cobra pela consulta; não é doação."
+        },
+        {
+          "id": "d",
+          "texto": "Intraempreendedorismo dentro de um hospital",
+          "correta": false,
+          "erro_comum": "Confunde com inovar dentro de uma empresa.",
+          "feedback": "A clínica é um negócio próprio, não um projeto interno."
+        }
+      ],
+      "feedback": {
+        "curto": "Negócio inclusivo vende para a baixa renda a preço acessível e, mesmo assim, dá lucro aos donos.",
+        "explicacao": "Também chamado de negócio da base da pirâmide (BOP): impacto social e lucro no mesmo modelo, diferente de ONG e de filantropia.",
+        "saiba_mais": "base-conhecimento/materias/11-fundamentos-do-empreendedorismo.md#u3--tipos"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/11-fundamentos-do-empreendedorismo.md",
+        "arquivos": [
+          "Mariano (2022) - Tipos de empreendedorismo.pdf",
+          "Fundamentos do Empreendedorismo - Aulas 03 e 04.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EMP-FEM-004",
+      "versao": 3,
+      "area": "EMP",
+      "subtema": "FEM",
+      "microtema": "taxa-de-queima",
+      "areas_secundarias": [
+        "FIN"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Quanto dinheiro pegar?",
+        "texto": "A EduPlay ainda não fatura e só lança o app daqui a um ano. Um investidor oferece dinheiro para 6 meses, ficando com pouco da empresa; outro cobre 12 meses, ficando com mais.",
+        "artefato": "Rodada de investimento",
+        "restricao": "Sem receita até o lançamento"
+      },
+      "enunciado": "Qual escolha é mais prudente?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "O primeiro: ficar com mais da empresa é o que importa",
+          "correta": false,
+          "erro_comum": "Valoriza o controle acima da sobrevivência.",
+          "feedback": "De nada adianta ter mais da empresa se o caixa acabar antes do lançamento."
+        },
+        {
+          "id": "b",
+          "texto": "O segundo: ter caixa até lançar vale mais",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "O primeiro, e cortar custos se o caixa apertar",
+          "correta": false,
+          "erro_comum": "Aposta num corte incerto.",
+          "feedback": "Sem receita, cortar custos raramente cobre 6 meses de diferença."
+        },
+        {
+          "id": "d",
+          "texto": "Nenhum: pegar empréstimo no banco",
+          "correta": false,
+          "erro_comum": "Ignora que a startup não tem receita.",
+          "feedback": "Sem faturamento, a dívida é difícil de conseguir e de pagar."
+        }
+      ],
+      "feedback": {
+        "curto": "Sem receita, o essencial é ter caixa até o lançamento; ceder um pouco mais da empresa é o preço disso.",
+        "explicacao": "A taxa de queima mostra quantos meses o caixa dura. Ficar sem dinheiro antes de provar o produto mata a startup, por mais que os sócios tenham mais ações.",
+        "saiba_mais": "base-conhecimento/materias/11-fundamentos-do-empreendedorismo.md#u9--financiamento-baron--shane"
+      },
+      "bloom": "avaliar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/11-fundamentos-do-empreendedorismo.md",
+        "arquivos": [
+          "Baron e Shane (2007) - Financiando Novos Empreendimentos.pdf",
+          "Modelagem de Negócios - Aula 1.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EMP-MOD-001",
+      "versao": 3,
+      "area": "EMP",
+      "subtema": "MOD",
+      "microtema": "mvp",
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "App feito à mão",
+        "texto": "Antes de programar o app de cardápios, os fundadores montaram à mão os menus dos 15 primeiros clientes.",
+        "artefato": "MVP",
+        "restricao": "Sem dinheiro para programar"
+      },
+      "enunciado": "Qual é a lógica dessa estratégia?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Testar se há demanda antes de investir",
+          "correta": true
+        },
+        {
+          "id": "b",
+          "texto": "Evitar contratar programador para sempre",
+          "correta": false,
+          "erro_comum": "Confunde teste com modelo definitivo.",
+          "feedback": "O manual é temporário; serve para aprender antes de automatizar."
+        },
+        {
+          "id": "c",
+          "texto": "Cobrar mais caro pelo trabalho manual",
+          "correta": false,
+          "erro_comum": "Inventa um objetivo de preço.",
+          "feedback": "O objetivo é validar a ideia, não aumentar o preço."
+        },
+        {
+          "id": "d",
+          "texto": "Deixar o app mais bonito no lançamento",
+          "correta": false,
+          "erro_comum": "Confunde validação com acabamento.",
+          "feedback": "MVP é o mínimo para aprender, não a versão caprichada."
+        }
+      ],
+      "feedback": {
+        "curto": "Isso é um MVP: o mínimo possível para descobrir se o cliente quer o produto antes de gastar com ele.",
+        "explicacao": "Nesse tipo de MVP (concierge), o serviço é feito à mão para poucos clientes. Se eles usam e pagam, vale a pena automatizar.",
+        "saiba_mais": "base-conhecimento/materias/01-modelagem-de-negocios.md#u3--lean-startup"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/01-modelagem-de-negocios.md",
+        "arquivos": [
+          "Capítulo 02 - Modelagem de Negócios.pdf",
+          "War_Room_de_Modelagem (1).pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EMP-MOD-002",
+      "versao": 3,
+      "area": "EMP",
+      "subtema": "MOD",
+      "microtema": "validacao-problema-solucao",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "A startup já confirmou que o problema do cliente existe. Qual é o próximo passo mais lógico?",
+      "feedback": {
+        "curto": "Problema validado, agora valida-se a solução: protótipo na mão do cliente e conversa sobre preço.",
+        "explicacao": "A sequência enxuta é: validar o problema, validar a solução e só então escalar. Pular etapas é a causa clássica de produto que ninguém quer.",
+        "saiba_mais": "base-conhecimento/materias/01-modelagem-de-negocios.md#u6--lean-canvas-e-validação"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/01-modelagem-de-negocios.md",
+        "arquivos": [
+          "Capítulo 08 - Modelagem de Negócios.pdf",
+          "Modelagem de Negócios - Aula 6.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Lançar em escala para todo o Brasil",
+          "correta": false,
+          "erro_comum": "Pula a validação da solução.",
+          "feedback": "Antes de escalar, é preciso saber se a solução resolve o problema."
+        },
+        {
+          "id": "b",
+          "texto": "Contratar um time grande de vendas",
+          "correta": false,
+          "erro_comum": "Acelera antes de validar.",
+          "feedback": "Vender em massa uma solução não testada queima caixa."
+        },
+        {
+          "id": "c",
+          "texto": "Testar a solução com um protótipo",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Dar uma festa de lançamento",
+          "correta": false,
+          "erro_comum": "Confunde barulho com validação.",
+          "feedback": "Festa não mostra se a solução funciona para o cliente."
+        }
+      ],
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EMP-INO-001",
+      "versao": 3,
+      "area": "EMP",
+      "subtema": "INO",
+      "microtema": "gestao-do-conhecimento",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "O mecânico veterano escreve o passo a passo que só ele sabia. Por que isso vale ouro para a oficina?",
+      "feedback": {
+        "curto": "Transformar o que está na cabeça das pessoas em registro permite que o conhecimento fique na empresa.",
+        "explicacao": "É a passagem do conhecimento tácito (experiência) para o explícito (documento) — a externalização do modelo SECI.",
+        "saiba_mais": "base-conhecimento/materias/02-inovacao-nas-organizacoes.md#u2--processo-e-conhecimento"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/02-inovacao-nas-organizacoes.md",
+        "arquivos": [
+          "BalcaodeTrocas.pdf",
+          "respostas prova 2025 inovacoes .pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Deixa a oficina mais bonita",
+          "correta": false,
+          "erro_comum": "Distrator leve, sem relação.",
+          "feedback": "Manual não é decoração: é conhecimento registrado."
+        },
+        {
+          "id": "b",
+          "texto": "O saber deixa de depender de uma pessoa",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Dispensa treinar os novatos",
+          "correta": false,
+          "erro_comum": "Exagera o efeito.",
+          "feedback": "O manual ajuda o treino, mas não o substitui."
+        },
+        {
+          "id": "d",
+          "texto": "Garante uma patente para a oficina",
+          "correta": false,
+          "erro_comum": "Confunde registro interno com patente.",
+          "feedback": "Passo a passo de serviço não vira patente."
+        }
+      ],
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EMP-INO-002",
+      "versao": 3,
+      "area": "EMP",
+      "subtema": "INO",
+      "microtema": "inovacao-aberta",
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Sabores pelo voto",
+        "texto": "Uma sorveteria de Niterói publicou no Instagram 20 sabores criados por chefs da cidade. Os clientes votaram, e os 3 mais votados entraram no cardápio.",
+        "artefato": "Votação on-line",
+        "restricao": "Ideias e escolha vindas de fora"
+      },
+      "enunciado": "Que tipo de inovação é essa?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Fechada: tudo criado pela própria equipe",
+          "correta": false,
+          "erro_comum": "Ignora que as ideias vieram de fora.",
+          "feedback": "Chefs e clientes de fora criaram e escolheram os sabores."
+        },
+        {
+          "id": "b",
+          "texto": "Aberta: ideias e escolha vieram de fora",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Disruptiva: criou um mercado totalmente novo",
+          "correta": false,
+          "erro_comum": "Exagera o alcance.",
+          "feedback": "Sabores novos não criam um mercado novo de sorvete."
+        },
+        {
+          "id": "d",
+          "texto": "Frugal: cortou ao máximo o custo do produto",
+          "correta": false,
+          "erro_comum": "Confunde com inovação de baixo custo.",
+          "feedback": "O foco foi buscar ideias fora, não baratear o sorvete."
+        }
+      ],
+      "feedback": {
+        "curto": "Inovação aberta usa ideias de fora da empresa — aqui, chefs criaram e o público escolheu.",
+        "explicacao": "Na inovação aberta, a empresa capta ideias de clientes, parceiros e comunidades em vez de depender só do P&D interno.",
+        "saiba_mais": "base-conhecimento/materias/02-inovacao-nas-organizacoes.md#u4--inovação-aberta-e-tipos-oslo"
+      },
+      "bloom": "analisar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/02-inovacao-nas-organizacoes.md",
+        "arquivos": [
+          "Apresentação Cerveja com Cultura.pdf",
+          "respostas prova 2025 inovacoes .pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EST-EST-001",
+      "versao": 3,
+      "area": "EST",
+      "subtema": "EST",
+      "microtema": "matriz-bcg",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Na Matriz BCG, um produto com pouca participação num mercado que cresce rápido é:",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Estrela",
+          "correta": false,
+          "erro_comum": "Confunde participação baixa com alta.",
+          "feedback": "Estrela tem alta participação em mercado em crescimento."
+        },
+        {
+          "id": "b",
+          "texto": "Vaca leiteira",
+          "correta": false,
+          "erro_comum": "Confunde com o produto maduro que gera caixa.",
+          "feedback": "Vaca leiteira domina um mercado que já cresce pouco."
+        },
+        {
+          "id": "c",
+          "texto": "Abacaxi",
+          "correta": false,
+          "erro_comum": "Ignora o crescimento do mercado.",
+          "feedback": "Abacaxi tem pouca participação num mercado parado."
+        },
+        {
+          "id": "d",
+          "texto": "Ponto de interrogação",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Ponto de interrogação: mercado promissor, mas o produto ainda é pequeno — investir ou abandonar?",
+        "explicacao": "Na BCG, o ponto de interrogação consome caixa. Se ganhar participação, vira estrela; se não, tende a virar abacaxi.",
+        "saiba_mais": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md#u4--escolas-prescritivas"
+      },
+      "bloom": "lembrar",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md",
+        "arquivos": [
+          "Ferramenta___Matriz BCG.PDF",
+          "20241016__Classroom__Slides__Aula 4___Estratégia e Novos Negócios.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EST-EST-002",
+      "versao": 3,
+      "area": "EST",
+      "subtema": "EST",
+      "microtema": "swot",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Na SWOT da escola de idiomas, \"nosso site demora 9 segundos para carregar\" é uma:",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Força",
+          "correta": false,
+          "erro_comum": "Inverte o sinal.",
+          "feedback": "Site lento atrapalha; não é vantagem."
+        },
+        {
+          "id": "b",
+          "texto": "Fraqueza",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Oportunidade",
+          "correta": false,
+          "erro_comum": "Confunde fator interno com externo.",
+          "feedback": "Oportunidade vem de fora; o site é da própria escola."
+        },
+        {
+          "id": "d",
+          "texto": "Ameaça",
+          "correta": false,
+          "erro_comum": "Confunde fator interno com externo.",
+          "feedback": "Ameaça vem de fora; o site lento é problema interno."
+        }
+      ],
+      "feedback": {
+        "curto": "Fraqueza é um ponto negativo interno — e o site é algo que a própria escola controla.",
+        "explicacao": "SWOT: forças e fraquezas são internas (a empresa controla); oportunidades e ameaças são externas (mercado, concorrência, economia).",
+        "saiba_mais": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md#u2--planejamento-estratégico"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md",
+        "arquivos": [
+          "Ferramenta___Análise SWOT___Endeavor.PDF",
+          "20241002__Slides__Classroom__Aula 2___Estratégia e Novos Negócios.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EST-EST-003",
+      "versao": 2,
+      "area": "EST",
+      "subtema": "EST",
+      "microtema": "propriedade-intelectual-prazos",
+      "tags": [
+        "patente",
+        "inpi",
+        "lei-9279"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "No Brasil, uma patente de invenção vale por quantos anos, contados do depósito?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "15 anos",
+          "correta": false,
+          "erro_comum": "Confunde com o modelo de utilidade.",
+          "feedback": "15 anos é o prazo do modelo de utilidade."
+        },
+        {
+          "id": "b",
+          "texto": "10 anos, renováveis sem limite",
+          "correta": false,
+          "erro_comum": "Confunde com o registro de marca.",
+          "feedback": "Renovar a cada 10 anos sem limite é regra da marca."
+        },
+        {
+          "id": "c",
+          "texto": "20 anos",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Até 25 anos, com prorrogações",
+          "correta": false,
+          "erro_comum": "Confunde com o desenho industrial.",
+          "feedback": "Até 25 anos (10 + três prorrogações de 5) é o desenho industrial."
+        }
+      ],
+      "feedback": {
+        "curto": "Patente de invenção: 20 anos do depósito; depois, a invenção cai em domínio público.",
+        "explicacao": "A contagem é feita a partir do DEPÓSITO, não da concessão. Depois do prazo a invenção cai em domínio público — como no caso do Lipitor, cuja expiração derrubou o lucro da Pfizer.",
+        "saiba_mais": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md#u3--propriedade-intelectual"
+      },
+      "bloom": "lembrar",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md",
+        "arquivos": [
+          "20241009__Classroom__Slides__Aula 3___Estratégia e Novos Negócios.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "datado",
+        "referencia": "Lei 9.279/1996 (Lei de Propriedade Industrial) — regra vigente em 2026"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Precisão: não mencionei o prazo mínimo pós-concessão (tema da ADI 5529, ainda 'a confirmar' na Etapa 1). Marcado como datado por ser regra legal. Modo jogo: enunciado encurtado."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EST-EST-004",
+      "versao": 3,
+      "area": "EST",
+      "subtema": "EST",
+      "microtema": "oceano-azul",
+      "areas_secundarias": [
+        "EMP"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Academia para quem nunca treinou",
+        "texto": "A Academia Leve cortou musculação pesada e aulas intensas, criou aulas curtas com instrutor de saúde e cobra menos que as academias do bairro. O público são adultos que nunca treinaram.",
+        "artefato": "Proposta de valor",
+        "restricao": "Mercado de academias disputado"
+      },
+      "enunciado": "O que a Academia Leve fez, em termos de estratégia?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Fugiu da briga e criou um público novo",
+          "correta": true
+        },
+        {
+          "id": "b",
+          "texto": "Entrou na guerra de preço com as rivais",
+          "correta": false,
+          "erro_comum": "Lê o preço menor como guerra de preço.",
+          "feedback": "Ela não disputa os mesmos clientes; foi atrás de quem não treinava."
+        },
+        {
+          "id": "c",
+          "texto": "Copiou o modelo das academias do bairro",
+          "correta": false,
+          "erro_comum": "Ignora o que foi cortado e criado.",
+          "feedback": "Ela cortou o que as rivais oferecem e criou algo novo."
+        },
+        {
+          "id": "d",
+          "texto": "Focou em atletas de alto rendimento",
+          "correta": false,
+          "erro_comum": "Inverte o público do caso.",
+          "feedback": "O público são adultos que nunca treinaram."
+        }
+      ],
+      "feedback": {
+        "curto": "É um oceano azul: em vez de brigar pelos mesmos clientes, cria valor para um público que ninguém atendia.",
+        "explicacao": "A Estratégia do Oceano Azul combina eliminar e reduzir o que o setor oferece com criar e elevar outros atributos, baixando custo e criando valor ao mesmo tempo.",
+        "saiba_mais": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md#u7--oceano-azul"
+      },
+      "bloom": "analisar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md",
+        "arquivos": [
+          "20241113__Classroom__Slides__Aula 8___Estratégia e Novos Negócios.pdf",
+          "Resenha_Livro_Estrategia_Oceano_Azul.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EST-EST-005",
+      "versao": 3,
+      "area": "EST",
+      "subtema": "EST",
+      "microtema": "estrategia-emergente",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "\"Nossa estratégia foi surgindo do que aprendemos testando no dia a dia.\" Essa estratégia é:",
+      "feedback": {
+        "curto": "Estratégia emergente nasce da prática e dos testes, sem estar toda planejada no início.",
+        "explicacao": "Mintzberg mostra que a estratégia real mistura o que foi planejado (deliberada) com o que surge no caminho (emergente).",
+        "saiba_mais": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md#u5--escolas-descritivas"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md",
+        "arquivos": [
+          "20241016__Classroom__Slides__Aula 4___Estratégia e Novos Negócios.pdf",
+          "20241023__Classroom__Slides__Aula 5___Estratégia e Novos Negócios.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Deliberada",
+          "correta": false,
+          "erro_comum": "Confunde com o plano feito antes.",
+          "feedback": "Deliberada é planejada com antecedência e executada como previsto."
+        },
+        {
+          "id": "b",
+          "texto": "Copiada do concorrente",
+          "correta": false,
+          "erro_comum": "Confunde aprender com copiar.",
+          "feedback": "O aprendizado veio dos próprios testes."
+        },
+        {
+          "id": "c",
+          "texto": "Imposta pelo governo",
+          "correta": false,
+          "erro_comum": "Inventa um agente externo.",
+          "feedback": "Nada no caso fala de imposição; ela veio da prática."
+        },
+        {
+          "id": "d",
+          "texto": "Emergente",
+          "correta": true
+        }
+      ],
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EST-EST-006",
+      "versao": 3,
+      "area": "EST",
+      "subtema": "EST",
+      "microtema": "balanced-scorecard",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "No BSC da farmácia, o objetivo \"reduzir a espera no caixa\" fica em qual perspectiva?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Processos internos",
+          "correta": true
+        },
+        {
+          "id": "b",
+          "texto": "Financeira",
+          "correta": false,
+          "erro_comum": "Confunde efeito final com causa.",
+          "feedback": "Pode ajudar o lucro depois, mas o objetivo é de processo."
+        },
+        {
+          "id": "c",
+          "texto": "Aprendizado",
+          "correta": false,
+          "erro_comum": "Confunde com capacitação da equipe.",
+          "feedback": "Aprendizado trata de pessoas e sistemas, não da fila em si."
+        },
+        {
+          "id": "d",
+          "texto": "Marketing digital",
+          "correta": false,
+          "erro_comum": "Inventa uma perspectiva.",
+          "feedback": "O BSC tem 4 perspectivas: financeira, clientes, processos e aprendizado."
+        }
+      ],
+      "feedback": {
+        "curto": "Reduzir a espera é melhorar um processo interno — o que depois se reflete em clientes e finanças.",
+        "explicacao": "O BSC liga aprendizado → processos → clientes → finanças. A fila no caixa é um processo; a satisfação do cliente é o efeito.",
+        "saiba_mais": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md#u8--bmc-e-bsc"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md",
+        "arquivos": [
+          "20241127__Classroom__CANVAS__Balanced Scorecard___Estratégia e Novos Negócios.pdf",
+          "O que é Balanced Scorecard (BSC)? Saiba como aplicar! | XP Investimentos"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "EST-DEC-001",
+      "versao": 3,
+      "area": "EST",
+      "subtema": "DEC",
+      "microtema": "racionalidade-limitada",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Com pressa, o comprador fecha com o primeiro fornecedor que atende o básico, sem comparar os outros. Isso mostra que ele:",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Achou a melhor opção possível",
+          "correta": false,
+          "erro_comum": "Supõe decisão ótima.",
+          "feedback": "Sem comparar, não há como saber se era a melhor."
+        },
+        {
+          "id": "b",
+          "texto": "Buscou uma opção boa o bastante",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Seguiu uma regra fixa da empresa",
+          "correta": false,
+          "erro_comum": "Confunde com decisão programada.",
+          "feedback": "O caso fala de pressa, não de regra."
+        },
+        {
+          "id": "d",
+          "texto": "Decidiu no cara ou coroa",
+          "correta": false,
+          "erro_comum": "Distrator leve.",
+          "feedback": "Ele usou critérios mínimos (prazo e preço), não sorte."
+        }
+      ],
+      "feedback": {
+        "curto": "Com tempo e informação limitados, decidimos pelo \"bom o bastante\" — a racionalidade limitada de Simon.",
+        "explicacao": "Herbert Simon chamou isso de satisficing: em vez de maximizar, escolhemos a primeira opção que atende aos critérios mínimos.",
+        "saiba_mais": "base-conhecimento/02-LACUNAS-TRANSVERSAIS.md#iii--processos-de-tomada-de-decisão-web"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "WEB",
+        "ficha": "base-conhecimento/02-LACUNAS-TRANSVERSAIS.md",
+        "urls": [
+          "https://www.ie.ufrj.br/images/IE/TDS/2014/TD_IE_010_2014%20-%20Ponde.pdf",
+          "https://maisretorno.com/portal/termos/t/teoria-da-racionalidade-limitada/amp"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "FIN-CTB-001",
+      "versao": 3,
+      "area": "FIN",
+      "subtema": "CTB",
+      "microtema": "ponto-de-equilibrio",
+      "areas_secundarias": [
+        "EMP"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "O que significa a loja estar no ponto de equilíbrio?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Vender mais que o concorrente",
+          "correta": false,
+          "erro_comum": "Confunde com participação de mercado.",
+          "feedback": "Equilíbrio fala das contas da própria loja."
+        },
+        {
+          "id": "b",
+          "texto": "Ter estoque igual às vendas",
+          "correta": false,
+          "erro_comum": "Confunde com gestão de estoque.",
+          "feedback": "O ponto de equilíbrio é sobre receitas e custos."
+        },
+        {
+          "id": "c",
+          "texto": "Não ter nem lucro nem prejuízo",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Ter o maior lucro possível",
+          "correta": false,
+          "erro_comum": "Confunde com lucro máximo.",
+          "feedback": "No equilíbrio, o lucro é zero."
+        }
+      ],
+      "feedback": {
+        "curto": "No ponto de equilíbrio, as vendas pagam exatamente todos os custos: lucro zero, prejuízo zero.",
+        "explicacao": "Abaixo do ponto de equilíbrio, a loja tem prejuízo; acima dele, cada venda a mais gera lucro.",
+        "saiba_mais": "base-conhecimento/materias/05-contabilidade-gerencial.md#unidade-2--análise-custo-volume-lucro-cvl"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/05-contabilidade-gerencial.md",
+        "arquivos": [
+          "Aula4.pptx",
+          "Lista1.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "FIN-CTB-002",
+      "versao": 3,
+      "area": "FIN",
+      "subtema": "CTB",
+      "microtema": "vender-mais-x-lucrar-mais",
+      "areas_secundarias": [
+        "MKT"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Promoção que vende mais",
+        "texto": "A Manhã Feliz pensa em baixar o preço dos kits de café e anunciar mais. A projeção mostra mais kits vendidos, mas um lucro mensal menor que o atual.",
+        "artefato": "Projeção de vendas e lucro",
+        "restricao": "Custos fixos sobem com os anúncios"
+      },
+      "enunciado": "Qual decisão é mais defensável?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Fazer: vender mais é o que importa",
+          "correta": false,
+          "erro_comum": "Olha só o volume.",
+          "feedback": "Mais vendas com menos lucro deixam a empresa pior."
+        },
+        {
+          "id": "b",
+          "texto": "Fazer: o faturamento maior compensa",
+          "correta": false,
+          "erro_comum": "Confunde faturamento com lucro.",
+          "feedback": "Faturamento maior não ajuda se o lucro cai."
+        },
+        {
+          "id": "c",
+          "texto": "Fazer e cortar os anúncios depois",
+          "correta": false,
+          "erro_comum": "Aposta num ajuste incerto.",
+          "feedback": "Sem os anúncios, as vendas extras tendem a sumir."
+        },
+        {
+          "id": "d",
+          "texto": "Não fazer: o lucro projetado é menor",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "A decisão certa olha o lucro, não só as vendas: vender mais ganhando menos não compensa.",
+        "explicacao": "Preço menor reduz o ganho por kit e anúncio aumenta o custo fixo. Se a projeção mostra lucro menor, a promoção destrói valor.",
+        "saiba_mais": "base-conhecimento/materias/05-contabilidade-gerencial.md#conceito-decisões-com-cvl-incremental--núcleo--bloom-ap-an-av"
+      },
+      "bloom": "avaliar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/05-contabilidade-gerencial.md",
+        "arquivos": [
+          "Aula4.pptx",
+          "Lista1.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "FIN-CTB-003",
+      "versao": 3,
+      "area": "FIN",
+      "subtema": "CTB",
+      "microtema": "estoque-parado",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Por que um estoque grande e parado é ruim para a empresa?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Porque reduz o imposto a pagar",
+          "correta": false,
+          "erro_comum": "Inventa um efeito.",
+          "feedback": "Estoque parado não reduz imposto; só ocupa caixa."
+        },
+        {
+          "id": "b",
+          "texto": "Porque estoque não aparece no balanço",
+          "correta": false,
+          "erro_comum": "Erro de conceito.",
+          "feedback": "Estoque é ativo e aparece no balanço."
+        },
+        {
+          "id": "c",
+          "texto": "Porque aumenta as vendas do concorrente",
+          "correta": false,
+          "erro_comum": "Inventa um efeito.",
+          "feedback": "O problema é o dinheiro parado, não o concorrente."
+        },
+        {
+          "id": "d",
+          "texto": "Prende dinheiro que poderia estar no caixa",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Estoque parado é dinheiro parado: já foi pago, ainda não virou venda e pode estragar ou ficar velho.",
+        "explicacao": "Quanto mais tempo o produto fica na prateleira, mais capital de giro a empresa precisa. Por isso se controla o giro de estoque.",
+        "saiba_mais": "base-conhecimento/materias/05-contabilidade-gerencial.md#unidade-3--custeio-variável--custeio-por-absorção"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/05-contabilidade-gerencial.md",
+        "arquivos": [
+          "Custeio.pptx",
+          "Lista2_242_250530_202200.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "FIN-INV-001",
+      "versao": 3,
+      "area": "FIN",
+      "subtema": "INV",
+      "microtema": "valor-do-dinheiro-no-tempo",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Por que R$ 100 hoje valem mais do que R$ 100 daqui a um ano?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Porque a nota velha perde validade",
+          "correta": false,
+          "erro_comum": "Distrator leve.",
+          "feedback": "Nota não vence; o que muda é o poder de compra e o rendimento."
+        },
+        {
+          "id": "b",
+          "texto": "Porque o governo cobra imposto",
+          "correta": false,
+          "erro_comum": "Confunde com tributo.",
+          "feedback": "A diferença existe mesmo sem imposto."
+        },
+        {
+          "id": "c",
+          "texto": "Não valem: R$ 100 é sempre R$ 100",
+          "correta": false,
+          "erro_comum": "Ignora juros e inflação.",
+          "feedback": "O número é igual, mas o valor muda com o tempo."
+        },
+        {
+          "id": "d",
+          "texto": "Hoje dá para aplicar e fazer render",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Dinheiro hoje pode render juros e não sofre a inflação do ano: por isso vale mais que a mesma quantia no futuro.",
+        "explicacao": "É o valor do dinheiro no tempo, base de toda análise de investimento: valores futuros precisam ser descontados para comparar com os de hoje.",
+        "saiba_mais": "base-conhecimento/materias/09-avaliacao-de-investimentos.md#u2--custo-de-capital-e-tma"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/09-avaliacao-de-investimentos.md",
+        "arquivos": [
+          "3a Aula - Rentabilidade de pequenos negócios.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "FIN-INV-002",
+      "versao": 3,
+      "area": "FIN",
+      "subtema": "INV",
+      "microtema": "payback",
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Vitrine ou forno?",
+        "texto": "A padaria pode reformar a vitrine, com retorno rápido e pequeno, ou comprar um forno maior, com retorno maior e mais demorado. O caixa é curto e há um empréstimo vencendo.",
+        "artefato": "Opções de investimento",
+        "restricao": "Caixa apertado no curto prazo"
+      },
+      "enunciado": "Qual critério deve pesar mais agora?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "O maior retorno total, em qualquer caso",
+          "correta": false,
+          "erro_comum": "Ignora a restrição de caixa.",
+          "feedback": "Retorno maior não ajuda se o caixa acaba antes de ele chegar."
+        },
+        {
+          "id": "b",
+          "texto": "O tempo para o dinheiro voltar",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "O mais barato, seja qual for o retorno",
+          "correta": false,
+          "erro_comum": "Olha só o preço.",
+          "feedback": "O mais barato pode não trazer dinheiro de volta a tempo."
+        },
+        {
+          "id": "d",
+          "texto": "O que o concorrente fez no ano passado",
+          "correta": false,
+          "erro_comum": "Decide por imitação.",
+          "feedback": "A situação de caixa da padaria é que deve guiar."
+        }
+      ],
+      "feedback": {
+        "curto": "Com caixa curto e dívida vencendo, o dinheiro precisa voltar rápido: o payback pesa mais.",
+        "explicacao": "O payback mede em quanto tempo o investimento se paga. Ele é decisivo quando a liquidez é o maior risco, mesmo que outro projeto renda mais no total.",
+        "saiba_mais": "base-conhecimento/materias/09-avaliacao-de-investimentos.md#u6--análise-avançada-sensibilidade-e-incremental"
+      },
+      "bloom": "avaliar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM+WEB",
+        "ficha": "base-conhecimento/materias/09-avaliacao-de-investimentos.md",
+        "arquivos": [
+          "8a aula - Analise de investimentos - Avançado.pdf"
+        ],
+        "urls": [
+          "https://pesquisa-eaesp.fgv.br/sites/gvpesquisa.fgv.br/files/arquivos/barbieri_-_taxa_interna_de_retorno_controversias_e_interpretacoes.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "FIN-ECO-001",
+      "versao": 3,
+      "area": "FIN",
+      "subtema": "ECO",
+      "microtema": "tributo-e-consumo",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Por que o governo cobra imposto alto sobre o cigarro?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Para encarecer e desestimular o consumo",
+          "correta": true
+        },
+        {
+          "id": "b",
+          "texto": "Para ajudar a indústria do cigarro",
+          "correta": false,
+          "erro_comum": "Inverte o efeito.",
+          "feedback": "Imposto alto reduz as vendas da indústria."
+        },
+        {
+          "id": "c",
+          "texto": "Porque o cigarro é um bem de luxo",
+          "correta": false,
+          "erro_comum": "Confunde o motivo.",
+          "feedback": "O objetivo é a saúde pública, não taxar o luxo."
+        },
+        {
+          "id": "d",
+          "texto": "Para baixar o preço do cigarro",
+          "correta": false,
+          "erro_comum": "Inverte o efeito.",
+          "feedback": "Imposto encarece o produto."
+        }
+      ],
+      "feedback": {
+        "curto": "Preço mais alto reduz a quantidade demandada: o imposto usa a lei da demanda a favor da saúde.",
+        "explicacao": "O preço maior por causa do imposto faz o consumo cair ao longo da mesma curva de demanda. O mesmo vale para bebidas e refrigerantes açucarados.",
+        "saiba_mais": "base-conhecimento/materias/08-economia.md#u2--demanda-e-oferta"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/08-economia.md",
+        "arquivos": [
+          "capítulo 4 _mankiw.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "FIN-ECO-002",
+      "versao": 3,
+      "area": "FIN",
+      "subtema": "ECO",
+      "microtema": "elasticidade-e-receita",
+      "areas_secundarias": [
+        "MKT"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "A cafeteria subiu o preço e quase ninguém deixou de comprar. O faturamento tende a…",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Cair, porque o café ficou caro",
+          "correta": false,
+          "erro_comum": "Ignora a reação dos clientes.",
+          "feedback": "Se quase ninguém deixou de comprar, a receita sobe."
+        },
+        {
+          "id": "b",
+          "texto": "Subir, porque a demanda é pouco sensível",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Ficar igual, porque o preço não importa",
+          "correta": false,
+          "erro_comum": "Ignora o efeito do preço maior.",
+          "feedback": "Mesmas vendas a um preço maior = mais receita."
+        },
+        {
+          "id": "d",
+          "texto": "Cair, porque menos gente comprou",
+          "correta": false,
+          "erro_comum": "Exagera a queda.",
+          "feedback": "A queda foi pequena; o preço maior compensa."
+        }
+      ],
+      "feedback": {
+        "curto": "Demanda inelástica: o preço sobe, as vendas quase não caem e o faturamento aumenta.",
+        "explicacao": "Se a quantidade cai menos que o aumento do preço, a receita total sobe. Se cair mais, a receita cai (demanda elástica).",
+        "saiba_mais": "base-conhecimento/materias/08-economia.md#u4--elasticidades"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/08-economia.md",
+        "arquivos": [
+          "elasticidade_2024B.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "FIN-ECO-003",
+      "versao": 3,
+      "area": "FIN",
+      "subtema": "ECO",
+      "microtema": "lei-da-oferta-e-demanda",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Uma onda de calor faz todo mundo querer sorvete. Com a oferta igual, o preço tende a…",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Subir",
+          "correta": true
+        },
+        {
+          "id": "b",
+          "texto": "Cair",
+          "correta": false,
+          "erro_comum": "Inverte o efeito da demanda.",
+          "feedback": "Mais procura com a mesma oferta empurra o preço para cima."
+        },
+        {
+          "id": "c",
+          "texto": "Ficar igual",
+          "correta": false,
+          "erro_comum": "Ignora o aumento da procura.",
+          "feedback": "Com mais gente querendo, o preço de equilíbrio sobe."
+        },
+        {
+          "id": "d",
+          "texto": "Virar de graça",
+          "correta": false,
+          "erro_comum": "Distrator leve.",
+          "feedback": "Pelo contrário: com muita procura, o sorvete fica mais caro."
+        }
+      ],
+      "feedback": {
+        "curto": "Mais demanda com a mesma oferta empurra o preço para cima.",
+        "explicacao": "O aumento da demanda desloca a curva para a direita: o novo equilíbrio tem preço e quantidade maiores.",
+        "saiba_mais": "base-conhecimento/materias/08-economia.md#u3--equilíbrio-e-intervenções"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/08-economia.md",
+        "arquivos": [
+          "equilibrio de mercado_b.pdf",
+          "capítulo 4 _mankiw.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "LID-LCO-001",
+      "versao": 3,
+      "area": "LID",
+      "subtema": "LCO",
+      "microtema": "herzberg",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Um aumento salarial acabou com as queixas, mas o engajamento seguiu baixo. Por quê, segundo Herzberg?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Salário é o que mais motiva",
+          "correta": false,
+          "erro_comum": "Inverte a teoria.",
+          "feedback": "Para Herzberg, salário evita insatisfação, mas não motiva."
+        },
+        {
+          "id": "b",
+          "texto": "O aumento foi pequeno demais",
+          "correta": false,
+          "erro_comum": "Supõe que bastava mais dinheiro.",
+          "feedback": "Mesmo maior, o salário só tira a insatisfação."
+        },
+        {
+          "id": "c",
+          "texto": "Salário só evita a insatisfação",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "A equipe é preguiçosa",
+          "correta": false,
+          "erro_comum": "Culpa as pessoas.",
+          "feedback": "O caso mostra o limite do salário, não preguiça."
+        }
+      ],
+      "feedback": {
+        "curto": "Salário é fator higiênico: tira a insatisfação, mas a motivação vem do trabalho em si.",
+        "explicacao": "Para Herzberg, desafio, reconhecimento e crescimento motivam; salário, condições e chefia só evitam insatisfação.",
+        "saiba_mais": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md#u3--motivação"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md",
+        "arquivos": [
+          "AULA_motivação_A.pdf",
+          "AULA_liderança e motivação_a.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "LID-LCO-002",
+      "versao": 3,
+      "area": "LID",
+      "subtema": "LCO",
+      "microtema": "lideranca-situacional",
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Primeira vez na diretoria",
+        "texto": "Júlia monta os relatórios mensais há três anos sem precisar de correção. Agora vai apresentá-los à diretoria pela primeira vez e diz estar insegura, com medo de errar.",
+        "artefato": "Liderança situacional",
+        "restricao": "Alta competência, baixa confiança"
+      },
+      "enunciado": "Qual é a melhor forma de liderar Júlia nessa tarefa?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Só passar a tarefa: ela já sabe fazer",
+          "correta": false,
+          "erro_comum": "Ignora a insegurança.",
+          "feedback": "Ela domina o conteúdo, mas precisa de apoio na confiança."
+        },
+        {
+          "id": "b",
+          "texto": "Dar instruções detalhadas passo a passo",
+          "correta": false,
+          "erro_comum": "Trata como iniciante.",
+          "feedback": "Ela não precisa aprender o relatório; precisa de confiança."
+        },
+        {
+          "id": "c",
+          "texto": "Apoiar e encorajar, com pouca instrução",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Cobrar resultado e não interferir",
+          "correta": false,
+          "erro_comum": "Ignora o medo dela.",
+          "feedback": "Sem apoio, a insegurança tende a atrapalhar."
+        }
+      ],
+      "feedback": {
+        "curto": "Ela sabe fazer, mas está insegura: o líder dá apoio e confiança, não instruções.",
+        "explicacao": "Na liderança situacional (Hersey e Blanchard), o estilo depende de competência e confiança. Competente e insegura pede estilo de apoio (compartilhar).",
+        "saiba_mais": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md#u2--liderança"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM+WEB",
+        "ficha": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md",
+        "arquivos": [
+          "AULA_LIDERANÇA_1A_2025.pdf"
+        ],
+        "urls": [
+          "https://www.direcaoconcursos.com.br/artigos/curva-da-maturidade"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "LID-LCO-003",
+      "versao": 3,
+      "area": "LID",
+      "subtema": "LCO",
+      "microtema": "cultura-organizacional",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Qual é a camada mais profunda e invisível da cultura de uma empresa?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "O logo e a decoração do escritório",
+          "correta": false,
+          "erro_comum": "Confunde com artefatos visíveis.",
+          "feedback": "Logo e escritório são a camada mais superficial."
+        },
+        {
+          "id": "b",
+          "texto": "As crenças que ninguém questiona",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Os valores escritos no site da empresa",
+          "correta": false,
+          "erro_comum": "Confunde com valores declarados.",
+          "feedback": "O que está escrito nem sempre é o que se pratica."
+        },
+        {
+          "id": "d",
+          "texto": "O happy hour de sexta",
+          "correta": false,
+          "erro_comum": "Distrator leve.",
+          "feedback": "Happy hour é um ritual visível, não a base da cultura."
+        }
+      ],
+      "feedback": {
+        "curto": "No fundo da cultura estão os pressupostos: crenças tão aceitas que ninguém nem discute.",
+        "explicacao": "Schein divide a cultura em artefatos (visíveis), valores declarados e pressupostos básicos (invisíveis e mais profundos).",
+        "saiba_mais": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md#u8--cultura-e-clima"
+      },
+      "bloom": "lembrar",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md",
+        "arquivos": [
+          "AULA _cultura organizacional_a.pdf",
+          "20241023__Classroom__Slides__Aula 5___Estratégia e Novos Negócios.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "LID-LCO-004",
+      "versao": 3,
+      "area": "LID",
+      "subtema": "LCO",
+      "microtema": "expectativa-vroom",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Há três anos ninguém bate a meta do bônus, e a equipe desistiu de tentar. O que falta?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Mais reuniões de alinhamento",
+          "correta": false,
+          "erro_comum": "Solução genérica.",
+          "feedback": "Reunião não resolve uma meta vista como impossível."
+        },
+        {
+          "id": "b",
+          "texto": "Querer o bônus",
+          "correta": false,
+          "erro_comum": "Supõe falta de interesse.",
+          "feedback": "A equipe quer o bônus; só não acredita que consegue."
+        },
+        {
+          "id": "c",
+          "texto": "Confiar que a empresa paga o bônus",
+          "correta": false,
+          "erro_comum": "Confunde as etapas.",
+          "feedback": "O problema é chegar na meta, não receber depois."
+        },
+        {
+          "id": "d",
+          "texto": "Acreditar que o esforço leva à meta",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Se a meta parece impossível, ninguém se esforça: falta a crença de que o esforço dá resultado.",
+        "explicacao": "Para Vroom, motivação = expectância × instrumentalidade × valência. Aqui a expectância está perto de zero, então a motivação some.",
+        "saiba_mais": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md#u3--motivação"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md",
+        "arquivos": [
+          "AULA_motivação_A.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "LID-LCO-005",
+      "versao": 3,
+      "area": "LID",
+      "subtema": "LCO",
+      "microtema": "tipos-de-cultura",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Regras claras, padronização e controle rígido de custos. Que tipo de cultura é essa?",
+      "feedback": {
+        "curto": "Cultura hierárquica valoriza regras, padrões e controle: estabilidade acima de tudo.",
+        "explicacao": "O modelo de Cameron e Quinn tem quatro culturas: clã (família), adhocracia (inovação), mercado (resultado) e hierárquica (controle).",
+        "saiba_mais": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md#u8--cultura-e-clima"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md",
+        "arquivos": [
+          "AULA _cultura organizacional_a.pdf",
+          "EC Cultura organizacional Hogwarts_recortado.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Inovadora",
+          "correta": false,
+          "erro_comum": "Confunde com cultura que busca o novo.",
+          "feedback": "Cultura inovadora valoriza risco e experimentação."
+        },
+        {
+          "id": "b",
+          "texto": "Familiar",
+          "correta": false,
+          "erro_comum": "Confunde com cultura de clã.",
+          "feedback": "Cultura familiar valoriza união e cuidado com as pessoas."
+        },
+        {
+          "id": "c",
+          "texto": "Hierárquica",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Festeira",
+          "correta": false,
+          "erro_comum": "Distrator leve.",
+          "feedback": "Nada no caso fala de festa; o foco é controle."
+        }
+      ],
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "LID-NEG-001",
+      "versao": 3,
+      "area": "LID",
+      "subtema": "NEG",
+      "microtema": "negociacao-batna",
+      "areas_secundarias": [
+        "OPE"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Reajuste do fornecedor",
+        "texto": "O fornecedor de embalagens da fábrica de Renata pediu reajuste de 18%. Ela tem uma proposta formal de outro fornecedor, só 8% acima do preço atual, com amostras aprovadas.",
+        "artefato": "Proposta alternativa",
+        "restricao": "Parceria antiga em jogo"
+      },
+      "enunciado": "Qual postura de negociação é mais inteligente?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Usar a proposta de 8% como referência",
+          "correta": true
+        },
+        {
+          "id": "b",
+          "texto": "Aceitar os 18% para manter a parceria",
+          "correta": false,
+          "erro_comum": "Ignora a alternativa que tem.",
+          "feedback": "Ela tem opção melhor; aceitar tudo é desperdício."
+        },
+        {
+          "id": "c",
+          "texto": "Exigir reajuste zero ou romper hoje",
+          "correta": false,
+          "erro_comum": "Postura extrema.",
+          "feedback": "Ameaça sem critério pode romper uma boa parceria."
+        },
+        {
+          "id": "d",
+          "texto": "Esconder a outra proposta e blefar",
+          "correta": false,
+          "erro_comum": "Aposta no blefe.",
+          "feedback": "Blefe pode sair caro; a alternativa real é um argumento forte."
+        }
+      ],
+      "feedback": {
+        "curto": "A melhor alternativa ao acordo (8%) é o limite: acima disso, compensa trocar de fornecedor.",
+        "explicacao": "No método de Harvard, conhecer a sua BATNA dá força à negociação e permite buscar critérios objetivos em vez de ceder ou brigar.",
+        "saiba_mais": "base-conhecimento/02-LACUNAS-TRANSVERSAIS.md#vii--negociação-web"
+      },
+      "bloom": "avaliar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "WEB",
+        "ficha": "base-conhecimento/02-LACUNAS-TRANSVERSAIS.md",
+        "urls": [
+          "https://justen.com.br/artigo_pdf_1_est/o-metodo-de-negociacao-de-harvard-como-chegar-ao-sim/",
+          "https://ojs.sites.ufsc.br/index.php/avant/article/download/8003/7408/33465"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "LID-LCO-006",
+      "versao": 3,
+      "area": "LID",
+      "subtema": "LCO",
+      "microtema": "reforco",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Quem entrega o relatório no prazo fica livre da reunião chata de sexta. Isso é um…",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Castigo",
+          "correta": false,
+          "erro_comum": "Confunde com punição.",
+          "feedback": "Castigo diminui um comportamento; aqui se quer aumentá-lo."
+        },
+        {
+          "id": "b",
+          "texto": "Reforço positivo",
+          "correta": false,
+          "erro_comum": "Confunde dar algo bom com tirar algo ruim.",
+          "feedback": "Positivo seria ganhar um prêmio; aqui se tira algo ruim."
+        },
+        {
+          "id": "c",
+          "texto": "Reforço negativo",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Prêmio em dinheiro",
+          "correta": false,
+          "erro_comum": "Inventa uma recompensa.",
+          "feedback": "Não há dinheiro; a recompensa é escapar da reunião."
+        }
+      ],
+      "feedback": {
+        "curto": "Reforço negativo é tirar algo desagradável para incentivar um comportamento.",
+        "explicacao": "Pela teoria do reforço (Skinner): positivo dá algo bom, negativo tira algo ruim; ambos aumentam o comportamento. Punição o reduz.",
+        "saiba_mais": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md#u3--motivação"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md",
+        "arquivos": [
+          "AULA_motivação_A.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "LID-LCO-007",
+      "versao": 3,
+      "area": "LID",
+      "subtema": "LCO",
+      "microtema": "silencio-organizacional",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Contra o silêncio nas reuniões, a diretoria criou uma caixa de sugestões anônima. Qual é o risco?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Receber sugestões demais para analisar",
+          "correta": false,
+          "erro_comum": "Foca num efeito pequeno.",
+          "feedback": "Excesso de ideias é um problema bom de ter."
+        },
+        {
+          "id": "b",
+          "texto": "Expor quem sugeriu a retaliações",
+          "correta": false,
+          "erro_comum": "Ignora que é anônima.",
+          "feedback": "A caixa é anônima justamente para proteger."
+        },
+        {
+          "id": "c",
+          "texto": "Substituir as reuniões de equipe",
+          "correta": false,
+          "erro_comum": "Inventa um efeito.",
+          "feedback": "A caixa não substitui as reuniões."
+        },
+        {
+          "id": "d",
+          "texto": "Passar a ideia de que falar é perigoso",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Anonimato sem mudar o clima confirma o medo: \"aqui é melhor não se expor\".",
+        "explicacao": "Pesquisas sobre voz no trabalho mostram que o silêncio vem da segurança psicológica. O líder precisa ouvir e agir abertamente, não só esconder o autor.",
+        "saiba_mais": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md#u7--comunicação-e-voz"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/07-lideranca-e-comportamento-organizacional.md",
+        "arquivos": [
+          "seus funcionários podem dizer o que pensam.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "MKT-MKT-001",
+      "versao": 2,
+      "area": "MKT",
+      "subtema": "MKT",
+      "microtema": "variaveis-de-segmentacao",
+      "tags": [
+        "segmentacao",
+        "psicografica"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Uma marca esportiva mira quem valoriza vida saudável e posta treinos nas redes. Que segmentação é essa?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Demográfica",
+          "correta": false,
+          "erro_comum": "Confunde estilo de vida com idade ou renda.",
+          "feedback": "Demográfica olha quem a pessoa é: idade, renda, gênero."
+        },
+        {
+          "id": "b",
+          "texto": "Geográfica",
+          "correta": false,
+          "erro_comum": "Confunde com localização.",
+          "feedback": "Geográfica olha onde o cliente está."
+        },
+        {
+          "id": "c",
+          "texto": "Comportamental",
+          "correta": false,
+          "erro_comum": "Confunde estilo de vida com relação com o produto.",
+          "feedback": "Comportamental olha como a pessoa usa e compra o produto."
+        },
+        {
+          "id": "d",
+          "texto": "Psicográfica",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Psicográfica segmenta por estilo de vida, valores e personalidade: como a pessoa vive e pensa.",
+        "explicacao": "B2C: geográficas (onde), demográficas (quem: idade, renda), psicográficas (como vive e pensa) e comportamentais (como se relaciona com o produto).",
+        "saiba_mais": "base-conhecimento/materias/06-gestao-de-marketing.md#u5--segmentação-público-alvo-posicionamento"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/06-gestao-de-marketing.md",
+        "arquivos": [
+          "Free Principles of Marketing Book for Download - OpenStax",
+          "NT00032296.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Precisão: retirei 'compram toda semana' do enunciado (puxaria para comportamental e geraria ambiguidade). Modo jogo: enunciado encurtado; bloom aplicar→entender para duelo."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "MKT-MKT-002",
+      "versao": 3,
+      "area": "MKT",
+      "subtema": "MKT",
+      "microtema": "tamanho-de-mercado",
+      "areas_secundarias": [
+        "EST"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Meta da Violão Já",
+        "texto": "A Violão Já só atua no RJ, onde há 80 mil alunos de violão on-line, e quer conquistar 5% deles no primeiro ano.",
+        "artefato": "Mercado-alvo",
+        "restricao": "Atuação só no RJ"
+      },
+      "enunciado": "Quantos alunos são a meta da Violão Já?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "4 mil alunos",
+          "correta": true
+        },
+        {
+          "id": "b",
+          "texto": "80 mil alunos",
+          "correta": false,
+          "erro_comum": "Confunde o mercado com a meta.",
+          "feedback": "80 mil é o mercado todo; a meta é 5% dele."
+        },
+        {
+          "id": "c",
+          "texto": "40 mil alunos",
+          "correta": false,
+          "erro_comum": "Calcula 50% em vez de 5%.",
+          "feedback": "5% de 80 mil é 4 mil, não 40 mil."
+        },
+        {
+          "id": "d",
+          "texto": "400 alunos",
+          "correta": false,
+          "erro_comum": "Erra a casa decimal.",
+          "feedback": "0,5% seria 400; 5% de 80 mil é 4 mil."
+        }
+      ],
+      "feedback": {
+        "curto": "5% de 80 mil = 4 mil alunos: é a fatia do mercado que a empresa espera conquistar.",
+        "explicacao": "Essa fatia realista é o SOM (mercado obtível), dentro do SAM (mercado atendível) e do TAM (mercado total).",
+        "saiba_mais": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md#u6--valor-preço-canais-e-mercado"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/10-estrategia-e-novos-negocios.md",
+        "arquivos": [
+          "20241106__Classroom__Slides__Aula 7___Estratégia e Novos Negócios.pdf",
+          "TAM, SAM e SOM: o que são e como calcular esses indicadores",
+          "Delmon coletes final .pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "MKT-MKT-003",
+      "versao": 2,
+      "area": "MKT",
+      "subtema": "MKT",
+      "microtema": "processo-de-decisao-de-compra",
+      "tags": [
+        "comportamento-do-consumidor",
+        "b2c"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "A Bia quer um fone novo e pergunta aos amigos que marcas existem. Em que etapa da decisão de compra ela está?",
+      "feedback": {
+        "curto": "Depois de reconhecer a necessidade, o consumidor busca informações com amigos, sites e lojas.",
+        "explicacao": "O pós-compra (satisfação ou arrependimento) alimenta a recompra e a recomendação — por isso o marketing de relacionamento atua depois da venda.",
+        "saiba_mais": "base-conhecimento/materias/06-gestao-de-marketing.md#u3--comportamento-do-consumidor"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/06-gestao-de-marketing.md",
+        "arquivos": [
+          "Free Principles of Marketing Book for Download - OpenStax"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Convertida de 'ordenar'; o feedback de cada distrator recompõe a sequência completa. | v2: convertida ao padrão Perguntados (4 alternativas). Modo jogo: de 'qual etapa vem depois' (sequência) para mini-caso que nomeia a etapa."
+      },
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Reconhecimento do problema",
+          "correta": false,
+          "erro_comum": "Volta uma etapa.",
+          "feedback": "O problema, precisar de um fone, já foi reconhecido."
+        },
+        {
+          "id": "b",
+          "texto": "Busca de informações",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Decisão de compra",
+          "correta": false,
+          "erro_comum": "Pula etapas.",
+          "feedback": "Ela ainda está levantando opções; não escolheu nem comprou."
+        },
+        {
+          "id": "d",
+          "texto": "Comportamento pós-compra",
+          "correta": false,
+          "erro_comum": "Confunde com o que vem depois da compra.",
+          "feedback": "Pós-compra é a satisfação ou o arrependimento depois de comprar."
+        }
+      ],
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "MKT-MKT-004",
+      "versao": 2,
+      "area": "MKT",
+      "subtema": "MKT",
+      "microtema": "matriz-ansoff",
+      "tags": [
+        "ansoff",
+        "crescimento"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Uma padaria lança marmitas saudáveis para os clientes que já frequentam o balcão. Na Matriz de Ansoff, isso é:",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Penetração de mercado",
+          "correta": false,
+          "erro_comum": "Ignora que o produto é novo.",
+          "feedback": "Penetração vende mais do produto atual ao mercado atual."
+        },
+        {
+          "id": "b",
+          "texto": "Diversificação",
+          "correta": false,
+          "erro_comum": "Acha que todo produto novo é diversificação.",
+          "feedback": "Diversificação exige produto novo e mercado novo."
+        },
+        {
+          "id": "c",
+          "texto": "Desenvolvimento de produto",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Desenvolvimento de mercado",
+          "correta": false,
+          "erro_comum": "Inverte produto e mercado.",
+          "feedback": "Desenvolvimento de mercado leva o produto atual a clientes novos."
+        }
+      ],
+      "feedback": {
+        "curto": "Produto novo para o mercado atual é desenvolvimento de produto na Matriz de Ansoff.",
+        "explicacao": "Ansoff cruza produto (atual/novo) com mercado (atual/novo): penetração (atual/atual), desenvolvimento de mercado (atual/novo), desenvolvimento de produto (novo/atual), diversificação (novo/novo, maior risco).",
+        "saiba_mais": "base-conhecimento/materias/06-gestao-de-marketing.md#u2--composto-de-marketing"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/06-gestao-de-marketing.md",
+        "arquivos": [
+          "NT00032296.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Clareza: 'nas mesmas lojas, para os clientes que já frequentam' deixa o mercado inequivocamente atual. Modo jogo: enunciado encurtado; duelo."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "MKT-MKT-005",
+      "versao": 2,
+      "area": "MKT",
+      "subtema": "MKT",
+      "microtema": "pesquisa-de-mercado-tipos",
+      "tags": [
+        "pesquisa-qualitativa",
+        "pesquisa-quantitativa",
+        "dados-secundarios"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Doceria Açúcar Mascavo",
+        "texto": "A dona da Doceria Açúcar Mascavo, em Icaraí, quer entender por que quem provou doces sem açúcar de outras marcas não voltou a comprar.",
+        "artefato": "Tipos de pesquisa de mercado (primária/secundária; qualitativa/quantitativa)",
+        "restricao": "Orçamento para poucas entrevistas e um grupo"
+      },
+      "enunciado": "Que pesquisa responde melhor a essa dúvida?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Questionário fechado com moradores",
+          "correta": false,
+          "erro_comum": "Usa pesquisa quantitativa para entender motivos.",
+          "feedback": "Questionário fechado mede proporções, mas revela mal o porquê."
+        },
+        {
+          "id": "b",
+          "texto": "Dados secundários do IBGE",
+          "correta": false,
+          "erro_comum": "Acha que dado secundário responde dúvidas do negócio.",
+          "feedback": "O IBGE ajuda a dimensionar o bairro, mas não explica por que clientes desistiram."
+        },
+        {
+          "id": "c",
+          "texto": "Contagem das vendas no caixa",
+          "correta": false,
+          "erro_comum": "Confunde quanto se vende com por que se compra.",
+          "feedback": "Dados de venda mostram quanto, não o motivo de não voltar."
+        },
+        {
+          "id": "d",
+          "texto": "Grupo focal com esses clientes",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Perguntas de \"por quê?\" pedem pesquisa qualitativa, como grupo focal; \"quantos %?\" pede quantitativa.",
+        "explicacao": "SEBRAE: qualitativa explora motivações (grupo focal, entrevistas em profundidade, cliente oculto); quantitativa mede com amostra representativa (questionário). Dados secundários (IBGE) são o ponto de partida para dimensionar, não substituem a pesquisa primária.",
+        "saiba_mais": "base-conhecimento/materias/06-gestao-de-marketing.md#u4--pesquisa-de-mercado"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/06-gestao-de-marketing.md",
+        "arquivos": [
+          "NT0003229E.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Pedagógico: nível Analisar porque exige associar natureza de cada pergunta ao método. Precisão: 70 entrevistas compatível com o exemplo SEBRAE (amostra de 61 para 10 mil moradores, erro de 10%). Validador: alternativas reequilibradas para tirar a pista de tamanho. Modo jogo: de 2 dúvidas (coroa) para 1 dúvida qualitativa (giro)."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "MKT-MKT-006",
+      "versao": 3,
+      "area": "MKT",
+      "subtema": "MKT",
+      "microtema": "incentivo-de-vendas",
+      "areas_secundarias": [
+        "FIN"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Comissão da bicicletaria",
+        "texto": "Na loja Pedal Firme, a bike Urbano deixa R$ 600 de lucro e a Trilha, R$ 450. A Trilha tem preço maior, e o vendedor ganha comissão sobre o preço de cada venda.",
+        "artefato": "Regra de comissão",
+        "restricao": "Vendedor ganha sobre o preço"
+      },
+      "enunciado": "Que efeito essa regra de comissão tende a produzir?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Vender mais Urbano, que dá mais lucro",
+          "correta": false,
+          "erro_comum": "Ignora o interesse do vendedor.",
+          "feedback": "A comissão maior está na Trilha, não na Urbano."
+        },
+        {
+          "id": "b",
+          "texto": "Vender mais Trilha, que dá menos lucro",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Vender mais Trilha, que dá mais lucro",
+          "correta": false,
+          "erro_comum": "Erra o lucro de cada bike.",
+          "feedback": "A Trilha deixa R$ 450; a Urbano, R$ 600."
+        },
+        {
+          "id": "d",
+          "texto": "Nenhum: a comissão não muda o que se vende",
+          "correta": false,
+          "erro_comum": "Ignora o incentivo.",
+          "feedback": "Vendedores tendem a empurrar o que paga mais comissão."
+        }
+      ],
+      "feedback": {
+        "curto": "Comissão sobre o preço empurra a bike mais cara, mesmo ela deixando menos lucro para a loja.",
+        "explicacao": "Incentivo desalinhado: o vendedor maximiza a comissão, não o lucro da loja. Comissão sobre a margem resolveria o conflito.",
+        "saiba_mais": "base-conhecimento/materias/05-contabilidade-gerencial.md#conceito-comissões-e-mix-de-vendas--periférico--bloom-an-av"
+      },
+      "bloom": "analisar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/05-contabilidade-gerencial.md",
+        "arquivos": [
+          "Aula4.pptx"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-PRO-001",
+      "versao": 2,
+      "area": "OPE",
+      "subtema": "PRO",
+      "microtema": "modelo-de-kano",
+      "tags": [
+        "voz-do-cliente",
+        "kano"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "No Modelo de Kano, o app de um banco digital funcionar 24 horas por dia é um atributo:",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Atrativo (encantamento)",
+          "correta": false,
+          "erro_comum": "Acha que toda função digital encanta.",
+          "feedback": "Atrativo surpreende, como as Caixinhas; 24 horas já é esperado."
+        },
+        {
+          "id": "b",
+          "texto": "Linear (desempenho)",
+          "correta": false,
+          "erro_comum": "Confunde com atributo que satisfaz mais quanto melhor.",
+          "feedback": "Linear é como a rapidez no chat: quanto mais, melhor."
+        },
+        {
+          "id": "c",
+          "texto": "Obrigatório (básico)",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Indiferente",
+          "correta": false,
+          "erro_comum": "Acha que o cliente não liga para o horário.",
+          "feedback": "Se o app cair à noite, o cliente fica muito insatisfeito."
+        }
+      ],
+      "feedback": {
+        "curto": "Atributo obrigatório não encanta quando existe, mas gera forte insatisfação quando falta.",
+        "explicacao": "No caso Nubank da disciplina, app 24/7, segurança de dados e LGPD são básicos; rapidez no chat e taxas são lineares; recursos como 'Caixinhas' são atrativos.",
+        "saiba_mais": "base-conhecimento/materias/03-gestao-de-processos.md#unidade-2--plan-aulas-35"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/03-gestao-de-processos.md",
+        "arquivos": [
+          "STE00017- Gestão de Processos - Aula 3 - Plan - VOC.pdf",
+          "Apresentacao Nubank GestaoDeProcessos.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Precisão: 'indiferente' não aparece nos slides (só os 3 tipos), mas é categoria clássica do Kano; mantido como distrator, e não como resposta. Modo jogo: enunciado encurtado; bloom aplicar→entender para duelo."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-PRO-002",
+      "versao": 3,
+      "area": "OPE",
+      "subtema": "PRO",
+      "microtema": "gargalo",
+      "areas_secundarias": [
+        "LID"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Na hamburgueria, a chapa faz 20 lanches por hora e o resto da cozinha faz 60. A chapa é o…",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Diferencial",
+          "correta": false,
+          "erro_comum": "Confunde com vantagem competitiva.",
+          "feedback": "A chapa lenta limita o fluxo, não é vantagem."
+        },
+        {
+          "id": "b",
+          "texto": "Caminho crítico",
+          "correta": false,
+          "erro_comum": "Confunde processo com cronograma de projeto.",
+          "feedback": "Caminho crítico é de projetos; aqui é a etapa mais lenta."
+        },
+        {
+          "id": "c",
+          "texto": "Estoque",
+          "correta": false,
+          "erro_comum": "Confunde etapa com material parado.",
+          "feedback": "A chapa é uma etapa, não um estoque."
+        },
+        {
+          "id": "d",
+          "texto": "Gargalo",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "Gargalo é a etapa mais lenta: ela define quanto o processo inteiro consegue entregar.",
+        "explicacao": "Acelerar as outras etapas não adianta enquanto o gargalo não melhorar. Esse é o foco da Teoria das Restrições.",
+        "saiba_mais": "base-conhecimento/materias/03-gestao-de-processos.md#unidade-3--do-aula-8"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/03-gestao-de-processos.md",
+        "arquivos": [
+          "STE00017- Gestão de Processos - Aula 8 - Do - Gestão da Mudança e Desempenho de Processo_Sexta.pdf",
+          "STE00018- Gestão de Projetos - Aula 6.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-PRO-003",
+      "versao": 3,
+      "area": "OPE",
+      "subtema": "PRO",
+      "microtema": "variacao-de-processo",
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Espera na clínica",
+        "texto": "Na Clínica Saúde Já, a espera na recepção fica sempre perto de 25 minutos, sem picos fora do normal. A meta da diretoria é 15 minutos.",
+        "artefato": "Carta de controle",
+        "restricao": "Meta abaixo do resultado atual"
+      },
+      "enunciado": "Qual decisão é mais defensável?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Mudar o processo: o problema está no método",
+          "correta": true
+        },
+        {
+          "id": "b",
+          "texto": "Cobrar os recepcionistas a cada atraso",
+          "correta": false,
+          "erro_comum": "Culpa as pessoas.",
+          "feedback": "Sem picos, o resultado vem do processo, não de alguém."
+        },
+        {
+          "id": "c",
+          "texto": "Procurar um dia atípico que explique",
+          "correta": false,
+          "erro_comum": "Busca causa especial.",
+          "feedback": "Não há picos: não existe um evento isolado para achar."
+        },
+        {
+          "id": "d",
+          "texto": "Nada: o processo está estável",
+          "correta": false,
+          "erro_comum": "Confunde estável com bom.",
+          "feedback": "Estável em 25 min continua longe da meta de 15."
+        }
+      ],
+      "feedback": {
+        "curto": "Processo estável fora da meta só muda se o próprio processo for redesenhado.",
+        "explicacao": "Variação de causa comum é do sistema: cobrar pessoas não resolve. Já a causa especial aparece como pico fora dos limites da carta de controle.",
+        "saiba_mais": "base-conhecimento/materias/03-gestao-de-processos.md#unidade-4--check-aula-9"
+      },
+      "bloom": "avaliar",
+      "dificuldade": 3,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/03-gestao-de-processos.md",
+        "arquivos": [
+          "STE00017- Gestão de Processos - Aula 9 - Check_SEXTA.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-PRO-004",
+      "versao": 3,
+      "area": "OPE",
+      "subtema": "PRO",
+      "microtema": "pdca",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "No PDCA, a etapa em que se confere se a mudança deu resultado é o:",
+      "feedback": {
+        "curto": "Check é verificar: comparar o resultado com a meta para saber se a mudança funcionou.",
+        "explicacao": "PDCA: Plan (planejar), Do (executar), Check (verificar) e Act (agir/padronizar), girando em ciclos de melhoria.",
+        "saiba_mais": "base-conhecimento/materias/03-gestao-de-processos.md#pdca--núcleo--l-ap"
+      },
+      "bloom": "lembrar",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/03-gestao-de-processos.md",
+        "arquivos": [
+          "STE00017- Gestão de Processos - Aula 1 - Introdução - SEXTA.pdf",
+          "STE00017- Gestão de Processos - Aula 9 - Check_SEXTA.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Plan",
+          "correta": false,
+          "erro_comum": "Confunde com planejar.",
+          "feedback": "Plan é definir o problema e o plano."
+        },
+        {
+          "id": "b",
+          "texto": "Do",
+          "correta": false,
+          "erro_comum": "Confunde com executar.",
+          "feedback": "Do é colocar o plano em prática."
+        },
+        {
+          "id": "c",
+          "texto": "Check",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Act",
+          "correta": false,
+          "erro_comum": "Confunde com padronizar.",
+          "feedback": "Act é padronizar o que deu certo ou corrigir."
+        }
+      ],
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-PRJ-001",
+      "versao": 3,
+      "area": "OPE",
+      "subtema": "PRJ",
+      "microtema": "escopo",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "No projeto do site, o cliente pede \"só mais uma coisinha\" toda semana. Isso é…",
+      "feedback": {
+        "curto": "Pedidos novos sem controle aumentam o escopo e estouram prazo e orçamento.",
+        "explicacao": "O aumento de escopo descontrolado (scope creep) é uma das causas mais comuns de projeto atrasado. Mudanças devem passar por controle formal.",
+        "saiba_mais": "base-conhecimento/materias/04-gestao-de-projetos.md#u4--cronograma-custos-recursos"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/04-gestao-de-projetos.md",
+        "arquivos": [
+          "STE00018- Gestão de Projetos - Aula 6.pdf",
+          "STE00018- Gestão de Projetos - Aula 7 - Custos, recursos e aquisições.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Gestão de riscos",
+          "correta": false,
+          "erro_comum": "Confunde com prever problemas.",
+          "feedback": "O caso é de pedidos novos, não de riscos."
+        },
+        {
+          "id": "b",
+          "texto": "Aumento de escopo",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Caminho crítico",
+          "correta": false,
+          "erro_comum": "Confunde com cronograma.",
+          "feedback": "Caminho crítico é a sequência mais longa de tarefas."
+        },
+        {
+          "id": "d",
+          "texto": "Cliente muito engajado",
+          "correta": false,
+          "erro_comum": "Distrator leve.",
+          "feedback": "Engajamento é bom, mas pedidos sem controle estouram prazo e custo."
+        }
+      ],
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-PRJ-002",
+      "versao": 3,
+      "area": "OPE",
+      "subtema": "PRJ",
+      "microtema": "decisao-sob-risco",
+      "areas_secundarias": [
+        "EST"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "cenario",
+      "cenario": {
+        "titulo": "Lançar ou testar?",
+        "texto": "Lançar o app em todo o país pode render mais, mas, se der errado, a perda passa do caixa da empresa. Testar antes em três escolas rende menos e não traz esse risco.",
+        "artefato": "Análise de cenários",
+        "restricao": "Perda possível maior que o caixa"
+      },
+      "enunciado": "Qual análise é a mais completa?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Lançar já: o maior ganho esperado basta",
+          "correta": false,
+          "erro_comum": "Ignora o risco de quebra.",
+          "feedback": "Ganho médio maior não compensa um risco de quebrar."
+        },
+        {
+          "id": "b",
+          "texto": "Lançar já: o ganho maior é garantido",
+          "correta": false,
+          "erro_comum": "Confunde esperado com garantido.",
+          "feedback": "Ganho esperado não é certo; pode dar prejuízo."
+        },
+        {
+          "id": "c",
+          "texto": "Testar antes: perder mais que o caixa quebra",
+          "correta": true
+        },
+        {
+          "id": "d",
+          "texto": "Testar sempre, pois é a opção mais barata",
+          "correta": false,
+          "erro_comum": "Generaliza a regra.",
+          "feedback": "Testar não é sempre melhor; aqui é pelo risco de quebra."
+        }
+      ],
+      "feedback": {
+        "curto": "Quando a perda possível passa do caixa, o risco pesa mais que o ganho médio.",
+        "explicacao": "O valor monetário esperado (VME) compara médias, mas não mostra o risco de quebrar. Decisões boas consideram também o pior cenário.",
+        "saiba_mais": "base-conhecimento/materias/04-gestao-de-projetos.md#u5--riscos-comunicação-qualidade-mudanças"
+      },
+      "bloom": "avaliar",
+      "dificuldade": 4,
+      "mecanicas": [
+        "coroa"
+      ],
+      "tempo_seg": 45,
+      "xp": 30,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/04-gestao-de-projetos.md",
+        "arquivos": [
+          "STE00018- Gestão de Projetos - Aula 8 - Riscos e Comunicação.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-QLD-001",
+      "versao": 2,
+      "area": "OPE",
+      "subtema": "QLD",
+      "microtema": "just-in-time",
+      "tags": [
+        "lean",
+        "jit",
+        "kanban",
+        "enade-xii"
+      ],
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "Qual prática combina com o Just in Time do Sistema Toyota?",
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Lotes grandes para diluir o preparo das máquinas",
+          "correta": false,
+          "erro_comum": "Pensa na lógica de escala da produção em massa.",
+          "feedback": "Lotes grandes geram estoque, um dos 7 desperdícios."
+        },
+        {
+          "id": "b",
+          "texto": "Estoque de segurança alto para a linha nunca parar",
+          "correta": false,
+          "erro_comum": "Usa estoque para esconder problemas.",
+          "feedback": "O JIT reduz estoque para expor problemas, não para escondê-los."
+        },
+        {
+          "id": "c",
+          "texto": "Produzir pela previsão do trimestre e estocar",
+          "correta": false,
+          "erro_comum": "Confunde produção empurrada com puxada.",
+          "feedback": "Produzir por previsão é empurrar; o JIT puxa pela demanda real."
+        },
+        {
+          "id": "d",
+          "texto": "Produzir só quando a etapa seguinte pede (kanban)",
+          "correta": true
+        }
+      ],
+      "feedback": {
+        "curto": "No JIT a produção é puxada: cada etapa produz só o que a seguinte pede, via kanban.",
+        "explicacao": "Taiichi Ohno organizou o JIT em fluxo contínuo, takt time e produção puxada (kanban). Superprodução e estoque estão entre os 7 desperdícios. A disciplina de Modelagem cita JIT e jidoka como raízes do Lean Startup.",
+        "saiba_mais": "base-conhecimento/02-LACUNAS-TRANSVERSAIS.md#xii--operações-e-logística-web"
+      },
+      "bloom": "entender",
+      "dificuldade": 2,
+      "mecanicas": [
+        "giro"
+      ],
+      "tempo_seg": 30,
+      "xp": 10,
+      "fonte": {
+        "origem": "NLM+WEB",
+        "ficha": "base-conhecimento/02-LACUNAS-TRANSVERSAIS.md",
+        "arquivos": [
+          "Capítulo 02 - Modelagem de Negócios.pdf"
+        ],
+        "urls": [
+          "https://kaizen.com/pt/insights-pt/jit-eficiencia-cadeia-abastecimento/",
+          "https://tractian.com/glossario/just-in-time"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Complemento ENADE XII. Precisão: JIT também aparece no Cap. 02 de Modelagem (Sistema Toyota), por isso origem NLM+WEB. Modo jogo: alternativas encurtadas."
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-QLD-002",
+      "versao": 3,
+      "area": "OPE",
+      "subtema": "QLD",
+      "microtema": "desperdicios-lean",
+      "tipo": "multipla_escolha",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "No Lean, um produto pronto que fica meses parado no estoque é um exemplo de…",
+      "feedback": {
+        "curto": "Estoque em excesso é um dos desperdícios do Lean: ocupa espaço, prende dinheiro e esconde problemas.",
+        "explicacao": "O Lean (Sistema Toyota) lista desperdícios como superprodução, espera, estoque, transporte e retrabalho, e busca eliminá-los.",
+        "saiba_mais": "base-conhecimento/materias/03-gestao-de-processos.md#4-lacunas-e-complementos"
+      },
+      "bloom": "entender",
+      "dificuldade": 1,
+      "mecanicas": [
+        "duelo",
+        "giro"
+      ],
+      "tempo_seg": 20,
+      "xp": 15,
+      "fonte": {
+        "origem": "WEB",
+        "ficha": "base-conhecimento/materias/03-gestao-de-processos.md",
+        "urls": [
+          "https://tractian.com/glossario/fmea-failure-mode-and-effects-analysis",
+          "https://resources.rework.com/pt/libraries/process-management/fmea"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "alternativas": [
+        {
+          "id": "a",
+          "texto": "Qualidade",
+          "correta": false,
+          "erro_comum": "Confunde produto pronto com valor.",
+          "feedback": "Produto parado não gera valor ao cliente."
+        },
+        {
+          "id": "b",
+          "texto": "Desperdício",
+          "correta": true
+        },
+        {
+          "id": "c",
+          "texto": "Segurança",
+          "correta": false,
+          "erro_comum": "Confunde estoque com proteção.",
+          "feedback": "Estoque alto esconde problemas, não traz segurança."
+        },
+        {
+          "id": "d",
+          "texto": "Investimento",
+          "correta": false,
+          "erro_comum": "Confunde gasto parado com aplicação.",
+          "feedback": "Investimento deveria render; estoque parado só custa."
+        }
+      ],
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-PRJ-004",
+      "versao": 3,
+      "area": "OPE",
+      "subtema": "PRJ",
+      "microtema": "percentual-concluido",
+      "tipo": "numerico",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "DESEMPATE — O projeto tem 40 tarefas e 30 já estão prontas. Qual % está concluído?",
+      "feedback": {
+        "curto": "30 de 40 = 3/4 = 75% concluído.",
+        "explicacao": "Percentual concluído = tarefas prontas ÷ total. Ganha o desempate quem chegar mais perto de 75.",
+        "saiba_mais": "base-conhecimento/materias/04-gestao-de-projetos.md#u4--cronograma-custos-recursos"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 1,
+      "mecanicas": [
+        "desempate"
+      ],
+      "tempo_seg": 20,
+      "xp": 5,
+      "fonte": {
+        "origem": "NLM",
+        "ficha": "base-conhecimento/materias/04-gestao-de-projetos.md",
+        "arquivos": [
+          "STE00018- Gestão de Projetos - Aula 6.pdf",
+          "STE00018- Gestão de Projetos - Aula 7 - Custos, recursos e aquisições.pdf"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "resposta_numerica": {
+        "valor": 75,
+        "tolerancia": 0,
+        "unidade": "%",
+        "valores_errados_comuns": [
+          {
+            "valor": 30,
+            "erro_comum": "Usou o número de tarefas como porcentagem"
+          },
+          {
+            "valor": 25,
+            "erro_comum": "Calculou o que falta"
+          }
+        ]
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    },
+    {
+      "id": "OPE-QLD-003",
+      "versao": 3,
+      "area": "OPE",
+      "subtema": "QLD",
+      "microtema": "capacidade-produtiva",
+      "tipo": "numerico",
+      "formato": "direta",
+      "cenario": null,
+      "enunciado": "DESEMPATE — A linha produz 50 peças por hora. Quantas peças faz em 8 horas?",
+      "feedback": {
+        "curto": "50 × 8 = 400 peças.",
+        "explicacao": "Capacidade = ritmo × tempo. Ganha o desempate quem chegar mais perto de 400.",
+        "saiba_mais": "base-conhecimento/materias/03-gestao-de-processos.md#4-lacunas-e-complementos"
+      },
+      "bloom": "aplicar",
+      "dificuldade": 1,
+      "mecanicas": [
+        "desempate"
+      ],
+      "tempo_seg": 20,
+      "xp": 5,
+      "fonte": {
+        "origem": "WEB",
+        "ficha": "base-conhecimento/materias/03-gestao-de-processos.md",
+        "urls": [
+          "https://tractian.com/glossario/fmea-failure-mode-and-effects-analysis",
+          "https://resources.rework.com/pt/libraries/process-management/fmea"
+        ]
+      },
+      "validade": {
+        "tipo": "perene"
+      },
+      "revisao": {
+        "status": "revisado_ia",
+        "criterios": {
+          "compreensivel": true,
+          "relacionada_ao_tema": true,
+          "gramatical": true,
+          "clara": true,
+          "respondivel": true,
+          "central": true,
+          "usaria": true,
+          "nivel_bloom_ok": true
+        },
+        "notas": "Ajuste modo jogo (padronização com a base): pergunta sem depender de autor/sigla e sem conta de várias etapas; distratores e feedback reescritos."
+      },
+      "resposta_numerica": {
+        "valor": 400,
+        "tolerancia": 0,
+        "unidade": "peças",
+        "valores_errados_comuns": [
+          {
+            "valor": 58,
+            "erro_comum": "Somou em vez de multiplicar"
+          },
+          {
+            "valor": 350,
+            "erro_comum": "Contou 7 horas"
+          }
+        ]
+      },
+      "origem_questao": {
+        "tipo": "inedita"
+      }
+    }
+  ]
+}

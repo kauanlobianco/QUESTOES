@@ -1,0 +1,858 @@
+[
+ {
+  "id": "EMP-FEM-131",
+  "feedback_curto": "Crença no próprio esforço (lócus interno) + meta desafiadora (realização) + não desistir (persistência).",
+  "explicacao": "Rotter (lócus) e McClelland (necessidades e CCEs) são complementares na análise do comportamento empreendedor.",
+  "dificuldade_declarada": 3,
+  "bloom": "analisar",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Fernanda atribui o resultado ao próprio trabalho: lócus interno.",
+   "b": "correta",
+   "c": "Não há pressão social nem uso de recursos descartados no caso.",
+   "d": "A meta desafiadora indica realização, não busca de controle sobre pessoas."
+  }
+ },
+ {
+  "id": "EMP-FEM-120",
+  "feedback_curto": "Necessidade de realização (nAch): superar padrões e alcançar metas desafiadoras.",
+  "explicacao": "McClelland identifica três necessidades: realização, afiliação e poder.",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Quem busca realização procura desafios, não estabilidade.",
+   "b": "correta",
+   "c": "Aceitação e relações descrevem afiliação.",
+   "d": "Influência e controle descrevem poder."
+  }
+ },
+ {
+  "id": "MKT-MKT-133",
+  "feedback_curto": "Treinar a equipe fortalece o P de Pessoas, central em serviços.",
+  "explicacao": "Treinar a equipe melhora o P de Pessoas, central em serviços. SEBRAE inclui Pessoas no composto por seu peso em micro e pequenas empresas.",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "O foco é quem atende.",
+   "c": "Nada muda no preço.",
+   "d": "O salão continua no mesmo ponto."
+  }
+ },
+ {
+  "id": "LID-LCO-118",
+  "feedback_curto": "Motivação = motivo + ação: tensão que mobiliza e direciona o comportamento a um objetivo.",
+  "explicacao": "Teorias de conteúdo (Maslow, Herzberg, McClelland) explicam O QUE motiva; de processo (Vroom, Adams), COMO.",
+  "dificuldade_declarada": 2,
+  "bloom": "entender",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "Regra imposta gera obediência, não motivação.",
+   "b": "Benefício pode ajudar, mas motivação é a tensão que move à meta.",
+   "c": "Contrato define deveres, não o impulso para agir.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "FIN-ECO-001",
+  "feedback_curto": "Mudou só o preço do próprio bem? Movimento ao longo da curva; deslocamento exige outro fator.",
+  "explicacao": "No caso do Mankiw, alertas de saúde reduzem a demanda (a curva vai para a esquerda). O imposto encarece o cigarro e reduz a quantidade demandada, movendo o ponto ao longo da mesma curva.",
+  "dificuldade_declarada": 2,
+  "bloom": "entender",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "A curva só se desloca se mudar algo além do preço, como alertas de saúde.",
+   "c": "Oferta para a direita baixaria o preço, não o elevaria.",
+   "d": "Demanda para a direita seria mais consumo a cada preço."
+  }
+ },
+ {
+  "id": "LID-LCO-102",
+  "feedback_curto": "Higiênicos (ambiente) evitam insatisfação, mas não motivam por si sós.",
+  "explicacao": "Para Herzberg, o oposto da insatisfação é a 'não insatisfação'; motivação vem do conteúdo do trabalho.",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "Autorrealização é nível de Maslow, não categoria de Herzberg.",
+   "b": "Motivacionais são reconhecimento, responsabilidade e crescimento.",
+   "c": "Estima é nível de Maslow.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "OPE-PRJ-115",
+  "feedback_curto": "Escopo estável e claro pede ciclo preditivo: tudo planejado no início, fases em sequência.",
+  "explicacao": "Exemplos da aula: troca de iluminação por LED (preditivo) × software customizado (adaptativo).",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Ágil serve a escopo incerto, não a troca de lâmpadas.",
+   "b": "Aqui o escopo já está definido.",
+   "c": "correta",
+   "d": "O preditivo planeja muito no início."
+  }
+ },
+ {
+  "id": "MKT-MKT-127",
+  "feedback_curto": "Promoção de vendas incentiva a compra no curto prazo; propaganda constrói imagem.",
+  "explicacao": "Promoção de vendas incentiva compra no curto prazo; propaganda constrói imagem e lembrança. As duas fazem parte do P de Promoção (comunicação integrada).",
+  "dificuldade_declarada": 2,
+  "bloom": "entender",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Promoção é curto prazo; propaganda, imagem.",
+   "b": "Ambas são do P de Promoção, mas diferem.",
+   "c": "correta",
+   "d": "Propaganda está em vários meios."
+  }
+ },
+ {
+  "id": "EMP-FEM-105",
+  "feedback_curto": "O processo começa ao identificar a oportunidade; depois vêm planejar, criar e desenvolver.",
+  "explicacao": "As 4 fases aparecem em Cunha, Mariano e Moraes (2021), capítulo usado em Fundamentos e em Modelagem.",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Planejar vem depois de identificar a oportunidade.",
+   "c": "Criar (formalizar, abrir) é a terceira fase.",
+   "d": "Nome e logo vêm bem depois: tudo começa com uma oportunidade real."
+  }
+ },
+ {
+  "id": "EST-EST-114",
+  "feedback_curto": "Propriedade intelectual protege criações do intelecto: propriedade industrial e direitos autorais.",
+  "explicacao": "No Brasil, marcas, patentes e desenhos industriais são registrados no INPI; obras autorais, na Biblioteca Nacional.",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Ativos financeiros são aplicações, ações e recebíveis.",
+   "b": "correta",
+   "c": "Imobilizado é prédio, máquina, veículo.",
+   "d": "Indicadores medem resultados; não são ativos."
+  }
+ },
+ {
+  "id": "OPE-PRJ-119",
+  "feedback_curto": "A EAP deve descer até pacotes de trabalho que possam ser estimados e atribuídos.",
+  "explicacao": "Pacote de trabalho é o menor nível da EAP; a decomposição é orientada a entregas (ex.: 'página de pagamento'), não a atividades genéricas.",
+  "dificuldade_declarada": 3,
+  "bloom": "aplicar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "O problema é falta de detalhe, não excesso.",
+   "c": "Sem estimativa, não há linha de base de custo e prazo.",
+   "d": "Cronograma depende de um escopo bem decomposto."
+  }
+ },
+ {
+  "id": "EST-EST-148",
+  "feedback_curto": "Fraqueza × ameaça = sobrevivência: reduzir danos e proteger a continuidade.",
+  "explicacao": "Máquinas antigas e falta de vendas (fraquezas) + digitalização e concorrente novo (ameaças).",
+  "dificuldade_declarada": 3,
+  "bloom": "aplicar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Não há força nem oportunidade evidentes no caso.",
+   "c": "A defensiva usa uma força para enfrentar a ameaça.",
+   "d": "Para esta gráfica, sem equipamento digital, a digitalização é ameaça."
+  }
+ },
+ {
+  "id": "FIN-INV-116",
+  "feedback_curto": "Ativos rendendo 9% e dívida custando 14%: a alavancagem passa a ampliar perdas.",
+  "explicacao": "A alavancagem é uma alavanca nos dois sentidos: em anos bons (20% > 14%) amplia ganhos; em anos ruins, amplia perdas.",
+  "dificuldade_declarada": 3,
+  "bloom": "analisar",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "Com retorno abaixo do custo da dívida, ela piora o ROE.",
+   "b": "Os juros continuam a pesar, mesmo em ano ruim.",
+   "c": "A dívida mantém ROA e ROE diferentes.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "LID-LCO-110",
+  "feedback_curto": "Sobrecarga de informação: o excesso de mensagens supera a capacidade de processar.",
+  "explicacao": "Barreiras comuns: filtragem, percepção seletiva, sobrecarga, emoções, linguagem e ruído.",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Filtragem é o emissor distorcer ou omitir parte da mensagem.",
+   "b": "Ambiguidade é mensagem com mais de um sentido.",
+   "c": "correta",
+   "d": "Ruído físico é interferência do ambiente, como barulho."
+  }
+ },
+ {
+  "id": "EST-EST-125",
+  "feedback_curto": "A matriz ERRC diz o que eliminar, reduzir, elevar e criar para gerar inovação de valor.",
+  "explicacao": "É o caso Cirque du Soleil, central na Aula 8 (Oceano Azul).",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "A BCG classifica produtos por crescimento e participação.",
+   "b": "correta",
+   "c": "As 5 Forças analisam o setor, não reconstroem a oferta.",
+   "d": "A PEST olha fatores externos."
+  }
+ },
+ {
+  "id": "LID-LCO-123",
+  "feedback_curto": "Desafio, reconhecimento e crescimento são fatores motivacionais.",
+  "explicacao": "Com higiênicos atendidos, ele não está insatisfeito — mas também não está motivado.",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Salário é higiênico e já está atendido.",
+   "b": "Segurança é nível de Maslow.",
+   "c": "correta",
+   "d": "Fisiológicas são da pirâmide de Maslow."
+  }
+ },
+ {
+  "id": "OPE-PRO-117",
+  "feedback_curto": "I (Informed) recebe notícias do andamento, sem executar, aprovar ou opinar.",
+  "explicacao": "RACI: Responsável, Aprovador, Consultado, Informado.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "R é quem executa.",
+   "c": "A é quem tem a autoridade final.",
+   "d": "C é consultado antes da decisão."
+  }
+ },
+ {
+  "id": "MKT-MKT-005",
+  "feedback_curto": "Perguntas de \"por quê?\" pedem pesquisa qualitativa, como grupo focal; \"quantos %?\" pede quantitativa.",
+  "explicacao": "SEBRAE: qualitativa explora motivações (grupo focal, entrevistas em profundidade, cliente oculto); quantitativa mede com amostra representativa (questionário). Dados secundários (IBGE) são o ponto de partida para dimensionar, não substituem a pesquisa primária.",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "Questionário fechado mede proporções, mas revela mal o porquê.",
+   "b": "O IBGE ajuda a dimensionar o bairro, mas não explica por que clientes desistiram.",
+   "c": "Dados de venda mostram quanto, não o motivo de não voltar.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "OPE-PRO-110",
+  "feedback_curto": "CTQ traduz a VOC numa característica mensurável: 'rápido' vira 'entrega em até X minutos'.",
+  "explicacao": "Exemplo da aula (refeições semiprontas): 'nutritivo' → % de requisitos nutricionais.",
+  "dificuldade_declarada": 2,
+  "bloom": "entender",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Sequência de atividades é cronograma.",
+   "b": "Autoridade fica na RACI.",
+   "c": "correta",
+   "d": "CTQ não trata de retorno financeiro."
+  }
+ },
+ {
+  "id": "OPE-QLD-003",
+  "feedback_curto": "NPR = 2 × 5 × 10 = 100.",
+  "explicacao": "NPR = severidade × ocorrência × detecção. Detecção 10 indica falha quase impossível de detectar. Ganha o desempate quem chegar mais perto de 100.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": 100
+ },
+ {
+  "id": "EMP-FEM-133",
+  "feedback_curto": "Desenvolvimento: escala, gestão profissionalizada e expansão depois de superar o vale da morte.",
+  "explicacao": "Fases: identificar oportunidade → planejar → criar → desenvolver. Passar o ponto de equilíbrio marca a saída do vale da morte.",
+  "dificuldade_declarada": 3,
+  "bloom": "aplicar",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "A oportunidade já foi identificada e validada.",
+   "b": "O planejamento inicial ficou para trás; agora é crescer.",
+   "c": "A empresa já existe e já superou o ponto de equilíbrio.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "EST-EST-109",
+  "feedback_curto": "SMART: específico, mensurável, atingível, relevante e temporal (com prazo).",
+  "explicacao": "Sigla completa: específico, mensurável, atingível, relevante e temporal. Objetivos SMART aparecem na etapa de 'grandes escolhas' do planejamento estratégico (ENAP) e no Project Model Canvas.",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Tático é um nível de planejamento, não um critério SMART.",
+   "c": "Ser inspirador não está na sigla; T é ter prazo definido.",
+   "d": "SMART descreve como formular o objetivo, não a área técnica."
+  }
+ },
+ {
+  "id": "LID-LCO-127",
+  "feedback_curto": "Transformacional inspira e desenvolve; transacional troca resultado por recompensa.",
+  "explicacao": "Bass (1985): os 4 Is. Na prática, os estilos podem ser combinados.",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Recompensa imediata é marca do transacional.",
+   "c": "Transformacional é próximo da equipe.",
+   "d": "Transformacional desafia, não reduz metas."
+  }
+ },
+ {
+  "id": "FIN-INV-105",
+  "feedback_curto": "Alavancagem financeira: dívida mais barata que o retorno do projeto amplia o ganho dos sócios.",
+  "explicacao": "Aula 6 de Investimentos: empréstimo a 5% num projeto com TIR de 11,10% vale a pena. Se o retorno ficar abaixo do custo da dívida, a alavancagem amplia perdas.",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Capital de giro é recurso da operação, não dívida para ampliar retorno.",
+   "b": "correta",
+   "c": "Payback mede tempo de retorno, não uso de dívida.",
+   "d": "Custo de oportunidade é o que se deixa de ganhar, não o uso de dívida."
+  }
+ },
+ {
+  "id": "EMP-FEM-124",
+  "feedback_curto": "Busca de informações (conjunto de planejamento): investigar pessoalmente clientes, fornecedores e concorrentes.",
+  "explicacao": "As CCEs de planejamento são busca de informações, estabelecimento de metas e planejamento/monitoramento sistemáticos.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Persistência é enfrentar obstáculos sem abandonar a meta.",
+   "b": "correta",
+   "c": "Qualidade é fazer melhor, mais rápido ou mais barato.",
+   "d": "O objetivo é coletar dados, não convencer pessoas."
+  }
+ },
+ {
+  "id": "EMP-FEM-101",
+  "feedback_curto": "Empreender é o nexo pessoa–oportunidade: identificar, avaliar e explorar oportunidades que geram valor.",
+  "explicacao": "Shane & Venkataraman (2000) definem o campo como o estudo de como oportunidades são descobertas, avaliadas e exploradas. Por isso há empreendedorismo também dentro de empresas e em iniciativas sociais.",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Intraempreendedores e empreendedores sociais também empreendem sem abrir CNPJ.",
+   "b": "correta",
+   "c": "Say já separava quem organiza recursos (empreendedor) de quem fornece capital.",
+   "d": "Autonomia não basta: o centro é explorar oportunidades que criam valor."
+  }
+ },
+ {
+  "id": "FIN-CTB-113",
+  "feedback_curto": "ROE acima do ROA indica alavancagem: dívida mais barata que o retorno dos ativos.",
+  "explicacao": "Se o retorno dos ativos supera o custo da dívida, financiar parte dos ativos com terceiros amplia o retorno sobre o PL.",
+  "dificuldade_declarada": 2,
+  "bloom": "analisar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Sem dívida, ROA e ROE ficariam próximos.",
+   "c": "ROA de 10% mostra ativos rendendo.",
+   "d": "Com ROA e ROE positivos, há lucro."
+  }
+ },
+ {
+  "id": "LID-LCO-107",
+  "feedback_curto": "Assédio moral é conduta abusiva, repetida e prolongada contra a dignidade do trabalhador.",
+  "explicacao": "Leymann, Hirigoyen e Freitas. A repetição e a duração distinguem o assédio de um conflito pontual.",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Feedback corretivo é respeitoso e focado no trabalho.",
+   "c": "Cobrar resultados não envolve humilhar.",
+   "d": "Franqueza não justifica humilhação repetida."
+  }
+ },
+ {
+  "id": "FIN-INV-109",
+  "feedback_curto": "Ciclo financeiro: dias entre pagar o fornecedor e receber do cliente, com o caixa preso.",
+  "explicacao": "Ciclo operacional vai da compra ao recebimento; o financeiro desconta o prazo que o fornecedor dá para pagar.",
+  "dificuldade_declarada": 2,
+  "bloom": "entender",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Produção é parte do ciclo operacional.",
+   "c": "Estocagem é só uma parte do ciclo.",
+   "d": "Ciclo financeiro mede caixa, não lucro."
+  }
+ },
+ {
+  "id": "LID-LCO-122",
+  "feedback_curto": "Motivação = expectância × instrumentalidade × valência: se a expectância cai, ela cai.",
+  "explicacao": "Expectância: esforço → desempenho. Instrumentalidade: desempenho → recompensa. Valência: valor da recompensa.",
+  "dificuldade_declarada": 2,
+  "bloom": "entender",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "Se um fator cai, o produto E × I × V cai.",
+   "b": "Vroom liga esforço, desempenho e recompensa.",
+   "c": "Competição não compensa a expectância baixa.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "FIN-CTB-107",
+  "feedback_curto": "Custo variável sobe e desce com o volume produzido, como a matéria-prima.",
+  "explicacao": "Matéria-prima, comissões e embalagens são exemplos clássicos. No custeio variável, só eles formam o custo do produto.",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Fixo não acompanha a produção; o chocolate acompanha.",
+   "b": "Indireto não se liga a um produto; o chocolate vai direto no brigadeiro.",
+   "c": "correta",
+   "d": "Custo irrecuperável já foi gasto e não volta; não é o caso."
+  }
+ },
+ {
+  "id": "OPE-PRO-120",
+  "feedback_curto": "Reunir reclamações e expectativas dos clientes é levantar a Voz do Cliente (VOC).",
+  "explicacao": "VOC → CTQ (métrica) → indicador y no plano de coleta de dados.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "CTQ seria transformar 'demora' em tempo máximo de entrega.",
+   "c": "As reclamações ainda não são indicador.",
+   "d": "RACI define papéis."
+  }
+ },
+ {
+  "id": "MKT-MKT-117",
+  "feedback_curto": "Vantagem competitiva: benefícios superiores que fazem o cliente preferir a empresa.",
+  "explicacao": "Vantagem competitiva: benefícios superiores que levam o cliente a preferir a empresa. No plano de marketing do SEBRAE, o posicionamento parte dos diferenciais percebidos frente aos concorrentes.",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Imitar elimina diferenciais.",
+   "c": "Seguidores não garantem preferência.",
+   "d": "Tamanho sozinho não faz o cliente preferir."
+  }
+ },
+ {
+  "id": "OPE-PRO-104",
+  "feedback_curto": "A (Accountable) aprova e responde pelo resultado; deve haver um só por atividade.",
+  "explicacao": "Na RACI deve haver um único A por atividade; R pode ser mais de um.",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Quem executa é o R.",
+   "b": "Quem é consultado é o C.",
+   "c": "correta",
+   "d": "Quem é informado é o I."
+  }
+ },
+ {
+  "id": "OPE-PRO-004",
+  "feedback_curto": "Check mede e prioriza: carta de controle e matriz impacto × viabilidade entram nessa fase.",
+  "explicacao": "A disciplina segue o PDCA: Aula 3–5 (Plan), Aula 8 (Do), Aula 9 (Check) e Aula 11 (Act).",
+  "dificuldade_declarada": 2,
+  "bloom": "lembrar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "No Plan entram VOC, Kano, CTQ e mapeamento; priorizar melhorias vem após medir.",
+   "b": "No Do entram RACI e plano de comunicação: é a implantação.",
+   "c": "correta",
+   "d": "No Act se padroniza e replica a melhoria; medir e priorizar é Check."
+  }
+ },
+ {
+  "id": "LID-LCO-148",
+  "feedback_curto": "Quando a marca empregadora promete o que a cultura não entrega, vem a rotatividade precoce.",
+  "explicacao": "A expectativa criada pelo employer branding vira parte do contrato psicológico; sua quebra gera frustração e saída.",
+  "dificuldade_declarada": 3,
+  "bloom": "analisar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Jornadas longas e gritos indicam clima ruim.",
+   "b": "Ninguém foi cortado; as pessoas pediram para sair.",
+   "c": "correta",
+   "d": "Há conflitos de sobra: chefes gritam."
+  }
+ },
+ {
+  "id": "EST-EST-121",
+  "feedback_curto": "Emergente: padrão de ação que surge na prática, sem ter sido planejado.",
+  "explicacao": "Mintzberg: pretendida → deliberada (realizada) ou não realizada; emergente → também compõe a estratégia realizada.",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Deliberada é a parte do plano realizada como previsto.",
+   "b": "correta",
+   "c": "O Nordeste virou estratégia não realizada; a do Sul é outra.",
+   "d": "Pretendida é a intenção original (Nordeste)."
+  }
+ },
+ {
+  "id": "LID-LCO-125",
+  "feedback_curto": "Rotatividade, reclamações e queda de produtividade são sintomas de clima negativo.",
+  "explicacao": "O clima é a percepção atual das pessoas; pesquisas de clima ajudam a diagnosticar causas.",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Esses sinais indicam problema, não maturidade.",
+   "c": "Os sinais não apontam um estilo de liderança.",
+   "d": "Nada no caso fala de autonomia."
+  }
+ },
+ {
+  "id": "MKT-MKT-136",
+  "feedback_curto": "Concorrente forte é fator externo negativo: ameaça.",
+  "explicacao": "Concorrente forte = fator externo negativo = ameaça. Se a empresa tem custos altos, ISSO é a fraqueza; o concorrente é a ameaça.",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "O rival está fora da empresa.",
+   "b": "O rival atrapalha o negócio.",
+   "c": "Força é recurso interno da empresa.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "LID-NEG-001",
+  "feedback_curto": "Sua BATNA (melhor alternativa sem acordo) é o limite: não aceite acordo pior que ela.",
+  "explicacao": "Fisher & Ury: separar pessoas do problema, focar interesses (prazo, volume, previsibilidade), criar opções de ganho mútuo e usar critérios objetivos. A BATNA/MAANA de Renata é a proposta a +8% — ela define até onde vale negociar.",
+  "dificuldade_declarada": 3,
+  "bloom": "avaliar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Com uma alternativa de +8%, aceitar 18% é pior que não fechar acordo.",
+   "c": "Isso é barganha por posição; o método pede foco em interesses e critérios objetivos.",
+   "d": "O ponto não é esconder a proposta; é não aceitar acordo pior que sua melhor alternativa."
+  }
+ },
+ {
+  "id": "EMP-FEM-112",
+  "feedback_curto": "TCP: atitude, norma subjetiva e controle percebido formam a intenção, que leva ao comportamento.",
+  "explicacao": "Crenças comportamentais formam a atitude; crenças normativas, a norma subjetiva; crenças de controle, o controle percebido. O comportamento real ainda depende do controle real.",
+  "dificuldade_declarada": 2,
+  "bloom": "lembrar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Ajzen trata de crenças e percepções, não de dados demográficos.",
+   "c": "Essas são as necessidades de McClelland.",
+   "d": "Esses compõem a atitude, só um dos três antecedentes."
+  }
+ },
+ {
+  "id": "MKT-MKT-101",
+  "feedback_curto": "Pela AMA, marketing cria, comunica e entrega valor; propaganda é só uma parte.",
+  "explicacao": "AMA: marketing é criar, comunicar, entregar e trocar ofertas de valor para clientes, parceiros e sociedade. Marketing ≠ propaganda: inclui estudo do mercado e todo o composto (produto, preço, praça, promoção, pessoas).",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Estoque é tema de operações.",
+   "c": "Impostos são tema contábil.",
+   "d": "Post é só uma ferramenta de promoção."
+  }
+ },
+ {
+  "id": "OPE-PRO-109",
+  "feedback_curto": "AS-IS é o retrato do processo atual; TO-BE é o desenho futuro desejado.",
+  "explicacao": "A gestão da mudança planeja a transição AS-IS → TO-BE.",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "O desenho futuro é o TO-BE.",
+   "c": "Plano de ação é o 5W2H.",
+   "d": "Sonho é TO-BE; AS-IS é a realidade atual."
+  }
+ },
+ {
+  "id": "OPE-PRJ-004",
+  "feedback_curto": "Desvio-padrão PERT = (P − O) ÷ 6 = 30 ÷ 6 = 5 dias.",
+  "explicacao": "O desvio-padrão PERT mede a incerteza da estimativa: (pessimista − otimista) ÷ 6. Ganha o desempate quem chegar mais perto de 5.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": 5
+ },
+ {
+  "id": "EST-EST-002",
+  "feedback_curto": "O que a empresa controla, como o próprio site, é interno: força ou fraqueza.",
+  "explicacao": "Mudanças tecnológicas, demográficas e legais do mercado são SEMPRE externas — podem ser oportunidade ou ameaça conforme a empresa. O que a empresa controla (equipe, site) é interno.",
+  "dificuldade_declarada": 2,
+  "bloom": "entender",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Site lento prejudica a escola; não é vantagem.",
+   "b": "correta",
+   "c": "Oportunidade vem do ambiente externo; o site é controlado pela escola.",
+   "d": "O site é da própria escola, logo é interno; ameaça vem de fora."
+  }
+ },
+ {
+  "id": "FIN-ECO-102",
+  "feedback_curto": "Lei da demanda: com o resto constante, preço maior reduz a quantidade demandada.",
+  "explicacao": "A gasolina tende a ter demanda inelástica: a quantidade cai pouco, mas cai.",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Preço maior, mantido o resto, reduz a quantidade demandada.",
+   "b": "Demanda inelástica cai pouco, mas cai.",
+   "c": "correta",
+   "d": "A quantidade cai, mas pouco: a gasolina tem demanda inelástica."
+  }
+ },
+ {
+  "id": "MKT-MKT-141",
+  "feedback_curto": "Escolheu idosos (segmento demográfico) e ajustou serviço e pessoas a esse público.",
+  "explicacao": "Escolher idosos (segmentação demográfica) + balcão adaptado (serviço) + atendentes treinados (pessoas). O dado de 35% de idosos no bairro justifica o segmento; a entrega gratuita (versão original) também mexia na praça.",
+  "dificuldade_declarada": 3,
+  "bloom": "analisar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Idade é variável demográfica, não comportamental.",
+   "c": "Nada no caso muda a imagem de preço da marca.",
+   "d": "Não há desconto; mudou o serviço e o atendimento."
+  }
+ },
+ {
+  "id": "EST-EST-003",
+  "feedback_curto": "Patente de invenção: 20 anos do depósito; depois, a invenção cai em domínio público.",
+  "explicacao": "A contagem é feita a partir do DEPÓSITO, não da concessão. Depois do prazo a invenção cai em domínio público — como no caso do Lipitor, cuja expiração derrubou o lucro da Pfizer.",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "15 anos é o prazo do modelo de utilidade.",
+   "b": "Renovar a cada 10 anos sem limite é regra da marca.",
+   "c": "correta",
+   "d": "Até 25 anos (10 + três prorrogações de 5) é o desenho industrial."
+  }
+ },
+ {
+  "id": "FIN-ECO-110",
+  "feedback_curto": "Juros menores barateiam o crédito e estimulam consumo e investimento.",
+  "explicacao": "Política monetária expansionista. O trade-off entre inflação e desemprego aparece na aula de macroeconomia.",
+  "dificuldade_declarada": 2,
+  "bloom": "entender",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Juros menores barateiam o crédito e estimulam a demanda.",
+   "b": "Juros menores tendem a pressionar a inflação para cima.",
+   "c": "correta",
+   "d": "Juros menores tendem a atrair menos capital e enfraquecer o real."
+  }
+ },
+ {
+  "id": "MKT-MKT-110",
+  "feedback_curto": "Marca: nome, termo, símbolo ou design que identifica e diferencia uma oferta.",
+  "explicacao": "Marca: nome, termo, símbolo ou design que identifica e diferencia uma oferta — e as associações que ela gera. SEBRAE: estrutura da marca em nome, símbolo e slogan (caso 'Despertar').",
+  "dificuldade_declarada": 1,
+  "bloom": "entender",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "Nome, símbolo e associações também contam.",
+   "b": "correta",
+   "c": "Preço é outro P do composto.",
+   "d": "Dados cadastrais não diferenciam a oferta."
+  }
+ },
+ {
+  "id": "FIN-CTB-002",
+  "feedback_curto": "Lucro = margem de contribuição total − custos fixos; a proposta derruba o lucro de R$ 6.000 para R$ 1.600.",
+  "explicacao": "Hoje: MC = 1.000 × 30 = 30.000; lucro = 30.000 − 24.000 = 6.000. Proposta: MC = 1.300 × 22 = 28.600; custos fixos = 27.000; lucro = 1.600. É o mesmo raciocínio do Problema 3 da Aula 4 (alto-falantes).",
+  "dificuldade_declarada": 3,
+  "bloom": "avaliar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Cobrir o fixo só evita prejuízo; o lucro cairia abaixo dos R$ 6.000 atuais.",
+   "b": "Volume maior não compensa margem por kit menor e fixo maior.",
+   "c": "correta",
+   "d": "28.600 − 27.000 = 1.600: ainda há lucro, só que bem menor."
+  }
+ },
+ {
+  "id": "EST-EST-126",
+  "feedback_curto": "Escola do Aprendizado: a estratégia emerge do aprendizado coletivo ao longo da ação.",
+  "explicacao": "Modelo 4I (Crossan et al.): intuição, interpretação, integração e institucionalização.",
+  "dificuldade_declarada": 2,
+  "bloom": "lembrar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "No Design, o CEO concebe a estratégia antes da ação.",
+   "b": "A do Poder vê a estratégia como negociação.",
+   "c": "correta",
+   "d": "Posicionamento é analítico (Porter, BCG)."
+  }
+ },
+ {
+  "id": "FIN-INV-108",
+  "feedback_curto": "Se a TIR supera a TMA, o projeto rende mais que o mínimo exigido: aceita.",
+  "explicacao": "A TIR é a taxa que zera o VPL. Se ela supera a TMA, o VPL calculado à TMA é positivo.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "TIR acima da TMA indica aceitar.",
+   "b": "A regra compara TIR e TMA; risco zero não existe.",
+   "c": "Comparar TIR com TMA é justamente a regra.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "EMP-FEM-103",
+  "feedback_curto": "Lócus de controle interno (Rotter): crença de que os próprios atos determinam os resultados.",
+  "explicacao": "Rotter separa lócus interno (meu esforço decide) de externo (sorte, destino, outros decidem). É uma crença geral, diferente do controle comportamental percebido de Ajzen.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "No lócus externo, a pessoa atribui os resultados à sorte ou a terceiros.",
+   "b": "correta",
+   "c": "Afiliação (McClelland) é a busca de aceitação e relacionamentos.",
+   "d": "Não é autoajuda: Rotter descreve a quem a pessoa atribui os resultados."
+  }
+ },
+ {
+  "id": "OPE-PRJ-002",
+  "feedback_curto": "VME = Σ (probabilidade × resultado); mas o maior VME não basta se a pior perda quebra a empresa.",
+  "explicacao": "VME(A) = 0,7 × 200 − 0,3 × 100 = 110 mil; VME(B) = 0,7 × 120 − 0,3 × 10 = 81 mil. Pelo critério puro, A vence. Mas há 30% de chance de perder R$ 100 mil com caixa de R$ 80 mil — a tolerância a risco entra na decisão.",
+  "dificuldade_declarada": 4,
+  "bloom": "avaliar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "O VME é o critério base, mas uma perda maior que o caixa pode quebrar a empresa.",
+   "b": "VME é a média ponderada dos resultados, não um ganho garantido.",
+   "c": "correta",
+   "d": "Escolher pelo menor VME não faz sentido; o que pesa é a perda possível."
+  }
+ },
+ {
+  "id": "OPE-PRO-124",
+  "feedback_curto": "KPI mede o desempenho frente a uma meta, como o tempo médio de entrega.",
+  "explicacao": "Na disciplina: Y (KSI, estratégico) → y (KPI, saída do processo) → x (operacional). Filtro RUMBA para escolher indicadores.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "BPMN desenha fluxos.",
+   "b": "RACI divide papéis.",
+   "c": "correta",
+   "d": "SIPOC lista fornecedores a clientes."
+  }
+ },
+ {
+  "id": "EMP-FEM-104",
+  "feedback_curto": "Intraempreendedor (Pinchot) empreende dentro de uma organização existente, com recursos dela.",
+  "explicacao": "Exemplos da disciplina: Gmail (Paul Buchheit no Google) e o botão Curtir do Facebook nasceram de intraempreendedorismo.",
+  "dificuldade_declarada": 1,
+  "bloom": "aplicar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Necessidade é abrir negócio por falta de alternativa de renda.",
+   "b": "Investidor-anjo aporta capital em startups de terceiros.",
+   "c": "correta",
+   "d": "Propor e liderar inovação com recursos da empresa é intraempreender."
+  }
+ },
+ {
+  "id": "EST-EST-147",
+  "feedback_curto": "Parceiros mais caros elevam a estrutura de custos; com preço congelado, a margem cai.",
+  "explicacao": "Lado esquerdo do Canvas (eficiência): parcerias, atividades, recursos e custos. Lucro = receitas − custos.",
+  "dificuldade_declarada": 3,
+  "bloom": "analisar",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "O reajuste vem de parceiros, não de mudanças nos clientes.",
+   "b": "A mensalidade não mudou; a oferta também não.",
+   "c": "Não há mudança na interação com as clínicas.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "MKT-MKT-146",
+  "feedback_curto": "Com os outros Ps iguais, a percepção construída pelo posicionamento decide.",
+  "explicacao": "Com os outros Ps iguais, a percepção construída pelo posicionamento decide. Posicionamento: imagem clara, distinta e favorável na mente do público em relação aos concorrentes.",
+  "dificuldade_declarada": 3,
+  "bloom": "analisar",
+  "correta": "b",
+  "feedback_por_alternativa": {
+   "a": "O caso diz que os tênis são quase iguais.",
+   "b": "correta",
+   "c": "As duas estão nas mesmas lojas.",
+   "d": "Os preços são iguais no caso."
+  }
+ },
+ {
+  "id": "EST-DEC-001",
+  "feedback_curto": "Satisficing: com informação e tempo limitados, escolhe-se a primeira opção que atende aos critérios mínimos.",
+  "explicacao": "Herbert Simon propôs que o decisor tem limites de informação e de capacidade cognitiva; por isso fixa critérios mínimos e escolhe a primeira alternativa que os atende (satisficing).",
+  "dificuldade_declarada": 2,
+  "bloom": "aplicar",
+  "correta": "d",
+  "feedback_por_alternativa": {
+   "a": "Maximizar exigiria comparar todos os fornecedores.",
+   "b": "Simon diz o contrário: com limites, o decisor aceita o satisfatório.",
+   "c": "O que define o caso é parar na primeira opção suficiente.",
+   "d": "correta"
+  }
+ },
+ {
+  "id": "MKT-MKT-109",
+  "feedback_curto": "Praça é distribuição: os canais pelos quais a oferta chega ao cliente.",
+  "explicacao": "Praça = distribuição: canais e pontos de contato pelos quais a oferta chega ao cliente. Canais podem ser diretos (produtor → consumidor) ou indiretos (varejo, atacado, representantes).",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "a",
+  "feedback_por_alternativa": {
+   "a": "correta",
+   "b": "Promoção divulga; praça distribui.",
+   "c": "Preço é quanto se paga, não onde.",
+   "d": "Pessoas é quem atende, não o canal."
+  }
+ },
+ {
+  "id": "EMP-FEM-001",
+  "feedback_curto": "Schumpeter: o empreendedor inova com novas combinações e destrói o modelo antigo.",
+  "explicacao": "Na linha do tempo do curso: Cantillon (risco) → Say (organiza fatores) → Schumpeter (destruição criativa, novas combinações) → Knight (risco × incerteza) → McClelland (necessidade de realização) → Kirzner (alerta).",
+  "dificuldade_declarada": 1,
+  "bloom": "lembrar",
+  "correta": "c",
+  "feedback_por_alternativa": {
+   "a": "Cantillon ligou o empreendedor ao risco: comprar a preço certo e vender a preço incerto.",
+   "b": "Kirzner destacou o empreendedor alerta, que descobre oportunidades em falhas de mercado.",
+   "c": "correta",
+   "d": "McClelland explicou o empreendedor pela necessidade de realização."
+  }
+ }
+]

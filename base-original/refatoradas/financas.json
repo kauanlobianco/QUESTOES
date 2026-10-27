@@ -1,0 +1,1787 @@
+[
+ {
+  "r": 1,
+  "s": "INV",
+  "m": "fluxo-de-caixa",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O food truck do Léo pagou mais do que recebeu em março. Que relatório mostra isso primeiro?",
+  "a": [
+   [
+    "DRE do mês",
+    "Confunde resultado econômico com movimento de dinheiro.",
+    "A DRE segue a competência: pode mostrar lucro num mês de caixa negativo."
+   ],
+   "*Fluxo de caixa",
+   [
+    "Patrimônio líquido",
+    "Confunde a riqueza dos sócios com o fluxo de dinheiro.",
+    "O PL é uma posição do balanço, não o registro de entradas e saídas."
+   ],
+   [
+    "Story no Instagram",
+    "Confunde divulgação com controle financeiro.",
+    "Postar não registra entradas e saídas; o fluxo de caixa registra."
+   ]
+  ],
+  "f": "O fluxo de caixa registra entradas e saídas reais de dinheiro; é ele que acusa o mês negativo.",
+  "e": "Faturamento não é caixa ('erro fatal', Aula 4 de Investimentos). A DRE usa o regime de competência; o fluxo de caixa, o regime de caixa.",
+  "n": "Modo jogo: cenário de food truck, enunciado encurtado e distrator leve."
+ },
+ {
+  "r": 2,
+  "s": "ECO",
+  "m": "custo-de-oportunidade",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "sec": [
+   "EST"
+  ],
+  "q": "Ana tirou dinheiro do CDB para abrir uma loja de açaí. O rendimento que ela deixou de ganhar é…",
+  "a": [
+   [
+    "Custo fixo",
+    "Confunde com gasto que não varia com o volume.",
+    "Custo fixo é gasto da operação, não renda que se deixou de ganhar."
+   ],
+   [
+    "Custo de capital",
+    "Confunde o olhar da empresa com o do investidor.",
+    "Custo de capital é o que a empresa paga às fontes; aqui é o ganho abandonado."
+   ],
+   "*Custo de oportunidade",
+   [
+    "Custo variável",
+    "Confunde com gasto que acompanha as vendas.",
+    "Custo variável muda com o volume; não é renda abandonada."
+   ]
+  ],
+  "f": "Custo de oportunidade é o ganho da melhor alternativa que você abandona ao escolher outra.",
+  "e": "Na Aula 3 de Investimentos: custo de capital é o olhar da empresa (juros e retorno aos sócios); custo de oportunidade é o olhar do investidor (o que deixa de ganhar).",
+  "n": "Modo jogo: números retirados (R$ 10 mil, 1%), cenário de açaí; bloom aplicar→entender para caber no duelo."
+ },
+ {
+  "r": 3,
+  "s": "CTB",
+  "m": "custo-fixo-x-variavel",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O aluguel da barbearia é o mesmo, com 10 ou 100 cortes no mês. Que custo é esse?",
+  "a": [
+   [
+    "Variável",
+    "Confunde com custo que acompanha o volume.",
+    "Custo variável sobe a cada corte; o aluguel não."
+   ],
+   [
+    "Direto",
+    "Confunde classificação por produto com classificação por volume.",
+    "Direto/indireto fala de alocação ao produto, não de variar com o volume."
+   ],
+   [
+    "De oportunidade",
+    "Confunde com renda que se deixa de ganhar.",
+    "Custo de oportunidade é o ganho abandonado, não um gasto pago."
+   ],
+   "*Fixo"
+  ],
+  "f": "Custo fixo não muda com o volume vendido, dentro da capacidade da operação.",
+  "e": "Na análise CVL, os custos fixos são cobertos pela margem de contribuição; depois do ponto de equilíbrio, a MC vira lucro.",
+  "n": "Modo jogo: cenário de barbearia; bloom aplicar→entender."
+ },
+ {
+  "r": 4,
+  "s": "CTB",
+  "m": "regime-de-competencia",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "sec": [
+   "FIN"
+  ],
+  "q": "A loja de bikes fechou o mês com lucro, mas não tem dinheiro para pagar a luz. Como pode?",
+  "a": [
+   "*Vendeu a prazo e ainda não recebeu",
+   [
+    "A DRE certamente errou a conta",
+    "Supõe que lucro sem caixa seja erro contábil.",
+    "A DRE pode estar certa: ela segue a competência, não o caixa."
+   ],
+   [
+    "Lucro e caixa são a mesma coisa",
+    "Supõe que lucro e caixa são equivalentes.",
+    "Se fossem iguais, não faltaria dinheiro; o lucro segue a competência."
+   ],
+   [
+    "Mercúrio retrógrado",
+    "Atribui o problema à sorte.",
+    "Não é astrologia: vender a prazo gera lucro antes de o dinheiro entrar."
+   ]
+  ],
+  "f": "Receita não é recebimento: vender a prazo gera lucro na DRE antes de gerar caixa.",
+  "e": "DRE.pptx: 'Receita ≠ Recebimento; Custo ou despesa ≠ Pagamento'. Vender a prazo gera lucro sem gerar caixa no mês.",
+  "n": "Modo jogo: cenário de loja de bikes; correta virou o mecanismo (venda a prazo); distrator leve."
+ },
+ {
+  "r": 5,
+  "s": "INV",
+  "m": "capital-de-giro",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Dinheiro que a pizzaria precisa para pagar fornecedores e salários do dia a dia:",
+  "a": [
+   [
+    "Investimento fixo",
+    "Confunde com compra de forno e equipamentos.",
+    "Investimento fixo é forno e móveis; o dia a dia usa capital de giro."
+   ],
+   "*Capital de giro",
+   [
+    "Patrimônio líquido",
+    "Confunde com o capital dos sócios no balanço.",
+    "PL é a riqueza dos sócios, não o dinheiro que roda a operação."
+   ],
+   [
+    "Caixinha da gorjeta",
+    "Confunde com dinheiro dos garçons.",
+    "Gorjeta é dos funcionários; quem paga o dia a dia é o capital de giro."
+   ]
+  ],
+  "f": "Capital de giro financia a operação do dia a dia: estoque, fornecedores e salários.",
+  "e": "Aula 9 de Investimentos: o ciclo operacional e o ciclo financeiro determinam quanto capital de giro a empresa precisa.",
+  "n": "Modo jogo: formato 'qual é o nome disso?' com pizzaria e distrator leve."
+ },
+ {
+  "r": 6,
+  "s": "ECO",
+  "m": "lei-da-demanda",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A gasolina sobe de preço e o resto fica igual. A quantidade demandada tende a…",
+  "a": [
+   [
+    "Aumentar",
+    "Inverte a lei da demanda.",
+    "Preço maior, mantido o resto, reduz a quantidade demandada."
+   ],
+   [
+    "Ficar igual",
+    "Confunde demanda inelástica com demanda fixa.",
+    "Demanda inelástica cai pouco, mas cai."
+   ],
+   "*Diminuir",
+   [
+    "Zerar: todo mundo vai de bike",
+    "Exagera a reação do consumidor.",
+    "A quantidade cai, mas pouco: a gasolina tem demanda inelástica."
+   ]
+  ],
+  "f": "Lei da demanda: com o resto constante, preço maior reduz a quantidade demandada.",
+  "e": "A gasolina tende a ter demanda inelástica: a quantidade cai pouco, mas cai.",
+  "n": "Modo jogo: enunciado encurtado; bloom aplicar→entender; distrator leve."
+ },
+ {
+  "r": 7,
+  "s": "ECO",
+  "m": "pib",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O que o PIB do Brasil mede?",
+  "a": [
+   [
+    "Valor da dívida pública acumulada",
+    "Confunde produção com endividamento.",
+    "Dívida é estoque de obrigações; o PIB mede produção."
+   ],
+   [
+    "Renda média de cada cidadão",
+    "Confunde PIB total com renda individual.",
+    "Renda por pessoa é outro dado; o PIB soma a produção do país."
+   ],
+   [
+    "Número de empresas abertas no ano",
+    "Confunde produção com número de CNPJs.",
+    "Abrir empresa não é produzir; o PIB mede o valor final produzido."
+   ],
+   "*Bens e serviços finais produzidos"
+  ],
+  "f": "O PIB soma o valor dos bens e serviços finais produzidos no país num período.",
+  "e": "Contar bens intermediários seria dupla contagem. Y = C + I + G + (X − M); óticas: produção, despesa e renda.",
+  "n": "Modo jogo: alternativas encurtadas e equilibradas."
+ },
+ {
+  "r": 8,
+  "s": "INV",
+  "m": "payback",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Indicador que diz em quanto tempo o investimento na sorveteria volta:",
+  "a": [
+   "*Payback",
+   [
+    "VPL",
+    "Confunde valor criado com tempo.",
+    "VPL mede valor em reais, não prazo."
+   ],
+   [
+    "TIR",
+    "Confunde taxa de retorno com tempo.",
+    "TIR é uma taxa, não um prazo."
+   ],
+   [
+    "ROE",
+    "Confunde com retorno sobre o PL.",
+    "ROE mede lucro sobre o capital dos sócios."
+   ]
+  ],
+  "f": "Payback é o tempo para os fluxos de caixa recuperarem o investimento inicial.",
+  "e": "Limitação: o payback ignora os fluxos depois da recuperação; o simples ainda ignora o valor do dinheiro no tempo.",
+  "n": "Modo jogo: formato 'qual é o nome disso?' com sorveteria."
+ },
+ {
+  "r": 9,
+  "s": "INV",
+  "m": "risco-e-retorno",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Investir numa startup é mais arriscado que no Tesouro. O retorno esperado deve ser…",
+  "a": [
+   [
+    "Menor",
+    "Inverte a relação risco-retorno.",
+    "Quem aceita mais risco exige mais retorno."
+   ],
+   "*Maior",
+   [
+    "Igual",
+    "Ignora o prêmio de risco.",
+    "Se rendesse igual, ninguém trocaria o seguro pelo arriscado."
+   ],
+   [
+    "Pago em pizza",
+    "Confunde investimento com permuta.",
+    "Brincadeiras à parte: mais risco exige maior retorno esperado."
+   ]
+  ],
+  "f": "Mais risco exige maior retorno esperado: é o prêmio por correr o risco.",
+  "e": "Por isso o capital próprio do empreendedor deve ser exigido a uma taxa maior que a do banco, e o professor soma um 'passivo oculto' ao CMPC.",
+  "n": "Modo jogo: cenário startup × Tesouro, alternativas de 1 palavra e distrator leve."
+ },
+ {
+  "r": 10,
+  "s": "CTB",
+  "m": "balanco-patrimonial",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No balanço, onde entram o empréstimo do banco e a conta do fornecedor?",
+  "a": [
+   [
+    "Ativo",
+    "Confunde bens e direitos com obrigações.",
+    "Ativo é o que a empresa tem; dívida é passivo."
+   ],
+   [
+    "Patrimônio líquido",
+    "Confunde dívida com capital dos sócios.",
+    "PL é dos sócios; dívida com terceiros é passivo."
+   ],
+   "*Passivo",
+   [
+    "DRE",
+    "Confunde balanço com demonstração de resultado.",
+    "A DRE mostra lucro; obrigações ficam no passivo do balanço."
+   ]
+  ],
+  "f": "Passivo reúne as obrigações com terceiros: bancos, fornecedores e governo.",
+  "e": "Ativo = Passivo + PL. O passivo se divide em circulante (até 1 ano) e não circulante.",
+  "n": "Modo jogo: enunciado encurtado com exemplos concretos."
+ },
+ {
+  "r": 11,
+  "s": "ECO",
+  "m": "inflacao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A inflação do ano foi de 10%. Na prática, o que isso quer dizer?",
+  "a": [
+   [
+    "A renda de todo mundo subiu 10%",
+    "Confunde preços com salários.",
+    "Salários não sobem automaticamente com a inflação."
+   ],
+   [
+    "O PIB do país cresceu 10% no ano",
+    "Confunde inflação com crescimento.",
+    "Crescimento é PIB; inflação é alta geral de preços."
+   ],
+   [
+    "Os juros caíram 10%",
+    "Confunde inflação com juros.",
+    "Juros são decisão do BC; inflação é perda de poder de compra."
+   ],
+   "*O dinheiro compra menos que antes"
+  ],
+  "f": "Inflação é a alta geral de preços: o mesmo dinheiro passa a comprar menos.",
+  "e": "Estabilidade de preços é um dos quatro objetivos da política macroeconômica. Desde 2025, a meta de inflação do Brasil é contínua: 3% ± 1,5 p.p.",
+  "n": "Modo jogo: enunciado e alternativas encurtados."
+ },
+ {
+  "r": 12,
+  "s": "ECO",
+  "m": "elasticidade-preco",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O preço do sal dobrou, mas as famílias quase não compraram menos. A demanda por sal é…",
+  "a": [
+   [
+    "Elástica",
+    "Confunde as definições.",
+    "Elástica seria uma queda forte nas compras."
+   ],
+   "*Inelástica",
+   [
+    "Unitária",
+    "Confunde com variação proporcional.",
+    "Unitária: a quantidade cai na mesma proporção do preço."
+   ],
+   [
+    "Especulativa",
+    "Inventa uma categoria.",
+    "Não é tipo de elasticidade; aqui a quantidade pouco reage ao preço."
+   ]
+  ],
+  "f": "Bens essenciais e sem substituto têm demanda inelástica: o preço sobe e o consumo quase não cai.",
+  "e": "Elasticidade-preço mede quanto a quantidade reage ao preço. Sal, remédios e combustível costumam ser inelásticos; lazer e marcas com muitos substitutos, elásticos.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 13,
+  "s": "ECO",
+  "m": "politicas-economicas",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O governo corta impostos e aumenta gastos para aquecer a economia. Que política é essa?",
+  "a": [
+   [
+    "Monetária",
+    "Confunde com juros e moeda (BC).",
+    "Política monetária é a do BC: juros e moeda."
+   ],
+   "*Fiscal",
+   [
+    "Cambial",
+    "Confunde com gestão do câmbio.",
+    "Cambial trata da taxa de câmbio, não de impostos."
+   ],
+   [
+    "Comercial",
+    "Confunde com regras de comércio exterior.",
+    "Comercial trata de tarifas e acordos de comércio."
+   ]
+  ],
+  "f": "Política fiscal usa impostos e gastos públicos para influenciar a economia.",
+  "e": "Resultado primário exclui juros da dívida; nominal inclui. A política fiscal segue o princípio da anterioridade para tributos.",
+  "n": "Modo jogo: mini-caso concreto (corte de impostos) no lugar da definição."
+ },
+ {
+  "r": 14,
+  "s": "CTB",
+  "m": "dre",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Que demonstração mostra se a padaria teve lucro ou prejuízo no ano?",
+  "a": [
+   [
+    "Balanço patrimonial",
+    "Confunde posição com resultado.",
+    "O balanço mostra bens, dívidas e PL numa data."
+   ],
+   [
+    "Fluxo de caixa",
+    "Confunde caixa com resultado.",
+    "O fluxo de caixa mostra entradas e saídas, não o lucro por competência."
+   ],
+   "*DRE",
+   [
+    "Extrato do Pix",
+    "Confunde movimento bancário com resultado.",
+    "O Pix mostra dinheiro na conta; o lucro está na DRE."
+   ]
+  ],
+  "f": "A DRE confronta receitas e despesas do período e chega ao lucro ou prejuízo.",
+  "e": "A DRE segue o regime de competência; o lucro retido vai para o patrimônio líquido no balanço.",
+  "n": "Modo jogo: cenário de padaria e distrator leve."
+ },
+ {
+  "r": 15,
+  "s": "ECO",
+  "m": "politicas-economicas",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O Banco Central sobe a Selic. Que política está usando?",
+  "a": [
+   [
+    "Fiscal",
+    "Confunde BC com governo.",
+    "Fiscal é impostos e gastos do governo."
+   ],
+   [
+    "Cambial",
+    "Confunde juros com câmbio.",
+    "Juros afetam o câmbio, mas a Selic é instrumento monetário."
+   ],
+   [
+    "Tributária",
+    "Confunde juros com impostos.",
+    "Selic é juro básico, não tributo."
+   ],
+   "*Monetária"
+  ],
+  "f": "Política monetária: o BC controla juros e moeda; Selic alta encarece o crédito.",
+  "e": "Juros mais altos encarecem o crédito, reduzem consumo e investimento e ajudam a conter a inflação.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 16,
+  "s": "CTB",
+  "m": "balanco-patrimonial",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No balanço da loja, ativo menos passivo é igual a…",
+  "a": [
+   "*Patrimônio líquido",
+   [
+    "Lucro líquido",
+    "Confunde balanço com DRE.",
+    "Lucro vem da DRE; ativo − passivo é o PL."
+   ],
+   [
+    "Capital de giro",
+    "Confunde com recurso da operação.",
+    "Capital de giro não é ativo − passivo; é recurso da operação."
+   ],
+   [
+    "Receita bruta",
+    "Confunde com vendas.",
+    "Receita é da DRE, não sai do balanço."
+   ]
+  ],
+  "f": "PL = ativo − passivo: é a parte do negócio que pertence aos sócios.",
+  "e": "Equação patrimonial: Ativo = Passivo + PL. O PL inclui capital social, reservas e lucros acumulados.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 17,
+  "s": "ECO",
+  "m": "escassez",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Recursos limitados e desejos ilimitados: qual é o problema central da economia?",
+  "a": [
+   [
+    "Inflação",
+    "Confunde com alta de preços.",
+    "Inflação é alta de preços, não limite de recursos."
+   ],
+   "*Escassez",
+   [
+    "Recessão",
+    "Confunde com queda da atividade.",
+    "Recessão é PIB em queda; escassez existe sempre."
+   ],
+   [
+    "Deflação",
+    "Confunde com queda de preços.",
+    "Deflação é queda geral de preços, não limite de recursos."
+   ]
+  ],
+  "f": "Escassez: recursos limitados obrigam a escolher o que, como e para quem produzir.",
+  "e": "Da escassez vêm os 3 problemas fundamentais (o que/quanto, como e para quem produzir) e o custo de oportunidade.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 18,
+  "s": "CTB",
+  "m": "custo-fixo-x-variavel",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na fábrica de brigadeiros, o gasto com chocolate cresce a cada lote feito. Que custo é esse?",
+  "a": [
+   [
+    "Fixo",
+    "Confunde com custo que não muda com o volume.",
+    "Fixo não acompanha a produção; o chocolate acompanha."
+   ],
+   [
+    "Indireto",
+    "Confunde variação com alocação.",
+    "Indireto não se liga a um produto; o chocolate vai direto no brigadeiro."
+   ],
+   "*Variável",
+   [
+    "Irrecuperável",
+    "Confunde com custo afundado.",
+    "Custo irrecuperável já foi gasto e não volta; não é o caso."
+   ]
+  ],
+  "f": "Custo variável sobe e desce com o volume produzido, como a matéria-prima.",
+  "e": "Matéria-prima, comissões e embalagens são exemplos clássicos. No custeio variável, só eles formam o custo do produto.",
+  "n": "Modo jogo: cenário de brigadeiros; bloom aplicar→entender."
+ },
+ {
+  "r": 19,
+  "s": "ECO",
+  "m": "bens-substitutos",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O café ficou bem mais caro e muita gente passou a tomar chá. Café e chá são bens…",
+  "a": [
+   "*Substitutos",
+   [
+    "Complementares",
+    "Confunde com bens consumidos juntos.",
+    "Complementares são usados juntos, como café e açúcar."
+   ],
+   [
+    "Inferiores",
+    "Confunde com reação à renda.",
+    "Bem inferior é o que se compra menos quando a renda sobe."
+   ],
+   [
+    "Públicos",
+    "Confunde com bens de uso coletivo.",
+    "Bem público é algo como a iluminação da rua, não café."
+   ]
+  ],
+  "f": "Substitutos atendem à mesma necessidade: quando um encarece, a procura migra para o outro.",
+  "e": "O preço de bens relacionados desloca a demanda: alta no preço de um substituto aumenta a demanda do outro; alta num complementar a reduz.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 20,
+  "s": "ECO",
+  "m": "cambio",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O dólar foi de R$ 5 para R$ 6. Para quem exporta café e recebe em dólar, isso é…",
+  "a": [
+   "*Bom: cada dólar vale mais reais",
+   [
+    "Ruim: recebe menos em reais",
+    "Inverte o efeito.",
+    "Cada dólar agora vale mais reais."
+   ],
+   [
+    "Neutro: câmbio não afeta exportação",
+    "Ignora a conversão para reais.",
+    "O exportador converte dólar em real; o câmbio importa."
+   ],
+   [
+    "Ruim: some a demanda externa",
+    "Exagera o efeito na demanda.",
+    "O real mais fraco até barateia o café lá fora."
+   ]
+  ],
+  "f": "Real desvalorizado: cada dólar exportado rende mais reais ao exportador.",
+  "e": "Apreciação aumenta o poder de compra externo da moeda; depreciação o reduz. O Brasil adota câmbio flutuante (sujo) desde 1999.",
+  "n": "Modo jogo: cenário de exportador de café; bloom aplicar→entender."
+ },
+ {
+  "r": 21,
+  "s": "ECO",
+  "m": "bens-complementares",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "O preço dos consoles de videogame dispara. O que tende a acontecer com a demanda por jogos desses consoles?",
+  "a": [
+   [
+    "Aumenta, porque os jogos ficam mais atraentes",
+    "Trata como substitutos.",
+    "Jogo não substitui console: os dois são usados juntos."
+   ],
+   [
+    "Fica igual, porque são mercados separados",
+    "Ignora a relação entre os bens.",
+    "Quem não compra o console também não compra o jogo dele."
+   ],
+   "*Diminui, porque menos gente compra o console",
+   [
+    "Aumenta, porque a inflação sobe tudo",
+    "Confunde preço de um bem com inflação.",
+    "Um preço específico subir não é inflação geral."
+   ]
+  ],
+  "f": "Console e jogo são complementares: se um encarece, a procura pelo outro também cai.",
+  "e": "Bens complementares são consumidos juntos (console e jogo, carro e gasolina). A alta no preço de um reduz a demanda do outro.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 22,
+  "s": "INV",
+  "m": "juros-compostos",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Por que deixar o dinheiro aplicado por mais tempo faz ele crescer cada vez mais rápido?",
+  "a": [
+   [
+    "Porque a taxa de juros sobe a cada ano",
+    "Acha que a taxa aumenta sozinha.",
+    "A taxa pode ser a mesma; o que cresce é a base sobre a qual ela incide."
+   ],
+   "*Porque os juros passam a render juros",
+   [
+    "Porque a inflação some com o tempo",
+    "Confunde juros com inflação.",
+    "A inflação não desaparece; ela até corrói parte do ganho."
+   ],
+   [
+    "Porque o banco dobra o valor no fim",
+    "Imagina um bônus fixo.",
+    "Não há bônus: o efeito vem dos juros sobre juros."
+   ]
+  ],
+  "f": "Nos juros compostos, o rendimento de cada período se soma ao capital e também passa a render.",
+  "e": "É o 'juros sobre juros': a mesma taxa incide sobre uma base cada vez maior. Por isso o tempo pesa tanto em investimentos e em dívidas não pagas.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 23,
+  "s": "INV",
+  "m": "diversificacao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "o": "NLM+WEB",
+  "u": [
+   "https://www.gov.br/investidor/pt-br"
+  ],
+  "q": "Dividir o dinheiro entre vários investimentos diferentes, para não depender de um só, chama-se…",
+  "a": [
+   [
+    "Alavancagem",
+    "Confunde com uso de dívida.",
+    "Alavancar é usar dinheiro emprestado para investir."
+   ],
+   [
+    "Capitalização",
+    "Confunde com acúmulo de juros.",
+    "Capitalização é incorporar juros ao capital, não dividir o dinheiro."
+   ],
+   [
+    "Especulação",
+    "Confunde com apostar na variação de preço.",
+    "Especular é apostar em oscilações, não espalhar o risco."
+   ],
+   "*Diversificação"
+  ],
+  "f": "Diversificar é não pôr todos os ovos na mesma cesta: se um investimento vai mal, os outros amortecem.",
+  "e": "A diversificação reduz o risco específico de cada aplicação sem necessariamente reduzir o retorno esperado do conjunto.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 24,
+  "s": "INV",
+  "m": "liquidez",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "o": "NLM+WEB",
+  "u": [
+   "https://www.gov.br/investidor/pt-br"
+  ],
+  "q": "A facilidade de transformar um bem ou investimento em dinheiro rapidamente se chama…",
+  "a": [
+   "*Liquidez",
+   [
+    "Rentabilidade",
+    "Confunde com quanto o investimento rende.",
+    "Rentabilidade é o ganho; um imóvel pode render bem e demorar a ser vendido."
+   ],
+   [
+    "Solvência",
+    "Confunde com capacidade de pagar as dívidas.",
+    "Solvência é ter mais bens do que dívidas no longo prazo."
+   ],
+   [
+    "Volatilidade",
+    "Confunde com oscilação de preço.",
+    "Volatilidade mede o sobe e desce do preço."
+   ]
+  ],
+  "f": "Liquidez é a rapidez para virar dinheiro sem perder valor: conta-corrente tem muita; imóvel, pouca.",
+  "e": "Na empresa, liquidez é ter recursos para pagar compromissos de curto prazo. Lucrar com bens pouco líquidos pode deixar o caixa apertado.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 25,
+  "s": "CTB",
+  "m": "receita-x-lucro",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A hamburgueria faturou R$ 50 mil no mês. Isso quer dizer que ela lucrou R$ 50 mil?",
+  "a": [
+   [
+    "Sim, faturamento e lucro são a mesma coisa",
+    "Confunde receita com lucro.",
+    "Faturamento é o que entrou com vendas, antes de qualquer custo."
+   ],
+   [
+    "Sim, se todas as vendas foram à vista",
+    "Confunde caixa com lucro.",
+    "Receber à vista muda o caixa, mas não tira os custos da conta."
+   ],
+   "*Não, ainda faltam descontar custos e despesas",
+   [
+    "Não, o lucro é sempre o dobro da venda",
+    "Inverte a lógica.",
+    "O lucro sai do faturamento, logo não pode superá-lo."
+   ]
+  ],
+  "f": "Faturamento é tudo o que entrou com vendas; lucro é o que sobra depois de pagar custos e despesas.",
+  "e": "Na DRE, a receita é a primeira linha e o lucro, a última. Entre elas ficam custo das vendas, despesas e impostos.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 26,
+  "s": "CTB",
+  "m": "orcamento",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "o": "WEB",
+  "u": [
+   "https://sebrae.com.br/sites/PortalSebrae"
+  ],
+  "q": "Para que serve o orçamento anual de uma empresa?",
+  "a": [
+   [
+    "Para registrar o que já foi gasto no ano",
+    "Confunde planejamento com registro histórico.",
+    "Registrar o passado é papel da contabilidade; o orçamento olha para a frente."
+   ],
+   "*Para planejar e acompanhar receitas e gastos",
+   [
+    "Para calcular os impostos devidos no ano",
+    "Confunde com apuração fiscal.",
+    "Imposto é apurado pela contabilidade fiscal, não pelo orçamento."
+   ],
+   [
+    "Para mostrar aos clientes os preços do ano",
+    "Confunde com tabela de preços.",
+    "O orçamento empresarial é uma ferramenta interna de gestão."
+   ]
+  ],
+  "f": "O orçamento é o plano financeiro: projeta receitas e gastos e serve de régua para comparar com o realizado.",
+  "e": "Comparar orçado × realizado mostra onde a empresa gastou além ou vendeu abaixo do previsto e permite corrigir a rota durante o ano.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 27,
+  "s": "INV",
+  "m": "endividamento",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "giro"
+  ],
+  "q": "Qual uso de um empréstimo tende a ser mais saudável para uma pequena empresa?",
+  "a": [
+   [
+    "Cobrir as despesas fixas de cada mês",
+    "Usa dívida para tapar rombo recorrente.",
+    "Se o problema se repete, a dívida só cresce e vira bola de neve."
+   ],
+   [
+    "Trocar uma dívida por outra de juros iguais",
+    "Troca seis por meia dúzia.",
+    "Trocar dívida só compensa se os juros novos forem menores."
+   ],
+   [
+    "Distribuir dinheiro aos sócios",
+    "Usa dívida para tirar dinheiro do negócio.",
+    "Pegar emprestado para pagar sócios enfraquece a empresa."
+   ],
+   "*Comprar um equipamento que aumenta as vendas"
+  ],
+  "f": "Dívida saudável financia algo que gera retorno maior que os juros, como um equipamento que aumenta a receita.",
+  "e": "Empréstimo para cobrir despesa recorrente não resolve a causa e acumula juros. Investir em algo produtivo pode pagar a dívida e ainda sobrar.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 28,
+  "s": "INV",
+  "m": "inadimplencia",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "o": "WEB",
+  "u": [
+   "https://sebrae.com.br/sites/PortalSebrae"
+  ],
+  "q": "Quando o cliente compra a prazo e não paga na data combinada, a empresa sofre com…",
+  "a": [
+   [
+    "Deflação",
+    "Confunde com queda geral de preços.",
+    "Deflação é fenômeno da economia, não atraso de cliente."
+   ],
+   [
+    "Sazonalidade",
+    "Confunde com variação de vendas ao longo do ano.",
+    "Sazonalidade é vender mais em certas épocas, como no Natal."
+   ],
+   "*Inadimplência",
+   [
+    "Desvalorização",
+    "Confunde com perda de valor de um bem.",
+    "Desvalorização é perda de valor de um bem ou moeda, não atraso de pagamento."
+   ]
+  ],
+  "f": "Inadimplência é o atraso ou calote do cliente: a venda aconteceu, mas o dinheiro não entrou no caixa.",
+  "e": "Vender a prazo ajuda as vendas, mas traz risco de inadimplência. Por isso empresas analisam o crédito do cliente e acompanham as contas a receber.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 29,
+  "s": "ECO",
+  "m": "inflacao-e-poder-de-compra",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Seu salário subiu 5% no ano, mas a inflação foi de 8%. O seu poder de compra…",
+  "a": [
+   [
+    "Subiu, porque o salário aumentou",
+    "Olha só o valor nominal.",
+    "O número no contracheque subiu, mas os preços subiram mais."
+   ],
+   "*Caiu, porque os preços subiram mais",
+   [
+    "Ficou igual, porque houve reajuste",
+    "Acha que qualquer reajuste repõe a inflação.",
+    "Só reajuste igual à inflação mantém o poder de compra."
+   ],
+   [
+    "Subiu, porque inflação ajuda o salário",
+    "Confunde o efeito da inflação.",
+    "A inflação corrói o valor do dinheiro, não o aumenta."
+   ]
+  ],
+  "f": "Ganho real é reajuste acima da inflação; com 5% contra 8%, o salário compra menos que antes.",
+  "e": "Valor nominal é o número em reais; valor real desconta a inflação. Aqui houve perda real de cerca de 3%.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 30,
+  "s": "INV",
+  "m": "fontes-de-capital",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "sec": [
+   "EMP"
+  ],
+  "c": [
+   "Rodada da startup",
+   "Um fundo investe na startup de entregas, vira sócio, ganha assento no conselho e planeja vender sua parte com lucro em alguns anos.",
+   "Fontes de capital",
+   "Investidor institucional que vira sócio"
+  ],
+  "q": "Que tipo de investimento é esse?",
+  "a": [
+   [
+    "Empréstimo bancário",
+    "Confunde dívida com participação.",
+    "Banco cobra juros e não vira sócio."
+   ],
+   [
+    "Leasing",
+    "Confunde com aluguel de ativo.",
+    "Leasing é arrendamento de bens, não sociedade."
+   ],
+   "*Venture capital",
+   [
+    "Investimento-anjo",
+    "Confunde fundo com pessoa física no início.",
+    "Anjo é pessoa física, com cheques menores e no estágio inicial."
+   ]
+  ],
+  "f": "Venture capital: fundo que compra participação, atua na gestão e sai com lucro depois.",
+  "e": "Escada do capital: anjo/semente → venture capital → private equity → IPO.",
+  "n": "Modo jogo: mini-caso em 1 frase no cenário; enunciado curto."
+ },
+ {
+  "r": 31,
+  "s": "ECO",
+  "m": "equilibrio-de-mercado",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Safra recorde: a oferta de laranja aumenta e a demanda fica igual. O preço da laranja tende a…",
+  "a": [
+   [
+    "Subir",
+    "Inverte o efeito da oferta.",
+    "Mais oferta com a mesma demanda pressiona o preço para baixo."
+   ],
+   [
+    "Ficar igual",
+    "Ignora o deslocamento da oferta.",
+    "A oferta mudou; o equilíbrio também muda."
+   ],
+   [
+    "Virar suco de graça",
+    "Exagera o efeito.",
+    "O preço cai, mas não zera: o novo equilíbrio tem preço menor."
+   ],
+   "*Cair"
+  ],
+  "f": "Mais oferta com a mesma demanda desloca o equilíbrio: preço menor, quantidade maior.",
+  "e": "Método das 3 etapas: qual curva desloca (oferta), para onde (direita), novo equilíbrio (preço menor, quantidade maior).",
+  "n": "Modo jogo: cenário de safra de laranja e distrator leve."
+ },
+ {
+  "r": 32,
+  "s": "ECO",
+  "m": "ciclo-economico",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "sec": [
+   "EST"
+  ],
+  "q": "Quando o PIB cai por um período e o desemprego sobe, a economia está em…",
+  "a": [
+   [
+    "Inflação",
+    "Confunde com alta de preços.",
+    "Inflação é alta generalizada de preços, não queda da produção."
+   ],
+   [
+    "Expansão",
+    "Inverte o ciclo.",
+    "Expansão é a fase de crescimento do PIB."
+   ],
+   "*Recessão",
+   [
+    "Superávit",
+    "Confunde com contas públicas.",
+    "Superávit é o governo arrecadar mais do que gasta."
+   ]
+  ],
+  "f": "Recessão é a fase em que a produção encolhe, as empresas vendem menos e o desemprego aumenta.",
+  "e": "O ciclo econômico alterna expansão e recessão. Em recessões, governo e Banco Central costumam usar políticas expansionistas para reaquecer a economia.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 33,
+  "s": "ECO",
+  "m": "concorrencia-x-monopolio",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "o": "NLM+WEB",
+  "u": [
+   "https://www.gov.br/cade/pt-br"
+  ],
+  "q": "Por que, num mercado com uma única empresa vendendo, os preços tendem a ser mais altos?",
+  "a": [
+   [
+    "Porque os custos de produção são maiores",
+    "Atribui o preço só ao custo.",
+    "O preço alto vem da falta de rivais, não necessariamente de custo maior."
+   ],
+   [
+    "Porque o governo define o preço",
+    "Confunde monopólio com preço tabelado.",
+    "Em geral, quem define o preço é a própria empresa."
+   ],
+   [
+    "Porque a demanda sempre cresce",
+    "Supõe demanda crescente.",
+    "O problema não é a demanda, e sim a falta de concorrência."
+   ],
+   "*Porque o cliente não tem para onde ir"
+  ],
+  "f": "No monopólio não há concorrente disputando o cliente, então a empresa consegue cobrar mais caro.",
+  "e": "Concorrência pressiona preços para baixo e qualidade para cima. Sem ela, a empresa tem poder de mercado; por isso existe o Cade.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 34,
+  "s": "ECO",
+  "m": "equilibrio-de-mercado",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "giro"
+  ],
+  "q": "Os ingressos do show esgotaram em minutos e logo apareceram revendidos pelo triplo. O que isso indica?",
+  "a": [
+   "*O preço estava abaixo do equilíbrio",
+   [
+    "O preço estava acima do equilíbrio",
+    "Inverte a direção.",
+    "Com preço acima do equilíbrio sobraria ingresso, não faltaria."
+   ],
+   [
+    "A oferta de ingressos era excessiva",
+    "Confunde falta com sobra.",
+    "Sobra de oferta derrubaria o preço na revenda."
+   ],
+   [
+    "A demanda por shows estava em queda",
+    "Ignora a fila e a revenda.",
+    "Revenda pelo triplo mostra demanda forte, não fraca."
+   ]
+  ],
+  "f": "Esgotou rápido e revenderam mais caro: o preço oficial ficou abaixo do ponto de equilíbrio.",
+  "e": "Abaixo do equilíbrio, a quantidade demandada supera a ofertada (escassez). A diferença aparece como fila, sorteio ou revenda mais cara.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 35,
+  "s": "INV",
+  "m": "reserva-de-caixa",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "o": "WEB",
+  "u": [
+   "https://sebrae.com.br/sites/PortalSebrae"
+  ],
+  "q": "Por que é prudente a empresa manter uma reserva de caixa?",
+  "a": [
+   "*Para atravessar imprevistos sem se endividar",
+   [
+    "Para pagar menos imposto no fim do ano fiscal",
+    "Confunde reserva com planejamento tributário.",
+    "Guardar dinheiro não reduz imposto."
+   ],
+   [
+    "Porque dinheiro parado rende mais",
+    "Supõe que caixa é o melhor investimento.",
+    "Caixa parado rende pouco; a reserva existe por segurança."
+   ],
+   [
+    "Para não precisar vender a prazo",
+    "Confunde reserva com política de vendas.",
+    "A reserva não muda a forma de vender."
+   ]
+  ],
+  "f": "A reserva é o colchão para meses fracos, atrasos de clientes ou emergências, sem recorrer a crédito caro.",
+  "e": "Sem reserva, a empresa recorre a cheque especial ou empréstimo em qualquer imprevisto e paga juros altos. A reserva troca um pouco de rendimento por segurança.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 36,
+  "s": "CTB",
+  "m": "ativo",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No balanço da padaria, o forno, o estoque e o dinheiro no banco são…",
+  "a": [
+   [
+    "Passivos",
+    "Confunde bens com obrigações.",
+    "Passivo são dívidas, como o empréstimo que pagou o forno."
+   ],
+   "*Ativos",
+   [
+    "Despesas",
+    "Confunde bens com gastos do período.",
+    "Despesa vai para a DRE; forno e estoque são bens."
+   ],
+   [
+    "Receitas",
+    "Confunde bens com vendas.",
+    "Receita é o que a padaria vende, não o que ela possui."
+   ]
+  ],
+  "f": "Ativo é o que a empresa possui e que gera benefício: dinheiro, estoque, máquinas, valores a receber.",
+  "e": "O balanço mostra ativos (bens e direitos), passivos (obrigações) e patrimônio líquido (o que é dos sócios).",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 37,
+  "s": "INV",
+  "m": "capital-de-giro",
+  "b": "analisar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Qual situação pode deixar a loja sem capital de giro, mesmo dando lucro?",
+  "a": [
+   [
+    "Vendas crescendo, todas à vista",
+    "Ignora que à vista entra caixa.",
+    "Venda à vista traz dinheiro na hora."
+   ],
+   "*Recebe em 90 dias e paga em 30",
+   [
+    "Custos fixos em queda",
+    "Confunde custo com prazo.",
+    "Cortar fixos melhora o resultado, não cria buraco no caixa."
+   ],
+   [
+    "Estoque baixo e recebe na hora",
+    "Descreve ciclo curto.",
+    "Estoque baixo e recebimento rápido liberam caixa."
+   ]
+  ],
+  "f": "Receber depois de pagar prende caixa; quanto maior o descasamento, mais capital de giro.",
+  "e": "Quanto maior o ciclo financeiro, mais capital de giro a empresa precisa; se as vendas crescem, o buraco cresce junto.",
+  "n": "Modo jogo: dificuldade 3→2, alternativas curtas."
+ },
+ {
+  "r": 38,
+  "s": "ECO",
+  "m": "politicas-economicas",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O Banco Central reduz a Selic. Que efeito se espera?",
+  "a": [
+   [
+    "Queda do consumo e do investimento",
+    "Inverte o efeito dos juros.",
+    "Juros menores barateiam o crédito e estimulam a demanda."
+   ],
+   [
+    "Queda imediata da inflação",
+    "Inverte o efeito sobre preços.",
+    "Juros menores tendem a pressionar a inflação para cima."
+   ],
+   "*Mais consumo e mais investimento",
+   [
+    "Valorização imediata do real",
+    "Inverte o efeito no câmbio.",
+    "Juros menores tendem a atrair menos capital e enfraquecer o real."
+   ]
+  ],
+  "f": "Juros menores barateiam o crédito e estimulam consumo e investimento.",
+  "e": "Política monetária expansionista. O trade-off entre inflação e desemprego aparece na aula de macroeconomia.",
+  "n": "Modo jogo: enunciado encurtado; passou ao duelo."
+ },
+ {
+  "r": 39,
+  "s": "ECO",
+  "m": "juros",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na economia, os juros podem ser vistos como…",
+  "a": [
+   [
+    "O lucro do governo com impostos",
+    "Confunde juros com tributo.",
+    "Imposto é arrecadação; juros remuneram quem empresta."
+   ],
+   [
+    "A taxa de aumento dos preços",
+    "Confunde juros com inflação.",
+    "Inflação é a alta dos preços; juros são o custo do crédito."
+   ],
+   "*O preço de usar dinheiro alheio",
+   [
+    "O valor do dólar em reais",
+    "Confunde com câmbio.",
+    "O valor do dólar é a taxa de câmbio."
+   ]
+  ],
+  "f": "Juros são o preço do dinheiro no tempo: quem pega emprestado paga, quem empresta recebe.",
+  "e": "Por isso, quando a Selic sobe, o crédito encarece e consumo e investimento esfriam; quando cai, acontece o contrário.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 40,
+  "s": "CTB",
+  "m": "pro-labore",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "o": "WEB",
+  "u": [
+   "https://sebrae.com.br/sites/PortalSebrae"
+  ],
+  "q": "A remuneração mensal que o sócio recebe pelo trabalho na empresa se chama…",
+  "a": [
+   "*Pró-labore",
+   [
+    "Dividendos",
+    "Confunde pagamento pelo trabalho com distribuição de lucro.",
+    "Lucro distribuído remunera o investimento, não o trabalho do mês."
+   ],
+   [
+    "Salário mínimo",
+    "Confunde com o piso legal.",
+    "O salário mínimo é um piso, não o nome da remuneração do sócio."
+   ],
+   [
+    "Comissão",
+    "Confunde com pagamento por venda.",
+    "Comissão é variável sobre vendas, típica de vendedores."
+   ]
+  ],
+  "f": "Pró-labore paga o trabalho do sócio; a distribuição de lucro remunera o capital que ele investiu.",
+  "e": "Separar pró-labore de lucro ajuda a ver se o negócio é rentável de verdade e evita misturar contas pessoais com as da empresa.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 41,
+  "s": "CTB",
+  "m": "separar-pessoa-fisica-e-juridica",
+  "b": "avaliar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "o": "WEB",
+  "u": [
+   "https://sebrae.com.br/sites/PortalSebrae"
+  ],
+  "c": [
+   "Caixa misturado",
+   "Carla paga o aluguel de casa e o mercado da família com o dinheiro do caixa da loja. No fim do mês, não sabe dizer se a loja deu lucro.",
+   "Controle de caixa",
+   "Uma só conta bancária para a loja e a família"
+  ],
+  "q": "Qual decisão é mais defensável para Carla?",
+  "a": [
+   [
+    "Vender mais para cobrir os gastos da casa",
+    "Ataca o sintoma, não o controle.",
+    "Vender mais não mostra se a loja é rentável; a mistura continua."
+   ],
+   "*Separar as contas e definir um pró-labore fixo",
+   [
+    "Parar de tirar qualquer dinheiro da loja",
+    "Solução extrema e insustentável.",
+    "Carla precisa viver; o certo é uma retirada definida, não zero."
+   ],
+   [
+    "Pegar um empréstimo para organizar o caixa",
+    "Usa dívida sem resolver a causa.",
+    "O problema é controle, não falta de crédito."
+   ]
+  ],
+  "f": "Separar as contas da pessoa e da empresa, com pró-labore definido, é o primeiro passo para enxergar o lucro.",
+  "e": "Com as contas misturadas, gastos pessoais parecem custos da loja e o resultado fica invisível. Conta separada e retirada fixa tornam o lucro mensurável.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 42,
+  "s": "INV",
+  "m": "capital-de-giro",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Vendendo mais, com menos caixa",
+   "A loja de roupas Moda Já passou a vender em 4 vezes no cartão e as vendas cresceram. Os fornecedores continuam cobrando em 30 dias e o caixa ficou negativo.",
+   "Prazos de pagamento e recebimento",
+   "Fornecedores sem flexibilidade de prazo"
+  ],
+  "q": "O que explica o caixa negativo, mesmo com vendas maiores?",
+  "a": [
+   [
+    "A loja passou a ter prejuízo nas vendas",
+    "Confunde caixa com lucro.",
+    "As vendas podem ser lucrativas; o dinheiro é que chega depois."
+   ],
+   [
+    "Os clientes compram menos peças por vez",
+    "Inventa queda de volume.",
+    "O caso diz que as vendas cresceram."
+   ],
+   "*A loja paga antes de receber dos clientes",
+   [
+    "O cartão cancela parte das vendas",
+    "Culpa um fator não citado.",
+    "Nada indica cancelamento; o problema é o prazo."
+   ]
+  ],
+  "f": "Pagar o fornecedor antes de receber do cliente exige capital de giro; vender mais a prazo aumenta o buraco.",
+  "e": "Crescer vendendo parcelado sem alongar prazos com fornecedores consome caixa. Saídas: negociar prazos, antecipar recebíveis com cuidado ou crescer no ritmo que o caixa aguenta.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 43,
+  "s": "INV",
+  "m": "risco-de-concentracao",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "o": "NLM+WEB",
+  "u": [
+   "https://sebrae.com.br/sites/PortalSebrae"
+  ],
+  "c": [
+   "Um cliente, quase toda a receita",
+   "A marmitaria Sabor Caseiro fornece almoço para uma fábrica que responde por 70% do faturamento. A fábrica abriu concorrência para trocar de fornecedor no ano que vem.",
+   "Carteira de clientes",
+   "Dependência de um único contrato"
+  ],
+  "q": "Qual risco financeiro o caso evidencia?",
+  "a": [
+   [
+    "Risco de inflação no preço dos alimentos",
+    "Foca num risco não citado.",
+    "Pode existir, mas o caso destaca a dependência de um cliente."
+   ],
+   [
+    "Risco de excesso de dinheiro em caixa",
+    "Inverte o problema.",
+    "Perder o cliente ameaça faltar caixa, não sobrar."
+   ],
+   [
+    "Risco de crescer rápido demais",
+    "Lê o caso ao contrário.",
+    "Nada indica crescimento; o risco é perder a maior fonte de receita."
+   ],
+   "*Risco de concentração em um só cliente"
+  ],
+  "f": "Depender de um cliente para 70% da receita é risco de concentração: se ele sai, o negócio pode quebrar.",
+  "e": "É a lógica da diversificação aplicada à receita: espalhar vendas entre clientes, canais ou produtos reduz o impacto de perder um deles.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 44,
+  "s": "INV",
+  "m": "destinacao-do-lucro",
+  "b": "avaliar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "o": "WEB",
+  "u": [
+   "https://sebrae.com.br/sites/PortalSebrae"
+  ],
+  "c": [
+   "Lucro bom, e agora?",
+   "A oficina dos irmãos Souza teve o melhor ano da sua história. Eles querem dividir o lucro inteiro entre os dois. A oficina não tem reserva e a rua deve ficar em obras por alguns meses no ano que vem.",
+   "Destinação do lucro",
+   "Queda de movimento prevista"
+  ],
+  "q": "Qual decisão é mais defensável?",
+  "a": [
+   "*Reter parte do lucro como reserva de caixa",
+   [
+    "Dividir todo o lucro, pois o ano foi bom",
+    "Olha só para o passado.",
+    "O ano bom não garante o próximo, ainda mais com a obra prevista."
+   ],
+   [
+    "Investir tudo numa segunda oficina já",
+    "Expande sem colchão.",
+    "Abrir filial antes da queda prevista aumenta o risco."
+   ],
+   [
+    "Pegar um empréstimo quando a obra começar",
+    "Prefere dívida a poupança.",
+    "Empréstimo de emergência costuma ter juros altos."
+   ]
+  ],
+  "f": "Reter parte do lucro cria a reserva para atravessar a queda prevista sem depender de crédito caro.",
+  "e": "Distribuir lucro é legítimo, mas a decisão deve considerar riscos já conhecidos. Reter parte equilibra a remuneração dos sócios e a segurança do negócio.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 45,
+  "s": "ECO",
+  "m": "politicas-economicas",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "sec": [
+   "EST"
+  ],
+  "c": [
+   "Abrir a filial agora?",
+   "A rede de açaí quer abrir uma filial financiada pelo banco. O Copom acabou de subir a Selic e os juros dos empréstimos para empresas acompanharam.",
+   "Crédito bancário",
+   "Expansão depende de financiamento"
+  ],
+  "q": "Qual efeito da decisão do Copom pesa sobre o plano?",
+  "a": [
+   [
+    "O financiamento fica mais barato",
+    "Inverte o efeito da Selic.",
+    "Selic maior encarece o crédito."
+   ],
+   [
+    "A demanda por açaí tende a crescer",
+    "Ignora o efeito sobre o consumo.",
+    "Juros altos esfriam o consumo; a demanda tende a crescer menos."
+   ],
+   [
+    "Os clientes passam a ganhar mais",
+    "Confunde juros com renda.",
+    "Selic alta tende a esfriar a economia, não a elevar a renda."
+   ],
+   "*A filial fica mais cara de financiar"
+  ],
+  "f": "Selic mais alta encarece o crédito e esfria o consumo: o projeto financiado fica mais caro e mais arriscado.",
+  "e": "A política monetária restritiva age pelos juros: encarece empréstimos de empresas e famílias. Planos de expansão com dívida precisam ser reavaliados.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 46,
+  "s": "ECO",
+  "m": "cambio",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Dólar em alta na loja de eletrônicos",
+   "A TecnoShop revende fones importados e paga os fornecedores em dólar. Em poucos meses, o dólar subiu bastante frente ao real. Há fabricantes nacionais com fones parecidos.",
+   "Compras em moeda estrangeira",
+   "Concorrência com preços estáveis"
+  ],
+  "q": "Qual leitura do impacto do câmbio é correta?",
+  "a": [
+   "*O custo dos fones sobe e a margem fica apertada",
+   [
+    "O custo cai, porque o real ficou mais forte",
+    "Inverte a direção do câmbio.",
+    "Dólar subindo significa real mais fraco."
+   ],
+   [
+    "Nada muda, porque a loja vende em reais",
+    "Ignora o custo em dólar.",
+    "Vende em reais, mas paga em dólar: o custo sobe."
+   ],
+   [
+    "A loja ganha, como um exportador",
+    "Confunde importador com exportador.",
+    "Dólar alto favorece quem vende para fora, não quem compra de fora."
+   ]
+  ],
+  "f": "Para quem importa, dólar alto encarece o produto; fornecedores nacionais podem virar alternativa.",
+  "e": "A desvalorização do real favorece exportadores e prejudica importadores. A TecnoShop pode repassar preço, aceitar margem menor ou buscar fornecedores nacionais.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 47,
+  "s": "ECO",
+  "m": "politicas-economicas",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Políticas em direções opostas",
+   "Num ano eleitoral, o governo aumentou gastos com obras e programas sociais. Ao mesmo tempo, com a inflação acima da meta, o Copom elevou a Selic em 2 pontos.",
+   "Políticas fiscal e monetária",
+   "Objetivos de curto prazo diferentes entre governo e Banco Central"
+  ],
+  "q": "Que combinação de políticas o caso descreve?",
+  "a": [
+   [
+    "Fiscal restritiva e monetária expansionista",
+    "Inverte as duas políticas.",
+    "Mais gasto expande; Selic maior contrai."
+   ],
+   [
+    "Fiscal e monetária, ambas expansionistas",
+    "Ignora o efeito da Selic alta.",
+    "Subir juros é política monetária restritiva."
+   ],
+   [
+    "Cambial e comercial combinadas",
+    "Confunde os instrumentos.",
+    "Gasto público é fiscal; Selic é monetária."
+   ],
+   "*Fiscal expansionista e monetária restritiva"
+  ],
+  "f": "Gasto público maior expande a economia; Selic mais alta a contrai para conter a inflação.",
+  "e": "Na prática, a política monetária mais dura tenta conter a pressão inflacionária criada pelo estímulo fiscal.",
+  "n": "Modo jogo: cenário encurtado."
+ },
+ {
+  "r": 48,
+  "s": "ECO",
+  "m": "elasticidade-e-preco",
+  "b": "analisar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "sec": [
+   "MKT"
+  ],
+  "c": [
+   "Repassar ou não?",
+   "O preço do queijo subiu para a pizzaria do Beto. No bairro há cinco pizzarias com preços parecidos, e muitos clientes pedem pelo app comparando valores.",
+   "Preço de venda",
+   "Clientes sensíveis a preço"
+  ],
+  "q": "Por que repassar todo o aumento ao cliente é arriscado?",
+  "a": [
+   [
+    "Porque o queijo é um custo fixo da pizzaria",
+    "Confunde custo variável com fixo.",
+    "O queijo varia com cada pizza; é custo variável."
+   ],
+   [
+    "Porque a lei proíbe subir o preço da pizza",
+    "Supõe controle de preços.",
+    "Não há tabelamento; o risco é perder clientes."
+   ],
+   "*Porque a demanda ali é bem sensível ao preço",
+   [
+    "Porque a inflação do queijo deve cair logo",
+    "Aposta numa queda incerta.",
+    "A questão é a reação dos clientes, não a previsão da inflação."
+   ]
+  ],
+  "f": "Com muitos concorrentes e preços fáceis de comparar, a demanda é elástica: subir o preço espanta clientes.",
+  "e": "Quanto mais substitutos e mais fácil comparar, mais elástica a demanda. Repassar tudo pode reduzir a receita; alternativas são cortar custos ou repassar só em parte.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 49,
+  "s": "INV",
+  "m": "risco-e-retorno",
+  "b": "avaliar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "o": "NLM+WEB",
+  "u": [
+   "https://www.gov.br/investidor/pt-br"
+  ],
+  "c": [
+   "Rendimento garantido",
+   "Um conhecido oferece a Júlia um investimento que paga 10% ao mês, garantido e sem risco. Ele ganha um bônus por cada pessoa nova que ela trouxer.",
+   "Oferta de investimento",
+   "Promessa de retorno sem risco"
+  ],
+  "q": "Qual decisão é mais defensável para Júlia?",
+  "a": [
+   [
+    "Aplicar pouco, só para testar",
+    "Acha que valor pequeno elimina o problema.",
+    "O sinal de golpe não muda com o valor aplicado."
+   ],
+   "*Recusar: retorno alto sem risco indica golpe",
+   [
+    "Aplicar, já que o retorno é garantido",
+    "Aceita a promessa sem questionar.",
+    "Retorno alto sem risco não existe; é sinal clássico de pirâmide."
+   ],
+   [
+    "Aplicar e indicar amigos para ganhar bônus",
+    "Entra no esquema de pirâmide.",
+    "Ganhar por indicar pessoas é a marca da pirâmide financeira."
+   ]
+  ],
+  "f": "Risco e retorno andam juntos: ganho alto 'sem risco' e bônus por indicação são sinais de pirâmide.",
+  "e": "Nenhum investimento legítimo garante retorno muito acima do mercado sem risco. Pirâmides pagam os antigos com o dinheiro dos novos e quebram quando param de entrar pessoas.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ },
+ {
+  "r": 50,
+  "s": "ECO",
+  "m": "concorrencia-x-monopolio",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Novo posto na estrada",
+   "Por anos, o único posto num trecho da rodovia cobrou a gasolina acima da média da região. Um concorrente abriu a 2 km dali, com bom acesso e loja de conveniência.",
+   "Preço de combustível",
+   "Clientes de passagem com pouca alternativa"
+  ],
+  "q": "O que tende a acontecer com o preço no posto antigo?",
+  "a": [
+   [
+    "Subir, para compensar a perda de clientes",
+    "Raciocina só pelo custo.",
+    "Subir com um rival ao lado afasta ainda mais clientes."
+   ],
+   [
+    "Ficar igual, porque o cliente é fiel",
+    "Ignora a nova alternativa.",
+    "Cliente de passagem compara e escolhe o mais barato."
+   ],
+   [
+    "Cair só se o governo mandar",
+    "Confunde com controle de preços.",
+    "Quem pressiona o preço aqui é a concorrência."
+   ],
+   "*Cair, pela disputa com o novo concorrente"
+  ],
+  "f": "A entrada de um concorrente tira o poder de mercado do posto antigo e pressiona o preço para baixo.",
+  "e": "Com um único vendedor, o cliente não tinha escolha. A concorrência amplia a oferta e obriga as empresas a disputar preço e serviço.",
+  "nv": true,
+  "n": "Substituída (ajuste fino de Finanças): troca de questão técnica/cálculo por conceito geral de finanças/economia."
+ }
+]

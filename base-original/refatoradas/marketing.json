@@ -1,0 +1,1710 @@
+[
+ {
+  "r": 1,
+  "s": "MKT",
+  "m": "conceito-de-marketing",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para a AMA, a essência do marketing é:",
+  "a": [
+   "*Criar, comunicar e entregar valor",
+   [
+    "Organizar o estoque da loja",
+    "Confunde marketing com logística.",
+    "Estoque é tema de operações."
+   ],
+   [
+    "Calcular os impostos sobre vendas",
+    "Confunde com contabilidade fiscal.",
+    "Impostos são tema contábil."
+   ],
+   [
+    "Postar memes no Instagram da marca",
+    "Reduz marketing a redes sociais.",
+    "Post é só uma ferramenta de promoção."
+   ]
+  ],
+  "f": "Pela AMA, marketing cria, comunica e entrega valor; propaganda é só uma parte.",
+  "e": "AMA: marketing é criar, comunicar, entregar e trocar ofertas de valor para clientes, parceiros e sociedade. Marketing ≠ propaganda: inclui estudo do mercado e todo o composto (produto, preço, praça, promoção, pessoas).",
+  "n": "Modo jogo: enunciado enxuto e 1 distrator bem-humorado."
+ },
+ {
+  "r": 2,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Qual destes é um dos 5Ps de marketing do SEBRAE?",
+  "a": [
+   [
+    "Patrimônio",
+    "Confunde com contabilidade.",
+    "Patrimônio é conceito contábil."
+   ],
+   "*Praça",
+   [
+    "Planejamento",
+    "Confunde com etapa de gestão.",
+    "Planejamento é etapa do plano, não um P."
+   ],
+   [
+    "Paciência",
+    "Chuta pela letra P.",
+    "Paciência ajuda, mas não é P do composto."
+   ]
+  ],
+  "f": "Os 5Ps do SEBRAE: produto, preço, praça, promoção e pessoas.",
+  "e": "5Ps (SEBRAE): produto, preço, praça, promoção e pessoas. Os 4Ps vêm de McCarthy (1960); o SEBRAE acrescenta Pessoas, essencial em pequenos negócios e serviços.",
+  "n": "Modo jogo: enunciado curto e 1 distrator bem-humorado."
+ },
+ {
+  "r": 3,
+  "s": "MKT",
+  "m": "conceito-de-produto",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Em marketing, o que pode ser um produto?",
+  "a": [
+   [
+    "Só um bem físico vendido em loja",
+    "Restringe produto a bens.",
+    "Serviços e experiências também são produtos."
+   ],
+   [
+    "Só itens com marca famosa",
+    "Confunde produto com marca.",
+    "Marca é atributo, não condição de produto."
+   ],
+   "*Bem, serviço, experiência ou ideia",
+   [
+    "Só o que cabe numa sacola",
+    "Pensa só em mercadoria.",
+    "Uma aula ou um show também são produtos."
+   ]
+  ],
+  "f": "Produto é toda oferta que atende a uma necessidade: bem, serviço, experiência ou ideia.",
+  "e": "Produto = bem, serviço, experiência ou ideia oferecida para satisfazer uma necessidade. O P de Produto inclui atributos, embalagem, marca e serviços agregados.",
+  "n": "Modo jogo: alternativas mais curtas e 1 distrator leve."
+ },
+ {
+  "r": 4,
+  "s": "MKT",
+  "m": "publico-alvo",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A hamburgueria Brasa decidiu atender sobretudo universitários do Gragoatá. Ela definiu seu:",
+  "a": [
+   [
+    "Posicionamento",
+    "Confunde quem atender com como ser visto.",
+    "Posicionamento é a imagem na mente do cliente."
+   ],
+   [
+    "Promoção",
+    "Confunde com comunicação.",
+    "Promoção é como divulgar, não quem atender."
+   ],
+   [
+    "Preço",
+    "Confunde com valor cobrado.",
+    "Nada no caso fala de preço."
+   ],
+   "*Público-alvo"
+  ],
+  "f": "Público-alvo é o grupo específico que a empresa escolhe atender.",
+  "e": "Público-alvo: o grupo específico que a empresa escolhe atender. Sequência STP: segmentar o mercado → escolher o público-alvo → posicionar a oferta.",
+  "n": "Modo jogo: cenário com nome local; bloom ajustado para entender (duelo)."
+ },
+ {
+  "r": 5,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No composto de marketing, o P de Preço é:",
+  "a": [
+   "*O valor pago pelo cliente",
+   [
+    "O salário dos vendedores",
+    "Confunde preço com custo de pessoal.",
+    "Salário é custo interno."
+   ],
+   [
+    "O custo total da fábrica",
+    "Confunde preço com custo.",
+    "Custo é base, não o preço em si."
+   ],
+   [
+    "O lucro após impostos",
+    "Confunde com resultado contábil.",
+    "Lucro é resultado, não preço."
+   ]
+  ],
+  "f": "Preço é o valor pago pelo cliente; considera custos, concorrência e valor percebido.",
+  "e": "Preço é o valor pago pelo cliente; considera custos, concorrência e valor percebido. OpenStax: 5 Cs da precificação — empresa, clientes, custos, concorrência e canais.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 6,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A loja de açaí do bairro lança o 'leve 3, pague 2'. Qual P está em ação?",
+  "a": [
+   [
+    "Praça",
+    "Confunde com canal de venda.",
+    "Praça é onde se vende, não o incentivo."
+   ],
+   "*Promoção",
+   [
+    "Pessoas",
+    "Confunde com atendimento.",
+    "Ninguém da equipe mudou no caso."
+   ],
+   [
+    "Produto",
+    "Foca no açaí em si.",
+    "O açaí é o mesmo; mudou o incentivo."
+   ]
+  ],
+  "f": "Promoção reúne comunicação e incentivos que estimulam a compra.",
+  "e": "Promoção reúne comunicação e incentivos para estimular a compra. Promoção de vendas busca resposta rápida; propaganda trabalha imagem e lembrança.",
+  "n": "Modo jogo: cenário do cotidiano; bloom ajustado para entender (duelo)."
+ },
+ {
+  "r": 7,
+  "s": "MKT",
+  "m": "analise-de-ambiente-swot",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Que ferramenta cruza forças e fraquezas com oportunidades e ameaças?",
+  "a": [
+   [
+    "Matriz de Ansoff",
+    "Confunde com crescimento produto-mercado.",
+    "Ansoff cruza produtos e mercados."
+   ],
+   [
+    "Ciclo de vida do produto",
+    "Confunde com fases de vendas.",
+    "O ciclo descreve fases do produto."
+   ],
+   "*Matriz FOFA (SWOT)",
+   [
+    "Funil de vendas",
+    "Confunde com etapas comerciais.",
+    "Funil acompanha leads até a venda."
+   ]
+  ],
+  "f": "FOFA/SWOT cruza fatores internos (forças, fraquezas) e externos (oportunidades, ameaças).",
+  "e": "FOFA/SWOT: forças e fraquezas (internas) × oportunidades e ameaças (externas). No plano de marketing do SEBRAE, a FOFA fecha a etapa de análise de ambiente.",
+  "sec": [
+   "EST"
+  ],
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 8,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Num estúdio de personal trainer, é o instrutor que faz a experiência do aluno. Qual P pesa mais?",
+  "a": [
+   [
+    "Preço",
+    "Confunde com valor cobrado.",
+    "O caso fala de quem atende, não de preço."
+   ],
+   [
+    "Praça",
+    "Confunde com local.",
+    "O local não é o destaque do caso."
+   ],
+   [
+    "Produto",
+    "Foca no treino em si.",
+    "O destaque é quem entrega o serviço."
+   ],
+   "*Pessoas"
+  ],
+  "f": "Em serviços, quem atende faz parte da entrega: esse é o P de Pessoas.",
+  "e": "Pessoas: quem entrega o serviço influencia diretamente a experiência do cliente. Em serviços, o P de Pessoas é decisivo; nos 7Ps de serviços (Booms & Bitner) somam-se processos e evidência física.",
+  "n": "Modo jogo: enunciado encurtado; bloom ajustado para entender (duelo)."
+ },
+ {
+  "r": 9,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Canais e locais onde o cliente encontra e compra a oferta são qual P?",
+  "a": [
+   "*Praça",
+   [
+    "Promoção",
+    "Confunde com comunicação.",
+    "Promoção divulga; praça distribui."
+   ],
+   [
+    "Preço",
+    "Confunde com valor cobrado.",
+    "Preço é quanto se paga, não onde."
+   ],
+   [
+    "Pessoas",
+    "Confunde com atendimento.",
+    "Pessoas é quem atende, não o canal."
+   ]
+  ],
+  "f": "Praça é distribuição: os canais pelos quais a oferta chega ao cliente.",
+  "e": "Praça = distribuição: canais e pontos de contato pelos quais a oferta chega ao cliente. Canais podem ser diretos (produtor → consumidor) ou indiretos (varejo, atacado, representantes).",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 10,
+  "s": "MKT",
+  "m": "marca",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para a AMA, o que é uma marca?",
+  "a": [
+   [
+    "Apenas o desenho do logotipo",
+    "Reduz marca ao logo.",
+    "Nome, símbolo e associações também contam."
+   ],
+   "*Sinais que diferenciam a oferta",
+   [
+    "O preço final pago pelo cliente",
+    "Confunde marca com preço.",
+    "Preço é outro P do composto."
+   ],
+   [
+    "O CNPJ e o endereço da empresa",
+    "Confunde marca com registro.",
+    "Dados cadastrais não diferenciam a oferta."
+   ]
+  ],
+  "f": "Marca: nome, termo, símbolo ou design que identifica e diferencia uma oferta.",
+  "e": "Marca: nome, termo, símbolo ou design que identifica e diferencia uma oferta — e as associações que ela gera. SEBRAE: estrutura da marca em nome, símbolo e slogan (caso 'Despertar').",
+  "n": "Modo jogo: alternativas equilibradas e 1 distrator leve."
+ },
+ {
+  "r": 11,
+  "s": "MKT",
+  "m": "fidelizacao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O Café do Campus dá um carimbo por compra e um café grátis no 10º. A ação busca:",
+  "a": [
+   [
+    "Segmentar o mercado",
+    "Confunde com divisão de público.",
+    "Segmentar é dividir o mercado em grupos."
+   ],
+   [
+    "Fazer pesquisa de mercado",
+    "Confunde com coleta de dados.",
+    "O cartão premia a recompra, não pesquisa."
+   ],
+   "*Fidelizar clientes",
+   [
+    "Reposicionar a marca",
+    "Confunde com mudança de imagem.",
+    "A imagem da marca não mudou."
+   ]
+  ],
+  "f": "Programas de pontos fidelizam: estimulam a recompra e o relacionamento.",
+  "e": "Programas de pontos são recurso de fidelização: estimulam recompra e relacionamento. Plano de vendas do SEBRAE: conhecer o cliente, relacionamento de longo prazo e recursos de fidelização.",
+  "n": "Modo jogo: cenário concreto; bloom ajustado para entender (duelo)."
+ },
+ {
+  "r": 12,
+  "s": "MKT",
+  "m": "ciclo-de-vida-do-produto",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Um suco recém-lançado, que quase ninguém conhece, está em qual fase do ciclo de vida?",
+  "a": [
+   [
+    "Crescimento",
+    "Supõe vendas já em alta.",
+    "Crescimento vem quando o produto ganha mercado."
+   ],
+   [
+    "Maturidade",
+    "Confunde com produto consolidado.",
+    "Maturidade tem vendas estáveis e muitos rivais."
+   ],
+   [
+    "Declínio",
+    "Confunde pouco conhecido com em queda.",
+    "Declínio é queda após o auge."
+   ],
+   "*Introdução"
+  ],
+  "f": "Introdução: o produto acaba de chegar e ainda é pouco conhecido.",
+  "e": "Introdução: o produto acaba de chegar e ainda é pouco conhecido. Ciclo de vida: introdução → crescimento → maturidade → declínio.",
+  "n": "Modo jogo: exemplo concreto no enunciado."
+ },
+ {
+  "r": 13,
+  "s": "MKT",
+  "m": "pesquisa-de-mercado",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Para que serve uma pesquisa de mercado?",
+  "a": [
+   "*Reduzir a incerteza das decisões",
+   [
+    "Definir o salário dos vendedores",
+    "Confunde com gestão de pessoas.",
+    "Salário é tema de RH."
+   ],
+   [
+    "Substituir o plano de marketing",
+    "Acha que a pesquisa basta.",
+    "A pesquisa alimenta o plano, não o substitui."
+   ],
+   [
+    "Registrar a marca no INPI",
+    "Confunde com proteção legal.",
+    "Registro é processo jurídico."
+   ]
+  ],
+  "f": "Pesquisa coleta dados de clientes e concorrentes para decidir com menos risco.",
+  "e": "Pesquisa de mercado: coleta e análise sistemática de dados sobre clientes, concorrentes e fornecedores para decidir com menos risco. SEBRAE: 9 passos, do público e objetivos até a tomada de decisão.",
+  "n": "Modo jogo: feedback encurtado."
+ },
+ {
+  "r": 14,
+  "s": "MKT",
+  "m": "analise-de-ambiente-swot",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na SWOT, oportunidades e ameaças vêm de qual ambiente?",
+  "a": [
+   [
+    "Interno",
+    "Inverte os ambientes.",
+    "Interno é de forças e fraquezas."
+   ],
+   "*Externo",
+   [
+    "Operacional",
+    "Confunde com rotina da empresa.",
+    "Rotina é interna; O e A estão fora."
+   ],
+   [
+    "Do mapa astral do dono",
+    "Chuta sem base.",
+    "Astros à parte, O e A vêm do mercado."
+   ]
+  ],
+  "f": "Oportunidades e ameaças são externas; forças e fraquezas, internas.",
+  "e": "Oportunidades e ameaças são externas; forças e fraquezas, internas. O ambiente externo inclui fatores econômicos, socioculturais, político-legais, tecnológicos e concorrência.",
+  "sec": [
+   "EST"
+  ],
+  "n": "Modo jogo: enunciado curto e 1 distrator bem-humorado."
+ },
+ {
+  "r": 15,
+  "s": "MKT",
+  "m": "ciclo-de-vida-do-produto",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No ciclo de vida do produto, qual fase vem logo após a introdução?",
+  "a": [
+   [
+    "Maturidade",
+    "Pula uma fase.",
+    "Maturidade vem depois do crescimento."
+   ],
+   [
+    "Declínio",
+    "Confunde o fim com o meio.",
+    "Declínio é a última fase."
+   ],
+   "*Crescimento",
+   [
+    "Lançamento",
+    "Confunde com a própria introdução.",
+    "Lançamento é a introdução."
+   ]
+  ],
+  "f": "A ordem é introdução, crescimento, maturidade e declínio.",
+  "e": "Introdução → crescimento → maturidade → declínio. Cada fase pede estratégias diferentes de produto, preço, praça e promoção.",
+  "n": "Modo jogo: de ordenar as 4 fases para identificar a fase seguinte à introdução."
+ },
+ {
+  "r": 16,
+  "s": "MKT",
+  "m": "canais-de-distribuicao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A Padaria Pão Quente passa a vender também por app, além do balcão. Ela amplia seus:",
+  "a": [
+   [
+    "Preços finais",
+    "Confunde com preço.",
+    "O preço não mudou."
+   ],
+   [
+    "Ações de propaganda",
+    "Confunde canal com comunicação.",
+    "Vender por app é canal, não anúncio."
+   ],
+   [
+    "Itens do cardápio",
+    "Confunde com mix de produtos.",
+    "Os produtos são os mesmos."
+   ],
+   "*Canais de distribuição"
+  ],
+  "f": "Novo canal de venda amplia a Praça, isto é, a distribuição.",
+  "e": "Novo canal de venda = ampliação da Praça (distribuição). Na matriz de Ansoff, levar o produto atual a novos clientes por outro canal pode ser desenvolvimento de mercado.",
+  "n": "Modo jogo: cenário com nome local; bloom ajustado para entender (duelo)."
+ },
+ {
+  "r": 17,
+  "s": "MKT",
+  "m": "vantagem-competitiva",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Quando uma empresa tem vantagem competitiva?",
+  "a": [
+   "*Com diferenciais que o cliente valoriza",
+   [
+    "Ao copiar tudo o que o concorrente faz",
+    "Confunde imitação com vantagem.",
+    "Imitar elimina diferenciais."
+   ],
+   [
+    "Ao ter o maior número de seguidores",
+    "Confunde fama com vantagem.",
+    "Seguidores não garantem preferência."
+   ],
+   [
+    "Ao abrir mais lojas que todos os rivais",
+    "Confunde tamanho com vantagem.",
+    "Tamanho sozinho não faz o cliente preferir."
+   ]
+  ],
+  "f": "Vantagem competitiva: benefícios superiores que fazem o cliente preferir a empresa.",
+  "e": "Vantagem competitiva: benefícios superiores que levam o cliente a preferir a empresa. No plano de marketing do SEBRAE, o posicionamento parte dos diferenciais percebidos frente aos concorrentes.",
+  "n": "Modo jogo: alternativas encurtadas e 1 distrator leve."
+ },
+ {
+  "r": 18,
+  "s": "MKT",
+  "m": "plano-de-marketing",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O plano de marketing serve para:",
+  "a": [
+   [
+    "Contratar funcionários para os setores",
+    "Confunde com RH.",
+    "Contratação é gestão de pessoas."
+   ],
+   "*Analisar o mercado e definir metas e ações",
+   [
+    "Registrar pagamentos a fornecedores",
+    "Confunde com financeiro.",
+    "Pagamentos são rotina financeira."
+   ],
+   [
+    "Calcular o imposto de renda da empresa",
+    "Confunde com contabilidade.",
+    "Imposto é tema contábil."
+   ]
+  ],
+  "f": "Plano de marketing: planejamento, implementação, avaliação e controle.",
+  "e": "Plano de marketing: planejamento → implementação → avaliação e controle. Planejamento inclui sumário executivo (escrito por último), análise de ambiente, público-alvo, posicionamento, marca, objetivos e metas e estratégias de mix.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 19,
+  "s": "MKT",
+  "m": "segmentacao",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A marca de cosméticos Bella foca mulheres de 25 a 40 anos da classe B. Que segmentação é essa?",
+  "a": [
+   [
+    "Geográfica",
+    "Confunde com local.",
+    "O caso não cita região."
+   ],
+   [
+    "Psicográfica",
+    "Confunde com estilo de vida.",
+    "Idade e classe não são estilo de vida."
+   ],
+   "*Demográfica",
+   [
+    "Comportamental",
+    "Confunde com hábito de compra.",
+    "Não há dado de uso ou lealdade."
+   ]
+  ],
+  "f": "Idade, sexo, renda e classe social são variáveis demográficas.",
+  "e": "Idade, sexo, renda e classe social são variáveis demográficas. Variáveis B2C: geográficas, demográficas, psicográficas e comportamentais.",
+  "n": "Modo jogo: cenário com nome; bloom ajustado para entender (duelo)."
+ },
+ {
+  "r": 20,
+  "s": "MKT",
+  "m": "dados-primarios-x-secundarios",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Dados coletados pelo próprio pesquisador, como entrevistas com clientes, são:",
+  "a": [
+   [
+    "Secundários",
+    "Inverte os conceitos.",
+    "Secundários já foram publicados por outros."
+   ],
+   [
+    "Terciários",
+    "Inventa categoria.",
+    "A divisão usual é primário × secundário."
+   ],
+   [
+    "Estatísticos",
+    "Confunde tipo de dado com fonte.",
+    "Estatística é tratamento, não fonte."
+   ],
+   "*Primários"
+  ],
+  "f": "Primários são coletados para a pesquisa; secundários já foram publicados (ex.: IBGE).",
+  "e": "Primários: coletados para a pesquisa; secundários: já publicados por outras fontes (IBGE, associações). SEBRAE: começar pelos dados secundários (mais baratos) e ir a campo para o que eles não respondem.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 21,
+  "s": "MKT",
+  "m": "posicionamento",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "A marca de tênis Volt quer ser lembrada como a mais inovadora do mercado. Isso é trabalho de:",
+  "a": [
+   "*Posicionamento",
+   [
+    "Precificação",
+    "Confunde imagem com preço.",
+    "O caso não fala de preço."
+   ],
+   [
+    "Distribuição",
+    "Confunde com canais.",
+    "Canal não define a imagem buscada."
+   ],
+   [
+    "Segmentação",
+    "Confunde dividir o mercado com ser visto.",
+    "Segmentar é escolher grupos, não imagem."
+   ]
+  ],
+  "f": "Posicionamento é a imagem clara e distinta que a marca quer ocupar na mente do público.",
+  "e": "Posicionamento: a imagem clara e distinta que a marca quer ocupar na mente do público. SEBRAE usa uma matriz de pontuação do conceito para comparar o posicionamento com o dos concorrentes.",
+  "n": "Modo jogo: cenário com nome de marca."
+ },
+ {
+  "r": 22,
+  "s": "MKT",
+  "m": "analise-de-ambiente-swot",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "O restaurante Sabor Mineiro tem comida elogiada e atendimento muito criticado. Na SWOT, o atendimento é:",
+  "a": [
+   [
+    "Ameaça",
+    "Confunde interno com externo.",
+    "O atendimento é controlado pela empresa."
+   ],
+   "*Fraqueza",
+   [
+    "Oportunidade",
+    "Ignora que é negativo.",
+    "Oportunidade é externa e favorável."
+   ],
+   [
+    "Força",
+    "Confunde com a comida.",
+    "A força é a comida, não o atendimento."
+   ]
+  ],
+  "f": "Problema interno e controlável pela empresa é fraqueza.",
+  "e": "Problema interno e controlável = fraqueza. Primeiro: a empresa controla? (interno). Depois: ajuda ou atrapalha?",
+  "sec": [
+   "EST"
+  ],
+  "n": "Modo jogo: enunciado encurtado com nome local."
+ },
+ {
+  "r": 23,
+  "s": "MKT",
+  "m": "segmentacao",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Uma loja virtual agrupa clientes por frequência de compra e lealdade à marca. Que segmentação é essa?",
+  "a": [
+   [
+    "Geográfica",
+    "Confunde com localização.",
+    "Não há critério de lugar."
+   ],
+   [
+    "Demográfica",
+    "Confunde com perfil.",
+    "Idade e renda não aparecem."
+   ],
+   "*Comportamental",
+   [
+    "Psicográfica",
+    "Confunde com estilo de vida.",
+    "Frequência e lealdade são comportamento."
+   ]
+  ],
+  "f": "Comportamental olha a relação com o produto: frequência, valor gasto e lealdade.",
+  "e": "Comportamental: frequência de uso, valor gasto, lealdade, ocasião de compra, benefício buscado. A segmentação comportamental olha a relação do cliente com o produto, não quem ele é.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 24,
+  "s": "MKT",
+  "m": "ciclo-de-vida-do-produto",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "O sabão em pó Brilho vende estável há anos, com muitos rivais e pouca diferença entre eles. Qual fase?",
+  "a": [
+   [
+    "Introdução",
+    "Confunde com lançamento.",
+    "O produto já é antigo."
+   ],
+   [
+    "Crescimento",
+    "Ignora a estabilidade.",
+    "No crescimento, as vendas sobem rápido."
+   ],
+   [
+    "Declínio",
+    "Confunde estável com em queda.",
+    "As vendas não estão caindo."
+   ],
+   "*Maturidade"
+  ],
+  "f": "Maturidade: vendas estáveis, concorrência intensa e pouca diferenciação.",
+  "e": "Maturidade: vendas estáveis, concorrência intensa e pouca diferenciação. Na maturidade, as empresas costumam buscar diferenciação, novos usos ou novos segmentos.",
+  "n": "Modo jogo: exemplo concreto no enunciado."
+ },
+ {
+  "r": 25,
+  "s": "MKT",
+  "m": "dados-primarios-x-secundarios",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Para abrir uma loja de açaí, Carla consulta a renda média do bairro no IBGE Cidades. Esses dados são:",
+  "a": [
+   "*Secundários",
+   [
+    "Primários",
+    "Confunde consulta com coleta própria.",
+    "Carla não coletou os dados."
+   ],
+   [
+    "Experimentais",
+    "Confunde com teste.",
+    "Não houve experimento."
+   ],
+   [
+    "Qualitativos",
+    "Confunde tipo com fonte.",
+    "Renda média é dado quantitativo."
+   ]
+  ],
+  "f": "Dados já publicados por outra fonte, como o IBGE, são secundários.",
+  "e": "Dados já publicados por outra fonte (IBGE) são secundários. O IBGE Cidades e o Observatório Setorial Territorial são fontes secundárias vistas na disciplina.",
+  "n": "Modo jogo: cenário com personagem."
+ },
+ {
+  "r": 26,
+  "s": "MKT",
+  "m": "preco-valor-percebido",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Uma cafeteria cobra R$ 15 no café especial, apostando no ambiente e na experiência. O preço se baseia em:",
+  "a": [
+   [
+    "Custo direto do café",
+    "Foca só no custo.",
+    "O caso destaca experiência, não custo."
+   ],
+   "*Valor percebido pelo cliente",
+   [
+    "Menor preço possível",
+    "Confunde com preço baixo.",
+    "R$ 15 num café não é preço mínimo."
+   ],
+   [
+    "Aluguel do ponto",
+    "Confunde com despesa fixa.",
+    "Aluguel entra no custo, não define o valor."
+   ]
+  ],
+  "f": "Preço por valor percebido: quanto o cliente acredita que a experiência vale.",
+  "e": "Preço por valor percebido: quanto o cliente acredita que a experiência vale. Brandenburger & Stuart: o preço fica entre o custo e a disposição a pagar do cliente; a pipoca vale R$ 5 na praça e R$ 50 no cinema.",
+  "n": "Modo jogo: enunciado encurtado (era 147 car.)."
+ },
+ {
+  "r": 27,
+  "s": "MKT",
+  "m": "promocao-x-propaganda",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Qual a diferença entre promoção de vendas e propaganda?",
+  "a": [
+   [
+    "Promoção trabalha imagem; propaganda corta preço",
+    "Inverte os papéis.",
+    "Promoção é curto prazo; propaganda, imagem."
+   ],
+   [
+    "São a mesma ferramenta com outro nome",
+    "Junta as duas.",
+    "Ambas são do P de Promoção, mas diferem."
+   ],
+   "*Promoção busca venda imediata; propaganda, imagem",
+   [
+    "Propaganda só existe na TV; promoção, na loja",
+    "Confunde ferramenta com mídia.",
+    "Propaganda está em vários meios."
+   ]
+  ],
+  "f": "Promoção de vendas incentiva a compra no curto prazo; propaganda constrói imagem.",
+  "e": "Promoção de vendas incentiva compra no curto prazo; propaganda constrói imagem e lembrança. As duas fazem parte do P de Promoção (comunicação integrada).",
+  "n": "Modo jogo: alternativas equilibradas."
+ },
+ {
+  "r": 28,
+  "s": "MKT",
+  "m": "analise-de-ambiente-swot",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "A startup Recicla+ vê nascer uma lei que obriga empresas a destinar seus resíduos. Na SWOT dela, a lei é:",
+  "a": [
+   [
+    "Força",
+    "Confunde externo com interno.",
+    "A lei não é recurso da startup."
+   ],
+   [
+    "Fraqueza",
+    "Confunde com limite interno.",
+    "A lei é externa e favorável."
+   ],
+   [
+    "Ameaça",
+    "Vê regra nova como risco.",
+    "Para quem recicla, a lei abre mercado."
+   ],
+   "*Oportunidade"
+  ],
+  "f": "Fator externo favorável ao negócio é oportunidade.",
+  "e": "Lei favorável ao setor = fator externo positivo = oportunidade. A mesma lei pode ser ameaça para outra empresa (ex.: quem gera muito resíduo).",
+  "sec": [
+   "EST"
+  ],
+  "n": "Modo jogo: enunciado encurtado (era 134 car.)."
+ },
+ {
+  "r": 29,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "A loja online Vista Bem passa a entregar em 24 horas. Que P do composto essa mudança mexe?",
+  "a": [
+   "*Praça",
+   [
+    "Produto",
+    "Confunde entrega com o item vendido.",
+    "O item é o mesmo; mudou a entrega."
+   ],
+   [
+    "Preço",
+    "Confunde com valor cobrado.",
+    "O preço não mudou."
+   ],
+   [
+    "Promoção",
+    "Confunde com divulgação.",
+    "Entregar rápido é distribuição, não anúncio."
+   ]
+  ],
+  "f": "Prazo e forma de entrega fazem parte da Praça (distribuição).",
+  "e": "Embalagem = produto; entrega = praça; atendimento = pessoas. Uma mesma ação de melhoria pode tocar vários Ps ao mesmo tempo.",
+  "n": "Modo jogo: de classificar 3 ações em Ps para identificar 1 (entrega → praça)."
+ },
+ {
+  "r": 30,
+  "s": "MKT",
+  "m": "comportamento-do-consumidor",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Por que estudar o comportamento do consumidor?",
+  "a": [
+   [
+    "Para copiar as ações dos concorrentes",
+    "Confunde com benchmarking.",
+    "O foco é o cliente, não o rival."
+   ],
+   "*Para entender o que influencia a compra",
+   [
+    "Para subir preços sem mudar a oferta",
+    "Vê o estudo como manobra.",
+    "Entender o cliente não autoriza abuso de preço."
+   ],
+   [
+    "Para vender o mesmo a todo mundo",
+    "Ignora diferenças entre clientes.",
+    "O estudo revela diferenças entre grupos."
+   ]
+  ],
+  "f": "Fatores culturais, sociais, pessoais e psicológicos influenciam a decisão de compra.",
+  "e": "Fatores culturais, sociais, pessoais e psicológicos influenciam a decisão de compra. Decisão de compra: reconhecimento do problema → busca → avaliação → compra → pós-compra.",
+  "n": "Modo jogo: enunciado curto."
+ },
+ {
+  "r": 31,
+  "s": "MKT",
+  "m": "segmentacao",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "A marca Trilha divide clientes em aventureiros, minimalistas e clássicos, pelo estilo de vida. Que segmentação é?",
+  "a": [
+   [
+    "Geográfica",
+    "Confunde com local.",
+    "Não há critério de lugar."
+   ],
+   [
+    "Demográfica",
+    "Confunde com perfil.",
+    "Idade e renda não aparecem."
+   ],
+   "*Psicográfica",
+   [
+    "Comportamental",
+    "Confunde estilo de vida com uso do produto.",
+    "Comportamental olha frequência e lealdade."
+   ]
+  ],
+  "f": "Estilo de vida, valores e personalidade definem a segmentação psicográfica.",
+  "e": "Estilo de vida, valores e personalidade = segmentação psicográfica. Psicográfica = como a pessoa vive e pensa; comportamental = como ela se relaciona com o produto.",
+  "n": "Modo jogo: enunciado encurtado com nome de marca."
+ },
+ {
+  "r": 32,
+  "s": "MKT",
+  "m": "analise-de-ambiente-swot",
+  "b": "analisar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "A escola de inglês Speak Up tem ótimos professores, mas a economia da cidade entrou em recessão. Qual cruzamento da SWOT?",
+  "a": [
+   [
+    "Força × oportunidade",
+    "Vê a recessão como chance.",
+    "Recessão é fator externo negativo."
+   ],
+   [
+    "Fraqueza × ameaça",
+    "Toma os professores como fraqueza.",
+    "Professores ótimos são força interna."
+   ],
+   [
+    "Fraqueza × oportunidade",
+    "Inverte os dois fatores.",
+    "Professor bom é força; recessão, ameaça."
+   ],
+   "*Força × ameaça"
+  ],
+  "f": "Professores são força interna; recessão é ameaça externa: pede postura defensiva.",
+  "e": "Equipe e tecnologia = forças; recessão = ameaça. Na SWOT cruzada, força × ameaça pede postura defensiva.",
+  "sec": [
+   "EST"
+  ],
+  "n": "Modo jogo: resposta única (cruzamento força × ameaça) em vez de dois rótulos."
+ },
+ {
+  "r": 33,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "O Salão Glamour treina a equipe para atender com mais cuidado e agilidade. Que P recebe o investimento?",
+  "a": [
+   "*Pessoas",
+   [
+    "Produto",
+    "Confunde com o serviço em si.",
+    "O foco é quem atende."
+   ],
+   [
+    "Preço",
+    "Confunde com valor cobrado.",
+    "Nada muda no preço."
+   ],
+   [
+    "Praça",
+    "Confunde com local.",
+    "O salão continua no mesmo ponto."
+   ]
+  ],
+  "f": "Treinar a equipe fortalece o P de Pessoas, central em serviços.",
+  "e": "Treinar a equipe melhora o P de Pessoas, central em serviços. SEBRAE inclui Pessoas no composto por seu peso em micro e pequenas empresas.",
+  "n": "Modo jogo: cenário com nome local."
+ },
+ {
+  "r": 34,
+  "s": "MKT",
+  "m": "plano-de-marketing",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "A Kombucha da Vila vai lançar um sabor e precisa estudar o mercado, fixar metas e planejar ações. Qual ferramenta usar?",
+  "a": [
+   [
+    "Balanço patrimonial",
+    "Confunde com contabilidade.",
+    "Balanço mostra a situação patrimonial."
+   ],
+   "*Plano de marketing",
+   [
+    "Folha de pagamento",
+    "Confunde com RH.",
+    "Folha controla salários."
+   ],
+   [
+    "Contrato social",
+    "Confunde com documento jurídico.",
+    "Contrato social formaliza a empresa."
+   ]
+  ],
+  "f": "O plano de marketing reúne análise de ambiente, metas, mix, ações, orçamento e controle.",
+  "e": "Plano de marketing: análise de ambiente, público, posicionamento, metas, mix, ação, orçamento e controle. Objetivos são qualitativos; metas são quantificáveis e com prazo.",
+  "n": "Modo jogo: cenário com nome local; dificuldade 2 para 1."
+ },
+ {
+  "r": 35,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Uma influenciadora divulga o protetor solar da marca Sol&Sal no TikTok. Qual P está em ação?",
+  "a": [
+   [
+    "Praça",
+    "Confunde rede social com canal de venda.",
+    "Divulgar não é vender pelo canal."
+   ],
+   [
+    "Preço",
+    "Confunde com valor cobrado.",
+    "O preço não aparece no caso."
+   ],
+   "*Promoção",
+   [
+    "Produto",
+    "Foca no protetor em si.",
+    "O produto é o mesmo; a ação é divulgá-lo."
+   ]
+  ],
+  "f": "Divulgação por influenciadores é comunicação, ou seja, Promoção.",
+  "e": "Divulgação por influenciadores é ação de promoção (comunicação). A AMA cita o marketing de influenciadores entre as especialidades do marketing.",
+  "n": "Modo jogo: cenário concreto; dificuldade 2 para 1."
+ },
+ {
+  "r": 36,
+  "s": "MKT",
+  "m": "analise-de-ambiente-swot",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "A loja de celulares do Rui perde vendas para um rival que lançou um serviço melhor e mais barato. Esse rival é:",
+  "a": [
+   [
+    "Uma fraqueza",
+    "Confunde externo com interno.",
+    "O rival está fora da empresa."
+   ],
+   [
+    "Uma oportunidade",
+    "Ignora que é negativo.",
+    "O rival atrapalha o negócio."
+   ],
+   [
+    "Uma força",
+    "Inverte o sentido.",
+    "Força é recurso interno da empresa."
+   ],
+   "*Uma ameaça"
+  ],
+  "f": "Concorrente forte é fator externo negativo: ameaça.",
+  "e": "Concorrente forte = fator externo negativo = ameaça. Se a empresa tem custos altos, ISSO é a fraqueza; o concorrente é a ameaça.",
+  "sec": [
+   "EST"
+  ],
+  "n": "Modo jogo: cenário com personagem."
+ },
+ {
+  "r": 37,
+  "s": "MKT",
+  "m": "marca",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Por que branding vai além do logotipo?",
+  "a": [
+   "*Porque envolve percepção e vínculo",
+   [
+    "Porque se resume a cores e fontes",
+    "Reduz marca ao visual.",
+    "Visual é parte, não o todo."
+   ],
+   [
+    "Porque se limita a campanhas de mídia",
+    "Reduz branding a anúncio.",
+    "Branding vai além da mídia."
+   ],
+   [
+    "Porque define o preço contábil",
+    "Confunde com contabilidade.",
+    "Preço contábil não é branding."
+   ]
+  ],
+  "f": "Branding é gestão da marca: identidade, percepção, reputação e vínculo com o público.",
+  "e": "Branding é gestão da marca: identidade, percepção, reputação e vínculo com o público. Marca é ativo intangível que gera associações mentais e valor econômico (ex.: café sem marca × Starbucks).",
+  "n": "Modo jogo: sem mudança de conteúdo; mantido curto."
+ },
+ {
+  "r": 38,
+  "s": "MKT",
+  "m": "segmentacao",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "O supermercado Bom Preço, de Niterói, decide abrir lojas em São Gonçalo e Maricá. Que critério de segmentação aparece?",
+  "a": [
+   [
+    "Comportamental",
+    "Confunde com hábito.",
+    "Não há dado de uso ou lealdade."
+   ],
+   "*Geográfico",
+   [
+    "Demográfico",
+    "Confunde com perfil.",
+    "O critério é o lugar, não idade ou renda."
+   ],
+   [
+    "Psicográfico",
+    "Confunde com estilo de vida.",
+    "Estilo de vida não aparece."
+   ]
+  ],
+  "f": "Região, cidade e bairro são variáveis geográficas.",
+  "e": "Região, cidade e bairro = segmentação geográfica. Variáveis geográficas: país, região, estado, cidade, bairro, densidade, clima.",
+  "n": "Modo jogo: cidades concretas; dificuldade 2 para 1."
+ },
+ {
+  "r": 39,
+  "s": "MKT",
+  "m": "preco-freemium",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "O app de notas Anota tem versão grátis limitada e cobra pela completa. Qual P é usado de forma estratégica?",
+  "a": [
+   [
+    "Praça",
+    "Confunde com canal.",
+    "O app é o canal, mas o destaque é cobrar."
+   ],
+   [
+    "Pessoas",
+    "Confunde com atendimento.",
+    "Não há foco em equipe."
+   ],
+   "*Preço",
+   [
+    "Promoção",
+    "Confunde grátis com promoção temporária.",
+    "Freemium é modelo de preço permanente."
+   ]
+  ],
+  "f": "Freemium é estratégia de preço: entrada grátis para converter parte em pagantes.",
+  "e": "Freemium é estratégia de preço: entrada gratuita para converter parte dos usuários em pagantes. No Business Model Canvas, freemium é um dos padrões de modelo de negócio (Skype, Dropbox, Evernote).",
+  "sec": [
+   "EMP"
+  ],
+  "n": "Modo jogo: cenário com nome de app."
+ },
+ {
+  "r": 40,
+  "s": "MKT",
+  "m": "fidelizacao",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Dona Rita compra sempre o mesmo café, sem olhar outras marcas. Isso indica:",
+  "a": [
+   [
+    "Segmentação demográfica",
+    "Confunde com perfil.",
+    "O caso fala de hábito, não idade ou renda."
+   ],
+   [
+    "Posicionamento do concorrente",
+    "Desloca o foco.",
+    "O caso descreve a cliente, não o rival."
+   ],
+   [
+    "Análise SWOT da marca",
+    "Confunde com ferramenta.",
+    "SWOT analisa a empresa, não o hábito."
+   ],
+   "*Compra habitual e lealdade"
+  ],
+  "f": "Repetir a compra sem buscar alternativas indica hábito e lealdade à marca.",
+  "e": "Repetir a compra sem buscar alternativas indica hábito e lealdade à marca. Lealdade é variável da segmentação comportamental e alvo dos programas de fidelização.",
+  "n": "Modo jogo: cenário com personagem."
+ },
+ {
+  "r": 41,
+  "s": "MKT",
+  "m": "segmentacao-e-mix",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "O balcão 60+",
+   "A Farmácia Bem Viver fica num bairro onde 35% dos moradores têm mais de 60 anos. Ela criou um balcão 60+ com cadeiras, etiquetas grandes e atendentes treinados para explicar a posologia.",
+   "Segmentação, público-alvo e composto de marketing",
+   "Atender bem um segmento sem afastar os demais clientes"
+  ],
+  "q": "O que a farmácia fez, em termos de marketing?",
+  "a": [
+   "*Adaptou o mix de marketing a um segmento",
+   [
+    "Fez segmentação comportamental do bairro",
+    "Confunde idade com comportamento de compra.",
+    "Idade é variável demográfica, não comportamental."
+   ],
+   [
+    "Reposicionou a marca como farmácia popular",
+    "Confunde segmentação com reposicionamento.",
+    "Nada no caso muda a imagem de preço da marca."
+   ],
+   [
+    "Criou uma promoção de vendas para idosos",
+    "Vê incentivo de curto prazo.",
+    "Não há desconto; mudou o serviço e o atendimento."
+   ]
+  ],
+  "f": "Escolheu idosos (segmento demográfico) e ajustou serviço e pessoas a esse público.",
+  "e": "Escolher idosos (segmentação demográfica) + balcão adaptado (serviço) + atendentes treinados (pessoas). O dado de 35% de idosos no bairro justifica o segmento; a entrega gratuita (versão original) também mexia na praça.",
+  "n": "Modo jogo: cenário enxuto (era 290 car.); resposta única em vez de lista de elementos."
+ },
+ {
+  "r": 42,
+  "s": "MKT",
+  "m": "composto-de-marketing",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "O desconhecido bom produto",
+   "A Sabor da Roça faz geleias com nota alta em testes cegos, preço abaixo das líderes e presença em 120 mercados. Só 6% dos consumidores conhecem a marca, que nunca investiu em divulgação.",
+   "Composto de marketing (4Ps/5Ps)",
+   "Produto, preço e distribuição adequados com baixa lembrança da marca"
+  ],
+  "q": "Qual P do composto está falhando?",
+  "a": [
+   [
+    "Produto",
+    "Ignora os testes cegos.",
+    "Nota alta em teste cego indica bom produto."
+   ],
+   "*Promoção",
+   [
+    "Praça",
+    "Ignora a distribuição ampla.",
+    "Estar em 120 mercados é boa cobertura."
+   ],
+   [
+    "Preço",
+    "Ignora o preço competitivo.",
+    "O preço já está abaixo das líderes."
+   ]
+  ],
+  "f": "Produto bom, preço competitivo e boa distribuição, mas ninguém conhece: falha a promoção.",
+  "e": "Se o produto é bom, o preço competitivo e a distribuição ampla, mas ninguém conhece, falha a promoção. Diagnóstico pelo composto: isolar cada P com dados. Aqui, 6% de conhecimento e zero investimento em divulgação apontam a comunicação.",
+  "n": "Modo jogo: cenário enxuto com 2 números (era 272 car. e 4 números)."
+ },
+ {
+  "r": 43,
+  "s": "MKT",
+  "m": "posicionamento-e-canais",
+  "b": "avaliar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Chocolate premium no atacarejo",
+   "A Cacau Nobre vende chocolates finos em lojas próprias e empórios, a um preço 3 vezes o das marcas de massa. Para crescer, a diretoria quer entrar em atacarejos, ao lado de marcas baratas.",
+   "Posicionamento e escolha de canais",
+   "Crescimento de volume × imagem de exclusividade"
+  ],
+  "q": "Qual o principal risco da proposta?",
+  "a": [
+   [
+    "Reduzir o alcance da distribuição",
+    "Inverte o efeito do novo canal.",
+    "Atacarejo amplia a praça; o risco está na imagem."
+   ],
+   [
+    "Elevar o custo de comunicação da marca",
+    "Foca em custo de mídia.",
+    "A proposta muda o canal, não a comunicação."
+   ],
+   "*Diluir o posicionamento premium da marca",
+   [
+    "Atrair só clientes que já compram a marca",
+    "Ignora o novo público.",
+    "O atacarejo traz público novo e sensível a preço."
+   ]
+  ],
+  "f": "Canal incoerente com o posicionamento dilui a imagem de exclusividade da marca.",
+  "e": "Canal incoerente com o posicionamento dilui a percepção de exclusividade da marca. Praça também comunica: estar ao lado de marcas baratas e em promoções muda a imagem que o cliente tem do produto.",
+  "n": "Modo jogo: cenário enxuto (era 318 car.); distratores trocados por erros vizinhos."
+ },
+ {
+  "r": 44,
+  "s": "MKT",
+  "m": "pesquisa-de-mercado",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A nova academia de bairro",
+   "Antes de abrir uma academia em Icaraí, Bruno buscou população e renda do bairro no IBGE Cidades. Depois, entrevistou 70 moradores sobre horários, preço e o que falta.",
+   "Dados primários e secundários na pesquisa de mercado",
+   "Orçamento limitado de pesquisa"
+  ],
+  "q": "Por que combinar as duas fontes?",
+  "a": [
+   [
+    "Dispensar a pesquisa de campo, que é cara",
+    "Acha que secundários bastam.",
+    "O IBGE não diz horário nem preço aceitável."
+   ],
+   [
+    "Garantir amostra representativa do Brasil",
+    "Confunde o escopo.",
+    "O foco é o bairro de Icaraí, não o país."
+   ],
+   [
+    "Validar os dados do IBGE com os moradores",
+    "Inverte o papel das fontes.",
+    "O IBGE dá o panorama; a entrevista, o específico."
+   ],
+   "*Unir o panorama geral às respostas específicas"
+  ],
+  "f": "Secundários dão o panorama (população, renda); primários respondem às perguntas do negócio.",
+  "e": "Secundários dão o panorama (população, renda); primários respondem as perguntas específicas do negócio. SEBRAE: definir a coleta (secundária × primária) é o 2º dos 9 passos da pesquisa de mercado.",
+  "n": "Modo jogo: cenário enxuto (era 252 car.); distratores trocados por erros vizinhos."
+ },
+ {
+  "r": 45,
+  "s": "MKT",
+  "m": "ciclo-de-vida-do-produto",
+  "b": "avaliar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "O fim do DVD?",
+   "A Vídeo Mais vende aparelhos de DVD. As vendas caem 25% ao ano, rivais saem do mercado e o público migrou para o streaming. Resta um pequeno grupo de colecionadores.",
+   "Ciclo de vida do produto",
+   "Queda contínua de demanda"
+  ],
+  "q": "Qual decisão é mais sensata nessa fase?",
+  "a": [
+   "*Avaliar focar nos colecionadores ou descontinuar",
+   [
+    "Investir pesado em propaganda para reaquecer",
+    "Trata declínio como falta de divulgação.",
+    "Se o público mudou de tecnologia, anúncio não reverte."
+   ],
+   [
+    "Baixar o preço para recuperar o mercado de massa",
+    "Aposta em preço contra mudança tecnológica.",
+    "O público migrou ao streaming; preço baixo não o traz."
+   ],
+   [
+    "Ampliar a linha com novos modelos de DVD",
+    "Trata como fase de crescimento.",
+    "Ampliar linha é típico do crescimento, não do declínio."
+   ]
+  ],
+  "f": "No declínio, decide-se entre reposicionar para um nicho (colecionadores) ou retirar o produto.",
+  "e": "No declínio, decide-se entre revitalizar, reposicionar para um nicho (colecionadores) ou retirar o produto. Introdução → crescimento → maturidade → declínio: cada fase pede estratégia diferente.",
+  "n": "Modo jogo: cenário enxuto (era 248 car.); distratores trocados por erros vizinhos."
+ },
+ {
+  "r": 46,
+  "s": "MKT",
+  "m": "posicionamento",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Dois tênis quase iguais",
+   "Pulse e Strada vendem tênis de corrida quase iguais, pelo mesmo preço e nas mesmas lojas. A Pulse patrocina corridas de rua e fala em 'desempenho para quem treina sério'; a Strada quase não comunica.",
+   "Posicionamento e percepção de marca",
+   "Ofertas semelhantes em produto, preço e praça"
+  ],
+  "q": "O que tende a decidir a escolha do corredor?",
+  "a": [
+   [
+    "A diferença técnica entre os modelos",
+    "Ignora que os produtos são equivalentes.",
+    "O caso diz que os tênis são quase iguais."
+   ],
+   "*O posicionamento e a imagem da marca",
+   [
+    "O ponto de venda de cada marca",
+    "Ignora que a praça é a mesma.",
+    "As duas estão nas mesmas lojas."
+   ],
+   [
+    "O preço mais baixo de uma das marcas",
+    "Ignora que o preço é igual.",
+    "Os preços são iguais no caso."
+   ]
+  ],
+  "f": "Com os outros Ps iguais, a percepção construída pelo posicionamento decide.",
+  "e": "Com os outros Ps iguais, a percepção construída pelo posicionamento decide. Posicionamento: imagem clara, distinta e favorável na mente do público em relação aos concorrentes.",
+  "n": "Modo jogo: cenário enxuto; distratores trocados por erros vizinhos."
+ },
+ {
+  "r": 47,
+  "s": "MKT",
+  "m": "segmentacao",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Aulas de natação",
+   "A Aqua Vida vai abrir turmas de hidroginástica. O bairro tem muitos moradores com 60 anos ou mais, e a piscina fica a 400 metros de dois condomínios de idosos.",
+   "Critérios de segmentação",
+   "Capacidade limitada a 6 turmas"
+  ],
+  "q": "Por que combinar idade e localização na segmentação?",
+  "a": [
+   [
+    "Para segmentar pelo estilo de vida dos idosos",
+    "Confunde com psicográfica.",
+    "Idade e distância são critérios demográfico e geográfico."
+   ],
+   [
+    "Para atender todo o bairro com uma só oferta",
+    "Confunde com marketing de massa.",
+    "Segmentar é escolher parte do mercado, não todo."
+   ],
+   "*Para chegar a um público preciso e acessível",
+   [
+    "Para reduzir o custo de manter a piscina",
+    "Mistura segmentação com custo.",
+    "Segmentação define público, não custo da estrutura."
+   ]
+  ],
+  "f": "Combinar critérios (demográfico + geográfico) torna o público-alvo mais preciso e acessível.",
+  "e": "Requisitos da boa segmentação (OpenStax): mensurável, acessível, substancial, diferenciável e acionável. No caso original: 18 mil moradores, 3.200 com 60+.",
+  "n": "Modo jogo: cenário com 2 números (era 4); distratores trocados por erros vizinhos."
+ },
+ {
+  "r": 48,
+  "s": "MKT",
+  "m": "swot-cruzada",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A doceria tradicional",
+   "A Doceria Lusa, de 50 anos, tem a marca de doces mais lembrada da cidade. As compras de doces por apps de entrega cresceram 60% na região, mas ela só vende no balcão.",
+   "SWOT cruzada",
+   "Marca forte sem presença digital"
+  ],
+  "q": "Qual decisão segue a lógica da SWOT cruzada?",
+  "a": [
+   [
+    "Ignorar o digital, já que a marca é forte",
+    "Desperdiça a oportunidade.",
+    "Força parada diante de oportunidade é potencial perdido."
+   ],
+   [
+    "Corrigir todas as fraquezas antes de agir",
+    "Prioriza WO sobre SO.",
+    "Com força e oportunidade claras, a postura é ofensiva."
+   ],
+   [
+    "Reduzir preços para enfrentar os apps",
+    "Vê os apps como ameaça.",
+    "O crescimento dos apps é oportunidade, não ameaça."
+   ],
+   "*Usar a marca forte para vender por apps"
+  ],
+  "f": "Força × oportunidade pede postura ofensiva: usar a marca para pegar o delivery.",
+  "e": "Força × oportunidade = estratégia ofensiva: usar a marca para capturar o crescimento do delivery. SO ofensiva · WO reforço · ST defensiva · WT sobrevivência.",
+  "sec": [
+   "EST"
+  ],
+  "n": "Modo jogo: cenário enxuto; distratores ajustados."
+ },
+ {
+  "r": 49,
+  "s": "MKT",
+  "m": "comportamento-do-consumidor",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "O celular da turma",
+   "Lucas, 19 anos, trocou de celular e escolheu a marca que todos os amigos da faculdade usam, porque ela 'passa imagem de sucesso'. Recusou um modelo melhor e mais barato.",
+   "Fatores que influenciam o comportamento do consumidor",
+   "Atributos técnicos inferiores e preço maior"
+  ],
+  "q": "Que fatores pesaram na decisão de Lucas?",
+  "a": [
+   "*Sociais e psicológicos",
+   [
+    "Pessoais (idade e ocupação)",
+    "Usa os 19 anos como causa.",
+    "A idade aparece, mas a escolha veio dos amigos e da imagem."
+   ],
+   [
+    "Culturais (classe social)",
+    "Confunde amigos com cultura.",
+    "Amigos da faculdade são grupo de referência: fator social."
+   ],
+   [
+    "Técnicos (custo-benefício)",
+    "Ignora o modelo descartado.",
+    "Lucas recusou o aparelho melhor e mais barato."
+   ]
+  ],
+  "f": "Grupo de referência (social) e imagem de status (psicológico) pesaram mais que preço.",
+  "e": "Grupo de referência (social) + imagem de status (psicológico) pesaram mais que preço e técnica. Fatores do comportamento do consumidor: culturais, sociais, pessoais e psicológicos.",
+  "n": "Modo jogo: cenário enxuto; distratores trocados pelos outros fatores de compra."
+ },
+ {
+  "r": 50,
+  "s": "MKT",
+  "m": "diferenciacao-e-nicho",
+  "b": "avaliar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A confeitaria contra as grandes redes",
+   "A Doce Afeto, confeitaria de uma loja só, perde clientes para redes que vendem bolos 40% mais baratos. Não consegue cortar custos assim, mas os fiéis elogiam seus bolos personalizados.",
+   "Estratégia competitiva e posicionamento",
+   "Impossibilidade de competir em custo"
+  ],
+  "q": "Qual estratégia é a mais adequada?",
+  "a": [
+   [
+    "Buscar liderança em custo com mais volume",
+    "Ignora a restrição de custo.",
+    "Sem escala industrial, ela não vence as redes no preço."
+   ],
+   "*Diferenciar a oferta e focar num nicho",
+   [
+    "Copiar o cardápio das grandes redes",
+    "Imitação sem diferencial.",
+    "Copiar as redes a leva à disputa por preço, que ela perde."
+   ],
+   [
+    "Abrir filiais rápido para ganhar escala",
+    "Tenta virar rede sem recursos.",
+    "Expandir não cria vantagem de custo no curto prazo."
+   ]
+  ],
+  "f": "Sem vantagem de custo, a saída é diferenciar e focar num nicho que valoriza o diferencial.",
+  "e": "Sem vantagem de custo, a saída é diferenciar e focar num nicho que valoriza o diferencial. Estratégias genéricas de Porter: liderança em custo, diferenciação e enfoque. Aqui, enfoque com diferenciação (bolos personalizados e atendimento).",
+  "o": "NLM+WEB",
+  "u": [
+   "https://www.maxwell.vrac.puc-rio.br/9439/9439_3.PDF"
+  ],
+  "n": "Modo jogo: cenário enxuto (era 299 car.); distratores trocados por erros vizinhos."
+ }
+]

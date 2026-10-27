@@ -1,0 +1,3014 @@
+{
+  "empreendedorismo": [
+    {
+      "q": "O que é empreendedorismo, de forma simples?",
+      "a": "Abrir uma empresa sem planejamento",
+      "b": "Identificar oportunidades e transformá-las em valor",
+      "c": "Investir dinheiro em qualquer negócio",
+      "d": "Trabalhar por conta própria sem registro",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "Empreendedorismo é a capacidade de perceber oportunidades e transformá-las em soluções, negócios ou iniciativas de valor."
+    },
+    {
+      "q": "Qual é a principal diferença entre invenção e inovação?",
+      "a": "A invenção tende a gerar retorno quando aplicada comercialmente",
+      "b": "A inovação acontece antes da invenção",
+      "c": "A invenção cria algo novo; a inovação aplica isso com valor no mercado",
+      "d": "A inovação depende de uma solução tecnologicamente sofisticada",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Invenção é a criação de algo novo; inovação ocorre quando essa criação é aplicada, aceita e gera valor."
+    },
+    {
+      "q": "Para qual perfil de empreendedor o MEI foi criado?",
+      "a": "Empresas com grande número de funcionários",
+      "b": "Sociedades empresárias de médio porte",
+      "c": "Profissionais liberais sem atividade empresarial organizada",
+      "d": "Pequenos empreendedores individuais dentro de limites legais",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "O MEI formaliza pequenos empreendedores individuais, com regras simplificadas e limite de faturamento anual."
+    },
+    {
+      "q": "Maria vende bolos pelo Instagram e acredita que seus resultados dependem principalmente das próprias decisões. Qual conceito aparece nesse caso?",
+      "a": "Locus de controle interno",
+      "b": "Destruição criativa",
+      "c": "Bricolagem empreendedora",
+      "d": "Empreendedorismo social",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Locus de controle interno é a crença de que os próprios esforços e decisões influenciam os resultados."
+    },
+    {
+      "q": "O que é o MVP de um negócio?",
+      "a": "O produto final com todos os recursos planejados",
+      "b": "A versão mais cara lançada para o cliente",
+      "c": "Uma versão simples para testar a ideia com usuários reais",
+      "d": "O plano financeiro completo da empresa",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "MVP é o produto mínimo viável, usado para testar uma ideia com o menor investimento possível."
+    },
+    {
+      "q": "Um funcionário propõe melhorias e cria soluções novas dentro da empresa onde trabalha. Como ele pode ser chamado?",
+      "a": "Investidor-anjo",
+      "b": "Empreendedor por necessidade",
+      "c": "Empreendedor informal",
+      "d": "Intraempreendedor",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "O intraempreendedor atua de forma empreendedora dentro de uma organização já existente."
+    },
+    {
+      "q": "No Business Model Canvas, quantos blocos formam o modelo tradicional?",
+      "a": "7",
+      "b": "9",
+      "c": "10",
+      "d": "12",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "O Business Model Canvas possui 9 blocos que mostram como a empresa cria, entrega e captura valor."
+    },
+    {
+      "q": "Em geral, qual é a primeira etapa do processo empreendedor?",
+      "a": "Perceber uma oportunidade",
+      "b": "Registrar a empresa formalmente",
+      "c": "Contratar a equipe inicial",
+      "d": "Buscar financiamento externo",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O processo empreendedor costuma começar pela identificação de uma oportunidade ou necessidade no mercado."
+    },
+    {
+      "q": "No Canvas, a Proposta de Valor indica principalmente:",
+      "a": "o preço final cobrado pelo produto",
+      "b": "os custos fixos do empreendimento",
+      "c": "o benefício oferecido para resolver uma necessidade do cliente",
+      "d": "o nome comercial escolhido para a marca",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "A proposta de valor mostra qual benefício o negócio entrega e qual problema ou necessidade do cliente pretende resolver."
+    },
+    {
+      "q": "Pedro fracassou em dois negócios, mas analisou os erros e continuou testando novas ideias. Qual competência ele demonstra?",
+      "a": "Controle externo",
+      "b": "Planejamento financeiro",
+      "c": "Liderança formal",
+      "d": "Persistência",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Persistência é a capacidade de continuar agindo e ajustando estratégias diante de obstáculos."
+    },
+    {
+      "q": "Qual é o foco principal do empreendedorismo social?",
+      "a": "Gerar impacto positivo em problemas sociais ou ambientais",
+      "b": "Maximizar o lucro dos sócios no curto prazo",
+      "c": "Abrir franquias em diferentes regiões",
+      "d": "Aumentar a produção industrial da empresa",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Empreendedorismo social busca criar soluções sustentáveis para problemas sociais ou ambientais."
+    },
+    {
+      "q": "Qual documento apresenta o negócio de forma objetiva para despertar o interesse de investidores ou parceiros?",
+      "a": "Balanço patrimonial",
+      "b": "Contrato social",
+      "c": "Sumário executivo",
+      "d": "Nota fiscal",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "O sumário executivo resume os pontos centrais do plano de negócios de forma clara e atrativa."
+    },
+    {
+      "q": "No Canvas, o bloco Segmento de Clientes ajuda a definir:",
+      "a": "quais máquinas serão usadas na produção",
+      "b": "para quais grupos o negócio pretende criar valor",
+      "c": "como os fornecedores serão contratados",
+      "d": "quais impostos serão recolhidos pela empresa",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "Segmento de Clientes identifica os grupos de pessoas ou organizações que a empresa deseja atender."
+    },
+    {
+      "q": "Ana percebeu que faltavam creches noturnas em sua cidade e decidiu abrir uma. O que ela identificou?",
+      "a": "Um custo operacional",
+      "b": "Uma rotina administrativa",
+      "c": "Uma ameaça externa",
+      "d": "Uma oportunidade de mercado",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Ao perceber uma necessidade não atendida, Ana identificou uma oportunidade empreendedora."
+    },
+    {
+      "q": "Quando uma empresa melhora aos poucos um produto, serviço ou processo já existente, ocorre uma inovação:",
+      "a": "incremental",
+      "b": "radical",
+      "c": "disruptiva",
+      "d": "institucional",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Inovação incremental envolve melhorias graduais em algo que já existe."
+    },
+    {
+      "q": "Para que serve principalmente um plano de negócios?",
+      "a": "Substituir a execução do empreendedor",
+      "b": "Garantir lucro imediato após a abertura",
+      "c": "Organizar a ideia e avaliar sua viabilidade",
+      "d": "Registrar automaticamente a empresa",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "O plano de negócios ajuda a estruturar a ideia, analisar riscos, estimar recursos e avaliar a viabilidade do empreendimento."
+    },
+    {
+      "q": "Busca de oportunidades e iniciativa faz parte de qual conjunto de características?",
+      "a": "Etapas do ciclo de vida do produto",
+      "b": "Blocos do Business Model Canvas",
+      "c": "Regras legais do MEI",
+      "d": "Competências empreendedoras de McClelland",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Busca de oportunidades e iniciativa é uma das competências comportamentais empreendedoras associadas a McClelland."
+    },
+    {
+      "q": "Qual tipo de inovação pode transformar profundamente as regras de um setor?",
+      "a": "Incremental",
+      "b": "Radical",
+      "c": "Operacional",
+      "d": "Administrativa",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "A inovação radical provoca mudanças profundas, podendo criar novos mercados ou alterar setores existentes."
+    },
+    {
+      "q": "A atitude empreendedora pode ser entendida como algo que:",
+      "a": "pode ser aprendido e desenvolvido",
+      "b": "exige grande capital inicial",
+      "c": "é mais comum em estruturas empresariais grandes",
+      "d": "nasce pronta em algumas pessoas",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "A atitude empreendedora pode ser desenvolvida por meio de aprendizado, prática e mudança de comportamento."
+    },
+    {
+      "q": "O que caracteriza o empreendedorismo por necessidade?",
+      "a": "Criar uma empresa para explorar uma inovação inédita",
+      "b": "Empreender dentro de uma organização já existente",
+      "c": "Abrir um negócio pela falta de alternativas de renda",
+      "d": "Investir em startups com alto potencial de crescimento",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Empreender por necessidade ocorre quando a pessoa cria um negócio por falta de outras opções de trabalho ou renda."
+    },
+    {
+      "q": "Segundo a Teoria do Comportamento Planejado, a intenção de empreender depende principalmente de:",
+      "a": "renda familiar, idade e escolaridade",
+      "b": "sorte, capital inicial e apoio do governo",
+      "c": "experiência anterior, tecnologia e localização",
+      "d": "atitudes, normas subjetivas e percepção de controle",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Para Ajzen, a intenção é influenciada pelas atitudes em relação ao comportamento, pela pressão social percebida e pela percepção de controle."
+    },
+    {
+      "q": "Lucas tem R$500, sabe criar sites e conhece donos de restaurantes. Que lógica usa ao oferecer sites para eles?",
+      "a": "Effectuation",
+      "b": "Causation",
+      "c": "Destruição criativa",
+      "d": "Inovação radical",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Effectuation começa pelos meios disponíveis: quem a pessoa é, o que sabe e quem conhece."
+    },
+    {
+      "q": "Na visão de Schumpeter, a destruição criativa ocorre quando:",
+      "a": "empresas fecham por falta de planejamento financeiro",
+      "b": "concorrentes são eliminados por ações ilegais",
+      "c": "inovações substituem modelos antigos de mercado",
+      "d": "ideias criativas são descartadas antes do teste",
+      "ans": "C",
+      "diff": "media",
+      "ex": "A destruição criativa descreve o processo em que novas soluções tornam modelos anteriores menos relevantes ou obsoletos."
+    },
+    {
+      "q": "Uma startup lançou uma solução simples, barata e inicialmente limitada, mas depois cresceu e superou empresas tradicionais. Isso se aproxima de qual conceito?",
+      "a": "Inovação incremental",
+      "b": "Inovação de processo",
+      "c": "Bricolagem empreendedora",
+      "d": "Inovação disruptiva",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Inovação disruptiva geralmente começa com soluções mais simples e acessíveis, que depois podem superar líderes estabelecidos."
+    },
+    {
+      "q": "Nos 4Ps da inovação, mudar a forma como uma empresa é percebida ou apresentada no mercado corresponde à inovação de:",
+      "a": "produto",
+      "b": "posição",
+      "c": "processo",
+      "d": "paradigma",
+      "ans": "B",
+      "diff": "media",
+      "ex": "A inovação de posição muda o contexto, o público ou a forma como uma oferta é percebida no mercado."
+    },
+    {
+      "q": "No empreendedorismo, o chamado Vale da Morte representa:",
+      "a": "a fase em que o negócio ainda gasta mais do que gera de receita",
+      "b": "o encerramento definitivo das atividades da empresa",
+      "c": "a substituição de um setor por uma inovação radical",
+      "d": "o momento em que a empresa deixa de buscar clientes",
+      "ans": "A",
+      "diff": "media",
+      "ex": "O Vale da Morte é a fase crítica em que o negócio consome recursos antes de gerar receita suficiente para se sustentar."
+    },
+    {
+      "q": "Rafaela usou pneus descartados para criar vasos decorativos e vender online. Qual conceito esse caso representa melhor?",
+      "a": "Inovação de paradigma",
+      "b": "Spin-off acadêmico",
+      "c": "Empreendedorismo corporativo",
+      "d": "Bricolagem empreendedora",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Bricolagem empreendedora é criar soluções aproveitando recursos disponíveis, muitas vezes subestimados ou descartados."
+    },
+    {
+      "q": "Na educação empreendedora, ensinar 'através' do empreendedorismo significa:",
+      "a": "priorizar aulas conceituais sobre empresas",
+      "b": "preparar alunos para cargos administrativos",
+      "c": "usar experiências práticas como método de aprendizagem",
+      "d": "concentrar o curso em conteúdos financeiros",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Ensinar através do empreendedorismo envolve aprender fazendo, com projetos, desafios e experiências práticas."
+    },
+    {
+      "q": "Um pesquisador universitário cria uma empresa para comercializar uma tecnologia desenvolvida em sua pesquisa. Isso é um exemplo de:",
+      "a": "intraempreendedorismo",
+      "b": "spin-off acadêmico",
+      "c": "empreendedorismo por necessidade",
+      "d": "franquia empresarial",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Spin-offs acadêmicos surgem quando pesquisas ou tecnologias universitárias dão origem a novas empresas."
+    },
+    {
+      "q": "No Canvas, o bloco Canais ajuda a responder:",
+      "a": "como a empresa se comunica e entrega valor ao cliente",
+      "b": "quanto lucro a empresa terá no primeiro ano",
+      "c": "quais impostos incidem sobre o negócio",
+      "d": "quem será responsável pela contabilidade",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Canais mostram como a empresa alcança, comunica, vende e entrega sua proposta de valor aos clientes."
+    },
+    {
+      "q": "Carlos pesquisou o mercado, definiu um objetivo, montou um plano detalhado e depois começou a executar. Qual abordagem ele seguiu?",
+      "a": "Effectuation",
+      "b": "Bricolagem",
+      "c": "Intraempreendedorismo",
+      "d": "Causation",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Causation parte de um objetivo definido e depois organiza os meios necessários para alcançá-lo."
+    },
+    {
+      "q": "A necessidade de realização, segundo McClelland, está ligada a empreendedores que:",
+      "a": "preferem estabilidade e evitam mudanças",
+      "b": "delegam todas as decisões importantes",
+      "c": "buscam metas desafiadoras e superação de desempenho",
+      "d": "evitam qualquer tipo de risco ou cobrança",
+      "ans": "C",
+      "diff": "media",
+      "ex": "A necessidade de realização envolve desejo de superar padrões, alcançar metas desafiadoras e obter desempenho superior."
+    },
+    {
+      "q": "Uma universidade empreendedora se destaca por:",
+      "a": "conectar ensino, pesquisa, inovação e geração de valor",
+      "b": "limitar sua atuação às aulas teóricas tradicionais",
+      "c": "impedir a criação de projetos com empresas",
+      "d": "priorizar formações voltadas ao setor público",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Universidades empreendedoras aproximam conhecimento acadêmico, inovação, mercado e impacto social."
+    },
+    {
+      "q": "Qual bloco do Canvas está mais diretamente relacionado à forma como a empresa ganha dinheiro?",
+      "a": "Recursos-chave",
+      "b": "Fontes de receita",
+      "c": "Atividades-chave",
+      "d": "Parcerias-chave",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Fontes de receita descrevem como os clientes pagam e de onde vem o dinheiro recebido pelo negócio."
+    },
+    {
+      "q": "Nos 4Ps da inovação, inovação de paradigma significa:",
+      "a": "lançar uma versão melhorada do produto",
+      "b": "mudar a apresentação visual do serviço",
+      "c": "mudar o canal de divulgação da marca",
+      "d": "modificar a lógica ou o modelo mental do negócio",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Inovação de paradigma muda pressupostos, modelos mentais ou formas tradicionais de operar em um setor."
+    },
+    {
+      "q": "Um empreendedor com locus de controle externo tende a acreditar que seus resultados dependem mais de:",
+      "a": "metas pessoais e esforço contínuo",
+      "b": "planejamento e busca de informações",
+      "c": "sorte, destino ou fatores fora de seu controle",
+      "d": "competências desenvolvidas ao longo do tempo",
+      "ans": "C",
+      "diff": "media",
+      "ex": "No locus de controle externo, a pessoa atribui os resultados principalmente a fatores externos, como sorte ou circunstâncias."
+    },
+    {
+      "q": "Júlia lançou um app com três funções para testar o interesse dos usuários. O que ela lançou primeiro?",
+      "a": "MVP",
+      "b": "Plano de negócios completo",
+      "c": "Análise SWOT",
+      "d": "Produto final escalável",
+      "ans": "A",
+      "diff": "media",
+      "ex": "O MVP valida a ideia com poucos recursos antes de investir em uma versão mais completa."
+    },
+    {
+      "q": "Depois de identificar uma oportunidade, a etapa seguinte mais comum no processo empreendedor é:",
+      "a": "encerrar a validação do mercado",
+      "b": "contratar todos os funcionários",
+      "c": "abrir imediatamente uma filial",
+      "d": "planejar o negócio",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Após identificar a oportunidade, o empreendedor normalmente estrutura o planejamento do negócio antes de executar."
+    },
+    {
+      "q": "Um empreendedor consulta clientes, fornecedores e especialistas antes de decidir. Qual competência comportamental ele demonstra?",
+      "a": "Persistência",
+      "b": "Busca de informações",
+      "c": "Exigência de qualidade",
+      "d": "Independência e autoconfiança",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Busca de informações envolve coletar dados relevantes antes de tomar decisões importantes."
+    },
+    {
+      "q": "Na educação empreendedora, ensinar 'sobre' empreendedorismo significa:",
+      "a": "criar obrigatoriamente empresas reais em sala",
+      "b": "incubar startups sem conteúdo teórico",
+      "c": "transmitir conceitos e conhecimentos sobre o tema",
+      "d": "substituir aulas por atividades financeiras",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Ensinar sobre empreendedorismo é abordar conceitos, teorias e fundamentos de forma mais explicativa."
+    },
+    {
+      "q": "Na lógica do Effectuation, o princípio da perda aceitável significa que o empreendedor:",
+      "a": "define previamente quanto pode arriscar sem comprometer sua situação",
+      "b": "evita qualquer gasto antes de ter lucro garantido",
+      "c": "estima o retorno financeiro esperado",
+      "d": "transfere todo o risco para investidores externos",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "No Effectuation, o empreendedor define o limite de perda que aceita assumir, em vez de basear tudo no retorno esperado."
+    },
+    {
+      "q": "Uma empresa tradicional de táxis perde espaço para um aplicativo de transporte com novo modelo de serviço. Pela teoria de Schumpeter, isso representa:",
+      "a": "inovação de processo interno",
+      "b": "empreendedorismo por necessidade",
+      "c": "bricolagem de recursos locais",
+      "d": "destruição criativa",
+      "ans": "D",
+      "diff": "dificil",
+      "ex": "O novo modelo substitui parte do antigo, ilustrando a destruição criativa proposta por Schumpeter."
+    },
+    {
+      "q": "Qual é a diferença central entre Effectuation e Causation?",
+      "a": "Effectuation parte de metas; Causation, dos meios",
+      "b": "Effectuation parte dos meios; Causation, das metas",
+      "c": "As duas eliminam os riscos do negócio",
+      "d": "As duas seguem o mesmo tipo de planejamento",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Effectuation começa com os meios disponíveis; Causation começa com um objetivo definido."
+    },
+    {
+      "q": "Roberto patenteou um sensor na universidade e criou uma empresa com apoio institucional. Quais conceitos aparecem juntos?",
+      "a": "MEI e negócio informal",
+      "b": "MVP e propaganda institucional",
+      "c": "Spin-off acadêmico e universidade empreendedora",
+      "d": "Bricolagem e empreendedorismo por necessidade",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "A empresa nasce de pesquisa acadêmica e recebe apoio de uma universidade empreendedora."
+    },
+    {
+      "q": "Na Teoria do Comportamento Planejado, quando pessoas importantes dizem que empreender é arriscado demais, qual componente é afetado?",
+      "a": "Normas subjetivas",
+      "b": "Atitude operacional",
+      "c": "Proposta de valor",
+      "d": "Locus de controle interno",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "Normas subjetivas são a pressão social percebida sobre determinado comportamento."
+    },
+    {
+      "q": "Uma inovação muda a lógica do modelo de negócio de um setor inteiro. Nos 4Ps da inovação, ela se encaixa melhor em:",
+      "a": "produto",
+      "b": "processo",
+      "c": "posição",
+      "d": "paradigma",
+      "ans": "D",
+      "diff": "dificil",
+      "ex": "Paradigma envolve mudanças profundas na lógica, nos pressupostos e na forma de funcionamento de um setor."
+    },
+    {
+      "q": "Fernanda confia no próprio esforço, busca metas difíceis e persiste. Quais conceitos aparecem?",
+      "a": "MVP, Canvas e inovação incremental",
+      "b": "Locus interno, realização e persistência",
+      "c": "Causation, financiamento e escala",
+      "d": "Paradigma, spin-off e inovação radical",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "O caso combina crença no próprio controle, busca por realização e persistência."
+    },
+    {
+      "q": "Um empreendedor combina Effectuation e bricolagem. O que melhor descreve isso?",
+      "a": "Definir metas rígidas e comprar recursos",
+      "b": "Esperar o cenário ideal para iniciar",
+      "c": "Partir do que tem e criar soluções",
+      "d": "Copiar modelos consolidados do mercado",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Effectuation parte dos meios disponíveis; bricolagem aproveita recursos existentes de forma criativa."
+    },
+    {
+      "q": "No Canvas, como Proposta de Valor, Clientes e Receita se conectam?",
+      "a": "A proposta resolve uma necessidade, e o cliente paga por isso",
+      "b": "A receita define sozinha quais clientes serão atendidos",
+      "c": "Os clientes servem principalmente para calcular custos fixos",
+      "d": "A proposta de valor não afeta a receita",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "A proposta de valor atende uma necessidade do cliente, que gera receita ao pagar por esse valor."
+    },
+    {
+      "q": "Uma startup sobreviveu ao Vale da Morte, validou seu MVP e agora busca ampliar vendas, equipe e operação. Em qual etapa ela está?",
+      "a": "Identificação da oportunidade",
+      "b": "Ideação inicial",
+      "c": "Planejamento preliminar",
+      "d": "Desenvolvimento e crescimento",
+      "ans": "D",
+      "diff": "dificil",
+      "ex": "Depois de validar o produto e superar a fase crítica inicial, a empresa entra em desenvolvimento e crescimento."
+    }
+  ],
+  "marketing": [
+    {
+      "q": "Marketing serve principalmente para quê?",
+      "a": "Criar, comunicar e entregar valor ao cliente",
+      "b": "Organizar os níveis de estoque da empresa",
+      "c": "Controlar os impostos gerados pelas vendas",
+      "d": "Registrar as rotinas administrativas internas",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Marketing envolve criar, comunicar e entregar ofertas que gerem valor para clientes e organizações."
+    },
+    {
+      "q": "Qual dos itens abaixo faz parte dos 5Ps do Marketing?",
+      "a": "Patrimônio",
+      "b": "Produtividade",
+      "c": "Planejamento",
+      "d": "Praça",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Os 5Ps são Produto, Preço, Praça, Promoção e Pessoas."
+    },
+    {
+      "q": "No marketing, o que pode ser considerado um produto?",
+      "a": "Qualquer oferta que satisfaça uma necessidade",
+      "b": "Um bem físico vendido em loja",
+      "c": "Itens com marca reconhecida",
+      "d": "Mercadorias de alto valor agregado",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Produto pode ser um bem, serviço, experiência ou ideia oferecida para satisfazer necessidades."
+    },
+    {
+      "q": "Uma hamburgueria decide atender principalmente jovens universitários. Isso representa a definição de:",
+      "a": "Posicionamento",
+      "b": "Promoção",
+      "c": "Precificação",
+      "d": "Público-alvo",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Público-alvo é o grupo específico de consumidores que a empresa escolhe atender."
+    },
+    {
+      "q": "No mix de marketing, o P de Preço está relacionado a quê?",
+      "a": "Ao valor cobrado do cliente pela oferta",
+      "b": "Ao salário pago aos funcionários",
+      "c": "Ao custo contábil de todos os setores",
+      "d": "Ao lucro líquido depois dos impostos",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Preço é o valor pago pelo cliente e deve considerar custos, concorrência e valor percebido."
+    },
+    {
+      "q": "Quando uma loja faz uma ação do tipo 'leve 3, pague 2', qual P do marketing está mais evidente?",
+      "a": "Praça",
+      "b": "Pessoas",
+      "c": "Produto",
+      "d": "Promoção",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Promoção reúne ações de comunicação e incentivo que buscam estimular a compra."
+    },
+    {
+      "q": "O que a análise SWOT ajuda a avaliar?",
+      "a": "Forças, fraquezas, oportunidades e ameaças",
+      "b": "O comportamento dos concorrentes",
+      "c": "Os preços praticados no mercado",
+      "d": "O número ideal de funcionários da empresa",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "A SWOT, ou FOFA, analisa fatores internos e externos que afetam a estratégia da organização."
+    },
+    {
+      "q": "Uma academia oferece treino personalizado, e o atendimento dos instrutores é decisivo para a experiência do cliente. Qual P está em destaque?",
+      "a": "Preço",
+      "b": "Praça",
+      "c": "Produto",
+      "d": "Pessoas",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Pessoas representa os colaboradores que participam da entrega do serviço e influenciam a experiência do cliente."
+    },
+    {
+      "q": "O local ou canal pelo qual o cliente encontra e compra uma oferta corresponde a qual P?",
+      "a": "Promoção",
+      "b": "Preço",
+      "c": "Pessoas",
+      "d": "Praça",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Praça trata dos canais de distribuição e dos pontos de contato em que a oferta chega ao consumidor."
+    },
+    {
+      "q": "No contexto de marketing, o que é uma marca?",
+      "a": "O desenho visual do logotipo",
+      "b": "O preço final do produto",
+      "c": "O endereço comercial da empresa",
+      "d": "Um conjunto de sinais e significados que diferencia uma oferta",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Marca envolve nome, símbolos, identidade e percepções que diferenciam uma empresa ou produto."
+    },
+    {
+      "q": "Um café cria um programa de pontos para clientes frequentes. Essa ação busca principalmente:",
+      "a": "Segmentar o mercado",
+      "b": "Fazer pesquisa de mercado",
+      "c": "Reposicionar a marca",
+      "d": "Fidelizar clientes",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Fidelização busca manter clientes próximos, estimulando relacionamento e compras recorrentes."
+    },
+    {
+      "q": "Um produto recém-lançado, ainda pouco conhecido pelo público, está em qual fase do ciclo de vida?",
+      "a": "Crescimento",
+      "b": "Maturidade",
+      "c": "Declínio",
+      "d": "Introdução",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Na introdução, o produto acaba de entrar no mercado e ainda possui baixo reconhecimento."
+    },
+    {
+      "q": "Para que serve uma pesquisa de mercado?",
+      "a": "Coletar e analisar informações sobre consumidores, concorrentes e mercado",
+      "b": "Definir o salário dos vendedores",
+      "c": "Substituir completamente o planejamento de marketing",
+      "d": "Registrar formalmente a marca em cartório",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "A pesquisa de mercado fornece informações para reduzir incertezas e orientar decisões comerciais."
+    },
+    {
+      "q": "Na análise SWOT, oportunidades e ameaças pertencem a qual ambiente?",
+      "a": "Ambiente interno da empresa",
+      "b": "Ambiente externo à organização",
+      "c": "Departamento financeiro",
+      "d": "Equipe operacional",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "Oportunidades e ameaças são fatores externos; forças e fraquezas são fatores internos."
+    },
+    {
+      "q": "Qual é a ordem mais comum do ciclo de vida do produto?",
+      "a": "Crescimento, introdução, declínio e maturidade",
+      "b": "Declínio, introdução, crescimento e maturidade",
+      "c": "Maturidade, crescimento, introdução e declínio",
+      "d": "Introdução, crescimento, maturidade e declínio",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "O ciclo de vida normalmente segue as fases de introdução, crescimento, maturidade e declínio."
+    },
+    {
+      "q": "Uma padaria passa a vender também pela internet, além da loja física. O que ela está ampliando?",
+      "a": "Seu preço final",
+      "b": "Sua promoção institucional",
+      "c": "Seus canais de distribuição",
+      "d": "Seu mix de produtos",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Ao vender por outro canal, a empresa amplia a Praça, isto é, seus meios de distribuição e acesso ao cliente."
+    },
+    {
+      "q": "Uma empresa possui vantagem competitiva quando:",
+      "a": "Oferece diferenciais valorizados pelo cliente",
+      "b": "Imita todas as práticas dos concorrentes",
+      "c": "Busca vencer pelo menor preço do mercado",
+      "d": "Tem mais lojas que qualquer concorrente",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Vantagem competitiva ocorre quando a empresa possui atributos que a tornam preferida pelo consumidor."
+    },
+    {
+      "q": "O plano de marketing é uma ferramenta usada para:",
+      "a": "Analisar o mercado, definir metas e organizar ações",
+      "b": "Contratar funcionários para todos os setores",
+      "c": "Registrar pagamentos feitos a fornecedores",
+      "d": "Calcular o imposto de renda da empresa",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O plano de marketing organiza objetivos, estratégias e ações para atuação no mercado."
+    },
+    {
+      "q": "Uma empresa de cosméticos foca mulheres de 25 a 40 anos da classe B. Essa escolha representa:",
+      "a": "Segmentação de mercado",
+      "b": "Promoção de vendas",
+      "c": "Branding institucional",
+      "d": "Ciclo de vida do produto",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Segmentação divide o mercado em grupos com características semelhantes para direcionar melhor as ações."
+    },
+    {
+      "q": "Dados coletados diretamente pelo pesquisador, como entrevistas com clientes, são chamados de:",
+      "a": "Dados secundários",
+      "b": "Dados terciários",
+      "c": "Dados primários",
+      "d": "Dados estatísticos",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Dados primários são obtidos diretamente para a pesquisa; dados secundários já existiam em outras fontes."
+    },
+    {
+      "q": "Uma marca de tênis quer ser percebida como a mais inovadora do mercado. Esse esforço está ligado a:",
+      "a": "Posicionamento de mercado",
+      "b": "Precificação",
+      "c": "Distribuição física",
+      "d": "Controle de estoque",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Posicionamento é a forma como a marca busca ocupar um lugar distinto na mente do consumidor."
+    },
+    {
+      "q": "Um restaurante recebe elogios pela comida, mas muitas reclamações sobre atendimento. Na SWOT, o atendimento ruim é uma:",
+      "a": "Ameaça",
+      "b": "Oportunidade",
+      "c": "Fraqueza",
+      "d": "Força",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Fraqueza é um fator interno negativo, pois o atendimento depende da gestão e da equipe do próprio restaurante."
+    },
+    {
+      "q": "Uma loja virtual agrupa clientes por frequência de compra, valor gasto e hábitos de consumo. Que tipo de segmentação é essa?",
+      "a": "Geográfica",
+      "b": "Demográfica",
+      "c": "Psicográfica",
+      "d": "Comportamental",
+      "ans": "D",
+      "diff": "media",
+      "ex": "A segmentação comportamental considera padrões de compra, uso, frequência, lealdade e relacionamento com a marca."
+    },
+    {
+      "q": "Um produto tem vendas estáveis há anos, muitos concorrentes e pouca diferenciação. Em que fase ele está?",
+      "a": "Introdução",
+      "b": "Crescimento",
+      "c": "Maturidade",
+      "d": "Declínio",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Na maturidade, as vendas tendem a se estabilizar e a concorrência costuma ser mais intensa."
+    },
+    {
+      "q": "Uma empresa usa informações do IBGE para estudar a renda média de uma região. Esses dados são:",
+      "a": "Primários",
+      "b": "Secundários",
+      "c": "Experimentais",
+      "d": "Operacionais",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Dados secundários são informações já coletadas e disponibilizadas por outra fonte, como o IBGE."
+    },
+    {
+      "q": "Uma cafeteria cobra R$15 por um café especial, apoiando-se no ambiente premium e na experiência oferecida. Essa estratégia considera:",
+      "a": "O custo direto do café",
+      "b": "O menor preço possível",
+      "c": "O valor percebido pelo cliente",
+      "d": "O custo de ocupação do ponto comercial",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Preço baseado em valor percebido leva em conta o quanto o cliente atribui valor à experiência e à oferta."
+    },
+    {
+      "q": "Qual é a principal diferença entre promoção de vendas e propaganda?",
+      "a": "Promoção busca resposta mais imediata; propaganda fortalece imagem e lembrança",
+      "b": "Propaganda e promoção são exatamente a mesma coisa",
+      "c": "Promoção trabalha imagem; propaganda reduz preço",
+      "d": "Propaganda depende de meios tradicionais como televisão",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Promoção de vendas tende a incentivar compras no curto prazo, enquanto propaganda trabalha comunicação e imagem."
+    },
+    {
+      "q": "Uma startup descobre que uma nova lei favorece seu setor de atuação. Na SWOT, isso é uma:",
+      "a": "Força",
+      "b": "Fraqueza",
+      "c": "Oportunidade",
+      "d": "Ameaça",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Uma lei favorável é um fator externo positivo, portanto representa uma oportunidade."
+    },
+    {
+      "q": "Um e-commerce investe em embalagem, entrega rápida e atendimento via chat. Quais elementos estão sendo trabalhados?",
+      "a": "Produto, Praça e Pessoas",
+      "b": "Preço, Promoção e Praça",
+      "c": "Comunicação, preço e marca",
+      "d": "Produto e preço",
+      "ans": "A",
+      "diff": "media",
+      "ex": "A embalagem compõe a oferta, a entrega envolve distribuição e o atendimento depende das pessoas ou do suporte ao cliente."
+    },
+    {
+      "q": "Por que conhecer o comportamento do consumidor é importante para o marketing?",
+      "a": "Para entender fatores que influenciam a decisão de compra",
+      "b": "Para copiar as ações dos concorrentes",
+      "c": "Para aumentar preços sem alterar a oferta",
+      "d": "Para reduzir automaticamente o número de produtos",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Compreender o consumidor ajuda a ajustar produtos, comunicação, canais e preços às necessidades do público."
+    },
+    {
+      "q": "Uma marca de roupas divide clientes por estilo de vida: aventureiros, minimalistas e clássicos. Que tipo de segmentação está usando?",
+      "a": "Geográfica",
+      "b": "Demográfica",
+      "c": "Psicográfica",
+      "d": "Comportamental",
+      "ans": "C",
+      "diff": "media",
+      "ex": "A segmentação psicográfica considera estilo de vida, personalidade, valores e interesses."
+    },
+    {
+      "q": "Uma empresa possui equipe qualificada e tecnologia moderna, mas atua em um mercado em recessão. Como isso aparece na SWOT?",
+      "a": "Forças internas e ameaça externa",
+      "b": "Oportunidades e fraquezas",
+      "c": "Fraquezas internas e oportunidades",
+      "d": "Ameaças externas e custos operacionais",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Equipe e tecnologia são forças internas; recessão é uma ameaça externa."
+    },
+    {
+      "q": "Um salão de beleza treina seus funcionários para atender melhor e trabalhar com mais eficiência. Qual P está sendo melhorado?",
+      "a": "Produto",
+      "b": "Preço",
+      "c": "Praça",
+      "d": "Pessoas",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Treinar colaboradores melhora o P de Pessoas, essencial em serviços com contato direto com o cliente."
+    },
+    {
+      "q": "Uma empresa pretende lançar um produto e precisa estudar mercado, metas e ações. Qual ferramenta é mais adequada?",
+      "a": "Balanço patrimonial",
+      "b": "Plano de marketing",
+      "c": "Folha de pagamento",
+      "d": "Contrato social",
+      "ans": "B",
+      "diff": "media",
+      "ex": "O plano de marketing estrutura a análise do mercado e define estratégias para lançamento e crescimento."
+    },
+    {
+      "q": "Um influenciador digital divulga um produto nas redes sociais. Dentro do mix de marketing, essa ação se encaixa principalmente em:",
+      "a": "Praça",
+      "b": "Preço",
+      "c": "Promoção",
+      "d": "Produto",
+      "ans": "C",
+      "diff": "media",
+      "ex": "A divulgação por influenciadores é uma ação promocional voltada à comunicação e persuasão do público."
+    },
+    {
+      "q": "Uma empresa perde vendas porque um concorrente lançou uma solução melhor e mais barata. Na SWOT, esse concorrente representa:",
+      "a": "Uma fraqueza",
+      "b": "Uma ameaça",
+      "c": "Uma oportunidade",
+      "d": "Uma força",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Um concorrente forte é fator externo negativo, portanto é classificado como ameaça."
+    },
+    {
+      "q": "Branding vai além do logotipo porque envolve:",
+      "a": "Escolha de cores, fontes e identidade visual",
+      "b": "A construção de identidade, percepção e conexão com o público",
+      "c": "Campanhas feitas em canais de mídia",
+      "d": "A definição contábil do preço do produto",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Branding é a gestão da marca, incluindo identidade, percepção, reputação e vínculo com o público."
+    },
+    {
+      "q": "Um supermercado regional decide expandir para cidades vizinhas. Que critério de segmentação está mais evidente?",
+      "a": "Comportamental",
+      "b": "Demográfico",
+      "c": "Geográfico",
+      "d": "Psicográfico",
+      "ans": "C",
+      "diff": "media",
+      "ex": "A segmentação geográfica considera localização, região, cidade, bairro ou área de atuação."
+    },
+    {
+      "q": "Uma empresa de software oferece versão gratuita limitada e cobra pela versão completa. Qual P está sendo usado de forma estratégica?",
+      "a": "Praça",
+      "b": "Preço",
+      "c": "Pessoas",
+      "d": "Promoção",
+      "ans": "B",
+      "diff": "media",
+      "ex": "O modelo freemium é uma estratégia de preço: oferece acesso inicial gratuito para estimular conversão futura."
+    },
+    {
+      "q": "Um consumidor compra sempre a mesma marca de café sem pesquisar alternativas. Isso indica:",
+      "a": "Segmentação demográfica",
+      "b": "Compra habitual e fidelização",
+      "c": "Posicionamento da concorrência",
+      "d": "Análise SWOT",
+      "ans": "B",
+      "diff": "media",
+      "ex": "A repetição da compra sem busca ativa por alternativas pode indicar hábito e fidelidade à marca."
+    },
+    {
+      "q": "Uma farmácia cria balcão exclusivo para idosos, com atendimento humanizado. Quais elementos integra?",
+      "a": "Atendimento e rotina de loja",
+      "b": "Praça e promoção",
+      "c": "Serviço diferenciado, pessoas e segmentação",
+      "d": "Preço e distribuição",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "O balcão é um serviço diferenciado, a equipe representa Pessoas e o foco em idosos decorre da segmentação."
+    },
+    {
+      "q": "Uma empresa tem bom produto, preço competitivo e boa distribuição, mas o público quase não conhece a oferta. Qual P provavelmente está falhando?",
+      "a": "Produto",
+      "b": "Praça",
+      "c": "Preço",
+      "d": "Promoção",
+      "ans": "D",
+      "diff": "dificil",
+      "ex": "Quando a oferta é adequada, mas o público não a conhece, o problema costuma estar na comunicação e promoção."
+    },
+    {
+      "q": "Uma marca premium de chocolate artesanal passa a vender em supermercados populares para ganhar volume. Qual é o principal risco estratégico?",
+      "a": "Aumentar demais a margem de lucro",
+      "b": "Enfraquecer o posicionamento premium da marca",
+      "c": "Melhorar a distribuição do produto",
+      "d": "Atrair novos clientes fiéis",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Canais muito populares podem diluir a percepção de exclusividade e prejudicar o posicionamento premium."
+    },
+    {
+      "q": "Uma pesquisa usa dados do IBGE e entrevistas com clientes. Por que combinar os dois?",
+      "a": "Para ter só dados atualizados",
+      "b": "Para reduzir todo o custo da pesquisa",
+      "c": "Para unir contexto geral e informações específicas",
+      "d": "Para cumprir uma exigência legal",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Dados secundários dão panorama geral; entrevistas trazem informações específicas sobre o público da empresa."
+    },
+    {
+      "q": "Uma empresa percebe que seu produto entrou em declínio. Qual decisão tende a ser mais estratégica?",
+      "a": "Aumentar propaganda sem revisar a oferta",
+      "b": "Avaliar relançamento, reposicionamento ou descontinuação",
+      "c": "Manter tudo igual até a recuperação natural",
+      "d": "Dobrar o preço para compensar a queda",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Na fase de declínio, a empresa deve decidir se revitaliza, reposiciona ou retira o produto do mercado."
+    },
+    {
+      "q": "Duas marcas de tênis vendem produtos parecidos, pelo mesmo preço e nos mesmos canais. O que tende a pesar mais na escolha?",
+      "a": "O tamanho físico da fábrica",
+      "b": "O posicionamento e a percepção de marca",
+      "c": "A quantidade de funcionários administrativos",
+      "d": "O tipo de caixa usada no transporte",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Quando os demais fatores são semelhantes, a imagem da marca e seu posicionamento influenciam fortemente a decisão."
+    },
+    {
+      "q": "Por que combinar idade e localização na segmentação de mercado?",
+      "a": "Para reduzir o custo de produção",
+      "b": "Para eliminar a concorrência",
+      "c": "Para definir um público mais preciso",
+      "d": "Para aumentar preço sem justificativa",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Combinar critérios torna o público-alvo mais claro e melhora o direcionamento das ações de marketing."
+    },
+    {
+      "q": "Na SWOT, a empresa tem marca forte e mercado digital crescendo. Qual decisão faz mais sentido?",
+      "a": "Ignorar o digital, pois a marca já é forte",
+      "b": "Usar a marca para aproveitar o crescimento digital",
+      "c": "Corrigir fraquezas antes de vender online",
+      "d": "Esperar o mercado digital parar de crescer",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Cruzar forças com oportunidades indica usar capacidades internas para aproveitar possibilidades externas."
+    },
+    {
+      "q": "Um cliente escolhe uma marca de celular porque a associa a status e percebe que muitas pessoas do seu grupo a usam. Quais fatores aparecem nessa decisão?",
+      "a": "Preço e disponibilidade",
+      "b": "Influência social e percepção psicológica de status",
+      "c": "Qualidade técnica e especificações",
+      "d": "Distribuição do produto",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "A escolha envolve influência social do grupo e fatores psicológicos ligados à imagem e ao status."
+    },
+    {
+      "q": "Uma confeitaria artesanal não consegue competir por preço com grandes redes. Que estratégia ajuda mais?",
+      "a": "Copiar os produtos das grandes redes",
+      "b": "Reduzir qualidade para baixar custos",
+      "c": "Diferenciar produto, atendimento e nicho",
+      "d": "Abrir filiais rapidamente",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Quando competir por preço não é viável, a empresa pode ganhar força pela diferenciação, atendimento e foco em nicho."
+    }
+  ],
+  "financas": [
+    {
+      "q": "Se uma empresa paga mais dinheiro do que recebe em determinado mês, qual controle mostra esse problema primeiro?",
+      "a": "Fluxo de caixa",
+      "b": "Lucro contábil",
+      "c": "Patrimônio líquido",
+      "d": "Margem de contribuição",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O fluxo de caixa registra as entradas e saídas reais de dinheiro. Se as saídas superam as entradas, o caixa fica negativo."
+    },
+    {
+      "q": "Você investe R$10 mil em um negócio e deixa de ganhar 1% ao mês em outra aplicação. Que custo é esse?",
+      "a": "Custo fixo",
+      "b": "Custo de capital",
+      "c": "Custo de oportunidade",
+      "d": "Custo variável",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Custo de oportunidade é o benefício deixado de lado ao escolher uma alternativa em vez de outra."
+    },
+    {
+      "q": "O aluguel da loja custa R$3.000 por mês, independentemente da quantidade vendida. Que tipo de custo é esse?",
+      "a": "Fixo",
+      "b": "Variável",
+      "c": "Direto",
+      "d": "De oportunidade",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Custo fixo é aquele que não varia diretamente com o volume de produção ou vendas no curto prazo."
+    },
+    {
+      "q": "Uma empresa teve lucro, mas não tem caixa para pagar contas. Qual explicação faz sentido?",
+      "a": "Lucro contábil não significa dinheiro disponível",
+      "b": "A DRE substitui o controle de caixa",
+      "c": "Resultado positivo elimina atrasos de clientes",
+      "d": "Lucro e caixa são sempre equivalentes",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Lucro e caixa são conceitos diferentes. A empresa pode vender a prazo, registrar lucro e ainda não receber o dinheiro."
+    },
+    {
+      "q": "Como se chama o dinheiro necessário para pagar fornecedores, salários e despesas do dia a dia da empresa?",
+      "a": "Capital de giro",
+      "b": "Reserva de emergência",
+      "c": "Patrimônio líquido",
+      "d": "Investimento fixo",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Capital de giro é o conjunto de recursos usados para manter as operações diárias da empresa funcionando."
+    },
+    {
+      "q": "Quando o preço da gasolina sobe, mantendo os demais fatores constantes, qual é a tendência da quantidade demandada?",
+      "a": "Aumentar de forma proporcional",
+      "b": "Permanecer estável apesar da alta de preço",
+      "c": "Aumentar no curto prazo",
+      "d": "Diminuir",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Pela lei da demanda, quando o preço sobe, a quantidade demandada tende a cair, considerando os demais fatores constantes."
+    },
+    {
+      "q": "O PIB de um país mede, de forma geral:",
+      "a": "A produção de bens e serviços finais em determinado período",
+      "b": "A dívida total do governo",
+      "c": "A renda individual de cada cidadão",
+      "d": "A quantidade de empresas abertas no ano",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O PIB representa o valor dos bens e serviços finais produzidos em uma economia durante determinado período."
+    },
+    {
+      "q": "Uma pessoa investiu R$50 mil em um projeto e quer saber em quanto tempo recupera esse valor. Qual indicador responde a essa pergunta?",
+      "a": "VPL",
+      "b": "TIR",
+      "c": "Payback",
+      "d": "ROE",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "O payback calcula o tempo necessário para recuperar o investimento inicial por meio dos retornos gerados."
+    },
+    {
+      "q": "Na relação entre risco e retorno, um investimento mais arriscado normalmente exige:",
+      "a": "Menor expectativa de retorno",
+      "b": "Retorno semelhante ao de aplicações conservadoras",
+      "c": "Maior retorno esperado",
+      "d": "Ausência de retorno financeiro",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Quanto maior o risco assumido, maior tende a ser o retorno esperado pelo investidor como compensação."
+    },
+    {
+      "q": "No balanço patrimonial, as obrigações da empresa com bancos, fornecedores e impostos ficam registradas no:",
+      "a": "Passivo",
+      "b": "Ativo",
+      "c": "Patrimônio líquido",
+      "d": "Resultado operacional",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O passivo reúne as obrigações da empresa com terceiros, como dívidas, fornecedores, impostos e financiamentos."
+    },
+    {
+      "q": "Se a inflação está em 10% ao ano, o que isso significa na prática?",
+      "a": "O poder de compra do dinheiro diminuiu",
+      "b": "A renda de todos cresceu na mesma proporção",
+      "c": "A produção nacional aumentou 10%",
+      "d": "Os juros foram reduzidos no período",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Inflação é o aumento geral dos preços, reduzindo a quantidade de bens e serviços que o dinheiro consegue comprar."
+    },
+    {
+      "q": "Uma camiseta custa R$30 para produzir e é vendida por R$80. Considerando esse custo como variável, qual é a margem de contribuição unitária?",
+      "a": "R$80",
+      "b": "R$30",
+      "c": "R$50",
+      "d": "R$110",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Margem de contribuição unitária é o preço de venda menos o custo variável unitário: R$80 - R$30 = R$50."
+    },
+    {
+      "q": "Quando o governo altera impostos e gastos públicos para influenciar a economia, está usando qual tipo de política?",
+      "a": "Monetária",
+      "b": "Cambial",
+      "c": "Fiscal",
+      "d": "Comercial",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Política fiscal envolve decisões do governo sobre arrecadação de impostos e gastos públicos."
+    },
+    {
+      "q": "Qual relatório mostra se a empresa teve lucro ou prejuízo em determinado período?",
+      "a": "DRE",
+      "b": "Balanço Patrimonial",
+      "c": "Fluxo de caixa projetado",
+      "d": "Nota fiscal",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "A DRE, Demonstração do Resultado do Exercício, apresenta receitas, custos, despesas e o resultado final do período."
+    },
+    {
+      "q": "Quando o Banco Central aumenta a taxa básica de juros, ele está usando uma política:",
+      "a": "Monetária",
+      "b": "Fiscal",
+      "c": "Cambial",
+      "d": "Tributária",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Política monetária envolve instrumentos como juros e oferta de moeda para influenciar crédito, consumo e inflação."
+    },
+    {
+      "q": "No balanço patrimonial, o que resta quando se subtrai tudo que a empresa deve de tudo que ela possui?",
+      "a": "Lucro líquido",
+      "b": "Capital de giro",
+      "c": "Patrimônio líquido",
+      "d": "Receita bruta",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Patrimônio líquido é a diferença entre ativo e passivo, representando a parcela pertencente aos sócios."
+    },
+    {
+      "q": "A economia parte da ideia de que os recursos são limitados diante de desejos e necessidades amplos. Esse problema é chamado de:",
+      "a": "Escassez",
+      "b": "Inflação",
+      "c": "Deflação",
+      "d": "Recessão",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Escassez é o problema central da economia: recursos limitados para atender necessidades e desejos diversos."
+    },
+    {
+      "q": "A matéria-prima usada na produção aumenta conforme a fábrica produz mais unidades. Como esse custo é classificado?",
+      "a": "Fixo",
+      "b": "Indireto",
+      "c": "Variável",
+      "d": "Irrecuperável",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Custos variáveis acompanham o volume produzido ou vendido, como matéria-prima e comissões de venda."
+    },
+    {
+      "q": "Uma empresa vendeu R$100 mil no mês, mas recebeu R$40 mil à vista e deixou o restante a prazo. Qual valor entrou no fluxo de caixa do mês?",
+      "a": "R$100 mil",
+      "b": "R$40 mil",
+      "c": "R$60 mil",
+      "d": "R$140 mil",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "O fluxo de caixa registra o dinheiro efetivamente recebido. A parte vendida a prazo ainda não entrou no caixa."
+    },
+    {
+      "q": "O dólar subiu de R$5 para R$6. Para uma exportadora que recebe em dólar, isso tende a ser:",
+      "a": "Ruim, pois reduz o valor em reais",
+      "b": "Ruim, pois elimina a demanda externa",
+      "c": "Neutro, pois câmbio não afeta exportações",
+      "d": "Bom, pois aumenta o valor recebido em reais",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Com o dólar mais caro em reais, o exportador tende a receber mais reais pela mesma receita em dólar."
+    },
+    {
+      "q": "Uma empresa toma dinheiro emprestado a 8% ao ano e investe em um projeto com retorno esperado de 15% ao ano. Esse uso de capital de terceiros é exemplo de:",
+      "a": "Capital de giro",
+      "b": "Payback descontado",
+      "c": "Custo de oportunidade",
+      "d": "Alavancagem financeira",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Alavancagem financeira é o uso de capital de terceiros para tentar ampliar o retorno sobre o capital próprio."
+    },
+    {
+      "q": "Um projeto custa R$200 mil e gera R$50 mil por ano. Qual é o payback simples?",
+      "a": "2 anos",
+      "b": "3 anos",
+      "c": "4 anos",
+      "d": "5 anos",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Payback simples = investimento inicial / retorno anual. Assim, R$200.000 / R$50.000 = 4 anos."
+    },
+    {
+      "q": "No custeio por absorção, os custos fixos de fábrica são:",
+      "a": "Desconsiderados na formação do custo do produto",
+      "b": "Tratados como despesa administrativa do período",
+      "c": "Distribuídos entre os produtos fabricados",
+      "d": "Registrados diretamente no patrimônio líquido",
+      "ans": "C",
+      "diff": "media",
+      "ex": "No custeio por absorção, todos os custos de produção, fixos e variáveis, são incorporados aos produtos."
+    },
+    {
+      "q": "Uma padaria tem custo fixo mensal de R$6.000 e cada pão gera R$2 de margem de contribuição. Quantos pães precisa vender para atingir o ponto de equilíbrio?",
+      "a": "2.000",
+      "b": "6.000",
+      "c": "4.000",
+      "d": "3.000",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Ponto de equilíbrio = custos fixos / margem de contribuição unitária. R$6.000 / R$2 = 3.000 pães."
+    },
+    {
+      "q": "Se o VPL de um projeto é positivo, qual interpretação é mais adequada?",
+      "a": "O projeto gera valor acima da taxa mínima exigida",
+      "b": "O projeto recupera o investimento no primeiro ano",
+      "c": "O projeto tem risco financeiro nulo",
+      "d": "O projeto dispensa análise de caixa",
+      "ans": "A",
+      "diff": "media",
+      "ex": "VPL positivo indica que o projeto gera valor acima da taxa mínima de atratividade usada no cálculo."
+    },
+    {
+      "q": "No custeio por absorção, como os custos fixos são tratados?",
+      "a": "Ficam fora dos produtos",
+      "b": "Vão direto para impostos",
+      "c": "São ignorados no cálculo",
+      "d": "São incorporados aos produtos",
+      "ans": "D",
+      "diff": "media",
+      "ex": "No custeio por absorção, custos fixos de produção são rateados aos produtos. No variável, vão para o resultado do período."
+    },
+    {
+      "q": "A TIR de um projeto é 18% e a TMA da empresa é 12%. Considerando esse critério, qual decisão faz sentido?",
+      "a": "Rejeitar, porque a TIR supera a taxa exigida",
+      "b": "Aceitar com base no risco, sem considerar retorno",
+      "c": "Adiar a decisão, pois a TIR não pode ser comparada à TMA",
+      "d": "Aceitar, porque a TIR está acima da TMA",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Quando a TIR supera a TMA, o projeto promete retorno acima do mínimo exigido pela empresa."
+    },
+    {
+      "q": "Se o ciclo financeiro é de 45 dias, o que isso indica?",
+      "a": "A produção dura 45 dias",
+      "b": "O estoque sempre dura 45 dias",
+      "c": "A empresa lucra a cada 45 dias",
+      "d": "O caixa fica preso entre pagar e receber",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Ciclo financeiro é o intervalo entre o pagamento aos fornecedores e o recebimento dos clientes."
+    },
+    {
+      "q": "Uma empresa tem ROE de 20%. O que esse indicador mostra?",
+      "a": "O retorno obtido sobre o ativo total",
+      "b": "A participação do passivo no ativo",
+      "c": "O crescimento percentual da receita",
+      "d": "O lucro gerado em relação ao patrimônio dos sócios",
+      "ans": "D",
+      "diff": "media",
+      "ex": "ROE é o retorno sobre o patrimônio líquido. Ele mede quanto lucro foi gerado em relação ao capital dos sócios."
+    },
+    {
+      "q": "Uma startup recebe recursos de um fundo que passa a ser sócio em troca de participação na empresa. Esse tipo de investimento é chamado de:",
+      "a": "Empréstimo bancário",
+      "b": "Leasing",
+      "c": "Financiamento público",
+      "d": "Venture capital",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Venture capital é investimento em empresas com potencial de crescimento, normalmente em troca de participação societária."
+    },
+    {
+      "q": "Se a oferta de um produto aumenta e a demanda permanece igual, qual tende a ser o efeito sobre o preço?",
+      "a": "Subir",
+      "b": "Permanecer sem alteração por regra",
+      "c": "Cair",
+      "d": "Acompanhar diretamente a inflação",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Com maior oferta e demanda constante, pode haver excesso de produto no mercado, pressionando o preço para baixo."
+    },
+    {
+      "q": "Uma fábrica tem ROA de 10% e ROE de 25%. Essa diferença sugere, principalmente, que a empresa:",
+      "a": "Opera sem capital de terceiros",
+      "b": "Não possui estrutura de ativos relevante",
+      "c": "Está sem resultado operacional",
+      "d": "Usa capital de terceiros para amplificar o retorno dos sócios",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Quando o ROE é muito maior que o ROA, é comum haver uso de alavancagem, aumentando o retorno sobre o capital próprio."
+    },
+    {
+      "q": "No custeio ABC, os custos indiretos são alocados com base em:",
+      "a": "Percentual fixo sobre a receita",
+      "b": "Tamanho físico de cada setor",
+      "c": "Número total de funcionários",
+      "d": "Atividades que consomem recursos",
+      "ans": "D",
+      "diff": "media",
+      "ex": "O custeio ABC aloca custos indiretos conforme as atividades realizadas e os recursos consumidos por elas."
+    },
+    {
+      "q": "Uma empresa compra matéria-prima a prazo de 30 dias, produz em 15 dias e vende à vista. Como fica seu ciclo financeiro?",
+      "a": "Positivo em 45 dias",
+      "b": "Positivo em 30 dias",
+      "c": "Positivo em 15 dias",
+      "d": "Negativo, pois ela recebe antes de pagar o fornecedor",
+      "ans": "D",
+      "diff": "media",
+      "ex": "A empresa recebe no dia 15 e paga o fornecedor no dia 30. Portanto, recebe antes de pagar."
+    },
+    {
+      "q": "Na análise CVL, se o preço de venda cai e os custos permanecem iguais, o que tende a acontecer com o ponto de equilíbrio?",
+      "a": "Diminuir",
+      "b": "Permanecer no mesmo nível",
+      "c": "Aumentar",
+      "d": "Perder relação com os custos fixos",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Com preço menor, a margem de contribuição diminui; por isso, é preciso vender mais unidades para cobrir os custos fixos."
+    },
+    {
+      "q": "Se o custo de capital de uma empresa é 14%, o que isso representa para a análise de projetos?",
+      "a": "A taxa de lucro já obtida pela empresa",
+      "b": "A remuneração mínima esperada para compensar as fontes de financiamento",
+      "c": "O percentual fixo dos juros bancários",
+      "d": "A participação do patrimônio líquido no ativo",
+      "ans": "B",
+      "diff": "media",
+      "ex": "O custo de capital funciona como uma taxa mínima de retorno exigida para remunerar credores e sócios."
+    },
+    {
+      "q": "Qual situação indica risco de falta de capital de giro mesmo com lucro contábil?",
+      "a": "Vendas crescendo com recebimentos à vista",
+      "b": "Clientes pagando em 90 dias enquanto fornecedores cobram em 30 dias",
+      "c": "Redução dos custos fixos operacionais",
+      "d": "Estoque baixo e recebimentos imediatos",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Quando a empresa paga antes de receber, o crescimento das vendas pode aumentar a necessidade de dinheiro no caixa."
+    },
+    {
+      "q": "Quando o governo reduz a taxa básica de juros, qual efeito econômico é esperado?",
+      "a": "Redução do consumo e do investimento",
+      "b": "Estímulo ao consumo e ao investimento pelo crédito mais barato",
+      "c": "Queda imediata e garantida da inflação",
+      "d": "Valorização da moeda nacional",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Juros menores tendem a baratear o crédito, estimulando consumo, investimento e atividade econômica."
+    },
+    {
+      "q": "No balanço patrimonial, qual é a equação fundamental da contabilidade?",
+      "a": "Receita = Custo + Lucro",
+      "b": "Ativo = Passivo + Patrimônio Líquido",
+      "c": "Lucro = Receita - Despesa",
+      "d": "Caixa = Entradas - Saídas",
+      "ans": "B",
+      "diff": "media",
+      "ex": "A equação patrimonial mostra que os ativos são financiados por capital de terceiros, no passivo, ou por capital próprio, no patrimônio líquido."
+    },
+    {
+      "q": "Dois projetos exigem o mesmo investimento. O Projeto A tem VPL de R$50 mil e o Projeto B tem VPL de R$80 mil. Qual escolha é mais coerente?",
+      "a": "Projeto A, por gerar menor exposição",
+      "b": "Projeto B, por criar mais valor",
+      "c": "Os dois, sem comparar recursos disponíveis",
+      "d": "Nenhum, pois o VPL não basta para decidir",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Com investimentos equivalentes, o projeto com maior VPL gera mais valor econômico para a empresa."
+    },
+    {
+      "q": "Se a empresa produz mais do que vende, qual custeio tende a mostrar maior lucro?",
+      "a": "Variável, por transferir fixos ao estoque",
+      "b": "Absorção, por manter parte dos fixos no estoque",
+      "c": "Ambos, pois reconhecem custos juntos",
+      "d": "Variável, por elevar a margem de contribuição",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "No custeio por absorção, parte dos custos fixos das unidades não vendidas fica no estoque, reduzindo o custo no resultado."
+    },
+    {
+      "q": "Se a TIR de um projeto é 15% e a TMA sobe para 16%, qual deve ser a decisão?",
+      "a": "Aceitar, pois a TIR continua positiva",
+      "b": "Rejeitar, pois a TIR ficou abaixo da TMA",
+      "c": "Aceitar, pois o VPL tende a aumentar",
+      "d": "Comparar com o prazo de retorno do projeto",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Quando a TMA fica acima da TIR, o projeto não atinge o retorno mínimo exigido e o VPL calculado nessa taxa tende a ser negativo."
+    },
+    {
+      "q": "Em uma empresa muito alavancada, o que acontece se o retorno dos ativos fica menor que o custo da dívida?",
+      "a": "O ROE tende a melhorar pela proteção da dívida",
+      "b": "Os juros deixam de afetar o resultado",
+      "c": "A alavancagem pode ampliar as perdas dos sócios",
+      "d": "O ROA passa a ser igual ao ROE",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "A alavancagem amplia ganhos quando o retorno supera o custo da dívida, mas também amplia perdas quando ocorre o contrário."
+    },
+    {
+      "q": "Dois projetos entram em conflito: um tem VPL maior, outro tem TIR maior. Qual critério é mais confiável?",
+      "a": "TIR, por ser uma porcentagem",
+      "b": "VPL, por medir valor criado em reais",
+      "c": "Payback, por focar no prazo",
+      "d": "Lucro contábil, por substituir o caixa",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "O VPL é mais confiável em projetos mutuamente exclusivos porque mede o valor econômico gerado."
+    },
+    {
+      "q": "Se o ciclo operacional é de 90 dias e o fornecedor passa a dar 120 dias para pagamento, como fica o ciclo financeiro?",
+      "a": "Negativo, pois a empresa recebe antes de pagar",
+      "b": "Positivo em 30 dias",
+      "c": "Maior, exigindo mais capital de giro",
+      "d": "Igual ao ciclo operacional",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "Ciclo financeiro = ciclo operacional - prazo médio de pagamento. Com 90 - 120 = -30 dias, a empresa recebe antes de pagar."
+    },
+    {
+      "q": "Na análise CVL, uma empresa opera com margem de segurança de 5%. O que isso revela?",
+      "a": "A empresa tem ampla folga antes do prejuízo",
+      "b": "Uma queda pequena nas vendas já pode levar ao prejuízo",
+      "c": "O lucro representa 5% da receita total",
+      "d": "Os custos fixos correspondem a 5% dos custos totais",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Margem de segurança é a folga entre as vendas atuais e o ponto de equilíbrio. Quanto menor a folga, maior o risco operacional."
+    },
+    {
+      "q": "O governo aumenta gastos públicos, mas o Banco Central sobe os juros. Que combinação de efeitos isso cria?",
+      "a": "Estímulo fiscal com crédito mais caro",
+      "b": "Crescimento econômico sem pressão inflacionária",
+      "c": "Equilíbrio automático entre as duas políticas",
+      "d": "Queda imediata da taxa de câmbio",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "A política fiscal expansionista estimula a demanda, enquanto a política monetária restritiva encarece o crédito e busca conter pressões inflacionárias."
+    },
+    {
+      "q": "Como o custeio ABC pode revelar que um produto aparentemente lucrativo dá prejuízo?",
+      "a": "Ignorando os custos indiretos",
+      "b": "Eliminando os custos diretos",
+      "c": "Mostrando alto consumo de atividades de suporte",
+      "d": "Alterando o preço de venda do produto",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "O ABC mostra quais atividades consomem recursos. Um produto pode parecer lucrativo no rateio tradicional e revelar alto custo indireto no ABC."
+    },
+    {
+      "q": "Um projeto tem payback curto, mas VPL negativo e TIR menor que a TMA. Ele deve ser aceito?",
+      "a": "Sim, porque recupera rápido o investimento",
+      "b": "Sim, se tiver baixo risco operacional",
+      "c": "Não, porque destrói valor para a empresa",
+      "d": "Depende do fluxo de caixa inicial",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Payback curto não basta. VPL negativo e TIR abaixo da TMA indicam que o projeto não remunera adequadamente o capital."
+    },
+    {
+      "q": "Uma empresa cresce 40% ao ano, registra lucro contábil, mas fica próxima de quebrar por falta de caixa. Qual conceito explica melhor esse problema?",
+      "a": "Ponto de equilíbrio operacional",
+      "b": "Efeito tesoura",
+      "c": "Alavancagem operacional",
+      "d": "Custeio por absorção",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "O efeito tesoura ocorre quando o crescimento aumenta a necessidade de capital de giro mais rapidamente do que a geração de caixa."
+    }
+  ],
+  "operacoes": [
+    {
+      "q": "Em gestão de processos, o que acontece com as entradas de um processo?",
+      "a": "São transformadas em saídas com valor agregado",
+      "b": "São arquivadas para consulta gerencial",
+      "c": "São usadas para definir cargos da equipe",
+      "d": "São separadas por área funcional",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Um processo reúne atividades que transformam entradas em saídas, gerando valor para clientes internos ou externos."
+    },
+    {
+      "q": "No ciclo PDCA, qual é o significado da etapa 'C'?",
+      "a": "Criar um novo padrão de trabalho",
+      "b": "Controlar os custos da operação",
+      "c": "Verificar os resultados obtidos",
+      "d": "Corrigir a equipe responsável",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "PDCA significa Plan, Do, Check, Act. A etapa Check verifica se os resultados estão de acordo com o planejado."
+    },
+    {
+      "q": "Qual ferramenta apresenta fornecedores, entradas, processo, saídas e clientes em uma visão resumida?",
+      "a": "Matriz RACI",
+      "b": "SIPOC",
+      "c": "Gráfico de Gantt",
+      "d": "Modelo de Kano",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "SIPOC organiza Suppliers, Inputs, Process, Outputs e Customers, oferecendo uma visão geral do processo."
+    },
+    {
+      "q": "Qual característica diferencia um projeto de uma operação contínua?",
+      "a": "Ter atividades executadas por uma equipe",
+      "b": "Gerar entregas relevantes para a organização",
+      "c": "Consumir recursos financeiros e humanos",
+      "d": "Ter início e fim definidos",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Projeto é um esforço temporário, com começo e fim definidos, criado para gerar uma entrega específica."
+    },
+    {
+      "q": "Na Matriz RACI, a letra 'A' indica quem tem qual papel?",
+      "a": "Responder pelo resultado final da atividade",
+      "b": "Executar diretamente a tarefa planejada",
+      "c": "Ser consultado antes da decisão",
+      "d": "Receber informações sobre o andamento",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O 'A' representa Accountable, ou seja, a pessoa que responde pelo resultado final da atividade."
+    },
+    {
+      "q": "Para que serve o Gráfico de Gantt em um projeto?",
+      "a": "Medir a satisfação dos clientes",
+      "b": "Dividir responsabilidades entre cargos",
+      "c": "Visualizar atividades ao longo do tempo",
+      "d": "Classificar riscos por gravidade",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "O Gráfico de Gantt mostra as atividades em uma linha do tempo, facilitando o acompanhamento do cronograma."
+    },
+    {
+      "q": "A sigla VOC, usada em melhoria de processos, está relacionada a qual ideia?",
+      "a": "Volume operacional controlado",
+      "b": "Valor obtido pelo consumidor",
+      "c": "Validação objetiva de custos",
+      "d": "Voz do Cliente",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "VOC significa Voice of the Customer, ou Voz do Cliente, e representa necessidades, reclamações e expectativas do público atendido."
+    },
+    {
+      "q": "A EAP, também chamada de WBS, é usada principalmente para:",
+      "a": "Calcular indicadores financeiros do projeto",
+      "b": "Decompor o escopo em entregas menores",
+      "c": "Registrar a autoridade formal dos cargos",
+      "d": "Definir o posicionamento estratégico da empresa",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "A Estrutura Analítica do Projeto divide o escopo em partes menores, facilitando planejamento, estimativas e controle."
+    },
+    {
+      "q": "Qual modelo classifica atributos de qualidade em obrigatórios, lineares e atrativos?",
+      "a": "Modelo de Kano",
+      "b": "Ciclo PDCA",
+      "c": "Matriz RACI",
+      "d": "Análise SIPOC",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O Modelo de Kano ajuda a entender como diferentes atributos influenciam a satisfação do cliente."
+    },
+    {
+      "q": "Na hierarquia de processos, o que é um macroprocesso?",
+      "a": "Uma tarefa operacional feita por uma pessoa",
+      "b": "Uma atividade simples dentro de um setor",
+      "c": "Um conjunto amplo que engloba vários processos",
+      "d": "Um indicador usado para medir produtividade",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Macroprocesso é um nível amplo da gestão por processos, composto por processos relacionados."
+    },
+    {
+      "q": "BPMN é uma notação utilizada para qual finalidade?",
+      "a": "Comparar custos de diferentes projetos",
+      "b": "Avaliar competências individuais da equipe",
+      "c": "Priorizar investimentos financeiros",
+      "d": "Modelar processos de negócio",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "BPMN é uma notação gráfica padronizada para representar processos de negócio."
+    },
+    {
+      "q": "Em gestão de projetos, quem pode ser considerado stakeholder?",
+      "a": "Parte interessada que afeta ou é afetada pelo projeto",
+      "b": "Pessoa responsável por assinar contratos financeiros",
+      "c": "Integrante da equipe técnica do projeto",
+      "d": "Cliente que recebe a entrega final",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Stakeholders incluem pessoas ou grupos que podem influenciar o projeto ou sofrer seus impactos."
+    },
+    {
+      "q": "O mapeamento AS-IS representa qual visão do processo?",
+      "a": "O desenho ideal que será implantado",
+      "b": "A forma como o processo funciona atualmente",
+      "c": "A meta de desempenho desejada",
+      "d": "O plano de ação da melhoria",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "AS-IS representa o estado atual do processo. TO-BE representa o estado futuro desejado."
+    },
+    {
+      "q": "Um objetivo SMART deve ter, entre outras características:",
+      "a": "Linguagem ampla e flexível",
+      "b": "Foco em intenção geral da equipe",
+      "c": "Critério mensurável e prazo definido",
+      "d": "Definição aberta para adaptação futura",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "SMART envolve objetivos específicos, mensuráveis, alcançáveis, relevantes e com prazo definido."
+    },
+    {
+      "q": "O que é um PMO dentro de uma organização?",
+      "a": "Um método de controle de estoque",
+      "b": "Um modelo de análise de processos",
+      "c": "Um painel de metas operacionais",
+      "d": "Um escritório de gerenciamento de projetos",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "PMO significa Project Management Office, estrutura que apoia e padroniza a gestão de projetos."
+    },
+    {
+      "q": "A sigla CTQ é usada para:",
+      "a": "Transformar necessidades do cliente em métricas de qualidade",
+      "b": "Organizar a sequência de atividades do cronograma",
+      "c": "Avaliar a autoridade de cada participante",
+      "d": "Classificar projetos por retorno financeiro",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "CTQ significa Critical to Quality e traduz a voz do cliente em características críticas e mensuráveis."
+    },
+    {
+      "q": "O Scrum é um exemplo de abordagem:",
+      "a": "Linear, com entregas concentradas no encerramento",
+      "b": "Documental, com foco principal em registros formais",
+      "c": "Ágil, iterativa e incremental",
+      "d": "Departamental, voltada à hierarquia funcional",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Scrum trabalha com ciclos curtos, chamados sprints, para gerar entregas incrementais."
+    },
+    {
+      "q": "No contexto organizacional, BPM significa:",
+      "a": "Basic Planning Methodology",
+      "b": "Business Process Management",
+      "c": "Business Project Model",
+      "d": "Budget Performance Measurement",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "BPM significa Business Process Management, ou Gestão de Processos de Negócio."
+    },
+    {
+      "q": "Na hierarquia de processos, qual nível costuma ser o mais detalhado?",
+      "a": "Macroprocesso",
+      "b": "Processo",
+      "c": "Subprocesso",
+      "d": "Tarefa",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "A hierarquia costuma seguir macroprocesso, processo, subprocesso, atividade e tarefa. A tarefa é o nível mais detalhado."
+    },
+    {
+      "q": "O que diferencia um programa de um projeto isolado?",
+      "a": "Reúne projetos relacionados para gerar benefícios coordenados",
+      "b": "Tem menor complexidade e menor número de entregas",
+      "c": "Dispensa acompanhamento de custos e prazos",
+      "d": "É usado em rotinas operacionais repetitivas",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Programa é um conjunto de projetos relacionados, gerenciados de forma coordenada para ampliar benefícios."
+    },
+    {
+      "q": "Uma padaria quer reduzir o tempo de espera dos clientes usando PDCA. Qual deve ser o primeiro movimento?",
+      "a": "Trocar a equipe antes de medir o problema",
+      "b": "Planejar, analisando causas e definindo metas",
+      "c": "Verificar resultados sem mudar o processo",
+      "d": "Padronizar uma solução ainda não testada",
+      "ans": "B",
+      "diff": "media",
+      "ex": "O PDCA começa pelo Plan: entender o problema, analisar causas, definir metas e planejar ações."
+    },
+    {
+      "q": "Uma empresa mapeou seu processo atual e encontrou gargalos no atendimento. Que tipo de mapeamento foi feito?",
+      "a": "TO-BE",
+      "b": "RACI",
+      "c": "AS-IS",
+      "d": "SMART",
+      "ans": "C",
+      "diff": "media",
+      "ex": "AS-IS descreve o processo como ele funciona hoje, permitindo identificar gargalos e pontos de melhoria."
+    },
+    {
+      "q": "No Modelo de Kano, como é chamado um atributo que o cliente não esperava, mas que aumenta muito sua satisfação?",
+      "a": "Básico",
+      "b": "Linear",
+      "c": "Obrigatório",
+      "d": "Atrativo",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Atributo atrativo surpreende positivamente o cliente e gera encantamento."
+    },
+    {
+      "q": "Qual é a diferença entre Gestão DE Processos e Gestão POR Processos?",
+      "a": "Uma melhora processos isolados; a outra orienta a empresa por processos",
+      "b": "Uma usa indicadores; a outra dispensa indicadores",
+      "c": "Uma trata projetos; a outra trata documentos",
+      "d": "Uma depende de tecnologia; a outra dispensa gestão",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Gestão DE Processos melhora processos específicos; Gestão POR Processos orienta a organização por processos ponta a ponta."
+    },
+    {
+      "q": "O caminho crítico de um projeto representa:",
+      "a": "As atividades com maior custo de execução",
+      "b": "As tarefas com maior número de responsáveis",
+      "c": "A sequência que define a menor duração possível do projeto",
+      "d": "O conjunto de riscos com maior impacto financeiro",
+      "ans": "C",
+      "diff": "media",
+      "ex": "O caminho crítico é a sequência de atividades que determina a duração mínima do projeto. Atrasos nele afetam o prazo final."
+    },
+    {
+      "q": "Em um projeto de reforma de loja, quem representa o 'I' na Matriz RACI?",
+      "a": "Quem executa a atividade planejada",
+      "b": "Quem responde pelo aceite da entrega",
+      "c": "Quem é ouvido antes da decisão",
+      "d": "Quem deve receber informações sobre o andamento",
+      "ans": "D",
+      "diff": "media",
+      "ex": "O 'I' representa Informed: pessoa ou grupo que precisa ser informado, sem executar ou aprovar a tarefa."
+    },
+    {
+      "q": "Uma fábrica percebe pequenas variações de tamanho nas peças mesmo com a máquina regulada. Isso indica qual tipo de causa?",
+      "a": "Causa especial",
+      "b": "Causa comum",
+      "c": "Falha de escopo",
+      "d": "Risco externo",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Causas comuns são variações naturais do processo, presentes mesmo quando ele está sob controle."
+    },
+    {
+      "q": "O Project Model Canvas é uma ferramenta usada para:",
+      "a": "Planejar projetos de forma visual e colaborativa",
+      "b": "Substituir a análise de todos os riscos do projeto",
+      "c": "Registrar custos contábeis da operação",
+      "d": "Controlar a qualidade de produtos industriais",
+      "ans": "A",
+      "diff": "media",
+      "ex": "O Project Model Canvas organiza elementos centrais de um projeto em uma visão visual e colaborativa."
+    },
+    {
+      "q": "Em uma organização, o processo de Gestão de Pessoas costuma ser classificado como:",
+      "a": "Processo primário de entrega ao cliente",
+      "b": "Projeto temporário de melhoria interna",
+      "c": "Processo de apoio ou suporte",
+      "d": "Tarefa individual de controle operacional",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Gestão de Pessoas dá suporte aos processos principais, mas não entrega diretamente o produto ou serviço final ao cliente."
+    },
+    {
+      "q": "Em gestão de projetos, a Curva S mostra principalmente:",
+      "a": "A satisfação do cliente em cada fase",
+      "b": "A curva de aprendizagem da equipe",
+      "c": "A quantidade de riscos por área",
+      "d": "O avanço acumulado comparado ao planejado",
+      "ans": "D",
+      "diff": "media",
+      "ex": "A Curva S compara avanço planejado e realizado ao longo do tempo, mostrando desvios de cronograma ou execução."
+    },
+    {
+      "q": "Uma lanchonete coleta reclamações de clientes sobre demora, fritura fria e atendimento grosseiro. Isso é exemplo de:",
+      "a": "VOC",
+      "b": "CTQ",
+      "c": "KPI",
+      "d": "RACI",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Coletar reclamações, expectativas e percepções dos clientes é uma forma prática de levantar a Voz do Cliente."
+    },
+    {
+      "q": "Após ouvir que clientes reclamam de demora na entrega, a empresa define a métrica 'entregar em até 30 minutos'. Essa métrica é um exemplo de:",
+      "a": "VOC",
+      "b": "CTQ",
+      "c": "SIPOC",
+      "d": "BPMN",
+      "ans": "B",
+      "diff": "media",
+      "ex": "O CTQ transforma uma necessidade do cliente em uma métrica objetiva, mensurável e controlável."
+    },
+    {
+      "q": "O Manifesto Ágil valoriza mais:",
+      "a": "Documentação extensa do que colaboração diária",
+      "b": "Contratos rígidos do que adaptação ao cliente",
+      "c": "Indivíduos e interações do que processos e ferramentas",
+      "d": "Controle hierárquico do que autonomia da equipe",
+      "ans": "C",
+      "diff": "media",
+      "ex": "O Manifesto Ágil valoriza indivíduos e interações, software funcionando, colaboração com o cliente e resposta a mudanças."
+    },
+    {
+      "q": "Um portfólio de projetos pode ser entendido como:",
+      "a": "Um cronograma detalhado de atividades",
+      "b": "Um projeto grande dividido em etapas",
+      "c": "Um programa sem relação com estratégia",
+      "d": "Um conjunto de projetos e programas alinhados a objetivos estratégicos",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Portfólio reúne projetos e programas escolhidos e gerenciados conforme prioridades estratégicas da organização."
+    },
+    {
+      "q": "Uma máquina que funcionava bem começa a produzir peças defeituosas por causa de um componente desgastado. Isso é exemplo de:",
+      "a": "Causa especial",
+      "b": "Causa comum",
+      "c": "Variação esperada",
+      "d": "Atributo atrativo",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Causa especial é uma variação pontual, identificável e fora do comportamento normal do processo."
+    },
+    {
+      "q": "Na Cadeia de Valor, processos primários são aqueles que:",
+      "a": "Padronizam documentos administrativos",
+      "b": "Entregam valor diretamente ao cliente final",
+      "c": "Apoiam áreas internas de suporte",
+      "d": "Monitoram indicadores financeiros internos",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Processos primários estão ligados diretamente à criação, produção, entrega ou atendimento ao cliente."
+    },
+    {
+      "q": "Um gerente identifica possibilidade de chuva durante uma obra e planeja coberturas provisórias. Ele está praticando:",
+      "a": "Controle de mudanças",
+      "b": "Decomposição do escopo",
+      "c": "Gerenciamento de riscos",
+      "d": "Modelagem BPMN",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Gerenciar riscos envolve identificar eventos incertos, avaliar impactos e planejar respostas."
+    },
+    {
+      "q": "O ciclo de vida preditivo de um projeto se caracteriza por:",
+      "a": "Backlog adaptado continuamente a cada sprint",
+      "b": "Entregas incrementais com escopo variável",
+      "c": "Decisões tomadas sem planejamento inicial",
+      "d": "Fases sequenciais com escopo definido no início",
+      "ans": "D",
+      "diff": "media",
+      "ex": "No ciclo preditivo, escopo, prazo e custo são definidos no início e o projeto segue fases sequenciais."
+    },
+    {
+      "q": "Para que serve um KPI em uma organização?",
+      "a": "Medir desempenho em relação a metas importantes",
+      "b": "Desenhar fluxos de processo em notação gráfica",
+      "c": "Dividir responsabilidades entre membros da equipe",
+      "d": "Listar fornecedores, entradas e saídas do processo",
+      "ans": "A",
+      "diff": "media",
+      "ex": "KPI significa Key Performance Indicator e mede o desempenho em relação a objetivos ou metas relevantes."
+    },
+    {
+      "q": "O controle de mudanças em projetos tem como finalidade:",
+      "a": "Transferir todas as decisões para a equipe técnica",
+      "b": "Avaliar, aprovar ou rejeitar alterações de forma controlada",
+      "c": "Eliminar revisões de escopo durante a execução",
+      "d": "Trocar responsáveis quando surgem atrasos",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Controle de mudanças avalia impactos em prazo, custo, escopo e qualidade antes de aprovar alterações."
+    },
+    {
+      "q": "Na Matriz Impacto/Viabilidade, uma ação de alto impacto e alta viabilidade deve ser:",
+      "a": "Arquivada para análise futura",
+      "b": "Tratada como melhoria secundária",
+      "c": "Priorizada na execução",
+      "d": "Rejeitada por exigir gestão",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Ações com alto impacto e alta viabilidade devem ser priorizadas, pois combinam relevância e boa chance de execução."
+    },
+    {
+      "q": "Uma empresa redesenhou o processo de atendimento, mas depois da implantação a equipe voltou aos hábitos antigos. Qual etapa do PDCA provavelmente falhou?",
+      "a": "Plan",
+      "b": "Do",
+      "c": "Check",
+      "d": "Act",
+      "ans": "D",
+      "diff": "dificil",
+      "ex": "A etapa Act consolida, padroniza e sustenta melhorias. Quando o processo volta ao padrão antigo, faltou estabilizar a mudança."
+    },
+    {
+      "q": "Um hotel promete quarto limpo, mas usa como CTQ 'limpar em até 20 minutos'. Qual é o problema?",
+      "a": "Mede velocidade, não limpeza percebida",
+      "b": "Usa um indicador com unidade de tempo",
+      "c": "Depende da equipe de governança",
+      "d": "Está ligado a uma rotina operacional",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "O CTQ deve refletir o que o cliente valoriza. Nesse caso, o foco deveria ser a limpeza percebida ou verificada, não o tempo gasto."
+    },
+    {
+      "q": "Se o gerente reduz uma atividade fora do caminho crítico, o prazo total do projeto muda?",
+      "a": "Sim, cai na mesma proporção",
+      "b": "Não, se a folga ainda existir",
+      "c": "Sim, pois a equipe fica menor",
+      "d": "Depende do custo da atividade",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Reduzir atividades fora do caminho crítico não reduz o prazo total enquanto essas atividades ainda tiverem folga."
+    },
+    {
+      "q": "Uma atividade na Matriz RACI tem três pessoas como 'R' e nenhuma como 'A'. Qual é o principal risco?",
+      "a": "A atividade ficar mais cara pela duplicação de ferramentas",
+      "b": "A equipe consultar muitas pessoas antes de agir",
+      "c": "A responsabilidade final ficar confusa ou diluída",
+      "d": "O cronograma perder todas as suas dependências",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "A Matriz RACI precisa deixar claro quem executa e quem responde pelo resultado. Sem 'A', a responsabilização final fica fraca."
+    },
+    {
+      "q": "Um KPI mostra atendimento médio de 10 minutos, mas alguns clientes esperam 40. Qual é o problema?",
+      "a": "O KPI deveria medir custos",
+      "b": "A meta foi definida tarde demais",
+      "c": "O processo não tem variação",
+      "d": "A média pode esconder grandes esperas",
+      "ans": "D",
+      "diff": "dificil",
+      "ex": "A média pode parecer boa mesmo com casos extremos. Por isso, também é importante observar variação e experiência real do cliente."
+    },
+    {
+      "q": "Em Scrum, o Product Owner muda as prioridades do backlog no meio de uma sprint em andamento. Qual prática está sendo prejudicada?",
+      "a": "Proteção do timebox da sprint",
+      "b": "Registro inicial dos stakeholders",
+      "c": "Desenho da cadeia de valor",
+      "d": "Cálculo do caminho crítico",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "Durante a sprint, o timebox deve ser protegido para que a equipe mantenha foco e ritmo sustentável."
+    },
+    {
+      "q": "Uma empresa usa BPMN, KPIs e PDCA, mas cada área melhora seus próprios processos. Isso indica:",
+      "a": "Gestão POR Processos",
+      "b": "Gestão DE Processos",
+      "c": "Gestão de portfólio",
+      "d": "Gestão ágil",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Ferramentas de processo não garantem visão ponta a ponta. Quando cada área melhora partes isoladas, predomina a Gestão DE Processos."
+    },
+    {
+      "q": "No Modelo de Kano, um atributo atrativo pode se tornar obrigatório com o tempo. Qual exemplo representa melhor essa mudança?",
+      "a": "Cor da embalagem de um produto sazonal",
+      "b": "Nome comercial de uma marca regional",
+      "c": "Wi-Fi gratuito em hotéis, antes diferencial e hoje esperado",
+      "d": "Preço final cobrado em uma compra comum",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Com a evolução do mercado, algo que antes encantava pode virar requisito básico na percepção do cliente."
+    },
+    {
+      "q": "Os pacotes da EAP estão vagos e difíceis de estimar. O que o gerente deve fazer?",
+      "a": "Reduzir a EAP para apresentar melhor",
+      "b": "Decompor até gerar pacotes claros",
+      "c": "Deixar a estimativa para o encerramento",
+      "d": "Trocar o escopo pelo cronograma",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "A EAP deve ser detalhada até que os pacotes possam ser estimados, acompanhados e atribuídos com clareza."
+    }
+  ],
+  "lideranca": [
+    {
+      "q": "Um líder que mobiliza a equipe por meio de propósito, inspiração e visão de futuro pratica qual estilo de liderança?",
+      "a": "Liderança transacional",
+      "b": "Liderança transformacional",
+      "c": "Liderança autocrática",
+      "d": "Liderança liberal",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "A liderança transformacional inspira pessoas, estimula mudanças e conecta a equipe a uma visão de longo prazo."
+    },
+    {
+      "q": "Na teoria de Herzberg, salário, condições de trabalho e benefícios são exemplos de fatores:",
+      "a": "De autorrealização",
+      "b": "Motivacionais",
+      "c": "De estima",
+      "d": "Higiênicos",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Fatores higiênicos reduzem a insatisfação no trabalho, mas não costumam gerar motivação profunda por si mesmos."
+    },
+    {
+      "q": "Na pirâmide de Maslow, qual grupo de necessidades aparece na base da hierarquia?",
+      "a": "Necessidades de autorrealização",
+      "b": "Necessidades sociais",
+      "c": "Necessidades de estima",
+      "d": "Necessidades fisiológicas",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "As necessidades fisiológicas, como alimentação, descanso e sobrevivência, formam a base da pirâmide de Maslow."
+    },
+    {
+      "q": "Um chefe diz: 'se a equipe bater a meta, receberá bônus'. Essa lógica representa qual estilo?",
+      "a": "Liderança servidora",
+      "b": "Liderança liberal",
+      "c": "Liderança transacional",
+      "d": "Liderança transformacional",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "A liderança transacional funciona pela troca entre desempenho e recompensa."
+    },
+    {
+      "q": "O que é clima organizacional?",
+      "a": "A percepção coletiva sobre o ambiente de trabalho",
+      "b": "A estrutura formal de cargos da empresa",
+      "c": "O conjunto de normas registradas em contrato",
+      "d": "A estratégia financeira da organização",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Clima organizacional é a forma como os funcionários percebem e sentem o ambiente de trabalho."
+    },
+    {
+      "q": "Burnout está mais ligado a qual situação no contexto profissional?",
+      "a": "Falta de interesse por tarefas novas",
+      "b": "Preferência por trabalho remoto",
+      "c": "Estresse ocupacional crônico",
+      "d": "Ausência de metas individuais",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "A síndrome de burnout resulta de esgotamento causado por estresse prolongado no trabalho."
+    },
+    {
+      "q": "Humilhações repetitivas de um superior contra um subordinado caracterizam principalmente:",
+      "a": "Feedback corretivo",
+      "b": "Gestão por desempenho",
+      "c": "Comunicação direta",
+      "d": "Assédio moral",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Assédio moral envolve condutas abusivas e repetidas que degradam a dignidade da pessoa e o ambiente de trabalho."
+    },
+    {
+      "q": "Por que habilidades diferentes e complementares são importantes em uma equipe?",
+      "a": "Porque eliminam a necessidade de liderança",
+      "b": "Porque aumentam a capacidade coletiva de entregar resultados",
+      "c": "Porque tornam todos os cargos equivalentes",
+      "d": "Porque reduzem a comunicação entre os membros",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "Equipes com competências complementares conseguem combinar forças individuais para alcançar resultados melhores."
+    },
+    {
+      "q": "No processo de comunicação, quem codifica e envia a mensagem é chamado de:",
+      "a": "Emissor",
+      "b": "Receptor",
+      "c": "Canal",
+      "d": "Ruído",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O emissor é quem elabora e transmite a mensagem ao receptor."
+    },
+    {
+      "q": "Qual barreira ocorre quando há informações demais chegando ao mesmo tempo?",
+      "a": "Filtragem",
+      "b": "Ambiguidade",
+      "c": "Sobrecarga de informação",
+      "d": "Comunicação informal",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "A sobrecarga de informação dificulta a atenção, a seleção e a compreensão das mensagens."
+    },
+    {
+      "q": "Cultura organizacional se refere principalmente a:",
+      "a": "Metas comerciais de curto prazo",
+      "b": "Cargos, setores e níveis hierárquicos",
+      "c": "Ferramentas usadas na rotina administrativa",
+      "d": "Valores, crenças e pressupostos compartilhados",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "A cultura organizacional reúne valores, crenças e formas de agir que orientam o comportamento na empresa."
+    },
+    {
+      "q": "Uma pessoa que acredita que seus resultados dependem do próprio esforço apresenta qual tipo de locus de controle?",
+      "a": "Interno",
+      "b": "Externo",
+      "c": "Neutro",
+      "d": "Situacional",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "No locus de controle interno, a pessoa entende que suas ações influenciam diretamente seus resultados."
+    },
+    {
+      "q": "O chamado 'teto de vidro' descreve uma barreira associada principalmente a:",
+      "a": "Profissionais recém-contratados em treinamento",
+      "b": "Mulheres e minorias em cargos de liderança",
+      "c": "Equipes operacionais com baixa qualificação",
+      "d": "Funcionários em período de experiência",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "O teto de vidro é uma barreira invisível que dificulta a ascensão de mulheres e minorias a cargos mais altos."
+    },
+    {
+      "q": "O contrato psicológico representa:",
+      "a": "O acordo coletivo formalizado pelo sindicato",
+      "b": "O registro jurídico da contratação",
+      "c": "As expectativas não escritas entre empresa e funcionário",
+      "d": "A política oficial de benefícios da empresa",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "O contrato psicológico envolve expectativas implícitas sobre respeito, reconhecimento, crescimento e reciprocidade."
+    },
+    {
+      "q": "Segundo Maslow, reconhecimento, respeito e prestígio pertencem a qual nível de necessidade?",
+      "a": "Fisiológicas",
+      "b": "Segurança",
+      "c": "Sociais",
+      "d": "Estima",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Necessidades de estima envolvem reconhecimento, respeito, status e valorização pessoal."
+    },
+    {
+      "q": "Employer branding é melhor entendido como:",
+      "a": "A reputação da empresa como lugar para trabalhar",
+      "b": "A identidade visual usada nos produtos",
+      "c": "O plano de vendas da área comercial",
+      "d": "O nome fantasia registrado pela organização",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Employer branding é a construção da imagem da empresa como empregadora, influenciando atração e retenção de talentos."
+    },
+    {
+      "q": "Na teoria de Herzberg, quando os fatores higiênicos estão adequados, o efeito mais esperado é:",
+      "a": "Geração automática de entusiasmo",
+      "b": "Substituição da liderança formal",
+      "c": "Redução da insatisfação",
+      "d": "Eliminação dos conflitos da equipe",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Fatores higiênicos adequados evitam insatisfação, mas a motivação depende de fatores como reconhecimento, crescimento e realização."
+    },
+    {
+      "q": "No processo de comunicação, o feedback serve para:",
+      "a": "Trocar o assunto da conversa",
+      "b": "Indicar se a mensagem foi compreendida",
+      "c": "Reforçar a hierarquia entre as pessoas",
+      "d": "Substituir o canal de comunicação",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "O feedback mostra ao emissor como a mensagem foi recebida e interpretada pelo receptor."
+    },
+    {
+      "q": "Motivação pode ser entendida como:",
+      "a": "Uma regra imposta pela chefia",
+      "b": "Um benefício financeiro recebido no fim do mês",
+      "c": "Uma obrigação prevista em contrato",
+      "d": "Uma força interna que direciona o comportamento para objetivos",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "A motivação impulsiona, orienta e sustenta comportamentos voltados ao alcance de objetivos."
+    },
+    {
+      "q": "Qual dos traços abaixo faz parte do modelo Big Five de personalidade?",
+      "a": "Conscienciosidade",
+      "b": "Inteligência técnica",
+      "c": "Ambição profissional",
+      "d": "Capacidade de negociação",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O Big Five inclui abertura à experiência, conscienciosidade, extroversão, amabilidade e neuroticismo/estabilidade emocional."
+    },
+    {
+      "q": "Maria percebe que faz o mesmo trabalho que um colega, mas recebe menos. Pela teoria da equidade, a reação mais provável é:",
+      "a": "Aumentar o esforço por gratidão",
+      "b": "Ignorar a comparação salarial",
+      "c": "Sentir injustiça e ajustar seu comportamento",
+      "d": "Considerar a diferença irrelevante para a motivação",
+      "ans": "C",
+      "diff": "media",
+      "ex": "A teoria da equidade afirma que percepções de injustiça levam a tentativas de restaurar equilíbrio, como reduzir esforço ou questionar a recompensa."
+    },
+    {
+      "q": "Um líder delega mais para funcionários experientes e acompanha mais de perto os novatos. Esse comportamento se aproxima de qual abordagem?",
+      "a": "Liderança situacional",
+      "b": "Liderança liberal",
+      "c": "Liderança autocrática",
+      "d": "Liderança transacional",
+      "ans": "A",
+      "diff": "media",
+      "ex": "A liderança situacional adapta o estilo do líder conforme a maturidade, experiência e autonomia dos liderados."
+    },
+    {
+      "q": "Na teoria da expectativa de Vroom, se o funcionário não acredita que seu esforço levará a bom desempenho, sua motivação tende a ser:",
+      "a": "Alta, desde que a recompensa seja boa",
+      "b": "Estável, pois esforço e resultado são independentes",
+      "c": "Maior em ambientes competitivos",
+      "d": "Baixa, pois a expectativa está comprometida",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Na teoria de Vroom, expectativa é a crença de que esforço gera desempenho; quando ela é baixa, a motivação cai."
+    },
+    {
+      "q": "Um gerente promete promoção a quem atingir metas, mas depois não cumpre o combinado. Isso afeta principalmente:",
+      "a": "O organograma formal",
+      "b": "O contrato psicológico",
+      "c": "A estrutura de cargos",
+      "d": "O layout organizacional",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Promessas não cumpridas violam expectativas implícitas e prejudicam o contrato psicológico entre funcionário e organização."
+    },
+    {
+      "q": "Um profissional tem bom salário e estabilidade, mas sente falta de desafios, reconhecimento e crescimento. Segundo Herzberg, faltam fatores:",
+      "a": "Higiênicos",
+      "b": "De segurança",
+      "c": "Motivacionais",
+      "d": "Fisiológicos",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Desafio, reconhecimento, crescimento e realização são fatores motivacionais na teoria de Herzberg."
+    },
+    {
+      "q": "Nos papéis de Belbin, o Semeador costuma contribuir mais por meio de:",
+      "a": "Controle de prazos e rotinas",
+      "b": "Verificação final da qualidade",
+      "c": "Mediação de conflitos interpessoais",
+      "d": "Ideias criativas e soluções inovadoras",
+      "ans": "D",
+      "diff": "media",
+      "ex": "O Semeador, ou Plant, é o perfil criativo que propõe ideias originais e caminhos alternativos."
+    },
+    {
+      "q": "Alta rotatividade, muitas reclamações internas e baixa produtividade costumam indicar:",
+      "a": "Cultura madura e integrada",
+      "b": "Liderança transformacional consolidada",
+      "c": "Excesso de autonomia individual",
+      "d": "Clima organizacional negativo",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Esses sinais mostram uma percepção desfavorável do ambiente de trabalho, característica de clima organizacional negativo."
+    },
+    {
+      "q": "Qual é a diferença entre cultura e clima organizacional?",
+      "a": "Clima trata documentos; cultura trata metas",
+      "b": "Cultura é profunda; clima é percepção atual",
+      "c": "Cultura é individual; clima é operacional",
+      "d": "Clima define missão; cultura define cronograma",
+      "ans": "B",
+      "diff": "media",
+      "ex": "A cultura é mais profunda e duradoura; o clima é a percepção atual dos funcionários sobre o ambiente."
+    },
+    {
+      "q": "Um líder transformacional se diferencia do transacional porque tende a:",
+      "a": "Inspirar mudança, desenvolvimento e pensamento crítico",
+      "b": "Concentrar decisões em recompensas imediatas",
+      "c": "Evitar comunicação direta com a equipe",
+      "d": "Reduzir metas para diminuir conflitos",
+      "ans": "A",
+      "diff": "media",
+      "ex": "A liderança transformacional busca inspirar, desenvolver pessoas e estimular novas formas de pensar."
+    },
+    {
+      "q": "Pedro acredita que não foi promovido por azar, sem considerar seu preparo ou desempenho. Esse pensamento indica locus de controle:",
+      "a": "Interno",
+      "b": "Misto",
+      "c": "Externo",
+      "d": "Motivacional",
+      "ans": "C",
+      "diff": "media",
+      "ex": "No locus de controle externo, a pessoa atribui resultados a fatores fora de seu controle, como sorte, destino ou decisões de terceiros."
+    },
+    {
+      "q": "Uma funcionária competente é repetidamente preterida para cargos de diretoria sem critério claro. Isso pode indicar:",
+      "a": "Rotatividade planejada",
+      "b": "Meritocracia estruturada",
+      "c": "Liderança servidora",
+      "d": "Teto de vidro",
+      "ans": "D",
+      "diff": "media",
+      "ex": "O teto de vidro é uma barreira invisível que limita o avanço de mulheres e minorias a posições de liderança."
+    },
+    {
+      "q": "Na teoria da expectativa de Vroom, valência significa:",
+      "a": "A chance percebida de atingir a meta",
+      "b": "O valor atribuído à recompensa",
+      "c": "O grau de autoridade do líder",
+      "d": "O nível técnico exigido pela tarefa",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Valência é o quanto a recompensa é desejada ou valorizada pela pessoa."
+    },
+    {
+      "q": "Um chefe cobra resultados, mas raramente reconhece conquistas da equipe. Na teoria de Herzberg, ele falha principalmente em:",
+      "a": "Reconhecimento como fator motivacional",
+      "b": "Condições físicas de trabalho",
+      "c": "Segurança no emprego",
+      "d": "Política salarial da empresa",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Reconhecimento é um fator motivacional importante para gerar satisfação e engajamento no trabalho."
+    },
+    {
+      "q": "O MBTI combina dimensões de personalidade e classifica as pessoas em quantos tipos?",
+      "a": "4",
+      "b": "8",
+      "c": "16",
+      "d": "32",
+      "ans": "C",
+      "diff": "media",
+      "ex": "O MBTI combina quatro pares de preferências, resultando em 16 tipos de personalidade."
+    },
+    {
+      "q": "Uma equipe em que todos pensam parecido e evitam questionar decisões corre maior risco de:",
+      "a": "Excesso de diversidade cognitiva",
+      "b": "Criatividade desorganizada",
+      "c": "Rotatividade involuntária",
+      "d": "Pensamento de grupo",
+      "ans": "D",
+      "diff": "media",
+      "ex": "O pensamento de grupo ocorre quando a busca por consenso reduz o questionamento crítico e prejudica decisões."
+    },
+    {
+      "q": "Exaustão emocional, cinismo em relação ao trabalho e sensação de baixa eficácia são sintomas associados a:",
+      "a": "Introversão",
+      "b": "Burnout",
+      "c": "Locus externo",
+      "d": "Baixa valência",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Esses três elementos são dimensões clássicas associadas ao burnout."
+    },
+    {
+      "q": "Um líder oferece instruções detalhadas para uma equipe júnior e autonomia para uma equipe sênior. Ele está aplicando:",
+      "a": "Liderança situacional",
+      "b": "Teoria da equidade",
+      "c": "Liderança liberal generalizada",
+      "d": "Teoria dos dois fatores",
+      "ans": "A",
+      "diff": "media",
+      "ex": "A liderança situacional ajusta direção, apoio e autonomia conforme o nível de preparo dos liderados."
+    },
+    {
+      "q": "Nos papéis de Belbin, o Coordenador se destaca por:",
+      "a": "Criar soluções fora do padrão",
+      "b": "Identificar falhas técnicas nos detalhes",
+      "c": "Buscar contatos externos para a equipe",
+      "d": "Esclarecer objetivos e distribuir responsabilidades",
+      "ans": "D",
+      "diff": "media",
+      "ex": "O Coordenador ajuda a organizar objetivos, aproveitar talentos e delegar responsabilidades."
+    },
+    {
+      "q": "Empresas que investem bem em employer branding tendem a:",
+      "a": "Substituir a gestão de pessoas por marketing",
+      "b": "Reduzir a importância da cultura interna",
+      "c": "Atrair e reter talentos com mais facilidade",
+      "d": "Eliminar conflitos entre equipes",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Uma boa imagem como empregadora torna a empresa mais atraente para candidatos e ajuda na retenção de talentos."
+    },
+    {
+      "q": "A diversidade nas equipes contribui para:",
+      "a": "Redução da necessidade de comunicação",
+      "b": "Maior variedade de perspectivas e soluções",
+      "c": "Uniformidade de pensamento gerencial",
+      "d": "Padronização das experiências individuais",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Equipes diversas reúnem experiências e perspectivas diferentes, o que pode melhorar criatividade, análise e resolução de problemas."
+    },
+    {
+      "q": "Um funcionário é promovido, mas vê colegas no mesmo cargo ganhando mais. Pela equidade, por que pode ficar insatisfeito?",
+      "a": "A comparação afeta a percepção de justiça",
+      "b": "A promoção reduz sua necessidade de estima",
+      "c": "O salário perde valor higiênico",
+      "d": "O cargo elimina motivação interna",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "A teoria da equidade considera comparações entre esforço, recompensa e tratamento recebido em relação a outras pessoas."
+    },
+    {
+      "q": "Em Vroom, o vendedor acredita que pode bater a meta, mas não valoriza o prêmio. O que acontece?",
+      "a": "A motivação cai, pois a valência é baixa",
+      "b": "A motivação cresce pela expectativa",
+      "c": "O desempenho deixa de depender da recompensa",
+      "d": "A instrumentalidade vira o fator dominante",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "Como a motivação depende de expectativa, instrumentalidade e valência, uma recompensa pouco valorizada reduz o impulso para agir."
+    },
+    {
+      "q": "Uma organização tem cultura de inovação, mas o clima atual é de medo por causa de demissões recentes. Isso mostra que:",
+      "a": "A cultura deixou de existir na prática",
+      "b": "O clima pode divergir temporariamente da cultura",
+      "c": "O clima substitui os valores organizacionais",
+      "d": "A inovação depende de medo e pressão",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "A cultura é mais profunda e estável; o clima reflete percepções atuais e pode mudar com acontecimentos recentes."
+    },
+    {
+      "q": "Um líder transformacional assume uma empresa burocrática e resistente a mudanças. O desafio mais provável será:",
+      "a": "Perder automaticamente sua capacidade de inspirar",
+      "b": "Transformar todas as rotinas em pouco tempo",
+      "c": "Enfrentar resistência da cultura organizacional",
+      "d": "Substituir recompensas por regras formais",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Culturas fortes e burocráticas podem resistir a propostas de mudança, mesmo quando o líder é inspirador."
+    },
+    {
+      "q": "Uma pessoa muito conscienciosa trabalha sem metas claras ou organização. O que tende a acontecer?",
+      "a": "Frustração por não aplicar sua disciplina",
+      "b": "Perda definitiva da personalidade",
+      "c": "Mais extroversão pela falta de estrutura",
+      "d": "Rejeição a qualquer planejamento",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "Pessoas conscienciosas valorizam organização, responsabilidade e metas claras; ambientes desestruturados podem gerar frustração."
+    },
+    {
+      "q": "A empresa oferece meditação contra burnout, mas mantém sobrecarga e pressão. Qual é o problema?",
+      "a": "Meditação reduz produtividade",
+      "b": "Trata sintomas sem enfrentar causas do trabalho",
+      "c": "Burnout depende só da personalidade",
+      "d": "A solução correta seria trocar a equipe",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Burnout costuma envolver causas estruturais do trabalho; ações individuais ajudam pouco se os fatores de estresse continuam."
+    },
+    {
+      "q": "Na liderança situacional, tratar todos os funcionários da mesma forma, sem considerar maturidade e experiência, pode gerar:",
+      "a": "Equilíbrio perfeito entre autonomia e controle",
+      "b": "Maior clareza para todos os perfis",
+      "c": "Desmotivação dos experientes e falta de suporte aos novatos",
+      "d": "Redução das diferenças de desempenho",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Liderados experientes podem se sentir controlados demais, enquanto novatos podem precisar de orientação mais próxima."
+    },
+    {
+      "q": "Uma equipe tem muitos Semeadores, mas poucos Implementadores, segundo Belbin. O efeito provável é:",
+      "a": "Muitas ideias e dificuldade de execução",
+      "b": "Execução forte com pouca criatividade",
+      "c": "Controle rigoroso de prazos e qualidade",
+      "d": "Baixo volume de propostas novas",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "Semeadores geram ideias; Implementadores ajudam a transformar ideias em planos práticos e execução."
+    },
+    {
+      "q": "Um gestor usa recompensas em metas curtas e inspiração em projetos estratégicos. O que isso sugere?",
+      "a": "Liderança transacional impede visão de futuro",
+      "b": "Estilos podem ser combinados conforme o contexto",
+      "c": "Liderança transformacional elimina metas operacionais",
+      "d": "Recompensas reduzem todo engajamento",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Estilos de liderança podem ser combinados conforme situação, equipe e objetivo."
+    },
+    {
+      "q": "Uma empresa atrai candidatos com employer branding, mas tem cultura tóxica. Qual consequência é provável?",
+      "a": "Melhora imediata do clima",
+      "b": "Aumento permanente da produtividade",
+      "c": "Rotatividade precoce e quebra de expectativa",
+      "d": "Redução natural dos conflitos",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Quando a imagem externa não corresponde à experiência interna, os funcionários se frustram e percebem quebra de expectativas."
+    }
+  ],
+  "estrategia": [
+    {
+      "q": "O que a análise SWOT ajuda uma empresa a avaliar?",
+      "a": "Seus canais de venda e formas de pagamento",
+      "b": "Forças, fraquezas, oportunidades e ameaças",
+      "c": "Seu fluxo de caixa e seus custos fixos",
+      "d": "Seus cargos, salários e rotinas internas",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "A SWOT organiza fatores internos, como forças e fraquezas, e fatores externos, como oportunidades e ameaças."
+    },
+    {
+      "q": "Qual situação representa uma ameaça em uma análise SWOT?",
+      "a": "Uma equipe bem treinada",
+      "b": "Uma marca reconhecida",
+      "c": "Um concorrente novo com preço agressivo",
+      "d": "Um processo produtivo eficiente",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Ameaças são fatores externos negativos que podem prejudicar a posição da empresa no mercado."
+    },
+    {
+      "q": "A missão de uma empresa está mais ligada a qual ideia?",
+      "a": "O lucro esperado para o próximo ano",
+      "b": "A posição desejada no futuro",
+      "c": "A lista de produtos vendidos",
+      "d": "A razão de existir do negócio",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "A missão explica por que a empresa existe, o que faz e qual valor entrega à sociedade ou ao mercado."
+    },
+    {
+      "q": "No Business Model Canvas, qual bloco mostra como a empresa ganha dinheiro?",
+      "a": "Fontes de Receita",
+      "b": "Proposta de Valor",
+      "c": "Recursos Principais",
+      "d": "Canais",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Fontes de Receita descrevem as formas pelas quais o negócio recebe dinheiro pelo valor entregue aos clientes."
+    },
+    {
+      "q": "A visão de uma empresa representa principalmente:",
+      "a": "As regras de conduta dos funcionários",
+      "b": "O que a empresa vende atualmente",
+      "c": "O lugar onde a organização deseja chegar",
+      "d": "A rotina operacional do negócio",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "A visão aponta um estado futuro desejado e orienta a direção estratégica da organização."
+    },
+    {
+      "q": "Na Matriz BCG, como é chamado um produto com alta participação de mercado e baixo crescimento?",
+      "a": "Vaca Leiteira",
+      "b": "Estrela",
+      "c": "Interrogação",
+      "d": "Abacaxi",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "A Vaca Leiteira domina um mercado de baixo crescimento e tende a gerar caixa de forma estável."
+    },
+    {
+      "q": "No conceito VUCA, o 'V' representa:",
+      "a": "Volatilidade",
+      "b": "Velocidade",
+      "c": "Valor",
+      "d": "Visibilidade",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "VUCA reúne volatilidade, incerteza, complexidade e ambiguidade para descrever ambientes instáveis."
+    },
+    {
+      "q": "Nas 5 Forças de Porter, qual força analisa a entrada de novas empresas no setor?",
+      "a": "Poder de barganha dos clientes",
+      "b": "Ameaça de produtos substitutos",
+      "c": "Ameaça de novos entrantes",
+      "d": "Rivalidade entre concorrentes",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "A ameaça de novos entrantes avalia a facilidade ou dificuldade de novas empresas competirem no mercado."
+    },
+    {
+      "q": "Um objetivo SMART precisa ser formulado com quais características?",
+      "a": "Sustentável, motivador, acessível, realista e transformador",
+      "b": "Específico, mensurável, atingível, relevante e temporal",
+      "c": "Social, mercadológico, administrativo, rentável e técnico",
+      "d": "Simples, moderno, ágil, rápido e tático",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "SMART indica objetivos específicos, mensuráveis, atingíveis, relevantes e com prazo definido."
+    },
+    {
+      "q": "Na análise PEST, o fator tecnológico observa principalmente:",
+      "a": "Mudanças em ferramentas, sistemas e inovações técnicas",
+      "b": "Mudanças em impostos e tributos pagos pela empresa",
+      "c": "Mudanças em hábitos culturais e sociais dos clientes",
+      "d": "Mudanças em renda, juros e inflação",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "O fator tecnológico considera inovações, sistemas, automação e recursos técnicos que afetam o negócio."
+    },
+    {
+      "q": "O Balanced Scorecard é organizado em quantas perspectivas clássicas?",
+      "a": "Três",
+      "b": "Cinco",
+      "c": "Seis",
+      "d": "Quatro",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "O BSC trabalha com quatro perspectivas: financeira, clientes, processos internos e aprendizado/crescimento."
+    },
+    {
+      "q": "Uma padaria conhecida no bairro usa uma receita própria como diferencial. Na SWOT, isso é uma:",
+      "a": "Oportunidade",
+      "b": "Ameaça",
+      "c": "Força",
+      "d": "Fraqueza",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "Uma receita própria é um recurso interno positivo, por isso representa uma força da empresa."
+    },
+    {
+      "q": "Qual estratégia busca criar espaços de mercado menos disputados, em vez de competir nas mesmas regras do setor?",
+      "a": "5 Forças de Porter",
+      "b": "Oceano Azul",
+      "c": "Matriz BCG",
+      "d": "Análise PEST",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "O Oceano Azul busca inovar em valor e criar uma proposta diferente da disputa tradicional do mercado."
+    },
+    {
+      "q": "Patentes, marcas registradas e direitos autorais são exemplos de:",
+      "a": "Propriedade intelectual",
+      "b": "Recursos financeiros",
+      "c": "Ativos operacionais físicos",
+      "d": "Indicadores de desempenho",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Propriedade intelectual protege criações da mente, como invenções, marcas, designs e obras."
+    },
+    {
+      "q": "Quando uma empresa escolhe investir em marketing e deixa de investir em equipamentos, ela enfrenta um:",
+      "a": "Lucro operacional",
+      "b": "Custo fixo",
+      "c": "Ponto de equilíbrio",
+      "d": "Custo de oportunidade",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Custo de oportunidade é o valor da melhor alternativa abandonada quando se faz uma escolha."
+    },
+    {
+      "q": "No Canvas, o bloco Proposta de Valor responde melhor a qual pergunta?",
+      "a": "Quem são nossos parceiros principais?",
+      "b": "Que problema resolvemos para o cliente?",
+      "c": "Quanto custa manter a operação?",
+      "d": "Como o produto chega ao cliente?",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "A Proposta de Valor descreve o benefício que resolve uma dor ou necessidade do cliente."
+    },
+    {
+      "q": "Qual perspectiva do BSC acompanha satisfação, retenção e valor percebido pelo consumidor?",
+      "a": "Financeira",
+      "b": "Processos Internos",
+      "c": "Clientes",
+      "d": "Aprendizado e Crescimento",
+      "ans": "C",
+      "diff": "facil",
+      "ex": "A perspectiva de Clientes mede como a organização entrega valor e mantém bons relacionamentos com seu público."
+    },
+    {
+      "q": "Valores organizacionais são:",
+      "a": "Os preços praticados pela empresa",
+      "b": "As metas financeiras do trimestre",
+      "c": "Os produtos de maior faturamento",
+      "d": "Os princípios que orientam decisões e comportamentos",
+      "ans": "D",
+      "diff": "facil",
+      "ex": "Valores são crenças e princípios que guiam a cultura, as decisões e a postura da empresa."
+    },
+    {
+      "q": "O que se espera em um mercado de concorrência perfeita?",
+      "a": "Muitas empresas e baixo poder individual sobre o preço",
+      "b": "Uma empresa controlando o mercado",
+      "c": "Preços definidos pelo governo",
+      "d": "Duas empresas dominando os clientes",
+      "ans": "A",
+      "diff": "facil",
+      "ex": "Na concorrência perfeita, há muitos compradores e vendedores, e uma empresa isolada tem pouca influência sobre o preço."
+    },
+    {
+      "q": "Na Matriz das 4 Ações do Oceano Azul, a letra 'E' de ERRC significa:",
+      "a": "Elevar",
+      "b": "Eliminar",
+      "c": "Estruturar",
+      "d": "Escalar",
+      "ans": "B",
+      "diff": "facil",
+      "ex": "ERRC significa Eliminar, Reduzir, Elevar e Criar."
+    },
+    {
+      "q": "Uma loja online percebe que clientes estão migrando para um aplicativo concorrente mais rápido. Na SWOT, isso é:",
+      "a": "Fraqueza",
+      "b": "Força",
+      "c": "Ameaça",
+      "d": "Oportunidade",
+      "ans": "C",
+      "diff": "media",
+      "ex": "A migração para um concorrente é um fator externo negativo, portanto representa uma ameaça."
+    },
+    {
+      "q": "Uma empresa planejou expandir para o Nordeste, mas encontrou demanda inesperada no Sul e adaptou sua rota. Que tipo de estratégia apareceu?",
+      "a": "Deliberada",
+      "b": "Funcional",
+      "c": "Corporativa",
+      "d": "Emergente",
+      "ans": "D",
+      "diff": "media",
+      "ex": "A estratégia emergente surge quando a empresa aprende com o ambiente e ajusta seu caminho ao longo do tempo."
+    },
+    {
+      "q": "No mapa estratégico do BSC, qual perspectiva costuma sustentar as demais?",
+      "a": "Aprendizado e Crescimento",
+      "b": "Financeira",
+      "c": "Clientes",
+      "d": "Processos Internos",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Aprendizado e Crescimento sustenta capacidades, pessoas e sistemas que melhoram processos, clientes e resultados financeiros."
+    },
+    {
+      "q": "Uma startup de delivery estima quantas pessoas no Brasil poderiam usar seu aplicativo. Ela está calculando o:",
+      "a": "ROI",
+      "b": "TAM",
+      "c": "SAM",
+      "d": "SOM",
+      "ans": "B",
+      "diff": "media",
+      "ex": "TAM é o mercado total endereçável, ou seja, o universo amplo de possíveis usuários ou compradores."
+    },
+    {
+      "q": "Na SWOT cruzada, combinar uma força interna com uma oportunidade externa gera uma estratégia:",
+      "a": "Defensiva",
+      "b": "De sobrevivência",
+      "c": "Ofensiva ou de alavancagem",
+      "d": "De retirada",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Força + oportunidade indica uso de pontos fortes para aproveitar chances favoráveis do ambiente."
+    },
+    {
+      "q": "O Cirque du Soleil retirou elementos tradicionais do circo e elevou arte, música e experiência. Qual ferramenta ajuda a explicar essa lógica?",
+      "a": "Matriz BCG",
+      "b": "5 Forças de Porter",
+      "c": "Análise PEST",
+      "d": "Matriz das 4 Ações",
+      "ans": "D",
+      "diff": "media",
+      "ex": "A Matriz das 4 Ações orienta o que eliminar, reduzir, elevar e criar para construir inovação de valor."
+    },
+    {
+      "q": "Qual escola de Mintzberg entende a estratégia como um processo de tentativa, adaptação e aprendizado contínuo?",
+      "a": "Escola do Design",
+      "b": "Escola do Aprendizado",
+      "c": "Escola do Poder",
+      "d": "Escola do Posicionamento",
+      "ans": "B",
+      "diff": "media",
+      "ex": "A Escola do Aprendizado vê a estratégia como algo que emerge com experiências, ajustes e descobertas."
+    },
+    {
+      "q": "Uma marca forte e reconhecida, mesmo sem forma física, pode ser classificada como:",
+      "a": "Ativo intangível",
+      "b": "Passivo circulante",
+      "c": "Estoque operacional",
+      "d": "Capital de giro",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Ativos intangíveis não têm forma física, mas geram valor, como marcas, reputação, patentes e know-how."
+    },
+    {
+      "q": "Uma cafeteria gourmet depende de poucos fornecedores de grãos especiais. Nas 5 Forças de Porter, isso indica:",
+      "a": "Baixa rivalidade entre concorrentes",
+      "b": "Baixo risco de substitutos",
+      "c": "Alto poder de barganha dos fornecedores",
+      "d": "Alto poder de barganha dos clientes",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Quando existem poucos fornecedores relevantes, eles tendem a ter mais poder sobre preço, prazo e condições."
+    },
+    {
+      "q": "'Aumentar em 15% as vendas online até dezembro de 2026' é um objetivo SMART porque:",
+      "a": "Depende da reação dos concorrentes",
+      "b": "Tem foco interno e ignora o mercado",
+      "c": "É amplo e flexível para qualquer área",
+      "d": "Define meta, indicador e prazo",
+      "ans": "D",
+      "diff": "media",
+      "ex": "O objetivo informa o que será aumentado, quanto será aumentado e até quando a meta deve ser alcançada."
+    },
+    {
+      "q": "No Canvas, Segmentos de Clientes, Canais e Relacionamento ficam ligados porque tratam de:",
+      "a": "Mercado, acesso ao cliente e forma de interação",
+      "b": "Custos, recursos e fornecedores",
+      "c": "Processos internos e controle de produção",
+      "d": "Obrigações legais e estrutura societária",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Esses blocos compõem o lado mais voltado ao cliente: quem é atendido, como é alcançado e como se relaciona."
+    },
+    {
+      "q": "Uma nova lei ambiental restringe embalagens plásticas. Na análise PEST, esse fator é:",
+      "a": "Econômico",
+      "b": "Político/legal",
+      "c": "Tecnológico",
+      "d": "Social",
+      "ans": "B",
+      "diff": "media",
+      "ex": "Leis, normas e regulamentações fazem parte do ambiente político/legal analisado pela PEST."
+    },
+    {
+      "q": "No Oceano Azul, inovação de valor acontece quando a empresa combina:",
+      "a": "Produto, praça, promoção e pessoas",
+      "b": "Missão, visão, valores e cultura",
+      "c": "Utilidade para o comprador, preço acessível e custo viável",
+      "d": "Receita, margem, estoque e fornecedores",
+      "ans": "C",
+      "diff": "media",
+      "ex": "A inovação de valor busca elevar a utilidade para o cliente enquanto mantém preço atrativo e estrutura de custos sustentável."
+    },
+    {
+      "q": "Competências essenciais são capacidades que:",
+      "a": "Dependem de uma campanha promocional pontual",
+      "b": "Mudam a cada mês conforme o mercado",
+      "c": "São fáceis de terceirizar sem perda estratégica",
+      "d": "Diferenciam a empresa e são difíceis de imitar",
+      "ans": "D",
+      "diff": "media",
+      "ex": "Competências essenciais sustentam vantagem competitiva por serem valiosas, difíceis de copiar e relevantes para o negócio."
+    },
+    {
+      "q": "Na Matriz BCG, um produto 'Interrogação' apresenta:",
+      "a": "Baixa participação em mercado de alto crescimento",
+      "b": "Alta participação em mercado de baixo crescimento",
+      "c": "Alta participação em mercado de alto crescimento",
+      "d": "Baixa participação em mercado de baixo crescimento",
+      "ans": "A",
+      "diff": "media",
+      "ex": "Produtos Interrogação estão em mercados atrativos, mas ainda não possuem forte participação."
+    },
+    {
+      "q": "Um mapa estratégico do BSC conecta objetivos por relações de:",
+      "a": "Hierarquia formal",
+      "b": "Causa e efeito",
+      "c": "Ordem alfabética",
+      "d": "Prioridade contábil",
+      "ans": "B",
+      "diff": "media",
+      "ex": "O mapa estratégico mostra como melhorias em uma perspectiva impulsionam resultados em outras."
+    },
+    {
+      "q": "Quando a demanda por um produto cai e a oferta se mantém, a tendência do preço é:",
+      "a": "Subir rapidamente",
+      "b": "Ficar sem variação relevante",
+      "c": "Cair para buscar novo equilíbrio",
+      "d": "Dobrar no curto prazo",
+      "ans": "C",
+      "diff": "media",
+      "ex": "Com menos compradores e a mesma oferta, surge pressão para redução de preço até novo equilíbrio de mercado."
+    },
+    {
+      "q": "A Escola do Design de Mintzberg associa a formação da estratégia a:",
+      "a": "Disputas políticas entre grupos internos",
+      "b": "Processos culturais coletivos",
+      "c": "Visão intuitiva do fundador",
+      "d": "Análise racional, com forte uso da lógica SWOT",
+      "ans": "D",
+      "diff": "media",
+      "ex": "A Escola do Design valoriza uma formulação racional da estratégia, conciliando ambiente externo e capacidades internas."
+    },
+    {
+      "q": "Um restaurante com boa reputação decide oferecer delivery porque o bairro passou a comprar mais por aplicativos. Na SWOT cruzada, ele usa:",
+      "a": "Força + Ameaça",
+      "b": "Força + Oportunidade",
+      "c": "Fraqueza + Oportunidade",
+      "d": "Fraqueza + Ameaça",
+      "ans": "B",
+      "diff": "media",
+      "ex": "A boa reputação é uma força interna, enquanto o crescimento do delivery é uma oportunidade externa."
+    },
+    {
+      "q": "SAM representa a parte do mercado total que:",
+      "a": "A empresa já conquistou em vendas reais",
+      "b": "Pode ser atendida pelo modelo de negócio",
+      "c": "Corresponde ao lucro projetado",
+      "d": "Inclui mercados globais sem recorte",
+      "ans": "B",
+      "diff": "media",
+      "ex": "SAM é a parcela do mercado total que o produto ou serviço consegue atender dentro do modelo de negócio definido."
+    },
+    {
+      "q": "Uma empresa tem marca forte, mas enfrenta uma crise econômica. Na SWOT cruzada, a estratégia indicada tende a ser:",
+      "a": "Ofensiva",
+      "b": "De reforço interno",
+      "c": "De confronto ou manutenção",
+      "d": "De retirada imediata",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Força + ameaça indica usar pontos fortes para enfrentar ou reduzir o impacto de fatores externos negativos."
+    },
+    {
+      "q": "Uma academia perde alunos para apps de treino em casa. Pelo Oceano Azul, qual resposta faz mais sentido?",
+      "a": "Baixar preços para competir igual",
+      "b": "Copiar os apps sem mudar o serviço",
+      "c": "Criar uma experiência híbrida diferenciada",
+      "d": "Manter a operação como está",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "O Oceano Azul busca criar novo valor, em vez de disputar o mercado pelas mesmas regras dos concorrentes."
+    },
+    {
+      "q": "No BSC, um hospital define o objetivo 'reduzir tempo de espera'. Isso pertence primeiro a qual perspectiva e impacta diretamente qual outra?",
+      "a": "Financeira -> Aprendizado",
+      "b": "Processos Internos -> Clientes",
+      "c": "Clientes -> Financeira",
+      "d": "Aprendizado -> Processos Internos",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "Reduzir tempo de espera é melhoria de processo interno e tende a melhorar a experiência do cliente."
+    },
+    {
+      "q": "Uma empresa domina 80% de um mercado e consegue cobrar preços altos. Em Porter, qual força tende a ser menor?",
+      "a": "Poder de barganha dos clientes",
+      "b": "Ameaça de novos entrantes",
+      "c": "Ameaça de produtos substitutos",
+      "d": "Poder de barganha dos fornecedores",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "Com poucas alternativas relevantes, os clientes têm menos força para pressionar preço e condições."
+    },
+    {
+      "q": "Uma startup calcula TAM, SAM e SOM. O que o SOM representa?",
+      "a": "O mercado total sem recortes",
+      "b": "O lucro esperado da operação",
+      "c": "A fatia realista que pode capturar",
+      "d": "A soma dos concorrentes diretos",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "SOM é a parcela do mercado que a empresa consegue conquistar de forma realista com seus recursos e canais atuais."
+    },
+    {
+      "q": "Na estratégia do Oceano Azul, competir em fatores tradicionais de um setor muito disputado se aproxima da ideia de:",
+      "a": "Inovação de valor",
+      "b": "Diferenciação por nicho",
+      "c": "Disrupção regulatória",
+      "d": "Oceano Vermelho",
+      "ans": "D",
+      "diff": "dificil",
+      "ex": "Oceano Vermelho representa mercados saturados, nos quais empresas disputam clientes seguindo regras parecidas."
+    },
+    {
+      "q": "Uma empresa tem um algoritmo proprietário de IA. Como proteger melhor essa vantagem?",
+      "a": "Registrar patentes e proteger a propriedade intelectual",
+      "b": "Reduzir investimentos em pesquisa",
+      "c": "Trocar o modelo de negócio sem análise",
+      "d": "Abrir mão da tecnologia para crescer rápido",
+      "ans": "A",
+      "diff": "dificil",
+      "ex": "A proteção da propriedade intelectual ajuda a preservar vantagens difíceis de copiar."
+    },
+    {
+      "q": "No Canvas, AWS e Stripe são parceiros de um SaaS. Se eles aumentam preços, quais blocos sofrem mais?",
+      "a": "Segmentos de Clientes e Canais",
+      "b": "Parceiros-Chave e Estrutura de Custos",
+      "c": "Proposta de Valor e Fontes de Receita",
+      "d": "Relacionamento e Segmentos de Clientes",
+      "ans": "B",
+      "diff": "dificil",
+      "ex": "AWS e Stripe atuam como parceiros-chave, e seus aumentos afetam diretamente a estrutura de custos."
+    },
+    {
+      "q": "Quando uma empresa combina fraqueza interna com ameaça externa na SWOT cruzada, ela está em uma posição de:",
+      "a": "Alavancagem",
+      "b": "Confronto",
+      "c": "Sobrevivência",
+      "d": "Expansão acelerada",
+      "ans": "C",
+      "diff": "dificil",
+      "ex": "Fraqueza + ameaça exige reduzir danos, corrigir vulnerabilidades e proteger a continuidade do negócio."
+    },
+    {
+      "q": "Uma empresa treina a equipe, melhora P&D, gera mais valor ao cliente e aumenta receita. Isso ilustra:",
+      "a": "Análise PEST",
+      "b": "Canvas de Modelo de Negócios",
+      "c": "Matriz das 4 Ações",
+      "d": "Mapa Estratégico do BSC",
+      "ans": "D",
+      "diff": "dificil",
+      "ex": "O Mapa Estratégico do BSC mostra relações de causa e efeito entre aprendizado, processos, clientes e resultados financeiros."
+    }
+  ]
+}

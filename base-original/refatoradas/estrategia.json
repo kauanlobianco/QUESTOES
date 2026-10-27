@@ -1,0 +1,1758 @@
+[
+ {
+  "r": 1,
+  "s": "EST",
+  "m": "analise-swot",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A análise SWOT (FOFA) organiza o quê?",
+  "a": [
+   "*Forças, fraquezas, oportunidades e ameaças",
+   [
+    "Canais de venda, preços e pagamentos",
+    "Confunde SWOT com o composto de marketing.",
+    "Canais e preços são decisões de marketing, não o diagnóstico SWOT."
+   ],
+   [
+    "Fluxo de caixa, custos fixos e margens",
+    "Confunde diagnóstico estratégico com análise financeira.",
+    "Esses itens são da análise financeira."
+   ],
+   [
+    "Sabores, recheios e coberturas do bolo",
+    "Leva a sigla FOFA ao pé da letra.",
+    "FOFA não é de confeitaria: é forças, fraquezas, oportunidades e ameaças."
+   ]
+  ],
+  "f": "SWOT cruza o interno (forças e fraquezas) com o externo (oportunidades e ameaças).",
+  "e": "A SWOT é a base da Escola do Design (Andrews) e do passo 4 da implementação estratégica vista na Aula 2.",
+  "n": "Modo jogo: alternativas encurtadas e um distrator bem-humorado."
+ },
+ {
+  "r": 2,
+  "s": "EST",
+  "m": "analise-swot",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na SWOT de uma loja de roupas do centro, qual item é uma ameaça?",
+  "a": [
+   [
+    "Equipe de vendas bem treinada",
+    "Classifica um recurso interno como externo.",
+    "Equipe treinada é força: interna e positiva."
+   ],
+   "*Rival novo com preço agressivo",
+   [
+    "Estoque parado há seis meses",
+    "Confunde fraqueza interna com ameaça externa.",
+    "Estoque parado é problema interno: fraqueza."
+   ],
+   [
+    "Marca conhecida na cidade",
+    "Classifica um recurso interno como externo.",
+    "Marca reconhecida é força."
+   ]
+  ],
+  "f": "Ameaça é fator externo e negativo; problema interno é fraqueza.",
+  "e": "Pergunta-chave: a empresa controla esse fator? Se sim, é força ou fraqueza; se não, é oportunidade ou ameaça.",
+  "n": "Modo jogo: bloom ajustado para entender (classificar exemplo) e alternativas encurtadas."
+ },
+ {
+  "r": 3,
+  "s": "EST",
+  "m": "missao-visao-valores",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A missão de uma empresa expressa principalmente:",
+  "a": [
+   [
+    "O lucro esperado para o ano",
+    "Confunde missão com meta financeira.",
+    "Metas financeiras são objetivos, não a missão."
+   ],
+   [
+    "Aonde ela quer chegar no futuro",
+    "Confunde missão com visão.",
+    "Aonde se quer chegar é a visão."
+   ],
+   "*Sua razão de existir",
+   [
+    "O cardápio do dia",
+    "Confunde missão com o que se vende hoje.",
+    "Produtos mudam; a missão é a razão de existir."
+   ]
+  ],
+  "f": "Missão = por que existimos; visão = aonde queremos chegar; valores = princípios.",
+  "e": "Missão, visão e valores formam a 'estrutura filosófica' do plano de negócios (Aula 1) e a primeira etapa do planejamento estratégico (ENAP).",
+  "n": "Modo jogo: alternativas encurtadas e um distrator leve."
+ },
+ {
+  "r": 4,
+  "s": "EST",
+  "m": "canvas-tipos-de-receita",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Um app de música cobra R$ 20 por mês para ouvir sem anúncios. Que fonte de receita do Canvas é essa?",
+  "a": [
+   [
+    "Taxa de uso",
+    "Confunde cobrança recorrente com cobrança por uso.",
+    "Taxa de uso cobra por quantidade consumida, como minutos ou corridas."
+   ],
+   [
+    "Licenciamento",
+    "Confunde com a cessão de direitos a terceiros.",
+    "Licenciamento é cobrar para outra empresa usar uma propriedade intelectual."
+   ],
+   [
+    "Venda de ativo",
+    "Confunde acesso recorrente com transferência de propriedade.",
+    "Na venda de ativo o cliente passa a ser dono do produto."
+   ],
+   "*Assinatura"
+  ],
+  "f": "Assinatura: pagamento recorrente pelo acesso contínuo a um serviço.",
+  "e": "Tipos de receita vistos na aula do Canvas: venda direta, taxa de uso, assinatura, aluguel, licenciamento, corretagem, anúncios.",
+  "n": "Modo jogo: preço arredondado, enunciado mais curto e bloom entender."
+ },
+ {
+  "r": 5,
+  "s": "EST",
+  "m": "missao-visao-valores",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A visão de uma empresa representa principalmente:",
+  "a": [
+   "*O futuro que ela deseja alcançar",
+   [
+    "As regras de conduta da equipe",
+    "Confunde visão com valores ou código de conduta.",
+    "Regras de conduta derivam dos valores."
+   ],
+   [
+    "A razão pela qual ela existe",
+    "Confunde visão com missão.",
+    "Razão de existir é a missão."
+   ],
+   [
+    "O que ela vende hoje",
+    "Confunde com o portfólio atual.",
+    "A visão olha para o futuro, não para o presente."
+   ]
+  ],
+  "f": "Visão = estado futuro desejado; orienta a direção estratégica.",
+  "e": "No sincronismo organizacional (Gassenferth), estratégias de longo prazo começam pela visão e pela missão.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 6,
+  "s": "EST",
+  "m": "matriz-bcg",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na Matriz BCG, produto com alta participação em mercado de baixo crescimento é:",
+  "a": [
+   [
+    "Estrela",
+    "Olha só a participação alta.",
+    "Estrela tem alta participação, mas em mercado de alto crescimento."
+   ],
+   "*Vaca leiteira",
+   [
+    "Abacaxi",
+    "Olha só o baixo crescimento.",
+    "Abacaxi é baixa participação em mercado de baixo crescimento."
+   ],
+   [
+    "Ponto de interrogação",
+    "Inverte os eixos.",
+    "Interrogação é baixa participação em mercado de alto crescimento."
+   ]
+  ],
+  "f": "Vaca leiteira lidera um mercado maduro e gera caixa sem grande investimento.",
+  "e": "Na BCG, o caixa das vacas leiteiras costuma financiar estrelas e interrogações.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 7,
+  "s": "EST",
+  "m": "mundo-vuca",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "O que descreve o acrônimo VUCA?",
+  "a": [
+   [
+    "Veloz, urgente, competitivo e ágil",
+    "Inventa termos plausíveis.",
+    "Nenhum desses termos faz parte do acrônimo."
+   ],
+   [
+    "Valor, utilidade, custo e acesso",
+    "Confunde com conceitos de marketing.",
+    "VUCA descreve o ambiente, não atributos da oferta."
+   ],
+   "*Volátil, incerto, complexo e ambíguo",
+   [
+    "Visão, unidade, cultura e alinhamento",
+    "Confunde com cultura organizacional.",
+    "Esses termos não compõem o VUCA."
+   ]
+  ],
+  "f": "VUCA (volatility, uncertainty, complexity, ambiguity) é o ambiente instável em que se planeja.",
+  "e": "Bennett & Lemoine (HBR): volatilidade pede reservas e gestão de risco; incerteza, informação; complexidade, especialistas; ambiguidade, experimentação.",
+  "n": "Modo jogo: alternativas em adjetivos curtos para caber no Duelo."
+ },
+ {
+  "r": 8,
+  "s": "EST",
+  "m": "cinco-forcas",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Nas 5 Forças de Porter, qual força mede a facilidade de novas empresas entrarem no setor?",
+  "a": [
+   [
+    "Poder de barganha dos clientes",
+    "Confunde com a pressão de quem compra.",
+    "Essa força mede quanto os clientes pressionam os preços."
+   ],
+   [
+    "Ameaça de substitutos",
+    "Confunde entrantes com substitutos.",
+    "Substitutos são outros produtos que atendem a mesma necessidade."
+   ],
+   [
+    "Rivalidade entre concorrentes",
+    "Confunde com a disputa entre quem já está no setor.",
+    "Rivalidade trata das empresas que já competem."
+   ],
+   "*Ameaça de novos entrantes"
+  ],
+  "f": "Quanto mais baixas as barreiras de entrada, maior a ameaça de novos entrantes.",
+  "e": "Barreiras típicas: capital necessário, economia de escala, regulamentação, marca. Exemplo da aula: 99 e Didi como entrantes no setor da Uber.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 9,
+  "s": "EST",
+  "m": "objetivos-smart",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Num objetivo SMART, o que significa a letra T?",
+  "a": [
+   "*Temporal (com prazo)",
+   [
+    "Tático",
+    "Confunde com nível de planejamento.",
+    "Tático é um nível de planejamento, não um critério SMART."
+   ],
+   [
+    "Transformador",
+    "Inventa um termo inspirador.",
+    "Ser inspirador não está na sigla; T é ter prazo definido."
+   ],
+   [
+    "Técnico",
+    "Inventa um termo plausível.",
+    "SMART descreve como formular o objetivo, não a área técnica."
+   ]
+  ],
+  "f": "SMART: específico, mensurável, atingível, relevante e temporal (com prazo).",
+  "e": "Sigla completa: específico, mensurável, atingível, relevante e temporal. Objetivos SMART aparecem na etapa de 'grandes escolhas' do planejamento estratégico (ENAP) e no Project Model Canvas.",
+  "n": "Modo jogo: pergunta passou a pedir só uma letra da sigla, para caber nas alternativas curtas."
+ },
+ {
+  "r": 10,
+  "s": "EST",
+  "m": "analise-pest",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Na análise PEST, o que o fator tecnológico observa?",
+  "a": [
+   [
+    "Leis, impostos e tributos",
+    "Confunde com o fator político/legal.",
+    "Leis e tributos são fator político/legal."
+   ],
+   "*Inovações e novas tecnologias",
+   [
+    "Hábitos e cultura dos clientes",
+    "Confunde com o fator social.",
+    "Hábitos e cultura são fator social."
+   ],
+   [
+    "Renda, juros e inflação",
+    "Confunde com o fator econômico.",
+    "Renda, juros e inflação são fator econômico."
+   ]
+  ],
+  "f": "PEST: político, econômico, social e tecnológico — o macroambiente fora do controle da empresa.",
+  "e": "O PESTEL acrescenta os fatores ambiental e legal. A PEST aparece no plano de negócios da Aula 1, ao lado da SWOT e das 5 Forças.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 11,
+  "s": "EST",
+  "m": "bsc-perspectivas",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Quais são as quatro perspectivas clássicas do Balanced Scorecard?",
+  "a": [
+   [
+    "Financeira, clientes, fornecedores e governo",
+    "Troca perspectivas internas por stakeholders externos.",
+    "Fornecedores e governo não são perspectivas do BSC."
+   ],
+   [
+    "Produto, preço, praça e promoção",
+    "Confunde com os 4Ps de marketing.",
+    "Esses são os 4Ps de marketing."
+   ],
+   "*Financeira, clientes, processos e aprendizado",
+   [
+    "Forças, fraquezas, oportunidades e ameaças",
+    "Confunde com a SWOT.",
+    "Essa é a SWOT."
+   ]
+  ],
+  "f": "BSC (Kaplan & Norton): financeira, clientes, processos internos e aprendizado e crescimento.",
+  "e": "O mapa estratégico liga as perspectivas de baixo para cima: aprendizado sustenta processos, que sustentam clientes, que geram o resultado financeiro.",
+  "n": "Modo jogo: alternativas ajustadas ao limite do Duelo."
+ },
+ {
+  "r": 12,
+  "s": "EST",
+  "m": "analise-swot",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "A padaria do bairro tem uma receita de pão exclusiva que os clientes adoram. Na SWOT, isso é:",
+  "a": [
+   [
+    "Oportunidade",
+    "Classifica um recurso próprio como fator externo.",
+    "Oportunidade vem de fora; a receita é da própria padaria."
+   ],
+   [
+    "Ameaça",
+    "Inverte o sinal e o ambiente.",
+    "Ameaça é externa e negativa."
+   ],
+   [
+    "Fraqueza",
+    "Inverte o sinal.",
+    "Fraqueza é interna e negativa; a receita é um diferencial."
+   ],
+   "*Força"
+  ],
+  "f": "Recurso interno e positivo = força.",
+  "e": "Primeiro defina interno × externo; depois positivo × negativo.",
+  "n": "Modo jogo: bloom entender (classificar exemplo) e enunciado encurtado."
+ },
+ {
+  "r": 13,
+  "s": "EST",
+  "m": "oceano-azul",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Qual estratégia cria espaços de mercado inexplorados e torna a concorrência irrelevante?",
+  "a": [
+   "*Oceano Azul",
+   [
+    "Liderança em custo",
+    "Confunde com competir por preço no mesmo mercado.",
+    "Liderança em custo disputa o mercado existente com custo baixo."
+   ],
+   [
+    "Matriz BCG",
+    "Confunde com análise de portfólio.",
+    "A BCG classifica produtos que já existem."
+   ],
+   [
+    "Oceano Pacífico",
+    "Lembra do oceano, mas não da cor.",
+    "O conceito de Kim & Mauborgne é o Oceano Azul, oposto ao vermelho."
+   ]
+  ],
+  "f": "Oceano Azul (Kim & Mauborgne): criar mercado novo em vez de disputar o oceano vermelho.",
+  "e": "A ferramenta central é a matriz ERRC (eliminar, reduzir, elevar, criar), que busca inovação de valor.",
+  "n": "Modo jogo: enunciado encurtado e um distrator bem-humorado."
+ },
+ {
+  "r": 14,
+  "s": "EST",
+  "m": "propriedade-intelectual",
+  "b": "lembrar",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Patentes, marcas e direitos autorais são exemplos de:",
+  "a": [
+   [
+    "Ativos financeiros",
+    "Confunde intangível com financeiro.",
+    "Ativos financeiros são aplicações, ações e recebíveis."
+   ],
+   "*Propriedade intelectual",
+   [
+    "Ativos imobilizados",
+    "Confunde com bens físicos de uso.",
+    "Imobilizado é prédio, máquina, veículo."
+   ],
+   [
+    "Indicadores de desempenho",
+    "Confunde com métricas de gestão.",
+    "Indicadores medem resultados; não são ativos."
+   ]
+  ],
+  "f": "Propriedade intelectual protege criações do intelecto: propriedade industrial e direitos autorais.",
+  "e": "No Brasil, marcas, patentes e desenhos industriais são registrados no INPI; obras autorais, na Biblioteca Nacional.",
+  "n": "Modo jogo: feedback encurtado."
+ },
+ {
+  "r": 15,
+  "s": "DEC",
+  "m": "custo-de-oportunidade",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "sec": [
+   "FIN"
+  ],
+  "fi": "ECO",
+  "q": "A atlética gastou toda a verba na calourada e adiou os uniformes novos. Abrir mão dos uniformes é o:",
+  "a": [
+   [
+    "Lucro operacional",
+    "Confunde a escolha com o resultado contábil.",
+    "Lucro é resultado; o conceito aqui é o que se deixa de ter."
+   ],
+   [
+    "Custo fixo",
+    "Confunde com classificação de custos.",
+    "Custo fixo não varia com o volume; não é o que se sacrifica."
+   ],
+   "*Custo de oportunidade",
+   [
+    "Preço da ressaca",
+    "Leva a calourada ao pé da letra.",
+    "Ressaca não é conceito econômico; o sacrifício da escolha é o custo de oportunidade."
+   ]
+  ],
+  "f": "Custo de oportunidade: o valor da melhor alternativa de que se abre mão ao escolher.",
+  "e": "É um conceito central da Economia (escassez) e reaparece em finanças (TMA) e no ponto de equilíbrio econômico.",
+  "n": "Modo jogo: cenário trocado por atlética e um distrator bem-humorado."
+ },
+ {
+  "r": 16,
+  "s": "EST",
+  "m": "canvas-perguntas",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No Canvas, a Proposta de Valor responde a qual pergunta central?",
+  "a": [
+   [
+    "Para quem?",
+    "Confunde com segmentos, canais e relacionamento.",
+    "'Para quem' reúne segmentos, canais e relacionamento."
+   ],
+   [
+    "Como?",
+    "Confunde com recursos, atividades e parcerias.",
+    "'Como' reúne recursos, atividades e parcerias."
+   ],
+   [
+    "Quanto?",
+    "Confunde com custos e receitas.",
+    "'Quanto' reúne custos e fontes de receita."
+   ],
+   "*O quê?"
+  ],
+  "f": "A proposta de valor diz o quê a empresa entrega para resolver o problema do cliente.",
+  "e": "Ferramenta Canvas (Endeavor): o quê (proposta); para quem (segmentos, canais, relacionamento); como (recursos, atividades, parcerias); quanto (custos, receitas).",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 17,
+  "s": "EST",
+  "m": "bsc-perspectivas",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Satisfação, retenção e participação de mercado são indicadores de qual perspectiva do BSC?",
+  "a": [
+   "*Clientes",
+   [
+    "Financeira",
+    "Confunde resultado para acionistas com resultado no mercado.",
+    "A financeira mede retorno: lucro, receita, ROI."
+   ],
+   [
+    "Processos internos",
+    "Confunde eficiência interna com visão do cliente.",
+    "Processos medem tempo, qualidade e eficiência."
+   ],
+   [
+    "Aprendizado e crescimento",
+    "Confunde com capacitação e sistemas.",
+    "Essa perspectiva trata de pessoas, sistemas e clima."
+   ]
+  ],
+  "f": "A perspectiva de clientes mede como o mercado vê e valoriza a empresa.",
+  "e": "Exemplo da aula: companhia aérea com pontualidade (processos) melhorando a retenção (clientes).",
+  "n": "Modo jogo: enunciado invertido (indicadores → perspectiva) e encurtado."
+ },
+ {
+  "r": 18,
+  "s": "EST",
+  "m": "missao-visao-valores",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "No planejamento estratégico, os valores da organização são:",
+  "a": [
+   [
+    "Os preços da tabela",
+    "Confunde 'valor' com preço.",
+    "Valores, aqui, são princípios, não preços."
+   ],
+   "*Princípios que guiam as decisões",
+   [
+    "As metas financeiras do ano",
+    "Confunde com objetivos.",
+    "Metas são objetivos quantificáveis com prazo."
+   ],
+   [
+    "Os produtos que mais faturam",
+    "Confunde com portfólio.",
+    "Produtos não são valores organizacionais."
+   ]
+  ],
+  "f": "Valores = princípios que guiam decisões e comportamento na organização.",
+  "e": "Missão (razão de existir), visão (futuro desejado) e valores (princípios) formam a estrutura filosófica da organização.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 19,
+  "s": "EST",
+  "m": "estruturas-de-mercado",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "sec": [
+   "FIN"
+  ],
+  "fi": "ECO",
+  "q": "Muitas empresas, produto homogêneo e preço dado pelo mercado. Que estrutura é essa?",
+  "a": [
+   [
+    "Monopólio",
+    "Descreve monopólio.",
+    "Monopólio tem uma só empresa e barreiras à entrada."
+   ],
+   [
+    "Oligopólio",
+    "Confunde com poucas empresas interdependentes.",
+    "Oligopólio são poucas empresas que reagem umas às outras."
+   ],
+   "*Concorrência perfeita",
+   [
+    "Concorrência monopolística",
+    "Esquece que o produto é homogêneo.",
+    "Na monopolística há muitas empresas, mas produtos diferenciados."
+   ]
+  ],
+  "f": "Na concorrência perfeita as empresas são tomadoras de preço: muitas, iguais e sem barreiras.",
+  "e": "Critérios das estruturas de mercado (Vasconcellos & Garcia): número de agentes, diferenciação do produto e barreiras à entrada.",
+  "n": "Modo jogo: formato invertido (descrição → nome da estrutura) com alternativas de 1–2 palavras."
+ },
+ {
+  "r": 20,
+  "s": "EST",
+  "m": "oceano-azul-errc",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "duelo",
+   "giro"
+  ],
+  "q": "Quais são as quatro ações da matriz ERRC do Oceano Azul?",
+  "a": [
+   [
+    "Estruturar, reduzir, reposicionar, crescer",
+    "Inventa termos plausíveis.",
+    "Só 'reduzir' faz parte da matriz."
+   ],
+   [
+    "Explorar, reter, renovar e capturar",
+    "Inventa termos plausíveis.",
+    "Esses termos não formam a matriz ERRC."
+   ],
+   [
+    "Escalar, replicar, reduzir e controlar",
+    "Inventa termos plausíveis.",
+    "A matriz é eliminar, reduzir, elevar e criar."
+   ],
+   "*Eliminar, reduzir, elevar e criar"
+  ],
+  "f": "ERRC: eliminar e reduzir cortam custo; elevar e criar geram valor.",
+  "e": "Cirque du Soleil: eliminou animais e astros, reduziu humor e perigo, elevou o picadeiro único, criou tema e música.",
+  "n": "Modo jogo: alternativas ajustadas ao limite do Duelo."
+ },
+ {
+  "r": 21,
+  "s": "EST",
+  "m": "analise-swot",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Entrega relâmpago",
+   "Clientes da Loja Bela, loja online de moda, estão migrando para um app rival que entrega em 30 minutos.",
+   "Análise SWOT",
+   "Classificar o fator pela origem"
+  ],
+  "q": "Na SWOT da Loja Bela, esse movimento é:",
+  "a": [
+   "*Ameaça",
+   [
+    "Fraqueza",
+    "Classifica pelo efeito na loja, não pela origem.",
+    "O movimento nasce fora da loja; fraqueza seria um problema interno."
+   ],
+   [
+    "Oportunidade",
+    "Inverte o sinal.",
+    "Clientes saindo é efeito negativo vindo de fora."
+   ],
+   [
+    "Força do concorrente",
+    "Fica preso a analisar o rival.",
+    "A SWOT é da loja: a ação do rival entra como fator externo."
+   ]
+  ],
+  "f": "Movimento de concorrente é fator externo negativo: ameaça.",
+  "e": "Se a loja demora a entregar, ISSO é fraqueza (interna). A migração dos clientes para o rival é a ameaça (externa).",
+  "n": "Modo jogo: cenário de 1 frase e enunciado curto."
+ },
+ {
+  "r": 22,
+  "s": "EST",
+  "m": "estrategia-deliberada-x-emergente",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Açaí rumo ao Sul",
+   "A rede Açaí da Praia planejou abrir lojas no Nordeste, mas achou procura inesperada no Sul e passou a crescer por lá.",
+   "Estratégias de Mintzberg",
+   "Plano original deixado de lado"
+  ],
+  "q": "Que tipo de estratégia surgiu no Sul?",
+  "a": [
+   [
+    "Deliberada",
+    "Confunde o plano original com o que foi realizado.",
+    "Deliberada é a parte do plano realizada como previsto."
+   ],
+   "*Emergente",
+   [
+    "Não realizada",
+    "Vê só o plano abandonado.",
+    "O Nordeste virou estratégia não realizada; a do Sul é outra."
+   ],
+   [
+    "Pretendida",
+    "Confunde com a intenção inicial.",
+    "Pretendida é a intenção original (Nordeste)."
+   ]
+  ],
+  "f": "Emergente: padrão de ação que surge na prática, sem ter sido planejado.",
+  "e": "Mintzberg: pretendida → deliberada (realizada) ou não realizada; emergente → também compõe a estratégia realizada.",
+  "n": "Modo jogo: cenário com açaiteria em 1 frase e enunciado curto."
+ },
+ {
+  "r": 23,
+  "s": "EST",
+  "m": "bsc-mapa-estrategico",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "No mapa estratégico do BSC, qual perspectiva fica na base e sustenta as demais?",
+  "a": [
+   [
+    "Financeira",
+    "Inverte o mapa.",
+    "A financeira fica no topo: é o resultado final."
+   ],
+   [
+    "Clientes",
+    "Põe o cliente na base.",
+    "Clientes ficam acima de processos."
+   ],
+   "*Aprendizado e crescimento",
+   [
+    "Processos internos",
+    "Põe processos na base.",
+    "Processos dependem de pessoas e sistemas (aprendizado)."
+   ]
+  ],
+  "f": "Pessoas, sistemas e clima (aprendizado) sustentam processos, clientes e, no topo, o resultado financeiro.",
+  "e": "Kaplan & Norton: o mapa conecta objetivos em relações de causa e efeito, de baixo para cima.",
+  "n": "Modo jogo: mantida curta; feedback sem encadeamento."
+ },
+ {
+  "r": 24,
+  "s": "EST",
+  "m": "tam-sam-som",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "sec": [
+   "MKT"
+  ],
+  "c": [
+   "Fome de mercado",
+   "A startup Rango quer estimar quantas pessoas no Brasil poderiam usar qualquer app de entrega de comida.",
+   "TAM, SAM e SOM",
+   "Sem recorte de região ou nicho"
+  ],
+  "q": "Que indicador ela está calculando?",
+  "a": [
+   [
+    "SAM",
+    "Confunde com o recorte que o modelo atende.",
+    "SAM recorta o TAM para o segmento atendível."
+   ],
+   [
+    "SOM",
+    "Confunde com a fatia capturável.",
+    "SOM é a parte realista que a empresa consegue capturar."
+   ],
+   [
+    "ROI",
+    "Confunde tamanho de mercado com retorno.",
+    "ROI é retorno sobre investimento."
+   ],
+   "*TAM"
+  ],
+  "f": "TAM é o mercado total endereçável, sem recortes.",
+  "e": "Funil: TAM (setor inteiro) → SAM (segmento atendível pelo modelo) → SOM (fatia capturável). Ex.: Delmon, 33 mi → 1 mi → 500 mil.",
+  "n": "Modo jogo: cenário de 1 frase e enunciado curto."
+ },
+ {
+  "r": 25,
+  "s": "EST",
+  "m": "swot-cruzada",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Na SWOT cruzada, força + oportunidade gera que tipo de estratégia?",
+  "a": [
+   "*Ofensiva",
+   [
+    "Defensiva",
+    "Associa com força × ameaça.",
+    "Força × ameaça é defensiva."
+   ],
+   [
+    "De sobrevivência",
+    "Associa com fraqueza × ameaça.",
+    "Fraqueza × ameaça é sobrevivência."
+   ],
+   [
+    "De reforço",
+    "Associa com fraqueza × oportunidade.",
+    "Fraqueza × oportunidade é reforço."
+   ]
+  ],
+  "f": "SO ofensiva · WO reforço · ST defensiva · WT sobrevivência.",
+  "e": "A SWOT cruzada transforma o diagnóstico em estratégias: usar forças para aproveitar oportunidades é a posição mais favorável.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 26,
+  "s": "EST",
+  "m": "oceano-azul-errc",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Circo sem bichos",
+   "Um circo eliminou animais e astros e elevou arte, música e cenografia, com espetáculos temáticos.",
+   "Matriz das 4 ações",
+   "Reconstruir a oferta do setor"
+  ],
+  "q": "Qual ferramenta explica essa lógica?",
+  "a": [
+   [
+    "Matriz BCG",
+    "Confunde com análise de portfólio.",
+    "A BCG classifica produtos por crescimento e participação."
+   ],
+   "*Matriz ERRC (4 ações)",
+   [
+    "5 Forças de Porter",
+    "Confunde com análise do setor.",
+    "As 5 Forças analisam o setor, não reconstroem a oferta."
+   ],
+   [
+    "Análise PEST",
+    "Confunde com análise do macroambiente.",
+    "A PEST olha fatores externos."
+   ]
+  ],
+  "f": "A matriz ERRC diz o que eliminar, reduzir, elevar e criar para gerar inovação de valor.",
+  "e": "É o caso Cirque du Soleil, central na Aula 8 (Oceano Azul).",
+  "n": "Modo jogo: caso do circo em 1 frase de cenário."
+ },
+ {
+  "r": 27,
+  "s": "EST",
+  "m": "escolas-de-mintzberg",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Qual escola de Mintzberg vê a estratégia como aprendizado coletivo, por tentativa e adaptação?",
+  "a": [
+   [
+    "Escola do Design",
+    "Confunde com concepção deliberada.",
+    "No Design, o CEO concebe a estratégia antes da ação."
+   ],
+   [
+    "Escola do Poder",
+    "Confunde com negociação política.",
+    "A do Poder vê a estratégia como negociação."
+   ],
+   "*Escola do Aprendizado",
+   [
+    "Escola do Posicionamento",
+    "Confunde com análise de posição no setor.",
+    "Posicionamento é analítico (Porter, BCG)."
+   ]
+  ],
+  "f": "Escola do Aprendizado: a estratégia emerge do aprendizado coletivo ao longo da ação.",
+  "e": "Modelo 4I (Crossan et al.): intuição, interpretação, integração e institucionalização.",
+  "n": "Modo jogo: enunciado encurtado."
+ },
+ {
+  "r": 28,
+  "s": "EST",
+  "m": "ativos-intangiveis",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "dt": "Dado da Ocean Tomo (2020) citado na Aula 1",
+  "q": "Segundo a Ocean Tomo, em 2020 cerca de 90% do valor do S&P 500 vinha de quê?",
+  "a": [
+   [
+    "Imóveis e terrenos",
+    "Confunde com ativos tangíveis.",
+    "Imóveis são tangíveis; o peso deles caiu para cerca de 10%."
+   ],
+   [
+    "Máquinas e equipamentos",
+    "Confunde com ativos tangíveis.",
+    "Máquinas são tangíveis."
+   ],
+   [
+    "Estoques e caixa",
+    "Confunde com ativos circulantes.",
+    "Estoques e caixa são circulantes, não intangíveis."
+   ],
+   "*Ativos intangíveis"
+  ],
+  "f": "Intangíveis (marcas, patentes, software) foram de 17% em 1975 a 90% em 2020 do valor do S&P 500.",
+  "e": "Por isso a proteção da propriedade intelectual é estratégica (Aula 1 e Aula 3).",
+  "n": "Modo jogo: enunciado encurtado e alternativas curtas."
+ },
+ {
+  "r": 29,
+  "s": "EST",
+  "m": "cinco-forcas",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Grão raro",
+   "A cafeteria Grão Fino, em Botafogo, só compra grãos especiais de dois produtores da região.",
+   "5 Forças de Porter",
+   "Poucas opções de compra"
+  ],
+  "q": "Nas 5 Forças, isso indica:",
+  "a": [
+   "*Alto poder dos fornecedores",
+   [
+    "Alto poder dos clientes",
+    "Inverte o lado da cadeia.",
+    "Clientes compram o café; o caso trata de quem vende os grãos."
+   ],
+   [
+    "Baixa rivalidade no setor",
+    "Confunde força de fornecedores com rivalidade.",
+    "O caso fala de quem vende para a cafeteria, não de concorrentes."
+   ],
+   [
+    "Baixa ameaça de substitutos",
+    "Confunde com substitutos do produto final.",
+    "Substitutos atendem a mesma necessidade do cliente da cafeteria."
+   ]
+  ],
+  "f": "Poucos fornecedores de insumo diferenciado têm alto poder de barganha.",
+  "e": "Concentração de fornecedores e alto custo de troca aumentam o poder deles sobre preço, prazo e condições.",
+  "n": "Modo jogo: cenário de 1 frase e alternativas curtas."
+ },
+ {
+  "r": 30,
+  "s": "EST",
+  "m": "objetivos-smart",
+  "b": "analisar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Qual destes objetivos atende aos critérios SMART?",
+  "a": [
+   [
+    "Melhorar muito as vendas online",
+    "Falta medida e prazo.",
+    "Não diz quanto nem até quando."
+   ],
+   "*Vender 15% mais online até dezembro",
+   [
+    "Ser a melhor loja online do Brasil",
+    "Pouco específico e pouco atingível.",
+    "Não tem indicador, prazo nem viabilidade clara."
+   ],
+   [
+    "Vender o máximo possível online",
+    "Falta meta e prazo.",
+    "'O máximo possível' não é mensurável."
+   ]
+  ],
+  "f": "SMART exige o quê, quanto e até quando.",
+  "e": "Específico (vendas online), mensurável (15%), atingível, relevante e temporal (dezembro).",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 31,
+  "s": "EST",
+  "m": "canvas-perguntas",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "No Canvas, Segmentos de Clientes, Canais e Relacionamento respondem a qual pergunta?",
+  "a": [
+   [
+    "O quê?",
+    "Confunde com a proposta de valor.",
+    "'O quê' é a proposta de valor."
+   ],
+   [
+    "Como?",
+    "Confunde com o lado da eficiência.",
+    "'Como' reúne recursos, atividades e parcerias."
+   ],
+   "*Para quem?",
+   [
+    "Quanto?",
+    "Confunde com os blocos financeiros.",
+    "'Quanto' reúne custos e receitas."
+   ]
+  ],
+  "f": "Segmentos, canais e relacionamento formam o 'para quem' do Canvas: cliente, acesso e interação.",
+  "e": "Lado direito do Canvas (valor): proposta, segmentos, canais, relacionamento e receitas.",
+  "n": "Modo jogo: alternativas reduzidas às 4 perguntas centrais."
+ },
+ {
+  "r": 32,
+  "s": "EST",
+  "m": "analise-pest",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Adeus, canudinho",
+   "Uma nova lei estadual proíbe embalagens plásticas descartáveis em restaurantes.",
+   "Análise PEST",
+   "Fator fora do controle da empresa"
+  ],
+  "q": "Na análise PEST, esse fator é:",
+  "a": [
+   [
+    "Econômico",
+    "Associa a lei ao custo que ela gera.",
+    "O custo é consequência; a origem do fator é uma norma legal."
+   ],
+   [
+    "Tecnológico",
+    "Associa a novas embalagens.",
+    "Tecnologia de embalagem seria fator tecnológico; a proibição é legal."
+   ],
+   [
+    "Social",
+    "Associa à mudança de hábitos.",
+    "A mudança de hábito pode vir depois; o fator é a lei."
+   ],
+   "*Político/legal"
+  ],
+  "f": "Leis, normas e regulações são fator político/legal.",
+  "e": "No PESTEL, 'ambiental' e 'legal' aparecem separados; na PEST, a lei entra no fator político.",
+  "n": "Modo jogo: cenário de 1 frase e enunciado curto."
+ },
+ {
+  "r": 33,
+  "s": "EST",
+  "m": "inovacao-de-valor",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "No Oceano Azul, o que caracteriza a inovação de valor?",
+  "a": [
+   "*Diferenciação e baixo custo juntos",
+   [
+    "Tecnologia de ponta contra rivais",
+    "Associa inovação a tecnologia.",
+    "Inovação de valor não depende de tecnologia de ponta."
+   ],
+   [
+    "Escolher entre custo ou diferença",
+    "Repete o trade-off de Porter.",
+    "O Oceano Azul busca romper essa escolha."
+   ],
+   [
+    "Copiar o líder com preço menor",
+    "Descreve competição no oceano vermelho.",
+    "Imitar com preço menor é disputar o mesmo mercado."
+   ]
+  ],
+  "f": "Inovação de valor: salto de valor para o cliente com custo menor para a empresa, ao mesmo tempo.",
+  "e": "Sequência estratégica do Oceano Azul: utilidade para o comprador, preço estratégico, custo-alvo e adoção.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 34,
+  "s": "EST",
+  "m": "competencias-essenciais",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Competências essenciais (core competencies) são capacidades que:",
+  "a": [
+   [
+    "Mudam a cada mês com o mercado",
+    "Confunde com respostas táticas.",
+    "Competências essenciais são construídas ao longo do tempo."
+   ],
+   "*Diferenciam e são difíceis de imitar",
+   [
+    "Podem ser terceirizadas sem perda",
+    "Inverte o conceito.",
+    "Se são essenciais, terceirizá-las enfraquece a vantagem."
+   ],
+   [
+    "Vêm de uma campanha pontual",
+    "Confunde com ação tática de curto prazo.",
+    "Uma campanha pontual não sustenta vantagem."
+   ]
+  ],
+  "f": "Competências essenciais sustentam vantagem por serem valiosas e difíceis de copiar.",
+  "e": "Na Escola do Design, a avaliação interna busca as 'competências distintivas' da organização.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 35,
+  "s": "EST",
+  "m": "matriz-bcg",
+  "b": "lembrar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Na Matriz BCG, como é um produto ponto de interrogação?",
+  "a": [
+   [
+    "Alta fatia em mercado de baixo crescimento",
+    "Descreve vaca leiteira.",
+    "Essa é a vaca leiteira."
+   ],
+   [
+    "Alta fatia em mercado de alto crescimento",
+    "Descreve estrela.",
+    "Essa é a estrela."
+   ],
+   "*Baixa fatia em mercado de alto crescimento",
+   [
+    "Baixa fatia em mercado de baixo crescimento",
+    "Descreve abacaxi.",
+    "Esse é o abacaxi."
+   ]
+  ],
+  "f": "Interrogação: mercado atrativo, mas a empresa ainda é pequena nele; consome caixa e pede decisão.",
+  "e": "Estrela e interrogação estão em mercados de alto crescimento; o que muda é a participação.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 36,
+  "s": "EST",
+  "m": "bsc-mapa-estrategico",
+  "b": "entender",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "q": "Que tipo de relação o mapa estratégico do BSC estabelece entre os objetivos?",
+  "a": [
+   [
+    "Hierarquia entre departamentos",
+    "Confunde com organograma.",
+    "O mapa não mostra cargos nem departamentos."
+   ],
+   [
+    "Prioridade no orçamento",
+    "Confunde com alocação de verba.",
+    "Orçamento é consequência, não a lógica do mapa."
+   ],
+   [
+    "Ordem alfabética das metas",
+    "Chuta uma organização qualquer.",
+    "O mapa liga objetivos pelo efeito de um sobre o outro."
+   ],
+   "*Causa e efeito"
+  ],
+  "f": "O mapa estratégico mostra como melhorar uma perspectiva causa melhora na seguinte.",
+  "e": "Ex.: treinar a equipe (aprendizado) reduz erros (processos), o que fideliza (clientes) e aumenta a margem (financeira).",
+  "n": "Modo jogo: distrator leve no lugar de 'ordem cronológica'."
+ },
+ {
+  "r": 37,
+  "s": "EST",
+  "m": "equilibrio-de-mercado",
+  "b": "aplicar",
+  "d": 1,
+  "k": [
+   "giro"
+  ],
+  "sec": [
+   "FIN"
+  ],
+  "fi": "ECO",
+  "c": [
+   "Fim do verão",
+   "Depois do verão, a procura por picolé em Copacabana caiu, e a oferta dos vendedores continuou a mesma.",
+   "Oferta e demanda",
+   "Só a demanda se deslocou"
+  ],
+  "q": "O que tende a acontecer com o preço de equilíbrio do picolé?",
+  "a": [
+   "*Cai até um novo equilíbrio",
+   [
+    "Sobe, porque sobra picolé",
+    "Inverte a reação ao excesso de oferta.",
+    "Sobra de produto pressiona o preço para baixo."
+   ],
+   [
+    "Fica igual, a oferta não mudou",
+    "Ignora o deslocamento da demanda.",
+    "A demanda mudou, então o equilíbrio também muda."
+   ],
+   [
+    "Dobra para compensar",
+    "Supõe que o vendedor fixa o preço livremente.",
+    "No mercado, o excesso de oferta força o preço para baixo."
+   ]
+  ],
+  "f": "Demanda cai com oferta constante: sobra produto e o preço cai até um novo equilíbrio.",
+  "e": "Método das 3 etapas: qual curva desloca (demanda), para que lado (esquerda), qual o novo equilíbrio (preço e quantidade menores).",
+  "n": "Modo jogo: cenário de praia em 1 frase."
+ },
+ {
+  "r": 38,
+  "s": "EST",
+  "m": "escolas-de-mintzberg",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "q": "Para a Escola do Design (Mintzberg), a estratégia nasce de:",
+  "a": [
+   [
+    "Disputas políticas entre grupos",
+    "Descreve a Escola do Poder.",
+    "Negociação e jogos políticos são da Escola do Poder."
+   ],
+   "*Concepção deliberada do CEO",
+   [
+    "Crenças e valores coletivos",
+    "Descreve a Escola Cultural.",
+    "Crenças compartilhadas são da Escola Cultural."
+   ],
+   [
+    "Intuição visionária do fundador",
+    "Descreve a Escola Empreendedora.",
+    "Visão e intuição do líder são da Empreendedora."
+   ]
+  ],
+  "f": "Design: concepção consciente e deliberada, conduzida pelo CEO, com base na SWOT.",
+  "e": "Modelo de Andrews: avaliação externa + interna → criação → escolha (consistência, consonância, vantagem, viabilidade) → implementação.",
+  "n": "Modo jogo: alternativas encurtadas; a SWOT foi para o feedback."
+ },
+ {
+  "r": 39,
+  "s": "EST",
+  "m": "swot-cruzada",
+  "b": "aplicar",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "c": [
+   "Delivery no bairro",
+   "O Bistrô Sabor, muito bem avaliado, começou a entregar por app porque os pedidos de delivery no bairro só crescem.",
+   "SWOT cruzada",
+   "Combinar fator interno e externo"
+  ],
+  "q": "Que cruzamento da SWOT o bistrô está usando?",
+  "a": [
+   [
+    "Força + ameaça",
+    "Vê o delivery como ameaça.",
+    "O crescimento do delivery é uma chance externa, não ameaça."
+   ],
+   [
+    "Fraqueza + oportunidade",
+    "Vê a reputação como ponto fraco.",
+    "Ser bem avaliado é força."
+   ],
+   "*Força + oportunidade",
+   [
+    "Fraqueza + ameaça",
+    "Inverte os dois sinais.",
+    "Nenhum dos dois fatores é negativo no caso."
+   ]
+  ],
+  "f": "Boa reputação (força) + delivery em alta (oportunidade) = estratégia ofensiva.",
+  "e": "SO ofensiva · WO reforço · ST defensiva · WT sobrevivência.",
+  "n": "Modo jogo: cenário de 1 frase e enunciado curto."
+ },
+ {
+  "r": 40,
+  "s": "EST",
+  "m": "tam-sam-som",
+  "b": "entender",
+  "d": 2,
+  "k": [
+   "giro"
+  ],
+  "sec": [
+   "MKT"
+  ],
+  "q": "No dimensionamento de mercado, o que o SAM representa?",
+  "a": [
+   [
+    "O que a empresa já vendeu",
+    "Confunde mercado com vendas realizadas.",
+    "Vendas realizadas são resultado, não tamanho de mercado."
+   ],
+   [
+    "A fatia conquistada no curto prazo",
+    "Confunde com o SOM.",
+    "A fatia capturável é o SOM."
+   ],
+   [
+    "O mercado total, sem recorte",
+    "Confunde com o TAM.",
+    "Mercado sem recorte é o TAM."
+   ],
+   "*A parte do TAM que o modelo atende"
+  ],
+  "f": "SAM é a parte do mercado total que o produto consegue atender (nicho, região, canal).",
+  "e": "Exemplo da aula: TAM = restaurantes; SAM = restaurantes vegetarianos; SOM = vegetarianos em São Paulo.",
+  "n": "Modo jogo: alternativas encurtadas."
+ },
+ {
+  "r": 41,
+  "s": "EST",
+  "m": "swot-cruzada",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Café em tempos de crise",
+   "A Café Serra, marca de 30 anos e líder de lembrança no estado, sofre com a recessão: as famílias cortaram compras e os mercados exigem descontos maiores.",
+   "SWOT cruzada",
+   "Recessão reduzindo o consumo"
+  ],
+  "q": "Cruzando a marca forte com a recessão, que estratégia a SWOT cruzada indica?",
+  "a": [
+   "*Defensiva: usar a marca para proteger a posição",
+   [
+    "Ofensiva: expandir para novos estados agora",
+    "Trata a recessão como oportunidade.",
+    "Recessão é ameaça; força × ameaça pede postura defensiva."
+   ],
+   [
+    "Sobrevivência: fechar linhas e cortar a marca",
+    "Trata a marca como fraqueza.",
+    "A marca é força; sobrevivência é para fraqueza × ameaça."
+   ],
+   [
+    "Reforço: corrigir fraquezas para aproveitar a crise",
+    "Confunde com fraqueza × oportunidade.",
+    "O cruzamento pedido é força × ameaça."
+   ]
+  ],
+  "f": "Força × ameaça = estratégia defensiva: usar a força para reduzir o impacto da ameaça.",
+  "e": "A SWOT cruzada combina fatores internos e externos: SO ofensiva, WO reforço, ST defensiva, WT sobrevivência. Aqui a pergunta isola o cruzamento marca (força) × recessão (ameaça).",
+  "n": "Modo jogo: cenário enxugado (sem dados de caixa e queda percentual) e dificuldade 3."
+ },
+ {
+  "r": 42,
+  "s": "EST",
+  "m": "oceano-azul",
+  "b": "avaliar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Academia × apps",
+   "A Academia Ritmo perdeu um quarto dos alunos para apps de treino de R$ 30 por mês. Ex-alunos dizem que sentem falta de orientação presencial, mas não têm tempo de ir todo dia.",
+   "Estratégia do Oceano Azul (inovação de valor)",
+   "Concorrente digital muito mais barato"
+  ],
+  "q": "Qual resposta segue a lógica do Oceano Azul?",
+  "a": [
+   [
+    "Baixar a mensalidade para R$ 30",
+    "Responde no oceano vermelho, pelas regras do rival.",
+    "Guerra de preço contra um app de custo quase zero destrói a margem."
+   ],
+   "*Plano híbrido: app + orientação presencial",
+   [
+    "Lançar um app de treino igual ao dos rivais",
+    "Imita o rival sem criar valor novo.",
+    "Copiar não diferencia nem tira a academia da disputa."
+   ],
+   [
+    "Manter tudo e reforçar a propaganda",
+    "Ignora a mudança no valor percebido.",
+    "Propaganda não resolve a perda de valor relatada pelos ex-alunos."
+   ]
+  ],
+  "f": "Oceano Azul: reconstruir a oferta (eliminar, reduzir, elevar, criar) em vez de seguir o rival.",
+  "e": "O plano híbrido reduz idas à academia (custo) e eleva/cria orientação personalizada (valor) — inovação de valor para quem saiu.",
+  "n": "Modo jogo: cenário enxugado para 2 frases com 1 número; dificuldade 4→3."
+ },
+ {
+  "r": 43,
+  "s": "EST",
+  "m": "bsc-mapa-estrategico",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Fila no pronto-socorro",
+   "O Hospital Bom Pastor quer reduzir a espera no pronto-socorro de 90 para 40 minutos. Para isso, vai redesenhar a triagem e treinar a enfermagem.",
+   "Perspectivas do BSC",
+   "Vários objetivos ligados no mesmo plano"
+  ],
+  "q": "Em qual perspectiva do BSC está o objetivo 'reduzir a espera'?",
+  "a": [
+   [
+    "Clientes",
+    "Classifica pela consequência, não pelo objetivo.",
+    "A satisfação do paciente é o efeito; reduzir a espera é processo."
+   ],
+   [
+    "Aprendizado e crescimento",
+    "Confunde o objetivo com o treinamento que o sustenta.",
+    "Treinar a enfermagem é aprendizado; a espera é processo."
+   ],
+   "*Processos internos",
+   [
+    "Financeira",
+    "Classifica pelo custo da operação.",
+    "A financeira mede retorno; o objetivo aqui é operacional."
+   ]
+  ],
+  "f": "Tempo de espera é processo interno; seu efeito direto aparece na satisfação do paciente (clientes).",
+  "e": "Cadeia do mapa: treinar enfermeiros (aprendizado) sustenta a redução da espera (processos), que eleva a satisfação (clientes) e a sustentabilidade financeira.",
+  "n": "Modo jogo: removido o par perspectiva→impacto (alternativas com seta); pergunta só a perspectiva do objetivo."
+ },
+ {
+  "r": 44,
+  "s": "EST",
+  "m": "cinco-forcas",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Gás no interior",
+   "A GasLar tem 80% do gás de cozinha de uma cidade do interior, e abrir uma rival exige licença da ANP e frota própria. Ela reajustou o preço três vezes no ano sem perder clientes.",
+   "5 Forças de Porter",
+   "Barreiras regulatórias e de capital à entrada"
+  ],
+  "q": "Na lógica das 5 Forças, os reajustes aceitos revelam:",
+  "a": [
+   [
+    "Alto poder de barganha dos clientes",
+    "Inverte a leitura dos reajustes.",
+    "Clientes fortes recusariam reajustes ou trocariam de fornecedor."
+   ],
+   [
+    "Alta ameaça de novos entrantes",
+    "Lê as barreiras ao contrário.",
+    "Licença e frota são barreiras: a ameaça de entrada é baixa."
+   ],
+   [
+    "Alta ameaça de substitutos",
+    "Supõe substitutos que o caso não cita.",
+    "Se houvesse substituto atraente, os clientes teriam migrado."
+   ],
+   "*Baixo poder de barganha dos clientes"
+  ],
+  "f": "Clientes sem alternativa relevante aceitam reajustes: baixo poder de barganha dos clientes.",
+  "e": "Três reajustes sem perda de clientes são a evidência direta do baixo poder dos clientes. As barreiras (licença ANP, depósito, frota) também tornam baixa a ameaça de entrantes.",
+  "n": "Modo jogo: cenário enxugado; enunciado ancorado nos reajustes, sem ambiguidade com entrantes."
+ },
+ {
+  "r": 45,
+  "s": "EST",
+  "m": "tam-sam-som",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "sec": [
+   "MKT"
+  ],
+  "c": [
+   "Coletes para motoboys",
+   "A Delmon fabrica coletes de segurança e só distribui em São Paulo, onde há 500 mil motoboys. A meta realista é vender para 20% deles no primeiro ano.",
+   "TAM, SAM e SOM",
+   "Distribuição limitada a um estado"
+  ],
+  "q": "Quantos coletes formam o SOM da Delmon no primeiro ano?",
+  "a": [
+   "*100 mil coletes",
+   [
+    "500 mil coletes",
+    "Para no recorte geográfico (SAM).",
+    "500 mil é o mercado atendível em SP, não a fatia capturável."
+   ],
+   [
+    "400 mil coletes",
+    "Desconta os 20% em vez de calcular a fatia.",
+    "SOM é 20% de 500 mil, não 500 mil menos 20%."
+   ],
+   [
+    "10 mil coletes",
+    "Erra a porcentagem (usa 2%).",
+    "20% de 500 mil é 100 mil, não 10 mil."
+   ]
+  ],
+  "f": "SOM = 20% de 500 mil = 100 mil coletes: a fatia realista que a empresa captura.",
+  "e": "Caso Delmon: 33 mi motociclistas no Brasil (TAM amplo), 1 mi motoboys, 500 mil em SP (SAM) e 100 mil coletes no ano 1 (SOM). A R$ 300 por colete, o SOM em receita é R$ 30 milhões.",
+  "n": "Modo jogo: conta reduzida a 1 operação (20% de 500 mil); a receita em R$ foi para a explicação."
+ },
+ {
+  "r": 46,
+  "s": "EST",
+  "m": "oceano-vermelho",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Guerra das hamburguerias",
+   "Numa rua de Niterói, sete hamburguerias vendem quase o mesmo combo e todas entraram em promoções de 2 por 1. Duas fecharam no último semestre.",
+   "Oceano vermelho × oceano azul",
+   "Margens em queda com preços cada vez menores"
+  ],
+  "q": "Que conceito descreve a situação dessas hamburguerias?",
+  "a": [
+   [
+    "Inovação de valor",
+    "Confunde baixar preço com inovar em valor.",
+    "Inovação de valor cria utilidade nova com custo menor; aqui todos só cortam preço."
+   ],
+   "*Oceano vermelho",
+   [
+    "Diferenciação por nicho",
+    "Ignora que os cardápios são parecidos.",
+    "Não há diferenciação: os produtos são quase iguais."
+   ],
+   [
+    "Disrupção de novo mercado",
+    "Confunde concorrência com disrupção.",
+    "Não há não consumidores atendidos por uma solução mais simples."
+   ]
+  ],
+  "f": "Oceano vermelho: setor saturado, ofertas parecidas, guerra de preço e margens em queda.",
+  "e": "A saída pelo Oceano Azul seria aplicar a matriz ERRC e olhar não clientes (três níveis) em vez de seguir as regras do setor.",
+  "n": "Modo jogo: cenário enxugado para 2 frases."
+ },
+ {
+  "r": 47,
+  "s": "EST",
+  "m": "protecao-de-software",
+  "b": "avaliar",
+  "d": 4,
+  "k": [
+   "coroa"
+  ],
+  "o": "NLM+WEB",
+  "u": [
+   "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+   "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm"
+  ],
+  "dt": "Lei 9.279/1996 (art. 10) e Lei 9.609/1998 — regras vigentes em 2026",
+  "c": [
+   "O algoritmo da RotaFácil",
+   "A RotaFácil criou um algoritmo próprio que corta 20% do custo de rotas de entrega. O código roda nos servidores da empresa, e os clientes só veem os resultados no navegador.",
+   "Formas de proteção da propriedade intelectual no Brasil",
+   "Software e algoritmo têm regras próprias de proteção"
+  ],
+  "q": "Qual proteção faz mais sentido para o algoritmo no Brasil?",
+  "a": [
+   [
+    "Patentear o algoritmo no INPI como invenção",
+    "Supõe que software em si é patenteável no Brasil.",
+    "A Lei 9.279/96 (art. 10) exclui programa de computador em si da patente."
+   ],
+   [
+    "Registrar o algoritmo como marca",
+    "Confunde marca com proteção de tecnologia.",
+    "Marca protege sinais distintivos, não algoritmos."
+   ],
+   "*Segredo do algoritmo e registro do software",
+   [
+    "Abrir o código para ganhar escala rápido",
+    "Abre mão da vantagem sem análise.",
+    "Publicar destrói o segredo, a principal proteção do caso."
+   ]
+  ],
+  "f": "No Brasil, software em si não é patenteável: protege-se por segredo e por direito autoral.",
+  "e": "Segredo industrial e know-how não exigem registro nem têm prazo (Aula 3). O software tem proteção autoral pela Lei 9.609/98. Cláusulas de confidencialidade com a equipe reforçam o segredo.",
+  "n": "Modo jogo: cenário enxugado e feedback encurtado; conteúdo legal mantido na explicação."
+ },
+ {
+  "r": 48,
+  "s": "EST",
+  "m": "canvas-parcerias-custos",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "Parceiros mais caros",
+   "A Agenda+ vende agendamento por assinatura para clínicas, com hospedagem na AWS e pagamentos pela Stripe. Neste ano, as duas subiram preços, e a mensalidade das clínicas ficou igual.",
+   "Business Model Canvas (blocos e relações)",
+   "Reajuste de parceiros com preço ao cliente congelado"
+  ],
+  "q": "Quais blocos do Canvas da Agenda+ são afetados mais diretamente?",
+  "a": [
+   [
+    "Segmentos de clientes e canais",
+    "Olha para o lado do cliente.",
+    "O reajuste vem de parceiros, não de mudanças nos clientes."
+   ],
+   [
+    "Proposta de valor e fontes de receita",
+    "Supõe mudança na oferta e no preço.",
+    "A mensalidade não mudou; a oferta também não."
+   ],
+   [
+    "Relacionamento e segmentos de clientes",
+    "Olha para o lado do cliente.",
+    "Não há mudança na interação com as clínicas."
+   ],
+   "*Parcerias principais e estrutura de custos"
+  ],
+  "f": "Parceiros mais caros elevam a estrutura de custos; com preço congelado, a margem cai.",
+  "e": "Lado esquerdo do Canvas (eficiência): parcerias, atividades, recursos e custos. Lucro = receitas − custos.",
+  "n": "Modo jogo: cenário enxugado para 2 frases sem percentuais."
+ },
+ {
+  "r": 49,
+  "s": "EST",
+  "m": "swot-cruzada",
+  "b": "aplicar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A gráfica em apuros",
+   "A Gráfica Central tem máquinas velhas que quebram e nenhum vendedor. Os clientes estão migrando para o digital, e um rival com impressão digital abriu na mesma rua.",
+   "SWOT cruzada",
+   "Fragilidades internas somadas a pressões externas"
+  ],
+  "q": "Que posição da SWOT cruzada descreve a Gráfica Central?",
+  "a": [
+   "*Sobrevivência (fraqueza + ameaça)",
+   [
+    "Ofensiva (força + oportunidade)",
+    "Ignora as fraquezas e as ameaças.",
+    "Não há força nem oportunidade evidentes no caso."
+   ],
+   [
+    "Defensiva (força + ameaça)",
+    "Supõe uma força que o caso não mostra.",
+    "A defensiva usa uma força para enfrentar a ameaça."
+   ],
+   [
+    "Reforço (fraqueza + oportunidade)",
+    "Lê a digitalização como oportunidade.",
+    "Para esta gráfica, sem equipamento digital, a digitalização é ameaça."
+   ]
+  ],
+  "f": "Fraqueza × ameaça = sobrevivência: reduzir danos e proteger a continuidade.",
+  "e": "Máquinas antigas e falta de vendas (fraquezas) + digitalização e concorrente novo (ameaças).",
+  "n": "Modo jogo: cenário enxugado para 2 frases."
+ },
+ {
+  "r": 50,
+  "s": "EST",
+  "m": "bsc-mapa-estrategico",
+  "b": "analisar",
+  "d": 3,
+  "k": [
+   "coroa"
+  ],
+  "c": [
+   "A virada da Vitta",
+   "A Vitta Cosméticos treinou seus químicos em fórmulas veganas, lançou produtos mais rápido, ganhou clientes fiéis e viu a receita subir no ano.",
+   "Mapa estratégico do BSC",
+   "Resultado financeiro depende de mudanças anteriores"
+  ],
+  "q": "Que ferramenta mostra como cada resultado puxou o seguinte?",
+  "a": [
+   [
+    "Análise PEST",
+    "Confunde com análise do macroambiente.",
+    "A PEST olha fatores externos, não a cadeia de resultados."
+   ],
+   "*Mapa estratégico do BSC",
+   [
+    "Business Model Canvas",
+    "Confunde com descrição do modelo de negócio.",
+    "O Canvas descreve a lógica de valor, não a causalidade entre objetivos."
+   ],
+   [
+    "Matriz das 4 ações (ERRC)",
+    "Confunde com reconstrução da oferta.",
+    "A ERRC decide o que eliminar, reduzir, elevar e criar."
+   ]
+  ],
+  "f": "O mapa estratégico liga aprendizado, processos, clientes e finanças por causa e efeito.",
+  "e": "Treinar (aprendizado) acelerou o desenvolvimento (processos), que gerou recorrência (clientes) e receita (financeira): a lógica de causa e efeito do mapa de Kaplan & Norton.",
+  "n": "Modo jogo: cenário sem números (antes 4) e feedback encurtado."
+ }
+]
