@@ -113,6 +113,12 @@ export interface DuelResult {
 
 export type CrownCause = 'CHARGES' | 'CORINGA'
 
+/** Revanche pedida numa partida encerrada: a nova partida e quem pediu. */
+export interface RematchLink {
+  matchId: string
+  by: PlayerNo
+}
+
 export interface MatchState {
   id: string
   code: string
@@ -135,6 +141,8 @@ export interface MatchState {
   lastDuel: DuelResult | null
   usedQuestionIds: string[]
   log: GameEvent[]
+  /** Ausente em partidas criadas antes da revanche direta. */
+  rematch?: RematchLink | null
   createdAt: number
   updatedAt: number
   expiresAt: number

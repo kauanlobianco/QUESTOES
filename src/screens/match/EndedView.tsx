@@ -1,6 +1,6 @@
 import { motion } from 'motion/react'
 import { useEffect } from 'react'
-import { AREAS, type EndedReason, type MatchView, type PlayerNo } from '../../engine'
+import { AREAS, other, type EndedReason, type MatchView, type PlayerNo } from '../../engine'
 import { Button } from '../../ui/Button'
 import { Ficha } from '../../ui/Ficha'
 import { celebrate } from '../../ui/confetti'
@@ -17,13 +17,17 @@ const REASON_TEXT: Record<EndedReason, string> = {
 
 interface EndedViewProps {
   view: MatchView
+  /** Jogador desta tela (online); null no hot-seat. */
+  me: PlayerNo | null
   onRematch: () => void
   onHome: () => void
   busy: boolean
 }
 
-export function EndedView({ view, onRematch, onHome, busy }: EndedViewProps) {
+export function EndedView({ view, me, onRematch, onHome, busy }: EndedViewProps) {
   const winner = view.winner ? view.players[view.winner] : null
+  const rival = me ? view.players[other(me)] : null
+  const rematchByRival = !!me && view.rematch?.by === other(me)
 
   useEffect(() => {
     if (winner) celebrate()
@@ -57,9 +61,19 @@ export function EndedView({ view, onRematch, onHome, busy }: EndedViewProps) {
       </div>
 
       <div className="mt-auto flex w-full flex-col gap-3">
+        {rematchByRival && (
+          <motion.p
+            className="font-display text-xl font-semibold text-coringa-gold"
+            initial={{ scale: 0.8, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            transition={{ type: 'spring', stiffness: 300, damping: 15 }}
+          >
+            {rival?.name} quer revanche!
+          </motion.p>
+        )}
         {view.players[2] && (
           <Button onClick={onRematch} disabled={busy}>
-            Revanche
+            {rematchByRival ? 'Aceitar revanche' : view.rematch ? 'Abrir revanche' : 'Revanche'}
           </Button>
         )}
         <Button variant="ghost" onClick={onHome}>

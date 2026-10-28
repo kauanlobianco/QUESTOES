@@ -32,9 +32,30 @@ export function HomeScreen() {
   const [localMatches, setLocalMatches] = useState<MatchView[]>([])
 
   useEffect(() => {
-    remote?.listMatches().then(setRemoteMatches, () => {})
     local?.listMatches().then(setLocalMatches, () => {})
-  }, [remote, local])
+  }, [local])
+
+  // Lista online ao vivo: qualquer jogada numa partida do usuário recarrega (com folga para rajadas).
+  useEffect(() => {
+    if (!remote) return
+    let timer: ReturnType<typeof setTimeout> | undefined
+    const load = () => remote.listMatches().then(setRemoteMatches, () => {})
+    const soon = () => {
+      clearTimeout(timer)
+      timer = setTimeout(load, 400)
+    }
+    const onVisible = () => {
+      if (!document.hidden) load()
+    }
+    load()
+    const stop = remote.watchMatches?.(soon)
+    document.addEventListener('visibilitychange', onVisible)
+    return () => {
+      clearTimeout(timer)
+      stop?.()
+      document.removeEventListener('visibilitychange', onVisible)
+    }
+  }, [remote])
 
   return (
     <main className="mx-auto flex min-h-dvh max-w-md flex-col gap-8 px-4 py-8">
@@ -175,35 +196,56 @@ function HotSeatCard({ client }: { client: GameClient }) {
 }
 
 function MatchList({ kind, matches, me }: { kind: ClientKind; matches: MatchView[]; me: string | null }) {
+  const isMyTurn = (m: MatchView) => me !== null && m.status !== 'ENDED' && m.players[2] !== null && playerNoOf(m, me) === m.turnOf
   const active = matches.filter((m) => m.status !== 'ENDED')
-  const ended = matches.filter((m) => m.status === 'ENDED').slice(0, 5)
+  const groups =
+    kind === 'remote'
+      ? [
+          { title: 'Sua vez', items: active.filter(isMyTurn) },
+          { title: 'Vez do amigo', items: active.filter((m) => !isMyTurn(m)) },
+        ]
+      : [{ title: 'Partidas no mesmo celular', items: active }]
+  groups.push({ title: 'Encerradas', items: matches.filter((m) => m.status === 'ENDED').slice(0, 5) })
+
   return (
-    <section className="flex flex-col gap-2">
-      <h2 className="font-display text-lg font-semibold text-white/80">{kind === 'remote' ? 'Suas partidas online' : 'Partidas no mesmo celular'}</h2>
-      <ul className="flex flex-col gap-2">
-        {[...active, ...ended].map((m) => {
-          const myTurn = me !== null && m.status !== 'ENDED' && playerNoOf(m, me) === m.turnOf && m.players[2] !== null
-          return (
-            <li key={m.id}>
-              <Link
-                to={matchPath(kind, m.id)}
-                className={`flex items-center gap-3 rounded-2xl px-4 py-3 transition hover:bg-white/10 ${myTurn ? 'bg-coringa-gold/15 ring-1 ring-coringa-gold/50' : 'bg-white/5'}`}
-              >
-                <span className="min-w-0 truncate font-semibold">
-                  <span style={{ color: PLAYER_ACCENT[1] }}>{m.players[1].name}</span>
-                  <span className="text-white/50"> × </span>
-                  <span style={{ color: PLAYER_ACCENT[2] }}>{m.players[2]?.name ?? '…'}</span>
-                </span>
-                <span className="font-display ml-auto text-lg font-bold">
-                  {m.players[1].crowns.length}–{m.players[2]?.crowns.length ?? 0}
-                </span>
-                <span className={`w-24 text-right text-xs ${myTurn ? 'font-bold text-coringa-gold' : 'text-white/60'}`}>{statusText(m, me)}</span>
-              </Link>
-            </li>
-          )
-        })}
-      </ul>
-    </section>
+    <>
+      {groups
+        .filter((g) => g.items.length > 0)
+        .map((g) => (
+          <section key={g.title} className="flex flex-col gap-2">
+            <h2 className="font-display text-lg font-semibold text-white/80">
+              {g.title}
+              {g.title === 'Sua vez' && <span className="ml-2 rounded-full bg-coringa-gold px-2 text-sm text-coringa-deep">{g.items.length}</span>}
+            </h2>
+            <ul className="flex flex-col gap-2">
+              {g.items.map((m) => (
+                <MatchRow key={m.id} kind={kind} match={m} me={me} myTurn={isMyTurn(m)} />
+              ))}
+            </ul>
+          </section>
+        ))}
+    </>
+  )
+}
+
+function MatchRow({ kind, match: m, me, myTurn }: { kind: ClientKind; match: MatchView; me: string | null; myTurn: boolean }) {
+  return (
+    <li>
+      <Link
+        to={matchPath(kind, m.id)}
+        className={`flex items-center gap-3 rounded-2xl px-4 py-3 transition hover:bg-white/10 ${myTurn ? 'bg-coringa-gold/15 ring-1 ring-coringa-gold/50' : 'bg-white/5'}`}
+      >
+        <span className="min-w-0 truncate font-semibold">
+          <span style={{ color: PLAYER_ACCENT[1] }}>{m.players[1].name}</span>
+          <span className="text-white/50"> × </span>
+          <span style={{ color: PLAYER_ACCENT[2] }}>{m.players[2]?.name ?? '…'}</span>
+        </span>
+        <span className="font-display ml-auto text-lg font-bold">
+          {m.players[1].crowns.length}–{m.players[2]?.crowns.length ?? 0}
+        </span>
+        <span className={`w-24 text-right text-xs ${myTurn ? 'font-bold text-coringa-gold' : 'text-white/60'}`}>{statusText(m, me)}</span>
+      </Link>
+    </li>
   )
 }
 

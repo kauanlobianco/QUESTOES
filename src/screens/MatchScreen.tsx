@@ -1,17 +1,20 @@
 import { AnimatePresence } from 'motion/react'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router'
-import { playerNoOf, type Area, type MatchView, type PublicQuestion, type Slice } from '../engine'
+import { RULES, playerNoOf, type Area, type GameEvent, type MatchView, type PlayerNo, type PublicQuestion, type Slice } from '../engine'
+import { AREA_INFO } from '../content/areas'
 import { ClientError, type ClientCommand, type CommandResult, type GameClient } from '../game/client'
+import { serverNow } from '../game/clock'
 import { useClients, type ClientKind } from '../game/GameClientContext'
 import { matchPath } from '../game/paths'
+import { freshRivalEvents, handsTurnTo, latestAt, loadSeen, saveSeen, turnSummary } from '../game/rivalNews'
 import { PlayerBoard } from '../ui/PlayerBoard'
 import { CloseIcon, FlagIcon } from '../ui/icons'
 import { CrownChoiceView } from './match/CrownChoiceView'
 import { DuelIntroView } from './match/DuelIntroView'
 import { EndedView } from './match/EndedView'
 import { InviteBanner, WaitingView } from './match/WaitingView'
-import { CrownWonOverlay, DuelResultOverlay, HandoffOverlay, type HandoffReason, type Moment } from './match/Overlays'
+import { CrownWonOverlay, DuelResultOverlay, HandoffOverlay, YourTurnOverlay, type HandoffReason, type Moment } from './match/Overlays'
 import { QuestionView } from './match/QuestionView'
 import { SpinView } from './match/SpinView'
 
@@ -29,7 +32,10 @@ interface AnswerState {
   result: CommandResult | null
 }
 
+const TITLE = 'Mestre dos Negócios'
+
 export function MatchScreen({ kind }: { kind: ClientKind }) {
+  const { id = '' } = useParams()
   const clients = useClients()
   const client = clients[kind]
   if (!client) {
@@ -44,11 +50,11 @@ export function MatchScreen({ kind }: { kind: ClientKind }) {
       </main>
     )
   }
-  return <Match client={client} />
+  // Revanche troca o id: a partida nova começa do zero.
+  return <Match key={id} id={id} client={client} />
 }
 
-function Match({ client }: { client: GameClient }) {
-  const { id = '' } = useParams()
+function Match({ id, client }: { id: string; client: GameClient }) {
   const navigate = useNavigate()
   const hotSeat = client.mode === 'local'
 
@@ -58,31 +64,98 @@ function Match({ client }: { client: GameClient }) {
   const [spin, setSpin] = useState<SpinState | null>(null)
   const [answer, setAnswer] = useState<AnswerState | null>(null)
   const [moments, setMoments] = useState<Moment[]>([])
+  const [toast, setToast] = useState<string | null>(null)
   const spinResult = useRef<CommandResult | null>(null)
   const spinning = useRef(false)
   const answering = useRef(false)
   const inFlight = useRef(false)
   const idle = useRef(true)
   const incoming = useRef<MatchView | null>(null)
+  /** Evento mais novo do log que este navegador já mostrou (online). */
+  const seen = useRef<number | null>(hotSeat ? null : loadSeen(id))
+  /** Já recebeu o primeiro estado; avisos de entrada só valem ao vivo (revanche já nasce com os dois). */
+  const loaded = useRef(false)
 
-  // Atualizações do rival chegam pelo Realtime; só entram na tela entre animações.
-  const applyIfNewer = useCallback((v: MatchView) => setView((cur) => (!cur || v.seq > cur.seq ? v : cur)), [])
+  const markSeen = useCallback((v: MatchView) => {
+    const at = latestAt(v.log, seen.current)
+    if (at === null || at === seen.current) return
+    seen.current = at
+    saveSeen(v.id, at)
+  }, [])
+
+  // Estado vindo do servidor que não é resposta a um comando deste jogador:
+  // o que o rival fez desde a última olhada vira destaque na tela.
+  const receive = useCallback(
+    (v: MatchView) => {
+      const me = hotSeat ? null : playerNoOf(v, client.userId ?? '')
+      if (me) {
+        const events = freshRivalEvents(v.log, me, seen.current)
+        if (loaded.current && events.some((e) => e.type === 'PLAYER_JOINED')) setToast(`${v.players[2]?.name ?? 'Seu amigo'} aceitou o desafio!`)
+        const news = rivalMoments(v, me, events)
+        if (news.length) setMoments((m) => [...m, ...news])
+        markSeen(v)
+      }
+      loaded.current = true
+      setView((cur) => (!cur || v.seq > cur.seq ? v : cur))
+    },
+    [client, hotSeat, markSeen],
+  )
+
+  // Atualizações do rival só entram na tela entre animações.
+  const deliver = useCallback(
+    (v: MatchView) => {
+      if (idle.current) receive(v)
+      else incoming.current = v
+    },
+    [receive],
+  )
 
   useEffect(() => {
     idle.current = !spin && !answer && moments.length === 0 && !busy
     if (idle.current && incoming.current) {
-      applyIfNewer(incoming.current)
+      receive(incoming.current)
       incoming.current = null
     }
-  }, [spin, answer, moments, busy, applyIfNewer])
+  }, [spin, answer, moments, busy, receive])
 
   useEffect(() => {
     if (hotSeat) return
-    return client.subscribe(id, (v) => {
-      if (idle.current) applyIfNewer(v)
-      else incoming.current = v
-    })
-  }, [client, id, hotSeat, applyIfNewer])
+    return client.subscribe(id, deliver)
+  }, [client, id, hotSeat, deliver])
+
+  // Realtime pode cair com a aba em segundo plano: relê ao voltar.
+  useEffect(() => {
+    if (hotSeat) return
+    const onVisible = () => {
+      if (!document.hidden) client.getMatch(id).then(deliver, () => {})
+    }
+    document.addEventListener('visibilitychange', onVisible)
+    return () => document.removeEventListener('visibilitychange', onVisible)
+  }, [client, id, hotSeat, deliver])
+
+  // Rival sumiu no meio da pergunta: ao fim do prazo, a leitura grava o tempo esgotado.
+  const myNo = view && !hotSeat ? playerNoOf(view, client.userId ?? '') : null
+  const rivalDeadline =
+    myNo && view?.status === 'ACTIVE' && view.current && view.turnOf !== myNo ? view.current.servedAt + view.current.timeLimitMs + RULES.graceMs : null
+  useEffect(() => {
+    if (rivalDeadline === null) return
+    const t = setTimeout(() => client.getMatch(id).then(deliver, () => {}), Math.max(0, rivalDeadline - serverNow()) + 1000)
+    return () => clearTimeout(t)
+  }, [rivalDeadline, client, id, deliver])
+
+  const myTurnOnline = !!myNo && view?.status === 'ACTIVE' && !!view.players[2] && view.turnOf === myNo
+  useEffect(() => {
+    document.title = myTurnOnline ? `Sua vez! · ${TITLE}` : TITLE
+    return () => {
+      document.title = TITLE
+    }
+  }, [myTurnOnline])
+
+  useEffect(() => {
+    if (!toast) return
+    const t = setTimeout(() => setToast(null), 3500)
+    return () => clearTimeout(t)
+  }, [toast])
 
   useEffect(() => {
     let alive = true
@@ -90,7 +163,7 @@ function Match({ client }: { client: GameClient }) {
       .getMatch(id)
       .then((v) => {
         if (!alive) return
-        setView(v)
+        receive(v)
         const started = v.log.some((e) => e.type !== 'PLAYER_JOINED')
         if (hotSeat && v.status !== 'ENDED' && started) setMoments([{ type: 'handoff', to: v.turnOf, reason: 'RESUME' }])
       })
@@ -98,7 +171,7 @@ function Match({ client }: { client: GameClient }) {
     return () => {
       alive = false
     }
-  }, [client, id, hotSeat])
+  }, [client, id, hotSeat, receive])
 
   const run = useCallback(
     async (cmd: ClientCommand): Promise<CommandResult | null> => {
@@ -108,17 +181,20 @@ function Match({ client }: { client: GameClient }) {
       setBusy(true)
       setError(null)
       try {
-        return await client.send(id, cmd)
+        const r = await client.send(id, cmd)
+        // O que veio na resposta é mostrado por este jogador; não conta como novidade do rival.
+        if (!hotSeat) markSeen(r.view)
+        return r
       } catch (e) {
         setError(e instanceof ClientError ? e.message : 'Algo deu errado. Tente de novo.')
-        client.getMatch(id).then(setView, () => {})
+        client.getMatch(id).then(receive, () => {})
         return null
       } finally {
         inFlight.current = false
         setBusy(false)
       }
     },
-    [client, id],
+    [client, id, hotSeat, markSeen, receive],
   )
 
   const commit = useCallback(
@@ -222,13 +298,16 @@ function Match({ client }: { client: GameClient }) {
   async function onRematch() {
     if (!view) return
     setBusy(true)
+    setError(null)
     try {
       const next = hotSeat
         ? await client.createMatch({ p1Name: view.players[1].name, p2Name: view.players[2]?.name })
-        : await client.createMatch({ p1Name: myName })
+        : client.rematch
+          ? await client.rematch(view.id)
+          : await client.createMatch({ p1Name: myName })
       navigate(matchPath(client.mode, next.id))
-      setView(next)
-      setMoments([])
+    } catch (e) {
+      setError(e instanceof ClientError ? e.message : 'Não foi possível abrir a revanche.')
     } finally {
       setBusy(false)
     }
@@ -241,11 +320,17 @@ function Match({ client }: { client: GameClient }) {
       {moment.type === 'crown' && <CrownWonOverlay key="crown" view={view} player={moment.player} area={moment.area} onDone={dismissMoment} />}
       {moment.type === 'duel' && <DuelResultOverlay key="duel" view={view} result={moment.result} onDone={dismissMoment} />}
       {moment.type === 'handoff' && <HandoffOverlay key="handoff" view={view} to={moment.to} reason={moment.reason} onDone={dismissMoment} />}
+      {moment.type === 'yourTurn' && <YourTurnOverlay key="turn" view={view} me={me} lines={moment.lines} onDone={dismissMoment} />}
     </AnimatePresence>
   )
 
   if (view.status === 'ENDED' && !moment && !answer) {
-    return <EndedView view={view} busy={busy} onRematch={onRematch} onHome={() => navigate('/')} />
+    return (
+      <>
+        <EndedView view={view} me={hotSeat ? null : me} busy={busy} onRematch={onRematch} onHome={() => navigate('/')} />
+        {error && <ErrorToast message={error} onClose={() => setError(null)} />}
+      </>
+    )
   }
 
   const question = answer?.question ?? (isMyTurn ? view.current : null)
@@ -318,6 +403,7 @@ function Match({ client }: { client: GameClient }) {
         </>
       )}
 
+      {toast && <InfoToast message={toast} />}
       {error && <ErrorToast message={error} onClose={() => setError(null)} />}
       {overlay}
     </main>
@@ -334,6 +420,25 @@ function ErrorToast({ message, onClose }: { message: string; onClose: () => void
       {message}
     </button>
   )
+}
+
+function InfoToast({ message }: { message: string }) {
+  return (
+    <p role="status" className="fixed inset-x-4 top-4 z-30 mx-auto max-w-md rounded-2xl bg-emerald-600 px-4 py-3 text-center font-semibold shadow-xl">
+      {message}
+    </p>
+  )
+}
+
+/** Destaques do que o rival fez, na ordem: coroas, duelos e, por fim, "Sua vez!". */
+function rivalMoments(v: MatchView, me: PlayerNo, events: GameEvent[]): Moment[] {
+  const out: Moment[] = []
+  for (const e of events) {
+    if (e.type === 'CROWN_WON') out.push({ type: 'crown', player: e.player, area: e.area })
+    if (e.type === 'DUEL_ENDED') out.push({ type: 'duel', result: e.result })
+  }
+  if (handsTurnTo(v, me, events)) out.push({ type: 'yourTurn', lines: turnSummary(v, me, events, (a) => AREA_INFO[a].name) })
+  return out
 }
 
 function continueLabel(prev: MatchView, r: CommandResult, hotSeat: boolean): string {

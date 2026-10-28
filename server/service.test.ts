@@ -140,3 +140,31 @@ describe('jogadas', () => {
     expect([1, 2]).toContain(view.winner)
   })
 })
+
+describe('revanche', () => {
+  it('só depois do fim da partida', async () => {
+    const { service, id } = await startedMatch()
+    await expectApiError(service.rematch(ANA, id), 'WRONG_PHASE')
+    await expectApiError(service.rematch(EVE, id), 'NOT_A_PLAYER')
+  })
+
+  it('cria partida com os mesmos jogadores; quem pede começa', async () => {
+    const { service, id } = await startedMatch()
+    await service.command(ANA, id, { type: 'RESIGN' })
+    const r = await service.rematch(BIA, id)
+    expect(r.view.id).not.toBe(id)
+    expect(r.view).toMatchObject({ status: 'ACTIVE', turnOf: 1, players: { 1: { id: BIA, name: 'Bia' }, 2: { id: ANA, name: 'Ana' } } })
+    const old = await service.get(ANA, id)
+    expect(old.view.rematch).toEqual({ matchId: r.view.id, by: 2 })
+  })
+
+  it('pedidos repetidos dos dois lados caem na mesma partida', async () => {
+    const { service, repo, id } = await startedMatch()
+    await service.command(ANA, id, { type: 'RESIGN' })
+    const [a, b] = await Promise.all([service.rematch(ANA, id), service.rematch(BIA, id)])
+    const again = await service.rematch(ANA, id)
+    expect(b.view.id).toBe(a.view.id)
+    expect(again.view.id).toBe(a.view.id)
+    expect((repo as ReturnType<typeof memoryRepo>).rows.size).toBe(2)
+  })
+})

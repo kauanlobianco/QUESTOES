@@ -8,7 +8,7 @@ export interface StoredMatch {
 
 /** Persistência da partida. Produção: Supabase. Testes: memória. */
 export interface MatchRepo {
-  /** false se o código de convite já existe. */
+  /** false se o id ou o código de convite já existe. */
   create(state: MatchState, view: MatchView): Promise<boolean>
   load(key: { id: string } | { code: string }): Promise<StoredMatch | null>
   /** false se `version` não é mais a atual (outra escrita chegou antes). */
@@ -21,7 +21,7 @@ export function memoryRepo(): MatchRepo & { rows: Map<string, StoredMatch & { vi
   return {
     rows,
     async create(state, view) {
-      if ([...rows.values()].some((r) => r.state.code === state.code)) return false
+      if (rows.has(state.id) || [...rows.values()].some((r) => r.state.code === state.code)) return false
       rows.set(state.id, { id: state.id, version: 1, state: clone(state), view: clone(view) })
       return true
     },

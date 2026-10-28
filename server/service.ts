@@ -3,6 +3,8 @@
 import {
   GameError,
   createMatch,
+  linkRematch,
+  other,
   playerNoOf,
   reduce,
   settle,
@@ -98,13 +100,42 @@ export function createGameService(deps: GameServiceDeps) {
     if (!playerNoOf(state, userId)) throw new ApiError('NOT_A_PLAYER')
   }
 
+  /** Grava uma partida nova com um código livre. false se o id já existe. */
+  async function insert(id: string, creatorId: string, creatorName: string): Promise<MatchState | null> {
+    for (let i = 0; i < MAX_CODE_ATTEMPTS; i++) {
+      const state = createMatch({ id, code: newCode(), creatorId, creatorName, now: now() })
+      if (await repo.create(state, toPublicView(state, bank))) return state
+      if (await repo.load({ id })) return null
+    }
+    throw new ApiError('CONFLICT', 'não foi possível gerar código de convite')
+  }
+
   return {
     async create(userId: string, name: string): Promise<ApiResult> {
-      for (let i = 0; i < MAX_CODE_ATTEMPTS; i++) {
-        const state = createMatch({ id: newId(), code: newCode(), creatorId: userId, creatorName: name, now: now() })
-        if (await repo.create(state, toPublicView(state, bank))) return result(state)
-      }
-      throw new ApiError('CONFLICT', 'não foi possível gerar código de convite')
+      const state = await insert(newId(), userId, name)
+      if (!state) throw new ApiError('CONFLICT')
+      return result(state)
+    },
+
+    /**
+     * Revanche com o mesmo rival. O primeiro pedido liga a partida encerrada a
+     * uma nova (quem pede começa); pedidos seguintes, dos dois jogadores,
+     * caem na mesma partida.
+     */
+    async rematch(userId: string, matchId: string): Promise<ApiResult> {
+      const linked = await mutate({ id: matchId }, (_row, state) => {
+        requirePlayer(state, userId)
+        if (state.rematch) return null
+        return linkRematch(state, newId(), playerNoOf(state, userId)!)
+      })
+      const link = linked.view.rematch!
+      const host = linked.view.players[link.by]!
+      const guest = linked.view.players[other(link.by)]!
+      await insert(link.matchId, host.id, host.name)
+      return mutate({ id: link.matchId }, (_row, state) => {
+        if (playerNoOf(state, guest.id)) return null
+        return reduce(state, { type: 'JOIN', by: guest.id, name: guest.name }, ctx())
+      })
     },
 
     async peek(userId: string, code: string): Promise<InvitePeek> {

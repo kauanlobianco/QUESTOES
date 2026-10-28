@@ -121,6 +121,21 @@ assert(received.length > 0, `Realtime: Bia recebeu ${received.length} atualizaç
 assert(received.some((v) => v.status === 'ENDED'), 'Realtime: Bia viu o fim da partida')
 assert(!JSON.stringify(received).includes('correctIndex'), 'Realtime: nenhuma atualização contém gabarito')
 
+// Revanche direta: quem pede começa; o outro cai na mesma partida.
+const rem = await bia.api({ op: 'rematch', matchId: id })
+assert(
+  rem.status === 200 && rem.view.status === 'ACTIVE' && rem.view.players[1].id === bia.id && rem.view.players[2].id === ana.id,
+  'revanche: Bia pede, começa jogando e Ana já está na partida',
+)
+const remAna = await ana.api({ op: 'rematch', matchId: id })
+assert(remAna.status === 200 && remAna.view.id === rem.view.id, 'revanche: pedido da Ana cai na mesma partida')
+const eveRem = await eve.api({ op: 'rematch', matchId: id })
+assert(eveRem.status === 403, 'revanche: estranho é barrado')
+const { data: anaRem } = await ana.sb.from('matches').select('id').eq('id', rem.view.id)
+assert(anaRem?.length === 1, 'RLS: Ana lê a partida da revanche')
+await new Promise((r) => setTimeout(r, 1000))
+assert(received.some((v) => v.rematch?.matchId === rem.view.id), 'Realtime: a partida antiga avisa a revanche')
+
 const list = await ana.sb.from('matches').select('view').order('updated_at', { ascending: false })
 assert(list.data?.some((r) => r.view.id === id), 'lista de partidas da Ana inclui a partida')
 

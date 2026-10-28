@@ -18,6 +18,10 @@ export interface GameClient {
   subscribe(id: string, onView: (view: MatchView) => void): () => void
   peekInvite?(code: string): Promise<InvitePeek>
   joinMatch?(code: string, name: string): Promise<MatchView>
+  /** Revanche com o mesmo rival (online): cria ou devolve a partida ligada. */
+  rematch?(id: string): Promise<MatchView>
+  /** Avisa quando qualquer partida do usuário muda (lista da Home). */
+  watchMatches?(onChange: () => void): () => void
 }
 
 export class ClientError extends Error {

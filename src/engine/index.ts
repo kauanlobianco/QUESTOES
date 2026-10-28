@@ -8,6 +8,7 @@ export {
   createMatch,
   crownChoices,
   duelChoices,
+  linkRematch,
   newPlayer,
   other,
   playerNoOf,
