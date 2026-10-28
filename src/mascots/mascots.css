@@ -1,0 +1,52 @@
+/* Estilos base dos mascotes animados (usados por src/mascots/mascot.ts). */
+
+.mascot {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+.mascot.is-interactive { cursor: pointer; }
+
+/* Origem das transformações sempre em coordenadas do viewBox (0–80) */
+.mascot * { transform-box: view-box; }
+
+/* Variações de rosto: o motor só troca data-eyes / data-mouth no <svg> */
+.mascot .m-eyes-happy,
+.mascot .m-mouth-happy,
+.mascot .m-mouth-sad,
+.mascot .m-mouth-o { display: none; }
+
+.mascot[data-eyes="happy"] .m-eyes { display: none; }
+.mascot[data-eyes="happy"] .m-eyes-happy { display: inline; }
+
+.mascot[data-mouth="happy"] .m-mouth-idle,
+.mascot[data-mouth="sad"] .m-mouth-idle,
+.mascot[data-mouth="o"] .m-mouth-idle { display: none; }
+.mascot[data-mouth="happy"] .m-mouth-happy,
+.mascot[data-mouth="sad"] .m-mouth-sad,
+.mascot[data-mouth="o"] .m-mouth-o { display: inline; }
+
+/* Olhar segue o ponteiro / alvo com suavidade */
+.mascot .m-face,
+.mascot .m-look { transition: transform .32s cubic-bezier(.22, 1, .36, 1); }
+
+/* Sobrancelhas extras (Operações não tem no desenho original): aparecem só em expressões */
+.mascot .m-brows-extra { opacity: 0; transition: opacity .2s; }
+.mascot[data-brows]:not([data-brows="neutral"]) .m-brows-extra { opacity: 1; }
+
+/* Partes que começam escondidas */
+.mascot .m-wave { opacity: 0; }
+
+/* Checklist (Operações): traço desenhável */
+.mascot .m-check,
+.mascot .m-line { stroke-dasharray: 1 1; stroke-dashoffset: 0; }
+
+.mascot .m-particle { pointer-events: none; }
+.mascot .m-bubble-text {
+  font: 700 5.4px/1 var(--font-display);
+}

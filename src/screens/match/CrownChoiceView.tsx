@@ -5,6 +5,7 @@ import { AREA_INFO } from '../../content/areas'
 import { Button } from '../../ui/Button'
 import { Ficha } from '../../ui/Ficha'
 import { CrownIcon, SparkleIcon, SwordsIcon } from '../../ui/icons'
+import { Mascot } from '../../ui/Mascot'
 
 interface CrownChoiceViewProps {
   view: MatchView
@@ -46,7 +47,7 @@ export function CrownChoiceView({ view, me, busy, onChooseCrown, onStartDuel }: 
               className="flex w-full flex-col items-center gap-2 rounded-2xl border-b-4 p-3 shadow-lg transition active:scale-95 disabled:opacity-60"
               style={{ background: `var(--color-${area}-soft)`, borderColor: AREA_INFO[area].color }}
             >
-              <img src={AREA_INFO[area].hero} alt="" className="h-20 object-contain drop-shadow-md" />
+              <Mascot area={area} size={80} intro="enter" introDelay={i * 70} interactive={false} />
               <span className="font-display font-semibold" style={{ color: `var(--color-${area}-deep)` }}>
                 {AREA_INFO[area].name}
               </span>

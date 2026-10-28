@@ -1,8 +1,6 @@
-import { motion } from 'motion/react'
 import { useEffect, useState, type FormEvent } from 'react'
 import { Link, useNavigate } from 'react-router'
 import { AREAS, playerNoOf, type MatchView } from '../engine'
-import { AREA_INFO } from '../content/areas'
 import type { GameClient } from '../game/client'
 import { useClients, type ClientKind } from '../game/GameClientContext'
 import { loadNickname, saveNickname } from '../game/nickname'
@@ -10,6 +8,7 @@ import { matchPath } from '../game/paths'
 import { MAX_NAME_LENGTH } from '../game/protocol'
 import { Button } from '../ui/Button'
 import { Loading } from '../ui/Loading'
+import { Mascot } from '../ui/Mascot'
 import { SoundToggle } from '../ui/SoundToggle'
 import { PLAYER_ACCENT } from '../ui/theme'
 
@@ -69,17 +68,9 @@ export function HomeScreen() {
     <main className="relative mx-auto flex min-h-dvh max-w-md flex-col gap-8 px-4 py-8">
       <SoundToggle className="absolute right-2 top-2 text-white/70" />
       <header className="flex flex-col items-center gap-4 text-center">
-        <div className="flex -space-x-5">
+        <div className="flex -space-x-[min(5vw,20px)]">
           {AREAS.map((a, i) => (
-            <motion.img
-              key={a}
-              src={AREA_INFO[a].hero}
-              alt=""
-              className="h-20 object-contain drop-shadow-lg"
-              initial={{ y: 30, opacity: 0 }}
-              animate={{ y: 0, opacity: 1 }}
-              transition={{ delay: i * 0.07, type: 'spring', stiffness: 260, damping: 18 }}
-            />
+            <Mascot key={a} area={a} className="size-[min(18vw,80px)]" intro="enter" introDelay={i * 90} />
           ))}
         </div>
         <div>

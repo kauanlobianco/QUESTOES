@@ -4,8 +4,8 @@ import { serverNow } from '../../game/clock'
 import type { AnswerReveal, PublicQuestion } from '../../engine'
 import { AREA_INFO } from '../../content/areas'
 import { Button } from '../../ui/Button'
-import { Ficha } from '../../ui/Ficha'
 import { play, vibrate } from '../../ui/feedback'
+import { Mascot, type MascotHandle, type MascotState } from '../../ui/Mascot'
 import { CrownIcon, SwordsIcon } from '../../ui/icons'
 
 const LETTERS = ['A', 'B', 'C', 'D']
@@ -27,6 +27,10 @@ export function QuestionView(props: QuestionViewProps) {
   const { question, playerName, chosen, reveal, waiting, duelProgress, continueLabel, onAnswer, onContinue } = props
   const area = AREA_INFO[question.area]
   const answered = chosen !== null || waiting || reveal !== null
+  const mascot = useRef<MascotHandle>(null)
+  const [urgent, setUrgent] = useState(false)
+  // O personagem da área acompanha a pergunta: pensa no aperto do tempo e reage à resposta.
+  const mood: MascotState = reveal ? (reveal.correct ? 'happy' : 'sad') : urgent && !answered ? 'think' : 'idle'
 
   return (
     <motion.div
@@ -38,7 +42,7 @@ export function QuestionView(props: QuestionViewProps) {
     >
       <div className="mx-auto flex w-full max-w-md flex-1 flex-col gap-4 px-4 pb-6 pt-[max(1rem,env(safe-area-inset-top))]">
         <header className="flex items-center gap-3">
-          <Ficha area={question.area} size={44} />
+          <Mascot ref={mascot} area={question.area} size={64} label={area.name} mood={mood} className="-my-2" />
           <div className="min-w-0">
             <p className="font-display text-xl font-bold leading-tight">{area.name}</p>
             <p className="text-sm font-semibold text-white/80">
@@ -55,7 +59,7 @@ export function QuestionView(props: QuestionViewProps) {
               Vez de {playerName}
             </p>
           </div>
-          <Countdown question={question} stopped={answered} onTimeout={() => onAnswer(null)} />
+          <Countdown question={question} stopped={answered} onTimeout={() => onAnswer(null)} onUrgentChange={setUrgent} />
         </header>
 
         <motion.div
@@ -89,6 +93,7 @@ export function QuestionView(props: QuestionViewProps) {
               state={optionState(i, chosen, reveal)}
               disabled={answered}
               onClick={() => onAnswer(i)}
+              onLook={(el) => mascot.current?.lookAt(answered ? null : el)}
             />
           ))}
         </ol>
@@ -142,8 +147,16 @@ const OPTION_STYLE: Record<OptionState, string> = {
   faded: 'bg-white/60 text-ink/60',
 }
 
-function Option(props: { index: number; text: string; state: OptionState; disabled: boolean; onClick: () => void }) {
-  const { index, text, state, disabled, onClick } = props
+function Option(props: {
+  index: number
+  text: string
+  state: OptionState
+  disabled: boolean
+  onClick: () => void
+  /** Mascote olha para a alternativa sob o dedo/mouse ou com foco. */
+  onLook: (el: Element | null) => void
+}) {
+  const { index, text, state, disabled, onClick, onLook } = props
   return (
     <motion.li
       initial={{ x: -16, opacity: 0 }}
@@ -160,6 +173,10 @@ function Option(props: { index: number; text: string; state: OptionState; disabl
         type="button"
         disabled={disabled}
         onClick={onClick}
+        onPointerEnter={(e) => onLook(e.currentTarget)}
+        onPointerLeave={() => onLook(null)}
+        onFocus={(e) => onLook(e.currentTarget)}
+        onBlur={() => onLook(null)}
         className={`flex w-full items-center gap-3 rounded-2xl px-3 py-3 text-left font-semibold transition ${OPTION_STYLE[state]}`}
       >
         <span className="font-display grid size-8 shrink-0 place-items-center rounded-xl bg-black/10 text-base font-bold">
@@ -216,7 +233,8 @@ function Feedback({ reveal, continueLabel, onContinue }: { reveal: AnswerReveal;
 }
 
 /** Contagem regressiva a partir do relógio do servidor (servedAt + limite). */
-function Countdown({ question, stopped, onTimeout }: { question: PublicQuestion; stopped: boolean; onTimeout: () => void }) {
+function Countdown(props: { question: PublicQuestion; stopped: boolean; onTimeout: () => void; onUrgentChange: (urgent: boolean) => void }) {
+  const { question, stopped, onTimeout, onUrgentChange } = props
   const deadline = question.servedAt + question.timeLimitMs
   const [now, setNow] = useState(serverNow)
   const fired = useRef(false)
@@ -247,6 +265,10 @@ function Countdown({ question, stopped, onTimeout }: { question: PublicQuestion;
   useEffect(() => {
     if (urgent && !stopped && seconds > 0) play('urgent')
   }, [urgent, stopped, seconds])
+
+  useEffect(() => {
+    onUrgentChange(urgent && !stopped)
+  }, [urgent, stopped, onUrgentChange])
 
   return (
     <div className="relative ml-auto grid size-14 shrink-0 place-items-center" aria-label={`${seconds} segundos`}>
