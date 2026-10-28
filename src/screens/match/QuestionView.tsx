@@ -5,6 +5,7 @@ import type { AnswerReveal, PublicQuestion } from '../../engine'
 import { AREA_INFO } from '../../content/areas'
 import { Button } from '../../ui/Button'
 import { Ficha } from '../../ui/Ficha'
+import { play, vibrate } from '../../ui/feedback'
 import { CrownIcon, SwordsIcon } from '../../ui/icons'
 
 const LETTERS = ['A', 'B', 'C', 'D']
@@ -169,6 +170,11 @@ function Option(props: { index: number; text: string; state: OptionState; disabl
 }
 
 function Feedback({ reveal, continueLabel, onContinue }: { reveal: AnswerReveal; continueLabel: string; onContinue: () => void }) {
+  useEffect(() => {
+    play(reveal.correct ? 'correct' : 'wrong')
+    vibrate(reveal.correct ? 40 : [70, 50, 70])
+  }, [reveal.correct])
+
   const title = reveal.correct ? 'Acertou!' : reveal.timeout ? 'Tempo esgotado!' : 'Errou!'
   return (
     <motion.div
@@ -234,9 +240,14 @@ function Countdown({ question, stopped, onTimeout }: { question: PublicQuestion;
   const remaining = Math.max(0, Math.min(question.timeLimitMs, deadline - now))
   const fraction = remaining / question.timeLimitMs
   const urgent = remaining < 5000
+  const seconds = Math.ceil(remaining / 1000)
+
+  useEffect(() => {
+    if (urgent && !stopped && seconds > 0) play('urgent')
+  }, [urgent, stopped, seconds])
 
   return (
-    <div className="relative ml-auto grid size-14 shrink-0 place-items-center" aria-label={`${Math.ceil(remaining / 1000)} segundos`}>
+    <div className="relative ml-auto grid size-14 shrink-0 place-items-center" aria-label={`${seconds} segundos`}>
       <svg viewBox="0 0 36 36" className="absolute inset-0 -rotate-90">
         <circle cx="18" cy="18" r="15.5" fill="rgba(0,0,0,0.25)" stroke="rgba(255,255,255,0.2)" strokeWidth="3" />
         <circle
@@ -252,7 +263,7 @@ function Countdown({ question, stopped, onTimeout }: { question: PublicQuestion;
         />
       </svg>
       <span className={`font-display relative text-lg font-bold ${urgent && !stopped ? 'animate-pulse text-rose-200' : ''}`}>
-        {Math.ceil(remaining / 1000)}
+        {seconds}
       </span>
     </div>
   )

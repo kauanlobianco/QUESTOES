@@ -4,6 +4,7 @@ import { AREAS, other, type EndedReason, type MatchView, type PlayerNo } from '.
 import { Button } from '../../ui/Button'
 import { Ficha } from '../../ui/Ficha'
 import { celebrate } from '../../ui/confetti'
+import { play } from '../../ui/feedback'
 import { CrownIcon } from '../../ui/icons'
 import { PLAYER_ACCENT } from '../../ui/theme'
 
@@ -29,9 +30,13 @@ export function EndedView({ view, me, onRematch, onHome, busy }: EndedViewProps)
   const rival = me ? view.players[other(me)] : null
   const rematchByRival = !!me && view.rematch?.by === other(me)
 
+  const iLost = !!me && !!view.winner && view.winner !== me
   useEffect(() => {
-    if (winner) celebrate()
-  }, [winner])
+    if (!winner) return
+    if (iLost) return play('lose')
+    celebrate()
+    play('win')
+  }, [winner, iLost])
 
   return (
     <motion.div className="mx-auto flex min-h-dvh max-w-md flex-col items-center gap-6 px-4 py-10 text-center" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>

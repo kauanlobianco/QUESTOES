@@ -15,7 +15,8 @@ export interface GameClient {
   listMatches(): Promise<MatchView[]>
   getMatch(id: string): Promise<MatchView>
   send(id: string, cmd: ClientCommand): Promise<CommandResult>
-  subscribe(id: string, onView: (view: MatchView) => void): () => void
+  /** `onStatus(false)` quando a conexão em tempo real cai; `true` quando volta. */
+  subscribe(id: string, onView: (view: MatchView) => void, onStatus?: (live: boolean) => void): () => void
   peekInvite?(code: string): Promise<InvitePeek>
   joinMatch?(code: string, name: string): Promise<MatchView>
   /** Revanche com o mesmo rival (online): cria ou devolve a partida ligada. */

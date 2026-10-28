@@ -12,6 +12,7 @@
     "lint": "eslint . && tsc",
     "questions": "node scripts/normalize-questions.mjs",
     "images": "python -I scripts/optimize-images.py",
+    "icons": "python -I scripts/make-icons.py",
     "e2e:online": "node scripts/e2e-online.mjs"
   },
   "dependencies": {

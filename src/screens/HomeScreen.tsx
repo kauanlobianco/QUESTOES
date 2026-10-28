@@ -9,6 +9,8 @@ import { loadNickname, saveNickname } from '../game/nickname'
 import { matchPath } from '../game/paths'
 import { MAX_NAME_LENGTH } from '../game/protocol'
 import { Button } from '../ui/Button'
+import { Loading } from '../ui/Loading'
+import { SoundToggle } from '../ui/SoundToggle'
 import { PLAYER_ACCENT } from '../ui/theme'
 
 const NAMES_KEY = 'mdn:hotseat-names'
@@ -27,13 +29,19 @@ const inputClass =
   'w-full rounded-xl bg-white px-4 py-3 font-semibold text-ink outline-none ring-coringa-gold placeholder:text-ink/40 focus:ring-4'
 
 export function HomeScreen() {
-  const { local, remote, remoteError } = useClients()
+  const { local, remote, remoteError, connecting } = useClients()
   const [remoteMatches, setRemoteMatches] = useState<MatchView[]>([])
   const [localMatches, setLocalMatches] = useState<MatchView[]>([])
 
   useEffect(() => {
     local?.listMatches().then(setLocalMatches, () => {})
   }, [local])
+
+  // A tela da partida é a próxima quase sempre: baixa com o navegador ocioso.
+  useEffect(() => {
+    const t = setTimeout(() => void import('./MatchScreen'), 1500)
+    return () => clearTimeout(t)
+  }, [])
 
   // Lista online ao vivo: qualquer jogada numa partida do usuário recarrega (com folga para rajadas).
   useEffect(() => {
@@ -58,7 +66,8 @@ export function HomeScreen() {
   }, [remote])
 
   return (
-    <main className="mx-auto flex min-h-dvh max-w-md flex-col gap-8 px-4 py-8">
+    <main className="relative mx-auto flex min-h-dvh max-w-md flex-col gap-8 px-4 py-8">
+      <SoundToggle className="absolute right-2 top-2 text-white/70" />
       <header className="flex flex-col items-center gap-4 text-center">
         <div className="flex -space-x-5">
           {AREAS.map((a, i) => (
@@ -79,7 +88,15 @@ export function HomeScreen() {
         </div>
       </header>
 
-      {remote ? <OnlineCard client={remote} /> : <p className="rounded-2xl bg-white/5 p-4 text-center text-sm text-white/60">{remoteError}</p>}
+      {remote ? (
+        <OnlineCard client={remote} />
+      ) : connecting ? (
+        <div className="grid min-h-44 place-items-center rounded-3xl bg-white/5 p-4">
+          <Loading text="Conectando…" />
+        </div>
+      ) : (
+        <p className="rounded-2xl bg-white/5 p-4 text-center text-sm text-white/60">{remoteError}</p>
+      )}
       {remoteMatches.length > 0 && <MatchList kind="remote" matches={remoteMatches} me={remote?.userId ?? null} />}
 
       {local && <HotSeatCard client={local} />}

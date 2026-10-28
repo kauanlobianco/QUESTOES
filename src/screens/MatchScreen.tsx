@@ -8,7 +8,9 @@ import { serverNow } from '../game/clock'
 import { useClients, type ClientKind } from '../game/GameClientContext'
 import { matchPath } from '../game/paths'
 import { freshRivalEvents, handsTurnTo, latestAt, loadSeen, saveSeen, turnSummary } from '../game/rivalNews'
+import { Loading, LoadingScreen } from '../ui/Loading'
 import { PlayerBoard } from '../ui/PlayerBoard'
+import { SoundToggle } from '../ui/SoundToggle'
 import { CloseIcon, FlagIcon } from '../ui/icons'
 import { CrownChoiceView } from './match/CrownChoiceView'
 import { DuelIntroView } from './match/DuelIntroView'
@@ -34,11 +36,15 @@ interface AnswerState {
 
 const TITLE = 'Mestre dos Negócios'
 
+export const RemoteMatchScreen = () => <MatchScreen kind="remote" />
+export const LocalMatchScreen = () => <MatchScreen kind="local" />
+
 export function MatchScreen({ kind }: { kind: ClientKind }) {
   const { id = '' } = useParams()
   const clients = useClients()
   const client = clients[kind]
   if (!client) {
+    if (clients.connecting) return <LoadingScreen text="Abrindo partida…" />
     return (
       <main className="grid min-h-dvh place-items-center p-6 text-center">
         <div className="flex flex-col gap-4">
@@ -65,6 +71,8 @@ function Match({ id, client }: { id: string; client: GameClient }) {
   const [answer, setAnswer] = useState<AnswerState | null>(null)
   const [moments, setMoments] = useState<Moment[]>([])
   const [toast, setToast] = useState<string | null>(null)
+  const [offline, setOffline] = useState(() => !navigator.onLine)
+  const [channelDown, setChannelDown] = useState(false)
   const spinResult = useRef<CommandResult | null>(null)
   const spinning = useRef(false)
   const answering = useRef(false)
@@ -118,19 +126,37 @@ function Match({ id, client }: { id: string; client: GameClient }) {
     }
   }, [spin, answer, moments, busy, receive])
 
+  // Ao reconectar, relê a partida: jogadas feitas durante a queda não chegam pelo Realtime.
+  const wasDown = useRef(false)
   useEffect(() => {
     if (hotSeat) return
-    return client.subscribe(id, deliver)
+    return client.subscribe(id, deliver, (live) => {
+      setChannelDown(!live)
+      if (live && wasDown.current) client.getMatch(id).then(deliver, () => {})
+      wasDown.current = !live
+    })
   }, [client, id, hotSeat, deliver])
 
-  // Realtime pode cair com a aba em segundo plano: relê ao voltar.
+  // Realtime pode cair com a aba em segundo plano ou sem rede: relê ao voltar.
   useEffect(() => {
     if (hotSeat) return
+    const refresh = () => client.getMatch(id).then(deliver, () => {})
     const onVisible = () => {
-      if (!document.hidden) client.getMatch(id).then(deliver, () => {})
+      if (!document.hidden) refresh()
     }
+    const onOnline = () => {
+      setOffline(false)
+      refresh()
+    }
+    const onOffline = () => setOffline(true)
     document.addEventListener('visibilitychange', onVisible)
-    return () => document.removeEventListener('visibilitychange', onVisible)
+    window.addEventListener('online', onOnline)
+    window.addEventListener('offline', onOffline)
+    return () => {
+      document.removeEventListener('visibilitychange', onVisible)
+      window.removeEventListener('online', onOnline)
+      window.removeEventListener('offline', onOffline)
+    }
   }, [client, id, hotSeat, deliver])
 
   // Rival sumiu no meio da pergunta: ao fim do prazo, a leitura grava o tempo esgotado.
@@ -216,7 +242,7 @@ function Match({ id, client }: { id: string; client: GameClient }) {
             </Link>
           </div>
         ) : (
-          <p className="font-display animate-pulse text-xl">Carregando…</p>
+          <Loading text="Abrindo partida…" />
         )}
       </main>
     )
@@ -363,10 +389,15 @@ function Match({ id, client }: { id: string; client: GameClient }) {
         <span className="font-display font-semibold">
           Rodada {Math.min(view.round, view.maxRounds)}/{view.maxRounds}
         </span>
-        <button type="button" onClick={onResign} disabled={busy} className="rounded-full p-2 hover:bg-white/10" aria-label="Desistir">
-          <FlagIcon size={20} />
-        </button>
+        <div className="flex items-center">
+          <SoundToggle />
+          <button type="button" onClick={onResign} disabled={busy} className="rounded-full p-2 hover:bg-white/10" aria-label="Desistir">
+            <FlagIcon size={20} />
+          </button>
+        </div>
       </header>
+
+      {!hotSeat && <ConnectionBanner offline={offline} reconnecting={channelDown} />}
 
       {!hotSeat && !view.players[2] && <InviteBanner code={view.code} />}
 
@@ -419,6 +450,22 @@ function ErrorToast({ message, onClose }: { message: string; onClose: () => void
     >
       {message}
     </button>
+  )
+}
+
+/** Aviso de rede; espera um pouco para não piscar em quedas curtas. */
+function ConnectionBanner({ offline, reconnecting }: { offline: boolean; reconnecting: boolean }) {
+  const down = offline || reconnecting
+  const [visible, setVisible] = useState(false)
+  useEffect(() => {
+    const t = setTimeout(() => setVisible(down), down ? 2000 : 0)
+    return () => clearTimeout(t)
+  }, [down])
+  if (!visible) return null
+  return (
+    <p role="status" className="rounded-2xl bg-amber-500/20 px-4 py-2 text-center text-sm font-semibold text-amber-100 ring-1 ring-amber-400/50">
+      {offline ? 'Sem internet. A partida volta sozinha quando a conexão voltar.' : 'Reconectando ao jogo…'}
+    </p>
   )
 }
 

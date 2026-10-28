@@ -2,6 +2,7 @@ import { animate, motion, useMotionValue, useReducedMotion, type AnimationPlayba
 import { useEffect, useRef } from 'react'
 import { SLICES, type Slice } from '../engine'
 import { AREA_INFO } from '../content/areas'
+import { play } from './feedback'
 
 const SEG = 360 / SLICES.length
 const R = 96
@@ -39,6 +40,15 @@ export function Wheel({ spinning, target, onLanded }: WheelProps) {
   }, [onLanded])
 
   useEffect(() => {
+    let last = Math.floor(rotation.get() / SEG)
+    return rotation.on('change', (deg) => {
+      const slice = Math.floor(deg / SEG)
+      if (slice !== last) play('tick')
+      last = slice
+    })
+  }, [rotation])
+
+  useEffect(() => {
     if (!spinning || target) return
     const from = rotation.get()
     controls.current = animate(rotation, from + IDLE_SPEED * 60, { duration: 60, ease: 'linear' })
@@ -59,6 +69,7 @@ export function Wheel({ spinning, target, onLanded }: WheelProps) {
     const finish = () => {
       if (done) return
       done = true
+      play('land')
       landed.current?.()
     }
     controls.current = animate(rotation, base + offset + jitter, { duration, ease: [0.2, 0.6, 0.35, 1], onComplete: finish })
@@ -72,8 +83,10 @@ export function Wheel({ spinning, target, onLanded }: WheelProps) {
 
   return (
     <div className="relative mx-auto aspect-square w-full max-w-[min(80vw,340px,42dvh)]">
-      <motion.div className="size-full" style={{ rotate: rotation }}>
-        <svg viewBox="-100 -100 200 200" className="size-full drop-shadow-[0_10px_25px_rgba(0,0,0,0.45)]">
+      {/* Sombra fixa: um filtro no elemento que gira seria refeito a cada quadro. */}
+      <div className="absolute inset-[0.5%] rounded-full shadow-[0_10px_25px_rgba(0,0,0,0.45)]" aria-hidden />
+      <motion.div className="relative size-full will-change-transform" style={{ rotate: rotation }}>
+        <svg viewBox="-100 -100 200 200" className="size-full">
           <circle r="99" fill="#fff" />
           {SLICES.map((slice, i) => (
             <g key={slice}>

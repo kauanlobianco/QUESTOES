@@ -1,14 +1,20 @@
 import { RouterProvider, createBrowserRouter } from 'react-router'
 import { GameClientProvider } from './game/GameClientContext'
-import { HomeScreen } from './screens/HomeScreen'
-import { JoinScreen } from './screens/JoinScreen'
-import { MatchScreen } from './screens/MatchScreen'
+import { CrashScreen } from './screens/CrashScreen'
+import { LoadingScreen } from './ui/Loading'
 
+// Cada tela num arquivo próprio: o primeiro carregamento baixa só a tela aberta.
 const router = createBrowserRouter([
-  { path: '/', element: <HomeScreen /> },
-  { path: '/p/:code', element: <JoinScreen /> },
-  { path: '/m/:id', element: <MatchScreen kind="remote" /> },
-  { path: '/local/:id', element: <MatchScreen kind="local" /> },
+  {
+    errorElement: <CrashScreen />,
+    HydrateFallback: LoadingScreen,
+    children: [
+      { path: '/', lazy: () => import('./screens/HomeScreen').then((m) => ({ Component: m.HomeScreen })) },
+      { path: '/p/:code', lazy: () => import('./screens/JoinScreen').then((m) => ({ Component: m.JoinScreen })) },
+      { path: '/m/:id', lazy: () => import('./screens/MatchScreen').then((m) => ({ Component: m.RemoteMatchScreen })) },
+      { path: '/local/:id', lazy: () => import('./screens/MatchScreen').then((m) => ({ Component: m.LocalMatchScreen })) },
+    ],
+  },
 ])
 
 export default function App() {
