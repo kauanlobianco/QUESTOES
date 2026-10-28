@@ -5,6 +5,8 @@ dist/
 .env.*
 !.env.example
 .vercel/
+test-results/
+playwright-report/
 
 # Material de referência (fora do repositório)
 ALVO.apkm

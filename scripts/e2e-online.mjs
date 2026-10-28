@@ -2,13 +2,13 @@
 // e o servidor de desenvolvimento (`npm run dev`).
 //
 // Uso: node scripts/e2e-online.mjs [http://localhost:5173]
-// Lê VITE_SUPABASE_URL e VITE_SUPABASE_ANON_KEY de .env.local.
+// Lê VITE_SUPABASE_URL e VITE_SUPABASE_ANON_KEY de .env.local (ou do arquivo em E2E_ENV_FILE).
 import { createClient } from '@supabase/supabase-js'
 import { readFileSync } from 'node:fs'
 
 const BASE = process.argv[2] ?? 'http://localhost:5173'
 const env = Object.fromEntries(
-  readFileSync(new URL('../.env.local', import.meta.url), 'utf8')
+  readFileSync(new URL(`../${process.env.E2E_ENV_FILE ?? '.env.local'}`, import.meta.url), 'utf8')
     .split('\n')
     .map((l) => l.match(/^\s*([A-Z_]+)\s*=\s*(.*)\s*$/))
     .filter(Boolean)

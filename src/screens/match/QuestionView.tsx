@@ -75,7 +75,9 @@ export function QuestionView(props: QuestionViewProps) {
               <p className="mt-1 leading-snug text-ink-soft">{question.scenario.text}</p>
             </div>
           )}
-          <p className="text-lg font-bold leading-snug">{question.text}</p>
+          <p className="text-lg font-bold leading-snug" data-testid="question-text">
+            {question.text}
+          </p>
         </motion.div>
 
         <ol className="flex flex-col gap-2.5">

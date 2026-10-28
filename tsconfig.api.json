@@ -1,0 +1,10 @@
+{
+  // A Vercel roda api/ no Node sem empacotar: imports relativos precisam de extensão
+  // (.js) e JSON precisa de `with { type: 'json' }`. Este check falha se faltar.
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext"
+  },
+  "include": ["api"]
+}

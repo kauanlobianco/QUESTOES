@@ -1,4 +1,4 @@
-import type { MatchState, MatchView } from '../src/engine'
+import type { MatchState, MatchView } from '../src/engine/index.js'
 
 export interface StoredMatch {
   id: string

@@ -1,5 +1,5 @@
 // Contrato entre o navegador e /api/game. Só tipos: usado pelos dois lados.
-import type { AnswerReveal, Area, GameErrorCode, GameEvent, MatchView, Slice } from '../engine'
+import type { AnswerReveal, Area, GameErrorCode, GameEvent, MatchView, Slice } from '../engine/index.js'
 
 /** Comando de jogo como o cliente envia: quem joga é decidido pela sessão. */
 export type ClientCommand =

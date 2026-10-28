@@ -1,6 +1,6 @@
-import { AREAS, type Area } from '../src/engine'
-import { MAX_NAME_LENGTH, type ApiRequest, type ClientCommand } from '../src/game/protocol'
-import { ApiError } from './service'
+import { AREAS, type Area } from '../src/engine/index.js'
+import { MAX_NAME_LENGTH, type ApiRequest, type ClientCommand } from '../src/game/protocol.js'
+import { ApiError } from './service.js'
 
 const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
 const CODE = /^[A-Za-z0-9]{6}$/

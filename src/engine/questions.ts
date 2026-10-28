@@ -1,7 +1,7 @@
-import { GameError } from './errors'
-import { pickOne, shuffle } from './rng'
-import { AREAS, RULES } from './rules'
-import type { Area, Mechanic, Question, QuestionBank } from './types'
+import { GameError } from './errors.js'
+import { pickOne, shuffle } from './rng.js'
+import { AREAS, RULES } from './rules.js'
+import type { Area, Mechanic, Question, QuestionBank } from './types.js'
 
 export function createBank(questions: readonly Question[]): QuestionBank {
   return { all: questions, byId: new Map(questions.map((q) => [q.id, q])) }

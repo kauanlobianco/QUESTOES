@@ -1,6 +1,6 @@
-import { GameError } from './errors'
-import { getQuestion, pickDuelQuestions, pickQuestion } from './questions'
-import { AREAS, RULES } from './rules'
+import { GameError } from './errors.js'
+import { getQuestion, pickDuelQuestions, pickQuestion } from './questions.js'
+import { AREAS, RULES } from './rules.js'
 import type {
   AnswerReveal,
   Area,
@@ -17,7 +17,7 @@ import type {
   ReduceResult,
   Slice,
   TurnEndReason,
-} from './types'
+} from './types.js'
 
 export const SLICES: readonly Slice[] = [...AREAS, 'coringa']
 
