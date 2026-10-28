@@ -64,6 +64,8 @@ export async function handleGameRequest(request: Request, deps: HttpDeps): Promi
         return json(await service.get(userId, req.matchId))
       case 'command':
         return json(await service.command(userId, req.matchId, req.command))
+      case 'rematch':
+        return json(await service.rematch(userId, req.matchId))
     }
   } catch (e) {
     if (e instanceof ApiError) return error(e.code)

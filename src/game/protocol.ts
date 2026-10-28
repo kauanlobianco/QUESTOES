@@ -16,6 +16,8 @@ export type ApiRequest =
   | { op: 'join'; code: string; name: string }
   | { op: 'get'; matchId: string }
   | { op: 'command'; matchId: string; command: ClientCommand }
+  /** Revanche com o mesmo rival: cria (ou devolve) a partida ligada a uma encerrada. */
+  | { op: 'rematch'; matchId: string }
 
 export interface CommandResult {
   view: MatchView

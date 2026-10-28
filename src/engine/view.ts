@@ -13,6 +13,7 @@ import type {
   PlayerState,
   QuestionBank,
   QuestionKind,
+  RematchLink,
   Slice,
 } from './types'
 
@@ -62,6 +63,7 @@ export interface MatchView {
   duel: PublicDuel | null
   lastDuel: DuelResult | null
   log: GameEvent[]
+  rematch: RematchLink | null
   updatedAt: number
   expiresAt: number
 }
@@ -113,6 +115,7 @@ export function toPublicView(s: MatchState, bank: QuestionBank): MatchView {
     duel,
     lastDuel: s.lastDuel,
     log: structuredClone(s.log),
+    rematch: s.rematch ? { ...s.rematch } : null,
     updatedAt: s.updatedAt,
     expiresAt: s.expiresAt,
   }

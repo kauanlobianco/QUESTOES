@@ -55,6 +55,21 @@ export class RemoteGameClient implements GameClient {
     return (await this.api<ApiResult>({ op: 'join', code, name })).view
   }
 
+  async rematch(id: string) {
+    return (await this.api<ApiResult>({ op: 'rematch', matchId: id })).view
+  }
+
+  watchMatches(onChange: () => void) {
+    // Sem filtro: o RLS só entrega as partidas em que o usuário joga.
+    const channel = this.sb
+      .channel('my-matches')
+      .on('postgres_changes', { event: '*', schema: 'public', table: 'matches' }, () => onChange())
+      .subscribe()
+    return () => {
+      void this.sb.removeChannel(channel)
+    }
+  }
+
   subscribe(id: string, onView: (view: MatchView) => void) {
     const channel = this.sb
       .channel(`match:${id}`)

@@ -11,7 +11,7 @@ interface SpinViewProps {
   target: Slice | null
   /** Fatia já parou: mostra o nome antes de seguir. */
   landed: boolean
-  onSpin: () => void
+  onSpin?: () => void
   onLanded: () => void
 }
 

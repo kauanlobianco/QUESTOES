@@ -62,6 +62,7 @@ export function createMatch(input: { id: string; code: string; creatorId: string
     lastDuel: null,
     usedQuestionIds: [],
     log: [],
+    rematch: null,
     createdAt: input.now,
     updatedAt: input.now,
     expiresAt: input.now + RULES.expireAfterMs,
@@ -115,6 +116,19 @@ export function reduce(prev: MatchState, cmd: Command, ctx: Ctx): ReduceResult {
 
   touch(tx.s, tx.ctx.now)
   return finish(tx, true)
+}
+
+/**
+ * Liga uma partida encerrada à revanche. Só a primeira vale: se já existe,
+ * devolve a mesma ligação sem mudar nada.
+ */
+export function linkRematch(prev: MatchState, matchId: string, by: PlayerNo): ReduceResult {
+  if (prev.status !== 'ENDED' || !prev.players[2]) throw new GameError('WRONG_PHASE')
+  if (prev.rematch) return { state: prev, events: [] }
+  const s = structuredClone(prev)
+  s.rematch = { matchId, by }
+  s.seq = (s.seq ?? 0) + 1
+  return { state: s, events: [] }
 }
 
 /** Número do jogador (1 ou 2) para um userId, ou null. */

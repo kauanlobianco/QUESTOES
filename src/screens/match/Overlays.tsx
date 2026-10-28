@@ -13,6 +13,8 @@ export type Moment =
   | { type: 'crown'; player: PlayerNo; area: Area }
   | { type: 'duel'; result: DuelResult }
   | { type: 'handoff'; to: PlayerNo; reason: HandoffReason }
+  /** Online: o rival terminou e a vez voltou para quem estava esperando. */
+  | { type: 'yourTurn'; lines: string[] }
 
 export type HandoffReason = TurnEndReason | 'DUEL' | 'FINAL_DUEL' | 'RESUME'
 
@@ -139,6 +141,40 @@ export function HandoffOverlay({ view, to, reason, onDone }: { view: MatchView; 
       </div>
       <Button onClick={onDone} autoFocus className="min-w-48">
         Sou {next?.name}, começar
+      </Button>
+    </Shell>
+  )
+}
+
+/** Online: resumo do turno do rival quando a vez volta. */
+export function YourTurnOverlay({ view, me, lines, onDone }: { view: MatchView; me: PlayerNo; lines: string[]; onDone: () => void }) {
+  useEffect(() => {
+    // Navegador só deixa vibrar depois de algum toque na página.
+    if (navigator.userActivation?.hasBeenActive) navigator.vibrate?.(150)
+  }, [])
+  return (
+    <Shell>
+      <motion.h2
+        className="font-display text-5xl font-bold"
+        style={{ color: PLAYER_ACCENT[me] }}
+        initial={{ scale: 0.6 }}
+        animate={{ scale: 1 }}
+        transition={{ type: 'spring', stiffness: 300, damping: 15 }}
+      >
+        Sua vez!
+      </motion.h2>
+      {lines.length > 0 && (
+        <ul className="flex max-w-xs flex-col gap-2 text-white/85">
+          {lines.map((line) => (
+            <li key={line}>{line}</li>
+          ))}
+        </ul>
+      )}
+      <p className="font-display text-lg font-semibold">
+        {view.players[1].crowns.length} × {view.players[2]?.crowns.length ?? 0} personagens
+      </p>
+      <Button onClick={onDone} autoFocus className="min-w-48">
+        Jogar
       </Button>
     </Shell>
   )

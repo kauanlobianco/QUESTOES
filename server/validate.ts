@@ -65,6 +65,8 @@ export function parseApiRequest(x: unknown): ApiRequest {
       return { op: 'get', matchId: matchId(x.matchId) }
     case 'command':
       return { op: 'command', matchId: matchId(x.matchId), command: command(x.command) }
+    case 'rematch':
+      return { op: 'rematch', matchId: matchId(x.matchId) }
     default:
       return bad('op desconhecida')
   }
