@@ -5,6 +5,7 @@ import { AREA_INFO } from '../../content/areas'
 import { Button } from '../../ui/Button'
 import { Ficha } from '../../ui/Ficha'
 import { burst } from '../../ui/confetti'
+import { play, vibrate } from '../../ui/feedback'
 import { SwordsIcon } from '../../ui/icons'
 import { PLAYER_ACCENT } from '../../ui/theme'
 
@@ -34,7 +35,11 @@ function Shell({ children, background }: { children: React.ReactNode; background
 
 export function CrownWonOverlay({ view, player, area, onDone }: { view: MatchView; player: PlayerNo; area: Area; onDone: () => void }) {
   const info = AREA_INFO[area]
-  useEffect(() => burst([info.hex, '#fbbf24', '#ffffff']), [info.hex])
+  useEffect(() => {
+    burst([info.hex, '#fbbf24', '#ffffff'])
+    play('crown')
+    vibrate([80, 50, 140])
+  }, [info.hex])
   return (
     <Shell background={`radial-gradient(circle at 50% 40%, ${info.color} 0%, var(--color-${area}-deep) 70%)`}>
       <motion.img
@@ -65,7 +70,11 @@ export function DuelResultOverlay({ view, result, onDone }: { view: MatchView; r
   const b = view.players[result.challenged]!
   const prize = result.kind === 'NORMAL' ? (result.winner === result.challenger ? result.requested : result.offered) : null
 
-  useEffect(() => burst(), [])
+  useEffect(() => {
+    burst()
+    play('duel')
+    vibrate([60, 40, 60, 40, 120])
+  }, [])
 
   const tie =
     result.tieBreak === 'TIME'
@@ -149,8 +158,8 @@ export function HandoffOverlay({ view, to, reason, onDone }: { view: MatchView; 
 /** Online: resumo do turno do rival quando a vez volta. */
 export function YourTurnOverlay({ view, me, lines, onDone }: { view: MatchView; me: PlayerNo; lines: string[]; onDone: () => void }) {
   useEffect(() => {
-    // Navegador só deixa vibrar depois de algum toque na página.
-    if (navigator.userActivation?.hasBeenActive) navigator.vibrate?.(150)
+    play('turn')
+    vibrate(150)
   }, [])
   return (
     <Shell>

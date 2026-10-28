@@ -20,6 +20,7 @@ Gire a roleta, acerte perguntas das 6 áreas, conquiste os 6 personagens e desaf
 | `npm run questions` | `banco-questoes/banco-final/banco-questoes.json` → `server/questions.json` (valida o banco) |
 | `npm run e2e:online` | Teste ponta a ponta do modo online (precisa de `npm run dev` e Supabase rodando) |
 | `npm run images` | Gera WebP em `src/assets/` a partir de `MESTRE DOS NEGÓCIOS.zip` (material do jogo físico, fora do repositório) |
+| `npm run icons` | Gera os ícones do app (PWA, favicon, iOS) em `public/icons/` |
 
 ## Estrutura
 
@@ -30,6 +31,7 @@ src/screens/      Home e Partida (roleta, pergunta, coroa, duelo, fim)
 src/ui/           componentes visuais (roleta, painel do jogador, fichas)
 src/content/      nomes, cores e imagens das áreas
 src/assets/       personagens e fichas em WebP
+public/           manifesto do PWA, service worker (sw.js) e ícones
 server/           lógica da API + banco normalizado com gabarito (nunca importar em src/)
 api/game.ts       Vercel Function que expõe server/http.ts
 supabase/         config local, migrations (tabelas, RLS, funções) e teste do SQL

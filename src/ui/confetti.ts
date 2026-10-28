@@ -1,14 +1,19 @@
-import confetti from 'canvas-confetti'
+// Confete baixado só na primeira comemoração.
+const lib = () => import('canvas-confetti').then((m) => m.default)
 
 const reduced = () => window.matchMedia?.('(prefers-reduced-motion: reduce)').matches
 
 export function burst(colors: string[] = ['#fbbf24', '#ffffff']) {
   if (reduced()) return
-  confetti({ particleCount: 90, spread: 75, startVelocity: 42, origin: { y: 0.55 }, colors, disableForReducedMotion: true })
+  void lib().then((confetti) => confetti({ particleCount: 90, spread: 75, startVelocity: 42, origin: { y: 0.55 }, colors, disableForReducedMotion: true }))
 }
 
 export function celebrate() {
   if (reduced()) return
+  void lib().then((confetti) => fire(confetti))
+}
+
+function fire(confetti: Awaited<ReturnType<typeof lib>>) {
   const end = Date.now() + 1600
   const colors = ['#8b5cf6', '#ec4899', '#16a34a', '#2563eb', '#f97316', '#eab308']
   const frame = () => {

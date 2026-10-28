@@ -9,6 +9,8 @@ export interface Clients {
   /** Online via Supabase; null se não configurado ou se a conexão falhou. */
   remote: GameClient | null
   remoteError: string | null
+  /** Ainda conectando: as telas já aparecem, mas sem os clientes. */
+  connecting: boolean
 }
 
 const Ctx = createContext<Clients | null>(null)
@@ -32,20 +34,16 @@ async function createLocal(): Promise<GameClient | null> {
   return new LocalGameClient()
 }
 
+const CONNECTING: Clients = { local: null, remote: null, remoteError: null, connecting: true }
+
+/** Renderiza já: o cliente do Supabase (o maior pedaço do app) chega depois da primeira tela. */
 export function GameClientProvider({ children }: { children: ReactNode }) {
-  const [clients, setClients] = useState<Clients | null>(null)
+  const [clients, setClients] = useState<Clients>(CONNECTING)
 
   useEffect(() => {
-    Promise.all([createLocal(), connectRemote()]).then(([local, remote]) => setClients({ local, ...remote }))
+    Promise.all([createLocal(), connectRemote()]).then(([local, remote]) => setClients({ local, ...remote, connecting: false }))
   }, [])
 
-  if (!clients) {
-    return (
-      <main className="grid min-h-dvh place-items-center">
-        <p className="font-display animate-pulse text-xl">Carregando…</p>
-      </main>
-    )
-  }
   return <Ctx value={clients}>{children}</Ctx>
 }
 

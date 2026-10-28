@@ -70,14 +70,18 @@ export class RemoteGameClient implements GameClient {
     }
   }
 
-  subscribe(id: string, onView: (view: MatchView) => void) {
+  subscribe(id: string, onView: (view: MatchView) => void, onStatus?: (live: boolean) => void) {
     const channel = this.sb
       .channel(`match:${id}`)
       .on('postgres_changes', { event: 'UPDATE', schema: 'public', table: 'matches', filter: `id=eq.${id}` }, (payload) => {
         const view = (payload.new as { view?: MatchView }).view
         if (view) onView(view)
       })
-      .subscribe()
+      // O cliente do Supabase reconecta sozinho; aqui só avisamos a tela.
+      .subscribe((status) => {
+        if (status === 'SUBSCRIBED') onStatus?.(true)
+        else if (status === 'CHANNEL_ERROR' || status === 'TIMED_OUT') onStatus?.(false)
+      })
     return () => {
       void this.sb.removeChannel(channel)
     }

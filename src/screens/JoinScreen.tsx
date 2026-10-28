@@ -7,14 +7,16 @@ import { useClients } from '../game/GameClientContext'
 import { MAX_NAME_LENGTH, type InvitePeek } from '../game/protocol'
 import { loadNickname, saveNickname } from '../game/nickname'
 import { Button } from '../ui/Button'
+import { Loading } from '../ui/Loading'
 
 /** /p/:code — quem recebe o link aceita o desafio aqui. */
 export function JoinScreen() {
   const { code = '' } = useParams()
-  const { remote, remoteError } = useClients()
+  const { remote, remoteError, connecting } = useClients()
   const navigate = useNavigate()
   const [peek, setPeek] = useState<InvitePeek | null>(null)
-  const [error, setError] = useState<string | null>(remote ? null : (remoteError ?? 'Modo online indisponível.'))
+  const [failure, setError] = useState<string | null>(null)
+  const error = failure ?? (!remote && !connecting ? (remoteError ?? 'Modo online indisponível.') : null)
   const [name, setName] = useState(loadNickname)
   const [busy, setBusy] = useState(false)
 
@@ -54,7 +56,7 @@ export function JoinScreen() {
       {error ? (
         <Message title={error} />
       ) : !peek ? (
-        <p className="font-display animate-pulse text-xl">Abrindo convite…</p>
+        <Loading text="Abrindo convite…" />
       ) : closed ? (
         <Message title={peek.status === 'ENDED' ? 'Essa partida já terminou.' : 'Essa partida já tem dois jogadores.'} />
       ) : (
