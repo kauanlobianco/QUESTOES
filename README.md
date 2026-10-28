@@ -1,59 +1,101 @@
-# Mestre dos Negócios — Banco de Questões
+# Mestre dos Negócios
 
-Banco de questões do jogo de trivia de Administração (estilo Perguntados, com a pegada de feedback do Duolingo).
-**347 questões** em 6 áreas, todas no mesmo padrão "modo jogo": situação do dia a dia, pergunta direta, 4 alternativas e feedback que ensina.
-
-## Para o app
+Jogo de perguntas 1v1 por turnos sobre Administração — versão web do jogo físico, no estilo Perguntados, com feedback que ensina na hora (estilo Duolingo).
+Gire a roleta, acerte perguntas das 6 áreas, conquiste os 6 personagens e desafie o rival em duelos.
 
 | | |
 |---|---|
-| **Banco final** | [`banco-final/banco-questoes.json`](banco-final/banco-questoes.json) — o arquivo que vai para o aplicativo |
-| **Formato** | [`schema/questao.schema.json`](schema/questao.schema.json) (JSON Schema) · explicação em [`docs/02-SCHEMA.md`](docs/02-SCHEMA.md) |
-| **Resumo** | [`docs/08-BANCO-FINAL.md`](docs/08-BANCO-FINAL.md) — tabela por área, mecânica e dificuldade |
-| **Jogar no navegador** | [`preview_quiz.html`](preview_quiz.html) — baixe e abra; filtros por área, mecânica e dificuldade, timer e "Eliminar 2" |
+| **Jogo** | React + Vite, engine pura em TypeScript, modo online com Supabase e Vercel |
+| **Banco de questões** | [`banco-questoes/`](banco-questoes/) — 347 questões em 6 áreas, no padrão "modo jogo" |
+| **Plano técnico** | [`docs/PLANO_TECNICO.md`](docs/PLANO_TECNICO.md) |
 
-| Área | Total | Duelo | Giro | Coroa | Desempate |
-|---|---|---|---|---|---|
-| Empreendedorismo | 58 | 23 | 23 | 12 | 0 |
-| Estratégia | 57 | 25 | 21 | 11 | 0 |
-| Finanças | 58 | 34 | 12 | 12 | 0 |
-| Liderança | 58 | 24 | 22 | 12 | 0 |
-| Marketing | 56 | 23 | 22 | 11 | 0 |
-| Operações | 60 | 25 | 21 | 12 | 2 |
-| **Total** | **347** | 154 | 99 | 70 | 2 |
+## Comandos
 
-## Estrutura do repositório
+| Comando | O que faz |
+|---|---|
+| `npm run dev` | Servidor local em http://localhost:5173 (modo hot-seat: dois jogadores no mesmo aparelho) |
+| `npm test` | Testes: engine, API e SQL (RLS) num Postgres embutido |
+| `npm run lint` | ESLint + checagem de tipos |
+| `npm run build` | Build de produção + checagem de que o gabarito não vazou no bundle |
+| `npm run questions` | `banco-questoes/banco-final/banco-questoes.json` → `server/questions.json` (valida o banco) |
+| `npm run e2e:online` | Teste ponta a ponta do modo online (precisa de `npm run dev` e Supabase rodando) |
+| `npm run images` | Gera WebP em `src/assets/` a partir de `MESTRE DOS NEGÓCIOS.zip` (material do jogo físico, fora do repositório) |
+
+## Estrutura
 
 ```
-banco-final/      banco único para o app (gerado — não editar à mão)
-lotes/            lotes de trabalho: base refatorada (300) e lote piloto (47)
-base-original/    questões do jogo físico + refatorações compactas por área (fonte da base)
-schema/           JSON Schema da questão
-scripts/          montar, validar e gerar o preview
-docs/             áreas, schema, protocolo, guia do modo jogo, revisões e plano
-playtest/         playtest com personas (professora, jogador, calouro)
+src/engine/       regras puras (reduce, settle, toPublicView) + testes
+src/game/         GameClient: local (hot-seat, só em dev) e remoto (Supabase + /api/game)
+src/screens/      Home e Partida (roleta, pergunta, coroa, duelo, fim)
+src/ui/           componentes visuais (roleta, painel do jogador, fichas)
+src/content/      nomes, cores e imagens das áreas
+src/assets/       personagens e fichas em WebP
+server/           lógica da API + banco normalizado com gabarito (nunca importar em src/)
+api/game.ts       Vercel Function que expõe server/http.ts
+supabase/         config local, migrations (tabelas, RLS, funções) e teste do SQL
+scripts/          normalização de perguntas, otimização de imagens, checagens
+banco-questoes/   criação e revisão das questões (fonte do banco do jogo)
+docs/             plano técnico, mecânica de referência e arquitetura
 ```
 
-## Como atualizar
+## Banco de questões
 
-Edite as questões em `base-original/refatoradas/*.json` (base) ou `lotes/lote-00-piloto.json` (piloto) e rode:
+As questões são escritas e revisadas em [`banco-questoes/`](banco-questoes/) (ver o [README de lá](banco-questoes/README.md)).
+O jogo usa o banco final, e o fluxo para atualizar é:
 
 ```bash
-python scripts/montar_base.py          # expande a base refatorada -> lotes/lote-base-original.json
-python scripts/montar_banco_final.py   # junta tudo -> banco-final/banco-questoes.json
-python scripts/validar.py banco-final/banco-questoes.json   # deve dar 0 erros e 0 avisos
-python scripts/gerar_preview.py        # atualiza preview_quiz.html
+cd banco-questoes
+python scripts/montar_base.py && python scripts/montar_banco_final.py
+python scripts/validar.py banco-final/banco-questoes.json   # 0 erros, 0 avisos
+cd .. && npm run questions                                  # gera server/questions.json para o jogo
 ```
 
-## Documentação
+O que o jogo usa de cada questão:
 
-| Documento | Conteúdo |
+| No banco | No jogo |
 |---|---|
-| [`docs/01-AREAS.md`](docs/01-AREAS.md) | As 6 áreas da roleta e onde entra cada matéria |
-| [`docs/02-SCHEMA.md`](docs/02-SCHEMA.md) | Padrão de 4 alternativas, mecânicas e regras do validador |
-| [`docs/03-PROTOCOLO.md`](docs/03-PROTOCOLO.md) | Passo a passo de criação e revisão de questões |
-| [`docs/07-GUIA-MODO-JOGO.md`](docs/07-GUIA-MODO-JOGO.md) | Limites de texto, conta de cabeça e formatos que funcionam no timer |
-| [`docs/08-BANCO-FINAL.md`](docs/08-BANCO-FINAL.md) | Resumo do banco final |
-| [`docs/04-REVISAO-LOTE-00.md`](docs/04-REVISAO-LOTE-00.md) · [`docs/06-REVISAO-BASE-ORIGINAL.md`](docs/06-REVISAO-BASE-ORIGINAL.md) | Histórico de revisões |
-| [`docs/05-PLANO-DE-LOTES.md`](docs/05-PLANO-DE-LOTES.md) | Plano dos próximos lotes |
-| [`playtest/RELATORIO-PLAYTEST.md`](playtest/RELATORIO-PLAYTEST.md) | Resultado do playtest com personas |
+| `mecanicas` (Giro, Coroa, Duelo) e `tempo_seg` | Pergunta normal = Giro (30 s), coroa = Coroa (45 s), duelo = Duelo (20 s) |
+| `cenario` (título + texto) | Caso curto acima do enunciado |
+| `dificuldade` | Etiqueta Fácil / Média / Difícil na pergunta |
+| `areas_secundarias` | Etiquetas "+ Área" nas questões interdisciplinares |
+| `feedback.curto`, feedback por alternativa, `feedback.explicacao` | Feedback depois da resposta: por que errou, a ideia certa e o "Saiba mais" |
+| XP do banco (Giro 10, Duelo 15, Coroa 30) | XP por acerto, mostrado na resposta, no placar e no fim da partida (`RULES.xpFor`) |
+| `tipo: numerico` (desempate) | Ainda não usado: o desempate do duelo é por tempo |
+
+## Engine
+
+```ts
+import { createMatch, reduce, settle, toPublicView } from './src/engine'
+
+let state = createMatch({ id, code, creatorId, creatorName, now })
+const r = reduce(state, { type: 'SPIN', by: creatorId }, { now, rng, bank })
+state = r.state            // r.spin, r.reveal, r.events para a UI
+toPublicView(state, bank)  // seguro para enviar ao cliente
+```
+
+Comandos: `JOIN`, `SPIN`, `ANSWER`, `CHOOSE_CROWN`, `START_DUEL`, `DUEL_NEXT`, `RESIGN`.
+Balanceamento em [src/engine/rules.ts](src/engine/rules.ts).
+
+## Modo online (Supabase)
+
+Arquitetura: o navegador entra com login anônimo do Supabase, envia jogadas para `POST /api/game`
+(que roda a engine com a service role) e recebe as jogadas do rival por Realtime na tabela `matches`.
+O gabarito e o estado completo (`match_state`) nunca saem do servidor.
+
+### Opção A — Supabase local (precisa do Docker Desktop aberto)
+
+```bash
+npx supabase start
+```
+
+O comando aplica `supabase/migrations/` e mostra `API URL`, `anon key` e `service_role key`.
+Copie para `.env.local` (modelo em `.env.example`) e rode `npm run dev`.
+
+### Opção B — Projeto na nuvem (supabase.com, plano grátis, região São Paulo)
+
+1. Crie o projeto.
+2. **SQL Editor**: cole e rode `supabase/migrations/20261027000000_matches.sql`.
+3. **Authentication → Sign In / Providers**: ative *Allow anonymous sign-ins*.
+4. **Project Settings → API**: copie URL, anon key e service_role key para `.env.local`.
+
+> `.env.local` nunca vai para o repositório (está no `.gitignore`).

@@ -1,0 +1,46 @@
+@import 'tailwindcss';
+
+/* Paleta e tipografia do jogo físico Mestre dos Negócios. */
+@theme static {
+  --color-empreendedorismo: #8b5cf6;
+  --color-empreendedorismo-deep: #5b21b6;
+  --color-empreendedorismo-soft: #f3eeff;
+  --color-marketing: #ec4899;
+  --color-marketing-deep: #9d174d;
+  --color-marketing-soft: #fdeef6;
+  --color-financas: #16a34a;
+  --color-financas-deep: #14532d;
+  --color-financas-soft: #e8f8ed;
+  --color-operacoes: #2563eb;
+  --color-operacoes-deep: #1e3a8a;
+  --color-operacoes-soft: #e6eeff;
+  --color-lideranca: #f97316;
+  --color-lideranca-deep: #9a3412;
+  --color-lideranca-soft: #fff0e0;
+  --color-estrategia: #eab308;
+  --color-estrategia-deep: #854d0e;
+  --color-estrategia-soft: #fdf6cf;
+  --color-coringa: #1e293b;
+  --color-coringa-deep: #0b1220;
+  --color-coringa-gold: #fbbf24;
+  --color-ink: #15171c;
+  --color-ink-soft: #4a4f5c;
+  --color-paper: #faf9f7;
+
+  --font-display: 'Fredoka', ui-rounded, system-ui, sans-serif;
+  --font-body: 'Nunito', system-ui, sans-serif;
+}
+
+html,
+body,
+#root {
+  min-height: 100dvh;
+}
+
+body {
+  margin: 0;
+  background: var(--color-coringa);
+  color: var(--color-paper);
+  font-family: var(--font-body);
+  -webkit-tap-highlight-color: transparent;
+}

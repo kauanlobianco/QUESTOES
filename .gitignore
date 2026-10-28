@@ -1,3 +1,18 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+!.env.example
+.vercel/
+
+# Material de referência (fora do repositório)
+ALVO.apkm
+rea-main/
+rea-main.zip
+MESTRE DOS NEGÓCIOS.zip
+
+# Banco de questões (Python)
 __pycache__/
 *.pyc
 .DS_Store
