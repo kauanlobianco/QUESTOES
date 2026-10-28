@@ -1,4 +1,4 @@
-import type { AREAS } from './rules'
+import type { AREAS } from './rules.js'
 
 export type Area = (typeof AREAS)[number]
 export type Slice = Area | 'coringa'

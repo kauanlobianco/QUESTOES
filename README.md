@@ -19,6 +19,7 @@ Gire a roleta, acerte perguntas das 6 áreas, conquiste os 6 personagens e desaf
 | `npm run build` | Build de produção + checagem de que o gabarito não vazou no bundle |
 | `npm run questions` | `banco-questoes/banco-final/banco-questoes.json` → `server/questions.json` (valida o banco) |
 | `npm run e2e:online` | Teste ponta a ponta do modo online (precisa de `npm run dev` e Supabase rodando) |
+| `npm run e2e:ui` | Playwright: dois navegadores jogam uma partida completa pela interface, com duelo e revanche (precisa do Supabase rodando; `npx playwright install chromium` na primeira vez) |
 | `npm run images` | Gera WebP em `src/assets/` a partir de `MESTRE DOS NEGÓCIOS.zip` (material do jogo físico, fora do repositório) |
 | `npm run icons` | Gera os ícones do app (PWA, favicon, iOS) em `public/icons/` |
 
@@ -101,3 +102,22 @@ Copie para `.env.local` (modelo em `.env.example`) e rode `npm run dev`.
 4. **Project Settings → API**: copie URL, anon key e service_role key para `.env.local`.
 
 > `.env.local` nunca vai para o repositório (está no `.gitignore`).
+
+## Produção
+
+| | |
+|---|---|
+| **Site** | https://mestre-dos-negocios.vercel.app (Vercel, função em `gru1`) |
+| **Banco** | Supabase `mestre-dos-negocios` (`schenoygphztnflckxxs`, São Paulo) |
+| **Publicar** | Cada push na `main` publica sozinho (Vercel ligada ao GitHub) |
+| **Variáveis na Vercel** | `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY` (públicas) e `SUPABASE_SERVICE_ROLE_KEY` (secreta) |
+
+Migration nova: `npx supabase db push` (com o projeto ligado via `npx supabase link`).
+Para rodar os testes contra produção, guarde as chaves da nuvem em `.env.cloud.local` (fora do git) e use:
+
+```bash
+E2E_ENV_FILE=.env.cloud.local node scripts/e2e-online.mjs https://mestre-dos-negocios.vercel.app
+E2E_BASE_URL=https://mestre-dos-negocios.vercel.app npm run e2e:ui
+```
+
+> Plano grátis do Supabase pausa o projeto depois de 7 dias sem uso. Antes de cada rodada de playtest, confira no painel se ele está ativo.

@@ -1,5 +1,5 @@
-import { createBank, type Question, type QuestionBank } from '../src/engine'
-import questions from './questions.json'
+import { createBank, type Question, type QuestionBank } from '../src/engine/index.js'
+import questions from './questions.json' with { type: 'json' }
 
 let bank: QuestionBank | null = null
 

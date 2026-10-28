@@ -1,6 +1,6 @@
-import { ERROR_MESSAGES, type ApiErrorBody, type ApiErrorCode } from '../src/game/protocol'
-import { ApiError, type GameService } from './service'
-import { parseApiRequest } from './validate'
+import { ERROR_MESSAGES, type ApiErrorBody, type ApiErrorCode } from '../src/game/protocol.js'
+import { ApiError, type GameService } from './service.js'
+import { parseApiRequest } from './validate.js'
 
 /** Descobre o usuário a partir do token da sessão. null = token inválido. */
 export type VerifyUser = (token: string) => Promise<string | null>

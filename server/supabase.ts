@@ -1,10 +1,10 @@
 // Adaptadores de produção: repositório e verificação de sessão via Supabase.
 import { createClient, type SupabaseClient } from '@supabase/supabase-js'
-import type { MatchState, MatchView } from '../src/engine'
-import { createBankFromFile } from './bank'
-import type { HttpDeps } from './http'
-import type { MatchRepo, StoredMatch } from './repo'
-import { createGameService } from './service'
+import type { MatchState, MatchView } from '../src/engine/index.js'
+import { createBankFromFile } from './bank.js'
+import type { HttpDeps } from './http.js'
+import type { MatchRepo, StoredMatch } from './repo.js'
+import { createGameService } from './service.js'
 
 export function supabaseRepo(db: SupabaseClient): MatchRepo {
   const columns = (state: MatchState, view: MatchView) => ({

@@ -1,8 +1,8 @@
-export * from './types'
-export { AREAS, RULES } from './rules'
-export { GameError, type GameErrorCode } from './errors'
-export { createBank, getQuestion, pickQuestion, pickDuelQuestions } from './questions'
-export { seededRng } from './rng'
+export * from './types.js'
+export { AREAS, RULES } from './rules.js'
+export { GameError, type GameErrorCode } from './errors.js'
+export { createBank, getQuestion, pickQuestion, pickDuelQuestions } from './questions.js'
+export { seededRng } from './rng.js'
 export {
   SLICES,
   createMatch,
@@ -14,5 +14,5 @@ export {
   playerNoOf,
   reduce,
   settle,
-} from './reducer'
-export { toPublicView, type MatchView, type PublicDuel, type PublicQuestion } from './view'
+} from './reducer.js'
+export { toPublicView, type MatchView, type PublicDuel, type PublicQuestion } from './view.js'

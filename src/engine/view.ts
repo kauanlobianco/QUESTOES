@@ -1,5 +1,5 @@
-import { getQuestion } from './questions'
-import { RULES } from './rules'
+import { getQuestion } from './questions.js'
+import { RULES } from './rules.js'
 import type {
   Area,
   CrownCause,
@@ -15,7 +15,7 @@ import type {
   QuestionKind,
   RematchLink,
   Slice,
-} from './types'
+} from './types.js'
 
 /** Pergunta como o cliente a vê: sem gabarito. */
 export interface PublicQuestion {

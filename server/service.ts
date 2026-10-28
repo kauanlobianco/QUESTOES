@@ -14,10 +14,10 @@ import {
   type MatchState,
   type QuestionBank,
   type ReduceResult,
-} from '../src/engine'
-import { newInviteCode } from '../src/game/ids'
-import type { ApiErrorCode, ApiResult, ClientCommand, InvitePeek } from '../src/game/protocol'
-import type { MatchRepo, StoredMatch } from './repo'
+} from '../src/engine/index.js'
+import { newInviteCode } from '../src/game/ids.js'
+import type { ApiErrorCode, ApiResult, ClientCommand, InvitePeek } from '../src/game/protocol.js'
+import type { MatchRepo, StoredMatch } from './repo.js'
 
 export class ApiError extends Error {
   readonly code: ApiErrorCode

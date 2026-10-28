@@ -9,11 +9,12 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "lint": "eslint . && tsc",
+    "lint": "eslint . && tsc && tsc -p tsconfig.api.json",
     "questions": "node scripts/normalize-questions.mjs",
     "images": "python -I scripts/optimize-images.py",
     "icons": "python -I scripts/make-icons.py",
-    "e2e:online": "node scripts/e2e-online.mjs"
+    "e2e:online": "node scripts/e2e-online.mjs",
+    "e2e:ui": "playwright test"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.118.0",
@@ -27,6 +28,7 @@
   "devDependencies": {
     "@electric-sql/pglite": "^0.5.12",
     "@eslint/js": "^10.0.1",
+    "@playwright/test": "^1.64.1",
     "@tailwindcss/vite": "^4.3.3",
     "@types/canvas-confetti": "^1.9.0",
     "@types/node": "^26.6.5",
