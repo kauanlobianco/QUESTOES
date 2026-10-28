@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80" fill="none" overflow="visible" class="mascot" data-character="estrategia">
+  <ellipse class="m-shadow" cx="39.6" cy="58.4" rx="7.5" ry="1.15" fill="#000" opacity=".22" style="transform-origin:39.6px 58.4px"/>
+  <g class="m-root" style="transform-origin:39.6px 58.2px">
+    <g class="m-body" style="transform-origin:39.6px 58.2px">
+      <g class="m-legs">
+        <g class="m-leg-l" style="transform-origin:36.4px 50.2px">
+          <path d="m36.06 49.96-1.06 6.98-1.72 0.62c-0.24 0.09-0.37 0.33-0.3 0.56 0.08 0.23 0.34 0.34 0.58 0.26l1.98-0.7c0.18-0.06 0.31-0.22 0.33-0.41l0.97-6.93-0.78-0.38z" fill="#F2BC03"/>
+        </g>
+        <g class="m-leg-r" style="transform-origin:42.5px 50.2px">
+          <path d="m42.91 49.96 0.94 6.98 1.69 0.61c0.23 0.09 0.36 0.34 0.29 0.56-0.07 0.23-0.33 0.35-0.57 0.27l-1.94-0.69c-0.18-0.06-0.3-0.22-0.32-0.41l-0.98-6.94 0.89-0.38z" fill="#F2BC03"/>
+        </g>
+      </g>
+      <g class="m-upper" style="transform-origin:40px 50px">
+        <g class="m-quiver" style="transform-origin:27.6px 37.6px">
+          <path d="m27.05 37.91-2.43-2.57c-0.13-0.14-0.12-0.36 0.02-0.49l2.24-2.26c0.11-0.11 0.29-0.11 0.4 0l0.74 0.78-0.97 4.54z" fill="#7A462A"/>
+          <g class="m-quiver-arrows" style="transform-origin:25.6px 33.4px">
+            <path d="m24.64 30.09-0.05 0.85-0.34-0.15-0.31 0.3-0.06 0.6-0.47 0.08-0.52 0.09 0.26 0.57-1.11 0.16 1.27 1.3 0.94 0.05 0.47 0.44 0.47-0.23 0.71-0.7 0.34-0.51-0.29-0.53-0.01-1.09-1.3-1.23z" fill="#C58458"/>
+            <path d="m24.09 30.95 1.82 1.87" stroke="#7A462A" stroke-width=".2423"/>
+            <path d="m23.38 31.76 1.84 1.81" stroke="#7A462A" stroke-width=".2423"/>
+            <path d="m22.62 32.49 1.57 1.4" stroke="#7A462A" stroke-width=".2423"/>
+            <path d="m25.35 32.66-0.21 0.22 0.79 0.83 0.38-0.37-0.65-0.72-0.31 0.04z" fill="#000"/>
+            <path d="m24.68 33.18-0.2 0.29 0.69 0.82 0.43-0.41-0.67-0.7h-0.25z" fill="#000"/>
+          </g>
+        </g>
+        <g class="m-torso">
+          <circle cx="40.13" cy="38.02" r="12.71" fill="#F2BC03"/>
+          <g class="m-rings" style="transform-origin:40.2px 38.02px">
+            <ellipse cx="40.23" cy="38.02" rx="9.992" ry="10.47" fill="#FCFCFC"/>
+            <ellipse cx="40.2" cy="38.02" rx="7.908" ry="8.216" fill="#F2BC03"/>
+            <ellipse cx="40.2" cy="38.06" rx="5.492" ry="5.812" fill="#FCFCFC"/>
+          </g>
+          <path d="m30.35 46.45c1.53 1.84 3.8 3.25 5.86 3.77l0.06-0.45c-2.07-0.81-4.3-2.47-5.7-4.3l-0.22 0.98z" fill="#000" opacity=".2"/>
+        </g>
+        <g class="m-arm-l" style="transform-origin:28.2px 40px">
+          <path d="m27.29 39.16c-1.73 1.16-3.51 2.7-3.51 4.07 0 1.88 3.26 2.35 4.88 2.46l1.33 0.59 0.44-1.16-1.02-0.33c-1.9-0.06-4.76-0.6-4.76-1.59s1.7-2.44 2.92-3.15l-0.28-0.89z" fill="#F2BC03"/>
+          <path d="m29.5 44.02-0.94 0.24 0.24 0.62 1.62 0.4-0.92-1.26z" fill="#DEAF0C"/>
+          <path d="m28.93 44.88c-0.43 0.06-0.59 0.6-0.33 1.01-0.43 0.27-0.45 0.72-0.09 0.9-0.14 0.46 0.18 0.93 0.76 0.75 0.56-0.29 1.23-0.89 1.26-1.68 0-0.61-0.98-1.06-1.6-0.98z" fill="#F2BC03"/>
+        </g>
+        <g class="m-face" style="transform-origin:40.2px 38px">
+          <g class="m-brows">
+            <g class="m-brow-l" style="transform-origin:38.35px 34.7px">
+              <path d="m37.28 34.49 2.14 0.45" stroke="#3F200D" stroke-linecap="round" stroke-width=".4425"/>
+            </g>
+            <g class="m-brow-r" style="transform-origin:42.6px 33.5px">
+              <path d="m41.46 33.97c0.63-0.81 1.6-1.01 2.24-0.44" stroke="#3F200D" stroke-linecap="round" stroke-width=".4114"/>
+            </g>
+          </g>
+          <g class="m-look">
+            <g class="m-eyes">
+              <g class="m-eye-l" style="transform-origin:38.57px 36.81px"><rect x="37.98" y="35.35" width="1.186" height="2.914" rx=".5931" fill="#000"/></g>
+              <g class="m-eye-r" style="transform-origin:42.38px 36.7px"><rect x="41.74" y="34.99" width="1.283" height="3.423" rx=".5771" fill="#000"/></g>
+            </g>
+            <g class="m-eyes-happy" stroke="#000" stroke-width=".7" stroke-linecap="round">
+              <path d="M37.6 37.2Q38.57 35.5 39.55 37.2"/>
+              <path d="M41.4 37.1Q42.38 35.4 43.35 37.1"/>
+            </g>
+          </g>
+          <g class="m-mouth" style="transform-origin:39.5px 39.8px">
+            <g class="m-mouth-idle">
+              <path d="m36.88 38.99c1.32 1.52 3.61 1.95 5.33 1.39 0.12-0.03 0.11 0.11 0.02 0.16-1.75 0.94-4.34 0.21-5.46-1.32l0.11-0.23z" fill="#3F200D"/>
+              <path d="m36.51 39.6c0.08-0.47 0.52-0.69 0.97-0.74 0.15-0.02 0.16-0.22 0-0.24-0.7-0.14-1.19 0.32-1.13 0.89 0.01 0.15 0.14 0.2 0.16 0.09z" fill="#3F200D"/>
+            </g>
+            <g class="m-mouth-happy">
+              <path d="M36.9 39C38.8 40 41.2 40 42.7 39.1C42.4 42 37.6 42.4 36.9 39Z" fill="#3F200D"/>
+              <path d="M38.5 41C39.4 40.5 40.6 40.5 41.4 40.9C40.5 41.6 39.4 41.6 38.5 41Z" fill="#E95B5B"/>
+            </g>
+            <g class="m-mouth-sad">
+              <path d="M37.6 41.1C38.9 39.7 41.1 39.7 42.3 40.9" stroke="#3F200D" stroke-linecap="round" stroke-width=".5"/>
+            </g>
+            <g class="m-mouth-o">
+              <ellipse cx="39.7" cy="40.2" rx=".8" ry="1" fill="#3F200D"/>
+            </g>
+          </g>
+        </g>
+        <g class="m-arrow" style="transform-origin:45.5px 30.6px">
+          <path d="m52.98 20.55-0.91 0.95-0.09 1.36-0.28-1.05-1.15 1.28 0.05 1.88 0.42 0.46h1.91l1.16-1.21-0.9-0.35 1.32-0.02 0.87-0.96-1.97-0.06-0.43-2.28z" fill="#F22438"/>
+          <path d="m53.49 22.46-8.12 7.87c-0.16 0.17-0.18 0.41-0.03 0.53 0.15 0.15 0.41 0.11 0.56-0.04l7.88-8.08c0.14-0.16 0.13-0.39 0.01-0.52-0.1-0.11-0.21 0.11-0.3 0.24z" fill="#7A462A"/>
+        </g>
+        <g class="m-arm-r" style="transform-origin:51.3px 43.6px">
+          <path d="m51.25 43.25c0.94 1.75 2.33 3.59 3.5 4.67l-0.45 0.8c-1.31-1.2-2.86-3.25-3.65-4.78l0.6-0.69z" fill="#F2BC03"/>
+          <g class="m-bow" style="transform-origin:55px 48.6px">
+            <path d="m57.24 39.91-10.48 12.7c-0.72 0.37-1.11 1.09-1.01 1.73 0.03 0.19 0.28 0.22 0.3 0.05 0.13-0.91 0.88-1.43 1.98-1.43 2.36 0.09 4.63-0.81 6.56-2.73 2.5-2.42 3.63-5.54 3.34-8.05-0.34-1.79-0.38-2.93 0.78-3.34 0.16-0.07 0.1-0.28-0.14-0.28-0.66 0-1.19 0.6-1.330 1.35zm0.07 2c0.16 2.14-1.07 4.7-2.88 6.88-1.88 2.3-4.65 3.52-7.16 3.6l9.9-12.06c0.07 0.53 0.13 1.18 0.14 1.58z" fill="#8A5230"/>
+            <path d="m57.21 40.05-10.29 12.53" stroke="#C58A5F" stroke-width=".2281"/>
+          </g>
+          <path d="m54.78 47.5-0.74 0.97c-0.21 0.28-0.16 0.68 0.13 0.88l0.76-0.01 0.91-1.09c0.39-0.74-0.52-1.32-1.06-0.75z" fill="#F5C108"/>
+          <path d="m55.49 48.31-1.1 0.94c-0.23 0.21-0.24 0.6 0 0.87 0.23 0.26 0.67 0.24 0.91 0.03l0.93-0.88c0.44-0.51-0.13-1.15-0.74-0.96z" fill="#F5C108"/>
+          <path d="m55.14 48.15-0.74 0.95" stroke="#B8762A" stroke-linecap="round" stroke-width=".2281"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="m-fx"></g>
+</svg>

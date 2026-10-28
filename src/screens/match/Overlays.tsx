@@ -7,6 +7,7 @@ import { Ficha } from '../../ui/Ficha'
 import { burst } from '../../ui/confetti'
 import { play, vibrate } from '../../ui/feedback'
 import { SwordsIcon } from '../../ui/icons'
+import { Mascot } from '../../ui/Mascot'
 import { PLAYER_ACCENT } from '../../ui/theme'
 
 /** Momento de destaque mostrado entre uma jogada e a próxima tela. */
@@ -42,14 +43,13 @@ export function CrownWonOverlay({ view, player, area, onDone }: { view: MatchVie
   }, [info.hex])
   return (
     <Shell background={`radial-gradient(circle at 50% 40%, ${info.color} 0%, var(--color-${area}-deep) 70%)`}>
-      <motion.img
-        src={info.hero}
-        alt={info.name}
-        className="h-[38vh] max-h-80 object-contain drop-shadow-2xl"
+      <motion.div
         initial={{ scale: 0.2, rotate: -12, opacity: 0 }}
         animate={{ scale: 1, rotate: 0, opacity: 1 }}
         transition={{ type: 'spring', stiffness: 220, damping: 14 }}
-      />
+      >
+        <Mascot area={area} label={info.name} intro="celebrate" introDelay={350} className="aspect-square h-[38vh] max-h-80" />
+      </motion.div>
       <div>
         <p className="font-display text-lg text-white/85">{view.players[player]?.name} conquistou</p>
         <h2 className="font-display text-4xl font-bold">{info.name}!</h2>

@@ -1,4 +1,6 @@
-"""Gera os WebP do jogo a partir do zip original do jogo físico.
+"""Gera os WebP das fichas a partir do zip original do jogo físico.
+
+Os personagens de corpo inteiro são SVGs animados em src/mascots/svg (não saem deste script).
 
 Uso: npm run images  (espera "MESTRE DOS NEGÓCIOS.zip" na raiz do projeto)
 """
@@ -13,8 +15,6 @@ ROOT = Path(__file__).resolve().parent.parent
 ZIP = ROOT / "MESTRE DOS NEGÓCIOS.zip"
 OUT = ROOT / "src" / "assets"
 
-HEROES = ["empreendedorismo", "marketing", "financas", "operacoes", "lideranca", "estrategia"]
-
 # Fichas numeradas no físico; mapeadas pelo personagem desenhado em cada uma.
 FICHAS = {
     "ficha-1": "financas",
@@ -25,7 +25,6 @@ FICHAS = {
     "ficha-6": "marketing",
 }
 
-HERO_MAX = 640
 FICHA_SIZE = 256
 FICHA_TRIM = 0.035
 
@@ -41,11 +40,6 @@ def main() -> int:
         print(f"Zip não encontrado: {ZIP}", file=sys.stderr)
         return 1
     with zipfile.ZipFile(ZIP) as z:
-        for area in HEROES:
-            img = Image.open(io.BytesIO(z.read(f"uploads/hero-{area}.png"))).convert("RGBA")
-            img = img.crop(img.getbbox())
-            img.thumbnail((HERO_MAX, HERO_MAX), Image.LANCZOS)
-            save(img, OUT / "heroes" / f"{area}.webp")
         for name, area in FICHAS.items():
             img = Image.open(io.BytesIO(z.read(f"uploads/{name}.png"))).convert("RGBA")
             img = img.crop(img.getbbox())

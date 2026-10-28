@@ -1,13 +1,13 @@
 import { useEffect, useState, type FormEvent } from 'react'
 import { Link, useNavigate, useParams } from 'react-router'
 import { AREAS } from '../engine'
-import { AREA_INFO } from '../content/areas'
 import { ClientError } from '../game/client'
 import { useClients } from '../game/GameClientContext'
 import { MAX_NAME_LENGTH, type InvitePeek } from '../game/protocol'
 import { loadNickname, saveNickname } from '../game/nickname'
 import { Button } from '../ui/Button'
 import { Loading } from '../ui/Loading'
+import { Mascot } from '../ui/Mascot'
 
 /** /p/:code — quem recebe o link aceita o desafio aqui. */
 export function JoinScreen() {
@@ -47,9 +47,9 @@ export function JoinScreen() {
 
   return (
     <main className="mx-auto flex min-h-dvh max-w-md flex-col items-center justify-center gap-6 px-4 py-8 text-center">
-      <div className="flex -space-x-4">
-        {AREAS.map((a) => (
-          <img key={a} src={AREA_INFO[a].hero} alt="" className="h-16 object-contain drop-shadow-lg" />
+      <div className="flex -space-x-[min(4vw,16px)]">
+        {AREAS.map((a, i) => (
+          <Mascot key={a} area={a} className="size-[min(16vw,64px)]" intro="enter" introDelay={i * 90} />
         ))}
       </div>
 
